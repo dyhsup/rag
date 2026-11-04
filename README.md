@@ -1,50 +1,63 @@
-# RAG Query–证据语义不匹配 调研
+# RAG Query–证据语义 gap：调研、测量与消除
 
-本目录是一次围绕 **"RAG 中 query 与检索证据语义不匹配"** 的文献调研产物：23 篇 arXiv 论文的 PDF、Markdown 解析文本、元数据，以及两份中文综述文档。
+围绕 **"RAG 中 query 与检索证据的语义 gap"** 的完整工作：文献调研 → 机制验证 → 规模化实验 → 方法。
 
 ## 先读什么
 
-| 文件 | 内容 |
+| 文档 | 内容 |
 |---|---|
-| [`HANDOVER.md`](HANDOVER.md) | **交接文档**：环境约束、已完成/未完成、研究方案（SALR）、实验协议、从零搭建步骤、Prompt/Schema、已知坑 |
-| [`survey.md`](survey.md) | 主综述：问题界定（四类失配）、方法分类、对比表、实验证据、规律、评测、开放问题 |
-| [`top10.md`](top10.md) | 引用最高的 10 篇论文逐篇精读（方法、实验数字、局限、工程启示） |
-| [`papers.csv`](papers.csv) | 23 篇论文的元数据：arXiv ID、标题、年份、OpenAlex 引用数、文件路径 |
-| `papers/` | 原始 PDF（28 MB） |
-| `markdown/` | PyMuPDF4LLM 解析的 Markdown（含标题、表格、公式文本） |
-| `scripts/` | 可复现脚本：`enrich_cites.py`（引用数校准）、`add_curated.py`（补充经典论文）、`download_parse.py`（下载+解析） |
+| [`docs/01_PROCESS.md`](docs/01_PROCESS.md) | **过程记录**：按时间顺序的全部实验、决策、13 个 bug 与修复、被推翻的结论 |
+| [`docs/02_PROJECT.md`](docs/02_PROJECT.md) | **项目文档**：背景、问题形式化、方法（PAG）、全部参数、目录与运行方式 |
+| [`docs/03_EXPERIMENTS.md`](docs/03_EXPERIMENTS.md) | **实验文档**：假设、设置、E0–E7 结果表、消融、失败分析、有效性威胁 |
+| [`RESEARCH_PLAN.md`](RESEARCH_PLAN.md) | 研究方向、与已有工作的边界、逐阶段结果 |
+| [`PILOT.md`](PILOT.md) | 20 题 pilot 的独立报告 |
+| [`HANDOVER.md`](HANDOVER.md) | 最初的交接文档（环境、调研方法、SALR 方案） |
+| [`survey.md`](survey.md) / [`top10.md`](top10.md) | 23 篇论文的综述与 Top10 精读 |
 
 ## 一句话结论
 
-query–证据不匹配有四层（词面、粒度、表示、证据有效性），对应四类方法：**生成式扩展（HyDE/Query2Doc）**、**改写与分解（Rewrite-Retrieve-Read/IRCoT）**、**索引侧扩展（doc2query）**、**检索后纠错与归因（CRAG/Self-RAG/RARR）**，外加**复杂度路由（Adaptive-RAG）**做性价比控制。
+语义 gap 在 chunk 级语料上占 **17.6%** 的检索失败（证据召回得到、但排不进 top-3）。它可分解为两个乘性因子：
 
-## Top 10（按 OpenAlex 引用数，2026-11-04）
+$$\text{gap 消除率}=\underbrace{0.674}_{\text{候选可达性}}\times\underbrace{0.734}_{\text{匹配能力}}=0.495$$
 
-1. Least-to-Most Prompting（388）
-2. HyDE（371）
-3. IRCoT（359）
-4. Self-Ask / Compositionality Gap（303）
-5. Rewrite-Retrieve-Read（276）
-6. Adaptive-RAG（264）
-7. Query2doc（220）
-8. doc2query（215）
-9. CRAG（187）
-10. RARR（148）
+- **可达性**：后几跳证据的召回从 0.915 掉到 0.538，因为查询里没有中间实体；绑定后回到 **0.89–0.97**。
+- **匹配能力**：查询侧改写只消除 **9.5%** 的 gap；现成 cross-encoder 消除 **35.8%**，LLM 判定 **49.5%**（可达子集 **73.4%**）。
 
-## 复现方式
+## 主要结果
 
-```bash
-export http_proxy="http://<user>:<pass>@<host>:<port>"
-export https_proxy="$http_proxy"
+| 实验 | 结果 |
+|---|---|
+| 端到端（MuSiQue，200 题） | ours **0.405 EM** vs IRCoT 0.330（Δ+0.075 [+0.020,+0.130]） |
+| 端到端（HotpotQA，200 题） | ours 0.675 vs IRCoT 0.660（Δ+0.015，打平） |
+| 2×2 消融 | 绑定 +0.14、CE 选证 +0.08，近乎可加；绑定单独只追平 IRCoT |
+| 绑定因果实验 | 召回 0.54–0.67 → **0.89–0.97**（同语料、同标签） |
+| 语义 gap 测量 | 17.6%（dense）/ 23.6%（BM25） |
+| gap 消除 | 改写 9.5% / 陈述句 31.6% / **CE 35.8%** / LLM 上界 49.5% |
 
-python3 scripts/enrich_cites.py       # OpenAlex 按标题校准引用数（可断点续跑）
-python3 scripts/add_curated.py        # 补入经典论文（按 arXiv ID 校验）
-python3 scripts/download_parse.py selected.json   # 下载 PDF + 转 Markdown
+## 代码
+
+```
+src/           实验代码（E0–E7）
+results/       全部原始结果（jsonl/json/md）
+data/raw/      MuSiQue / HotpotQA 题目缓存
+deploy/        cross-encoder 服务
+dist/e7/       GPU 训练包（蒸馏匹配器）
 ```
 
-## 说明与局限
+运行方式见 [`docs/02_PROJECT.md`](docs/02_PROJECT.md) §10。长任务均按题增量写盘，可断点续跑。
 
-- **引用数**来自 OpenAlex，普遍低于 Google Scholar（例如 HyDE 在 Google Scholar 上远高于 371），仅用于排序，不代表绝对影响力。
-- 检索词覆盖"hypothetical document / query rewriting / query expansion / decomposition / vocabulary mismatch / corrective RAG / self-reflection"等 15 组 arXiv 查询，共 288 个候选，再人工筛选到 23 篇；**不保证穷尽**，尤其是 2026 年下半年的新工作。
-- 各论文的数据集、底座模型不同，跨论文数字不可直接横向比较。
-- Markdown 由 PDF 自动解析，表格与公式可能有排版噪声；引用具体数字时请回看 PDF。
+## 局限
+
+- 仅英文 Wikipedia 两个数据集；2Wiki 镜像不可用。
+- 读者（top-3/top-8）是端到端上限。
+- E7 蒸馏结果待回传。
+- 理论只有经验曲线与草稿，没有正式命题。
+
+## 附：调研产物
+
+- `papers/`：23 篇 arXiv PDF（28 MB，未入 git）
+- `markdown/`：PyMuPDF4LLM 解析文本（未入 git）
+- `papers.csv` / `selected.json` / `candidates.json`：元数据与筛选记录
+- `scripts/`：引用数校准、补充经典论文、下载与解析
+
+引用数来自 OpenAlex（2026-11-04），普遍低于 Google Scholar，仅用于排序。
