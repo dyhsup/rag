@@ -1,0 +1,163 @@
+[
+ {
+  "id": "2205.10625v3",
+  "title": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models",
+  "year": "2022",
+  "cites": 388,
+  "abstract": "Chain-of-thought prompting has demonstrated remarkable performance on various natural language reasoning tasks. However, it tends to perform poorly on tasks which requires solving problems harder than the exemplars shown in the prompts. To overcome this challenge of easy-to-hard generalization, we propose a novel prompting strategy, least-to-most prompting. The key idea in this strategy is to break down a complex problem into a series of simpler subproblems and then solve them in sequence. Solving each subproblem is facilitated by the answers to previously solved subproblems. Our experimental results on tasks related to symbolic manipulation, compositional generalization, and math reasoning reveal that least-to-most prompting is capable of generalizing to more difficult problems than those seen in the prompts. A notable finding is that when the GPT-3 code-davinci-002 model is used with least-to-most prompting, it can solve the compositional generalization benchmark SCAN in any split (including length split) with an accuracy of at least 99% using just 14 exemplars, compared to only 16% accuracy with chain-of-thought prompting. This is particularly noteworthy because neural-symbolic models in the literature that specialize in solving SCAN are trained on the entire training set containing over 15,000 examples. We have included prompts for all the tasks in the Appendix."
+ },
+ {
+  "id": "2212.10496v1",
+  "title": "Precise Zero-Shot Dense Retrieval without Relevance Labels",
+  "year": "2022",
+  "cites": 371,
+  "abstract": "While dense retrieval has been shown effective and efficient across tasks and languages, it remains difficult to create effective fully zero-shot dense retrieval systems when no relevance label is available. In this paper, we recognize the difficulty of zero-shot learning and encoding relevance. Instead, we propose to pivot through Hypothetical Document Embeddings~(HyDE). Given a query, HyDE first zero-shot instructs an instruction-following language model (e.g. InstructGPT) to generate a hypothetical document. The document captures relevance patterns but is unreal and may contain false details. Then, an unsupervised contrastively learned encoder~(e.g. Contriever) encodes the document into an embedding vector. This vector identifies a neighborhood in the corpus embedding space, where similar real documents are retrieved based on vector similarity. This second step ground the generated document to the actual corpus, with the encoder's dense bottleneck filtering out the incorrect details. Our experiments show that HyDE significantly outperforms the state-of-the-art unsupervised dense retriever Contriever and shows strong performance comparable to fine-tuned retrievers, across various tasks (e.g. web search, QA, fact verification) and languages~(e.g. sw, ko, ja)."
+ },
+ {
+  "id": "2212.10509v2",
+  "title": "Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions",
+  "year": "2022",
+  "cites": 359,
+  "abstract": "Prompting-based large language models (LLMs) are surprisingly powerful at generating natural language reasoning steps or Chains-of-Thoughts (CoT) for multi-step question answering (QA). They struggle, however, when the necessary knowledge is either unavailable to the LLM or not up-to-date within its parameters. While using the question to retrieve relevant text from an external knowledge source helps LLMs, we observe that this one-step retrieve-and-read approach is insufficient for multi-step QA. Here, \\textit{what to retrieve} depends on \\textit{what has already been derived}, which in turn may depend on \\textit{what was previously retrieved}. To address this, we propose IRCoT, a new approach for multi-step QA that interleaves retrieval with steps (sentences) in a CoT, guiding the retrieval with CoT and in turn using retrieved results to improve CoT. Using IRCoT with GPT3 substantially improves retrieval (up to 21 points) as well as downstream QA (up to 15 points) on four datasets: HotpotQA, 2WikiMultihopQA, MuSiQue, and IIRC. We observe similar substantial gains in out-of-distribution (OOD) settings as well as with much smaller models such as Flan-T5-large without additional training. IRCoT reduces model hallucination, resulting in factually more accurate CoT reasoning. Code, data, and prompts are available at \\url{https://github.com/stonybrooknlp/ircot}"
+ },
+ {
+  "id": "2210.03350v3",
+  "title": "Measuring and Narrowing the Compositionality Gap in Language Models",
+  "year": "2022",
+  "cites": 303,
+  "abstract": "We investigate the ability of language models to perform compositional reasoning tasks where the overall solution depends on correctly composing the answers to sub-problems. We measure how often models can correctly answer all sub-problems but not generate the overall solution, a ratio we call the compositionality gap. We evaluate this ratio by asking multi-hop questions with answers that require composing multiple facts unlikely to have been observed together during pretraining. In the GPT-3 family of models, as model size increases we show that the single-hop question answering performance improves faster than the multi-hop performance does, therefore the compositionality gap does not decrease. This surprising result suggests that while more powerful models memorize and recall more factual knowledge, they show no corresponding improvement in their ability to perform this kind of compositional reasoning. We then demonstrate how elicitive prompting (such as chain of thought) narrows the compositionality gap by reasoning explicitly. We present a new method, self-ask, that further improves on chain of thought. In our method, the model explicitly asks itself (and answers) follow-up questions before answering the initial question. We finally show that self-ask's structured prompting lets us easily plug in a search engine to answer the follow-up questions, which additionally improves accuracy."
+ },
+ {
+  "id": "2305.14283v3",
+  "title": "Query Rewriting for Retrieval-Augmented Large Language Models",
+  "year": "2023",
+  "cites": 276,
+  "abstract": "Large Language Models (LLMs) play powerful, black-box readers in the retrieve-then-read pipeline, making remarkable progress in knowledge-intensive tasks. This work introduces a new framework, Rewrite-Retrieve-Read instead of the previous retrieve-then-read for the retrieval-augmented LLMs from the perspective of the query rewriting. Unlike prior studies focusing on adapting either the retriever or the reader, our approach pays attention to the adaptation of the search query itself, for there is inevitably a gap between the input text and the needed knowledge in retrieval. We first prompt an LLM to generate the query, then use a web search engine to retrieve contexts. Furthermore, to better align the query to the frozen modules, we propose a trainable scheme for our pipeline. A small language model is adopted as a trainable rewriter to cater to the black-box LLM reader. The rewriter is trained using the feedback of the LLM reader by reinforcement learning. Evaluation is conducted on downstream tasks, open-domain QA and multiple-choice QA. Experiments results show consistent performance improvement, indicating that our framework is proven effective and scalable, and brings a new framework for retrieval-augmented LLM."
+ },
+ {
+  "id": "2403.14403v2",
+  "title": "Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity",
+  "year": "2024",
+  "cites": 264,
+  "abstract": "Retrieval-Augmented Large Language Models (LLMs), which incorporate the non-parametric knowledge from external knowledge bases into LLMs, have emerged as a promising approach to enhancing response accuracy in several tasks, such as Question-Answering (QA). However, even though there are various approaches dealing with queries of different complexities, they either handle simple queries with unnecessary computational overhead or fail to adequately address complex multi-step queries; yet, not all user requests fall into only one of the simple or complex categories. In this work, we propose a novel adaptive QA framework, that can dynamically select the most suitable strategy for (retrieval-augmented) LLMs from the simplest to the most sophisticated ones based on the query complexity. Also, this selection process is operationalized with a classifier, which is a smaller LM trained to predict the complexity level of incoming queries with automatically collected labels, obtained from actual predicted outcomes of models and inherent inductive biases in datasets. This approach offers a balanced strategy, seamlessly adapting between the iterative and single-step retrieval-augmented LLMs, as well as the no-retrieval methods, in response to a range of query complexities. We validate our model on a set of open-domain QA datasets, covering multiple query complexities, and show that ours enhances the overall efficiency and accuracy of QA systems, compared to relevant baselines including the adaptive retrieval approaches. Code is available at: https://github.com/starsuzi/Adaptive-RAG."
+ },
+ {
+  "id": "2303.07678v2",
+  "title": "Query2doc: Query Expansion with Large Language Models",
+  "year": "2023",
+  "cites": 220,
+  "abstract": "This paper introduces a simple yet effective query expansion approach, denoted as query2doc, to improve both sparse and dense retrieval systems. The proposed method first generates pseudo-documents by few-shot prompting large language models (LLMs), and then expands the query with generated pseudo-documents. LLMs are trained on web-scale text corpora and are adept at knowledge memorization. The pseudo-documents from LLMs often contain highly relevant information that can aid in query disambiguation and guide the retrievers. Experimental results demonstrate that query2doc boosts the performance of BM25 by 3% to 15% on ad-hoc IR datasets, such as MS-MARCO and TREC DL, without any model fine-tuning. Furthermore, our method also benefits state-of-the-art dense retrievers in terms of both in-domain and out-of-domain results."
+ },
+ {
+  "id": "1904.08375v2",
+  "title": "Document Expansion by Query Prediction",
+  "year": "2019",
+  "cites": 215,
+  "abstract": "One technique to improve the retrieval effectiveness of a search engine is to expand documents with terms that are related or representative of the documents' content.From the perspective of a question answering system, this might comprise questions the document can potentially answer. Following this observation, we propose a simple method that predicts which queries will be issued for a given document and then expands it with those predictions with a vanilla sequence-to-sequence model, trained using datasets consisting of pairs of query and relevant documents. By combining our method with a highly-effective re-ranking component, we achieve the state of the art in two retrieval tasks. In a latency-critical regime, retrieval results alone (without re-ranking) approach the effectiveness of more computationally expensive neural re-rankers but are much faster."
+ },
+ {
+  "id": "2401.15884v3",
+  "title": "Corrective Retrieval Augmented Generation",
+  "year": "2024",
+  "cites": 187,
+  "abstract": "Large language models (LLMs) inevitably exhibit hallucinations since the accuracy of generated texts cannot be secured solely by the parametric knowledge they encapsulate. Although retrieval-augmented generation (RAG) is a practicable complement to LLMs, it relies heavily on the relevance of retrieved documents, raising concerns about how the model behaves if retrieval goes wrong. To this end, we propose the Corrective Retrieval Augmented Generation (CRAG) to improve the robustness of generation. Specifically, a lightweight retrieval evaluator is designed to assess the overall quality of retrieved documents for a query, returning a confidence degree based on which different knowledge retrieval actions can be triggered. Since retrieval from static and limited corpora can only return sub-optimal documents, large-scale web searches are utilized as an extension for augmenting the retrieval results. Besides, a decompose-then-recompose algorithm is designed for retrieved documents to selectively focus on key information and filter out irrelevant information in them. CRAG is plug-and-play and can be seamlessly coupled with various RAG-based approaches. Experiments on four datasets covering short- and long-form generation tasks show that CRAG can significantly improve the performance of RAG-based approaches."
+ },
+ {
+  "id": "2210.08726v3",
+  "title": "RARR: Researching and Revising What Language Models Say, Using Language Models",
+  "year": "2022",
+  "cites": 148,
+  "abstract": "Language models (LMs) now excel at many tasks such as few-shot learning, question answering, reasoning, and dialog. However, they sometimes generate unsupported or misleading content. A user cannot easily determine whether their outputs are trustworthy or not, because most LMs do not have any built-in mechanism for attribution to external evidence. To enable attribution while still preserving all the powerful advantages of recent generation models, we propose RARR (Retrofit Attribution using Research and Revision), a system that 1) automatically finds attribution for the output of any text generation model and 2) post-edits the output to fix unsupported content while preserving the original output as much as possible. When applied to the output of several state-of-the-art LMs on a diverse set of generation tasks, we find that RARR significantly improves attribution while otherwise preserving the original input to a much greater degree than previously explored edit models. Furthermore, the implementation of RARR requires only a handful of training examples, a large language model, and standard web search."
+ },
+ {
+  "id": "2103.04831v4",
+  "title": "Semantic Models for the First-stage Retrieval: A Comprehensive Review",
+  "year": "2021",
+  "cites": 119,
+  "abstract": "Multi-stage ranking pipelines have been a practical solution in modern search systems, where the first-stage retrieval is to return a subset of candidate documents, and latter stages attempt to re-rank those candidates. Unlike re-ranking stages going through quick technique shifts during past decades, the first-stage retrieval has long been dominated by classical term-based models. Unfortunately, these models suffer from the vocabulary mismatch problem, which may block re-ranking stages from relevant documents at the very beginning. Therefore, it has been a long-term desire to build semantic models for the first-stage retrieval that can achieve high recall efficiently. Recently, we have witnessed an explosive growth of research interests on the first-stage semantic retrieval models. We believe it is the right time to survey current status, learn from existing methods, and gain some insights for future development. In this paper, we describe the current landscape of the first-stage retrieval models under a unified framework to clarify the connection between classical term-based retrieval methods, early semantic retrieval methods and neural semantic retrieval methods. Moreover, we identify some open challenges and envision some future directions, with the hope of inspiring more researches on these important yet less investigated topics."
+ },
+ {
+  "id": "2310.11511v1",
+  "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+  "year": "2023",
+  "cites": 104,
+  "abstract": "Despite their remarkable capabilities, large language models (LLMs) often produce responses containing factual inaccuracies due to their sole reliance on the parametric knowledge they encapsulate. Retrieval-Augmented Generation (RAG), an ad hoc approach that augments LMs with retrieval of relevant knowledge, decreases such issues. However, indiscriminately retrieving and incorporating a fixed number of retrieved passages, regardless of whether retrieval is necessary, or passages are relevant, diminishes LM versatility or can lead to unhelpful response generation. We introduce a new framework called Self-Reflective Retrieval-Augmented Generation (Self-RAG) that enhances an LM's quality and factuality through retrieval and self-reflection. Our framework trains a single arbitrary LM that adaptively retrieves passages on-demand, and generates and reflects on retrieved passages and its own generations using special tokens, called reflection tokens. Generating reflection tokens makes the LM controllable during the inference phase, enabling it to tailor its behavior to diverse task requirements. Experiments show that Self-RAG (7B and 13B parameters) significantly outperforms state-of-the-art LLMs and retrieval-augmented models on a diverse set of tasks. Specifically, Self-RAG outperforms ChatGPT and retrieval-augmented Llama2-chat on Open-domain QA, reasoning and fact verification tasks, and it shows significant gains in improving factuality and citation accuracy for long-form generations relative to these models."
+ },
+ {
+  "id": "2304.13157v1",
+  "title": "Generative Relevance Feedback with Large Language Models",
+  "year": "2023",
+  "cites": 49,
+  "abstract": "Current query expansion models use pseudo-relevance feedback to improve first-pass retrieval effectiveness; however, this fails when the initial results are not relevant. Instead of building a language model from retrieved results, we propose Generative Relevance Feedback (GRF) that builds probabilistic feedback models from long-form text generated from Large Language Models. We study the effective methods for generating text by varying the zero-shot generation subtasks: queries, entities, facts, news articles, documents, and essays. We evaluate GRF on document retrieval benchmarks covering a diverse set of queries and document collections, and the results show that GRF methods significantly outperform previous PRF methods. Specifically, we improve MAP between 5-19% and NDCG@10 17-24% compared to RM3 expansion, and achieve the best R@1k effectiveness on all datasets compared to state-of-the-art sparse, dense, and expansion models."
+ },
+ {
+  "id": "2305.03653v1",
+  "title": "Query Expansion by Prompting Large Language Models",
+  "year": "2023",
+  "cites": 26,
+  "abstract": "Query expansion is a widely used technique to improve the recall of search systems. In this paper, we propose an approach to query expansion that leverages the generative abilities of Large Language Models (LLMs). Unlike traditional query expansion approaches such as Pseudo-Relevance Feedback (PRF) that relies on retrieving a good set of pseudo-relevant documents to expand queries, we rely on the generative and creative abilities of an LLM and leverage the knowledge inherent in the model. We study a variety of different prompts, including zero-shot, few-shot and Chain-of-Thought (CoT). We find that CoT prompts are especially useful for query expansion as these prompts instruct the model to break queries down step-by-step and can provide a large number of terms related to the original query. Experimental results on MS-MARCO and BEIR demonstrate that query expansions generated by LLMs can be more powerful than traditional query expansion methods."
+ },
+ {
+  "id": "2405.14431v1",
+  "title": "RaFe: Ranking Feedback Improves Query Rewriting for RAG",
+  "year": "2024",
+  "cites": 21,
+  "abstract": "As Large Language Models (LLMs) and Retrieval Augmentation Generation (RAG) techniques have evolved, query rewriting has been widely incorporated into the RAG system for downstream tasks like open-domain QA. Many works have attempted to utilize small models with reinforcement learning rather than costly LLMs to improve query rewriting. However, current methods require annotations (e.g., labeled relevant documents or downstream answers) or predesigned rewards for feedback, which lack generalization, and fail to utilize signals tailored for query rewriting. In this paper, we propose ours, a framework for training query rewriting models free of annotations. By leveraging a publicly available reranker, ours~provides feedback aligned well with the rewriting objectives. Experimental results demonstrate that ours~can obtain better performance than baselines."
+ },
+ {
+  "id": "2310.19056v3",
+  "title": "MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion",
+  "year": "2023",
+  "cites": 17,
+  "abstract": "Query expansion, pivotal in search engines, enhances the representation of user information needs with additional terms. While existing methods expand queries using retrieved or generated contextual documents, each approach has notable limitations. Retrieval-based methods often fail to accurately capture search intent, particularly with brief or ambiguous queries. Generation-based methods, utilizing large language models (LLMs), generally lack corpus-specific knowledge and entail high fine-tuning costs. To address these gaps, we propose a novel zero-shot query expansion framework utilizing LLMs for mutual verification. Specifically, we first design a query-query-document generation method, leveraging LLMs' zero-shot reasoning ability to produce diverse sub-queries and corresponding documents. Then, a mutual verification process synergizes generated and retrieved documents for optimal expansion. Our proposed method is fully zero-shot, and extensive experiments on three public benchmark datasets are conducted to demonstrate its effectiveness over existing methods. Our code is available online at https://github.com/Applied-Machine-Learning-Lab/MILL to ease reproduction."
+ },
+ {
+  "id": "2401.06311v3",
+  "title": "Exploring the Best Practices of Query Expansion with Large Language Models",
+  "year": "2024",
+  "cites": 15,
+  "abstract": "Large Language Models (LLMs) are foundational in language technologies, particularly in information retrieval (IR). Previous studies have utilized LLMs for query expansion, achieving notable improvements in IR. In this paper, we thoroughly explore the best practice of leveraging LLMs for query expansion. To this end, we introduce a training-free, straightforward yet effective framework called Multi-Text Generation Integration (\\textsc{MuGI}). It leverages LLMs to generate multiple pseudo-references, integrating them with queries to enhance both sparse and dense retrievers. Our empirical findings reveal that: (1) Increasing the number of samples from LLMs benefits IR systems; (2) A balance between the query and pseudo-documents, and an effective integration strategy, is critical for high performance; (3) Contextual information from LLMs is essential, even boost a 23M model to outperform a 7B baseline model; (4) Pseudo relevance feedback can further calibrate queries for improved performance; and (5) Query expansion is widely applicable and versatile, consistently enhancing models ranging from 23M to 7B parameters. Our code and all generated references are made available at \\url{https://github.com/lezhang7/Retrieval_MuGI}"
+ },
+ {
+  "id": "2410.13765v2",
+  "title": "Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval",
+  "year": "2024",
+  "cites": 5,
+  "abstract": "Large language models (LLMs) have been used to generate query expansions augmenting original queries for improving information search. Recent studies also explore providing LLMs with initial retrieval results to generate query expansions more grounded to document corpus. However, these methods mostly focus on enhancing textual similarities between search queries and target documents, overlooking document relations. For queries like \"Find me a highly rated camera for wildlife photography compatible with my Nikon F-Mount lenses\", existing methods may generate expansions that are semantically similar but structurally unrelated to user intents. To handle such semi-structured queries with both textual and relational requirements, in this paper we propose a knowledge-aware query expansion framework, augmenting LLMs with structured document relations from knowledge graph (KG). To further address the limitation of entity-based scoring in existing KG-based methods, we leverage document texts as rich KG node representations and use document-based relation filtering for our Knowledge-Aware Retrieval (KAR). Extensive experiments on three datasets of diverse domains show the advantages of our method compared against state-of-the-art baselines on textual and relational semi-structured retrieval."
+ },
+ {
+  "id": "2407.12529v2",
+  "title": "Crafting the Path: Robust Query Rewriting for Information Retrieval",
+  "year": "2024",
+  "cites": 4,
+  "abstract": "Query rewriting aims to generate a new query that can complement the original query to improve the information retrieval system. Recent studies on query rewriting, such as query2doc, query2expand and querey2cot, rely on the internal knowledge of Large Language Models (LLMs) to generate a relevant passage to add information to the query. Nevertheless, the efficacy of these methodologies may markedly decline in instances where the requisite knowledge is not encapsulated within the model's intrinsic parameters. In this paper, we propose a novel structured query rewriting method called Crafting the Path tailored for retrieval systems. Crafting the Path involves a three-step process that crafts query-related information necessary for finding the passages to be searched in each step. Specifically, the Crafting the Path begins with Query Concept Comprehension, proceeds to Query Type Identification, and finally conducts Expected Answer Extraction. Experimental results show that our method outperforms previous rewriting methods, especially in less familiar domains for LLMs. We demonstrate that our method is less dependent on the internal parameter knowledge of the model and generates queries with fewer factual inaccuracies. Furthermore, we observe that \\name{} demonstrates superior performance in the retrieval-augmented generation scenarios."
+ },
+ {
+  "id": "2607.29402v1",
+  "title": "Bridging the Question-Answer Gap in Retrieval-Augmented Generation: Hypothetical Prompt Embeddings",
+  "year": "2026",
+  "cites": 4,
+  "abstract": "Retrieval-Augmented Generation (RAG) systems synergize retrieval mechanisms with generative language models to enhance the accuracy and relevance of responses. However, bridging the style gap between user queries and relevant information in document text remains a persistent challenge in retrieval-augmented systems, often addressed by runtime solutions (e.g., Hypothetical Document Embeddings (HyDE)) that attempt to improve alignment but introduce extra computational overhead at query time. To address these challenges, we propose Hypothetical Prompt Embeddings (HyPE), a framework that shifts the generation of hypothetical content from query time to the indexing phase. By precomputing multiple hypothetical prompts for each data chunk and embedding the chunk in place of the prompt, HyPE transforms retrieval into a question-question matching task, bypassing the need for runtime synthetic answer generation. This approach does not introduce latency but also strengthens the alignment between queries and relevant context. Our experimental results on six common datasets show that HyPE can improve retrieval context precision by up to 42 percentage points and claim recall by up to 45 percentage points, compared to standard approaches, while remaining compatible with re-ranking, multi-vector retrieval, query decomposition, and other RAG advancements"
+ },
+ {
+  "id": "2412.17558v3",
+  "title": "A Survey of Query Optimization in Large Language Models",
+  "year": "2024",
+  "cites": 2,
+  "abstract": "Query Optimization (QO) has become essential for enhancing Large Language Model (LLM) effectiveness, particularly in Retrieval-Augmented Generation (RAG) systems where query quality directly determines retrieval and response performance. This survey provides a systematic and comprehensive analysis of query optimization techniques with three principal contributions. \\textit{First}, we introduce the \\textbf{Query Optimization Lifecycle (QOL) Framework}, a five-phase pipeline covering Intent Recognition, Query Transformation, Retrieval Execution, Evidence Integration, and Response Synthesis, providing a unified lens for understanding the optimization process. \\textit{Second}, we propose a \\textbf{Query Complexity Taxonomy} that classifies queries along two dimensions, namely evidence type (explicit vs.\\ implicit) and evidence quantity (single vs.\\ multiple), establishing principled mappings between query characteristics and optimization strategies. \\textit{Third}, we conduct an in-depth analysis of four atomic operations, namely \\textbf{Query Expansion}, \\textbf{Query Decomposition}, \\textbf{Query Disambiguation}, and \\textbf{Query Abstraction}, synthesizing a broad spectrum of representative methods from premier venues. We further examine evaluation methodologies, identify critical gaps in existing benchmarks, and discuss open challenges including process reward models, efficiency optimization, and multi-modal query handling. This survey offers both a structured foundation for research and actionable guidance for practitioners."
+ },
+ {
+  "id": "2411.13154v1",
+  "title": "DMQR-RAG: Diverse Multi-Query Rewriting for RAG",
+  "year": "2024",
+  "cites": 2,
+  "abstract": "Large language models often encounter challenges with static knowledge and hallucinations, which undermine their reliability. Retrieval-augmented generation (RAG) mitigates these issues by incorporating external information. However, user queries frequently contain noise and intent deviations, necessitating query rewriting to improve the relevance of retrieved documents. In this paper, we introduce DMQR-RAG, a Diverse Multi-Query Rewriting framework designed to improve the performance of both document retrieval and final responses in RAG. Specifically, we investigate how queries with varying information quantities can retrieve a diverse array of documents, presenting four rewriting strategies that operate at different levels of information to enhance the performance of baseline approaches. Additionally, we propose an adaptive strategy selection method that minimizes the number of rewrites while optimizing overall performance. Our methods have been rigorously validated through extensive experiments conducted in both academic and industry settings."
+ },
+ {
+  "id": "2504.20114v3",
+  "title": "TreeHop: Efficient Embedding-Level Query Rewriter",
+  "year": "2025",
+  "cites": 0,
+  "abstract": "Retrieval-augmented generation (RAG) systems face significant challenges in multi-hop question answering (MHQA), where complex queries require synthesizing information across multiple document chunks. Existing approaches typically rely on iterative LLM-based query rewriting and routing, resulting in high computational costs due to repeated LLM invocations and multi-stage processes. To address these limitations, we propose TreeHop, an embedding-level framework without the need for LLMs in query refinement. TreeHop dynamically updates query embeddings by fusing semantic information from prior queries and retrieved documents, enabling iterative retrieval through embedding-space operations alone. This method replaces the traditional \"Retrieve-Rewrite-Vectorize-Retrieve\" cycle with a streamlined \"Retrieve-Embed-Retrieve\" loop, significantly reducing computational overhead. Moreover, a rule-based stopping criterion is introduced to further prune redundant retrievals, balancing efficiency and recall rate. Experimental results show that TreeHop rivals advanced RAG methods across four open-domain MHQA datasets, achieving comparable performance with only 2.2\\%-29.4\\% of the parameter size of concurrent solutions and reducing the query latency by 92.8\\%-97.8\\%. This makes TreeHop a faster and more cost-effective solution for low-resource or latency-sensitive deployment. For reproducibility purposes, codes and data are available here: https://github.com/allen-li1231/TreeHop-RAG"
+ }
+]

@@ -1,0 +1,2443 @@
+{
+  "summary": {
+    "n_questions": 20,
+    "n_claims_mean": 1.95,
+    "claims_errors": 0,
+    "judge_calls": 200,
+    "judge_errors": 0,
+    "span_valid_rate": 1.0,
+    "llm_calls": 0,
+    "llm_cache_hits": 243,
+    "table": {
+      "bm25_whole": {
+        "mrr": {
+          "mean": 0.7904761904761904,
+          "ci": [
+            0.7904761904761904,
+            0.648809523809524,
+            0.9166666666666666
+          ]
+        },
+        "ndcg": {
+          "mean": 0.7990974379521486,
+          "ci": [
+            0.7990974379521486,
+            0.7069760174657767,
+            0.8856506425055544
+          ]
+        },
+        "r1": {
+          "mean": 0.325,
+          "ci": [
+            0.325,
+            0.225,
+            0.425
+          ]
+        },
+        "r2": {
+          "mean": 0.575,
+          "ci": [
+            0.575,
+            0.425,
+            0.725
+          ]
+        },
+        "auc_gold": {
+          "mean": 0.771875,
+          "ci": [
+            0.771875,
+            0.659375,
+            0.88125
+          ]
+        },
+        "auc_ans": {
+          "mean": 0.6089181286549707,
+          "ci": [
+            0.6089181286549707,
+            0.45029239766081863,
+            0.7602339181286552
+          ]
+        }
+      },
+      "claim_max": {
+        "mrr": {
+          "mean": 0.7541666666666667,
+          "ci": [
+            0.7541666666666667,
+            0.625,
+            0.8666666666666668
+          ]
+        },
+        "ndcg": {
+          "mean": 0.7911678980042398,
+          "ci": [
+            0.7911678980042398,
+            0.7000627876511734,
+            0.8744999585800395
+          ]
+        },
+        "r1": {
+          "mean": 0.275,
+          "ci": [
+            0.275,
+            0.175,
+            0.375
+          ]
+        },
+        "r2": {
+          "mean": 0.65,
+          "ci": [
+            0.65,
+            0.5,
+            0.8
+          ]
+        },
+        "auc_gold": {
+          "mean": 0.7953125,
+          "ci": [
+            0.7953125,
+            0.69375,
+            0.8828125
+          ]
+        },
+        "auc_ans": {
+          "mean": 0.7070540935672516,
+          "ci": [
+            0.7070540935672516,
+            0.5420321637426901,
+            0.8439327485380118
+          ]
+        }
+      },
+      "claim_mean": {
+        "mrr": {
+          "mean": 0.6683333333333333,
+          "ci": [
+            0.6683333333333333,
+            0.5183333333333333,
+            0.8166666666666667
+          ]
+        },
+        "ndcg": {
+          "mean": 0.7301142458059968,
+          "ci": [
+            0.7301142458059968,
+            0.6367955997050313,
+            0.824705896081162
+          ]
+        },
+        "r1": {
+          "mean": 0.25,
+          "ci": [
+            0.25,
+            0.15,
+            0.35
+          ]
+        },
+        "r2": {
+          "mean": 0.45,
+          "ci": [
+            0.45,
+            0.275,
+            0.625
+          ]
+        },
+        "auc_gold": {
+          "mean": 0.7234375,
+          "ci": [
+            0.7234375,
+            0.6125,
+            0.83125
+          ]
+        },
+        "auc_ans": {
+          "mean": 0.6476608187134504,
+          "ci": [
+            0.6476608187134504,
+            0.5065789473684209,
+            0.7850877192982456
+          ]
+        }
+      },
+      "claim_min": {
+        "mrr": {
+          "mean": 0.46704365079365073,
+          "ci": [
+            0.46704365079365073,
+            0.31174603174603177,
+            0.6397619047619048
+          ]
+        },
+        "ndcg": {
+          "mean": 0.5733698620755315,
+          "ci": [
+            0.5733698620755315,
+            0.4879890058058062,
+            0.6664207357311098
+          ]
+        },
+        "r1": {
+          "mean": 0.15,
+          "ci": [
+            0.15,
+            0.05,
+            0.25
+          ]
+        },
+        "r2": {
+          "mean": 0.25,
+          "ci": [
+            0.25,
+            0.125,
+            0.375
+          ]
+        },
+        "auc_gold": {
+          "mean": 0.45625,
+          "ci": [
+            0.45625,
+            0.34375,
+            0.5703125
+          ]
+        },
+        "auc_ans": {
+          "mean": 0.4570540935672514,
+          "ci": [
+            0.4570540935672514,
+            0.31505847953216365,
+            0.5873538011695906
+          ]
+        }
+      },
+      "claim_cover": {
+        "mrr": {
+          "mean": 0.5483333333333333,
+          "ci": [
+            0.5483333333333333,
+            0.4041666666666666,
+            0.7008333333333333
+          ]
+        },
+        "ndcg": {
+          "mean": 0.6647438253820046,
+          "ci": [
+            0.6647438253820046,
+            0.5665029593780312,
+            0.7716086689061429
+          ]
+        },
+        "r1": {
+          "mean": 0.175,
+          "ci": [
+            0.175,
+            0.075,
+            0.275
+          ]
+        },
+        "r2": {
+          "mean": 0.375,
+          "ci": [
+            0.375,
+            0.2,
+            0.55
+          ]
+        },
+        "auc_gold": {
+          "mean": 0.665625,
+          "ci": [
+            0.665625,
+            0.5578125,
+            0.76875
+          ]
+        },
+        "auc_ans": {
+          "mean": 0.6187865497076024,
+          "ci": [
+            0.6187865497076024,
+            0.4970760233918128,
+            0.7379385964912281
+          ]
+        }
+      },
+      "claim_cover_tb": {
+        "mrr": {
+          "mean": 0.66,
+          "ci": [
+            0.66,
+            0.5058333333333332,
+            0.8083333333333332
+          ]
+        },
+        "ndcg": {
+          "mean": 0.7261002852634062,
+          "ci": [
+            0.7261002852634062,
+            0.6287676786198502,
+            0.8218199239737611
+          ]
+        },
+        "r1": {
+          "mean": 0.25,
+          "ci": [
+            0.25,
+            0.15,
+            0.35
+          ]
+        },
+        "r2": {
+          "mean": 0.425,
+          "ci": [
+            0.425,
+            0.25,
+            0.6
+          ]
+        },
+        "auc_gold": {
+          "mean": 0.7203125,
+          "ci": [
+            0.7203125,
+            0.609375,
+            0.825
+          ]
+        },
+        "auc_ans": {
+          "mean": 0.6476608187134504,
+          "ci": [
+            0.6476608187134504,
+            0.5065789473684209,
+            0.7850877192982456
+          ]
+        }
+      },
+      "hybrid_0.3": {
+        "mrr": {
+          "mean": 0.8458333333333332,
+          "ci": [
+            0.8458333333333332,
+            0.7166666666666667,
+            0.95
+          ]
+        },
+        "ndcg": {
+          "mean": 0.8180582186563706,
+          "ci": [
+            0.8180582186563706,
+            0.7400325469804595,
+            0.8878855731364237
+          ]
+        },
+        "r1": {
+          "mean": 0.375,
+          "ci": [
+            0.375,
+            0.275,
+            0.45
+          ]
+        },
+        "r2": {
+          "mean": 0.55,
+          "ci": [
+            0.55,
+            0.4,
+            0.7
+          ]
+        },
+        "auc_gold": {
+          "mean": 0.784375,
+          "ci": [
+            0.784375,
+            0.6875,
+            0.871875
+          ]
+        },
+        "auc_ans": {
+          "mean": 0.6213450292397662,
+          "ci": [
+            0.6213450292397662,
+            0.47222222222222215,
+            0.7631578947368421
+          ]
+        }
+      },
+      "hybrid_0.5": {
+        "mrr": {
+          "mean": 0.85,
+          "ci": [
+            0.85,
+            0.7250000000000001,
+            0.9666666666666666
+          ]
+        },
+        "ndcg": {
+          "mean": 0.8147643945446772,
+          "ci": [
+            0.8147643945446772,
+            0.7336789452182388,
+            0.8861958088674733
+          ]
+        },
+        "r1": {
+          "mean": 0.375,
+          "ci": [
+            0.375,
+            0.275,
+            0.475
+          ]
+        },
+        "r2": {
+          "mean": 0.55,
+          "ci": [
+            0.55,
+            0.4,
+            0.7
+          ]
+        },
+        "auc_gold": {
+          "mean": 0.771875,
+          "ci": [
+            0.771875,
+            0.671875,
+            0.8625
+          ]
+        },
+        "auc_ans": {
+          "mean": 0.610014619883041,
+          "ci": [
+            0.610014619883041,
+            0.45942982456140347,
+            0.7558479532163743
+          ]
+        }
+      },
+      "judge_oracle": {
+        "mrr": {
+          "mean": 0.9375,
+          "ci": [
+            0.9375,
+            0.8375,
+            1.0
+          ]
+        },
+        "ndcg": {
+          "mean": 0.8701692528800177,
+          "ci": [
+            0.8701692528800177,
+            0.7965225348522884,
+            0.930744397732662
+          ]
+        },
+        "r1": {
+          "mean": 0.45,
+          "ci": [
+            0.45,
+            0.375,
+            0.5
+          ]
+        },
+        "r2": {
+          "mean": 0.675,
+          "ci": [
+            0.675,
+            0.55,
+            0.8
+          ]
+        },
+        "auc_gold": {
+          "mean": 0.796875,
+          "ci": [
+            0.796875,
+            0.728125,
+            0.8625
+          ]
+        },
+        "auc_ans": {
+          "mean": 0.640716374269006,
+          "ci": [
+            0.640716374269006,
+            0.5307017543859649,
+            0.7485380116959065
+          ]
+        }
+      },
+      "judge_tb": {
+        "mrr": {
+          "mean": 0.9571428571428571,
+          "ci": [
+            0.9571428571428571,
+            0.8714285714285713,
+            1.0
+          ]
+        },
+        "ndcg": {
+          "mean": 0.9083788667669955,
+          "ci": [
+            0.9083788667669955,
+            0.8397005490096674,
+            0.9609603865549022
+          ]
+        },
+        "r1": {
+          "mean": 0.475,
+          "ci": [
+            0.475,
+            0.425,
+            0.5
+          ]
+        },
+        "r2": {
+          "mean": 0.725,
+          "ci": [
+            0.725,
+            0.6,
+            0.85
+          ]
+        },
+        "auc_gold": {
+          "mean": 0.859375,
+          "ci": [
+            0.859375,
+            0.74375,
+            0.946875
+          ]
+        },
+        "auc_ans": {
+          "mean": 0.6527777777777778,
+          "ci": [
+            0.6527777777777778,
+            0.47733918128654973,
+            0.814327485380117
+          ]
+        }
+      }
+    },
+    "paired_vs_bm25": {
+      "claim_max": {
+        "mrr": [
+          -0.036309523809523805,
+          -0.24464285714285716,
+          0.17916666666666675
+        ],
+        "ndcg": [
+          -0.007929539947908671,
+          -0.13407393800921458,
+          0.12467562916664257
+        ],
+        "auc_gold": [
+          0.0234375,
+          -0.084375,
+          0.1375
+        ]
+      },
+      "claim_mean": {
+        "mrr": [
+          -0.12214285714285711,
+          -0.3441666666666667,
+          0.12023809523809526
+        ],
+        "ndcg": [
+          -0.06898319214615171,
+          -0.20058021331731105,
+          0.06990075752438556
+        ],
+        "auc_gold": [
+          -0.0484375,
+          -0.1703125,
+          0.08125
+        ]
+      },
+      "claim_min": {
+        "mrr": [
+          -0.3234325396825397,
+          -0.5615277777777777,
+          -0.06785714285714287
+        ],
+        "ndcg": [
+          -0.22572757587661707,
+          -0.35522320482717246,
+          -0.08225264997718709
+        ],
+        "auc_gold": [
+          -0.315625,
+          -0.471875,
+          -0.159375
+        ]
+      },
+      "claim_cover": {
+        "mrr": [
+          -0.24214285714285713,
+          -0.4446428571428571,
+          -0.03547619047619048
+        ],
+        "ndcg": [
+          -0.13435361257014405,
+          -0.251694139533198,
+          -0.014221978190897145
+        ],
+        "auc_gold": [
+          -0.10625,
+          -0.2296875,
+          0.015625
+        ]
+      },
+      "claim_cover_tb": {
+        "mrr": [
+          -0.13047619047619047,
+          -0.35083333333333333,
+          0.11785714285714288
+        ],
+        "ndcg": [
+          -0.07299715268874234,
+          -0.20282573574627766,
+          0.06614591497277363
+        ],
+        "auc_gold": [
+          -0.0515625,
+          -0.1734375,
+          0.075
+        ]
+      },
+      "hybrid_0.3": {
+        "mrr": [
+          0.05535714285714286,
+          -0.011309523809523811,
+          0.14702380952380953
+        ],
+        "ndcg": [
+          0.01896078070422186,
+          -0.017095221952725205,
+          0.0655701869669713
+        ],
+        "auc_gold": [
+          0.0125,
+          -0.025,
+          0.05625
+        ]
+      },
+      "hybrid_0.5": {
+        "mrr": [
+          0.05952380952380952,
+          -0.048809523809523817,
+          0.17142857142857143
+        ],
+        "ndcg": [
+          0.01566695659252857,
+          -0.040242853455464564,
+          0.07339149668035796
+        ],
+        "auc_gold": [
+          0.0,
+          -0.053125,
+          0.05625
+        ]
+      },
+      "judge_oracle": {
+        "mrr": [
+          0.14702380952380956,
+          0.0011904761904761973,
+          0.3035714285714286
+        ],
+        "ndcg": [
+          0.07107181492786893,
+          -0.0262631311720515,
+          0.17787458941797013
+        ],
+        "auc_gold": [
+          0.025,
+          -0.08125,
+          0.140625
+        ]
+      },
+      "judge_tb": {
+        "mrr": [
+          0.16666666666666669,
+          0.058333333333333334,
+          0.2833333333333334
+        ],
+        "ndcg": [
+          0.10928142881484701,
+          0.05208593443756743,
+          0.17854377412457564
+        ],
+        "auc_gold": [
+          0.0875,
+          0.028125,
+          0.15625
+        ]
+      }
+    }
+  },
+  "per_question": [
+    {
+      "qid": "5add1d575542992c1e3a2540",
+      "question": "What nationality was Oliver Reed's character in the film Royal Flash?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Oliver Reed played ? in the film Royal Flash",
+          "head": "Oliver Reed",
+          "relation": "actor_role_in_film",
+          "object": "Royal Flash",
+          "type": "person"
+        },
+        {
+          "id": "c2",
+          "text": "$c1 had nationality ?",
+          "head": "$c1",
+          "relation": "nationality",
+          "object": "?",
+          "type": "other"
+        }
+      ],
+      "gold_titles": [
+        "Otto von Bismarck",
+        "Royal Flash (film)"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 0.5,
+          "top1": "Ivan Dragomiloff",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_max": {
+          "mrr": 0.25,
+          "top1": "Harry Flashman",
+          "top1_is_gold": false,
+          "first_gold_rank": 4
+        },
+        "claim_mean": {
+          "mrr": 0.25,
+          "top1": "Lion of the Desert",
+          "top1_is_gold": false,
+          "first_gold_rank": 4
+        },
+        "claim_min": {
+          "mrr": 0.14285714285714285,
+          "top1": "Lion of the Desert",
+          "top1_is_gold": false,
+          "first_gold_rank": 7
+        },
+        "claim_cover": {
+          "mrr": 0.3333333333333333,
+          "top1": "Ivan Dragomiloff",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "claim_cover_tb": {
+          "mrr": 0.25,
+          "top1": "Lion of the Desert",
+          "top1_is_gold": false,
+          "first_gold_rank": 4
+        },
+        "hybrid_0.3": {
+          "mrr": 0.3333333333333333,
+          "top1": "Ivan Dragomiloff",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "hybrid_0.5": {
+          "mrr": 0.3333333333333333,
+          "top1": "Ivan Dragomiloff",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Royal Flash (film)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Royal Flash (film)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5ac55ea55542993e66e82377",
+      "question": "Pacific Mozart Ensemble performed which German composer's Der Lindberghflug in 2002?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Pacific Mozart Ensemble performed Der Lindberghflug in 2002",
+          "head": "Pacific Mozart Ensemble",
+          "relation": "performed_work_in_year",
+          "object": "Der Lindberghflug (2002)",
+          "type": "title"
+        },
+        {
+          "id": "c2",
+          "text": "$c1 was composed by ?",
+          "head": "$c1",
+          "relation": "composer",
+          "object": "?",
+          "type": "person"
+        }
+      ],
+      "gold_titles": [
+        "Kurt Weill",
+        "Pacific Mozart Ensemble"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 1.0,
+          "top1": "Pacific Mozart Ensemble",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_max": {
+          "mrr": 0.5,
+          "top1": "University of Utah Singers",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_mean": {
+          "mrr": 0.5,
+          "top1": "University of Utah Singers",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_min": {
+          "mrr": 0.14285714285714285,
+          "top1": "The Tutor (Brecht)",
+          "top1_is_gold": false,
+          "first_gold_rank": 7
+        },
+        "claim_cover": {
+          "mrr": 0.3333333333333333,
+          "top1": "University of Utah Singers",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "claim_cover_tb": {
+          "mrr": 0.5,
+          "top1": "University of Utah Singers",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "Pacific Mozart Ensemble",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "Pacific Mozart Ensemble",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Pacific Mozart Ensemble",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Pacific Mozart Ensemble",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5ac3a76e554299741d48a2be",
+      "question": "Who released the song \"With or Without You\" first, Jai McDowall or U2?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Jai McDowall released the song \"With or Without You\" in ?",
+          "head": "Jai McDowall",
+          "relation": "release_date",
+          "object": "?",
+          "type": "date"
+        },
+        {
+          "id": "c2",
+          "text": "U2 released the song \"With or Without You\" in ?",
+          "head": "U2",
+          "relation": "release_date",
+          "object": "?",
+          "type": "date"
+        }
+      ],
+      "gold_titles": [
+        "Believe (Jai McDowall album)",
+        "With or Without You"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 1.0,
+          "top1": "Believe (Jai McDowall album)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_max": {
+          "mrr": 1.0,
+          "top1": "With or Without You",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_mean": {
+          "mrr": 1.0,
+          "top1": "With or Without You",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_min": {
+          "mrr": 1.0,
+          "top1": "With or Without You",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_cover": {
+          "mrr": 1.0,
+          "top1": "With or Without You",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_cover_tb": {
+          "mrr": 1.0,
+          "top1": "With or Without You",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "Believe (Jai McDowall album)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "Believe (Jai McDowall album)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "With or Without You",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "With or Without You",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5a7133565542994082a3e65c",
+      "question": "What Kentucky county has a population of 60,316 and features the Lake Louisvilla neighborhood?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "a Kentucky county has a population of 60,316",
+          "head": "?",
+          "relation": "population",
+          "object": "60,316",
+          "type": "location"
+        },
+        {
+          "id": "c2",
+          "text": "$c1 features the Lake Louisvilla neighborhood",
+          "head": "$c1",
+          "relation": "has_neighborhood",
+          "object": "Lake Louisvilla",
+          "type": "location"
+        }
+      ],
+      "gold_titles": [
+        "Lake Louisvilla, Louisville",
+        "Oldham County, Kentucky"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 1.0,
+          "top1": "Lake Louisvilla, Louisville",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_max": {
+          "mrr": 1.0,
+          "top1": "Oldham County, Kentucky",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_mean": {
+          "mrr": 1.0,
+          "top1": "Oldham County, Kentucky",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_min": {
+          "mrr": 0.5,
+          "top1": "Tara Conner",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_cover": {
+          "mrr": 1.0,
+          "top1": "Oldham County, Kentucky",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_cover_tb": {
+          "mrr": 1.0,
+          "top1": "Oldham County, Kentucky",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "Lake Louisvilla, Louisville",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "Lake Louisvilla, Louisville",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Oldham County, Kentucky",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Oldham County, Kentucky",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5ac1a4745542991316484b82",
+      "question": "Para Hills West, South Australia lies within a city with what estimated population?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Para Hills West, South Australia lies within the city ?",
+          "head": "Para Hills West, South Australia",
+          "relation": "located_in_city",
+          "object": "?",
+          "type": "location"
+        },
+        {
+          "id": "c2",
+          "text": "$c1 has estimated population ?",
+          "head": "$c1",
+          "relation": "estimated_population",
+          "object": "?",
+          "type": "number"
+        }
+      ],
+      "gold_titles": [
+        "City of Salisbury",
+        "Para Hills West, South Australia"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 0.5,
+          "top1": "Wentworth, New South Wales",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_max": {
+          "mrr": 1.0,
+          "top1": "City of Salisbury",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_mean": {
+          "mrr": 1.0,
+          "top1": "City of Salisbury",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_min": {
+          "mrr": 1.0,
+          "top1": "City of Salisbury",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_cover": {
+          "mrr": 1.0,
+          "top1": "City of Salisbury",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_cover_tb": {
+          "mrr": 1.0,
+          "top1": "City of Salisbury",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.3": {
+          "mrr": 0.5,
+          "top1": "Wentworth, New South Wales",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "hybrid_0.5": {
+          "mrr": 0.5,
+          "top1": "Wentworth, New South Wales",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Para Hills West, South Australia",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Para Hills West, South Australia",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5adc597d55429947ff17392f",
+      "question": "In what year was the narrator of \"Blackadder's Christmas Carol\" born?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "the narrator of \"Blackadder's Christmas Carol\" is ?",
+          "head": "\"Blackadder's Christmas Carol\"",
+          "relation": "narrator",
+          "object": "?",
+          "type": "person"
+        },
+        {
+          "id": "c2",
+          "text": "$c1 was born in ?",
+          "head": "$c1",
+          "relation": "birth_year",
+          "object": "?",
+          "type": "date"
+        }
+      ],
+      "gold_titles": [
+        "Blackadder's Christmas Carol",
+        "Hugh Laurie"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 0.5,
+          "top1": "The Chimes",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_max": {
+          "mrr": 1.0,
+          "top1": "Hugh Laurie",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_mean": {
+          "mrr": 1.0,
+          "top1": "Blackadder's Christmas Carol",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_min": {
+          "mrr": 0.5,
+          "top1": "The Chimes",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_cover": {
+          "mrr": 1.0,
+          "top1": "Hugh Laurie",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_cover_tb": {
+          "mrr": 1.0,
+          "top1": "Blackadder's Christmas Carol",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.3": {
+          "mrr": 0.5,
+          "top1": "The Chimes",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "Blackadder's Christmas Carol",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Blackadder's Christmas Carol",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Blackadder's Christmas Carol",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5ac55e835542993e66e82375",
+      "question": "Thomas Fitch defended John Henry Holliday when he was accused of killing men during the gunfight at the o.k. corral, when was that?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Thomas Fitch defended John Henry Holliday in the case of the gunfight at the o.k. corral",
+          "head": "Thomas Fitch",
+          "relation": "defended_in_case",
+          "object": "gunfight at the o.k. corral",
+          "type": "event"
+        },
+        {
+          "id": "c2",
+          "text": "$c1 occurred on ?",
+          "head": "$c1",
+          "relation": "occurrence_date",
+          "object": "?",
+          "type": "date"
+        }
+      ],
+      "gold_titles": [
+        "Doc Holliday",
+        "Thomas Fitch (politician)"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 1.0,
+          "top1": "Thomas Fitch (politician)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_max": {
+          "mrr": 0.5,
+          "top1": "O.K. Corral hearing and aftermath",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_mean": {
+          "mrr": 0.25,
+          "top1": "O.K. Corral hearing and aftermath",
+          "top1_is_gold": false,
+          "first_gold_rank": 4
+        },
+        "claim_min": {
+          "mrr": 0.16666666666666666,
+          "top1": "O.K. Corral hearing and aftermath",
+          "top1_is_gold": false,
+          "first_gold_rank": 6
+        },
+        "claim_cover": {
+          "mrr": 0.25,
+          "top1": "O.K. Corral hearing and aftermath",
+          "top1_is_gold": false,
+          "first_gold_rank": 4
+        },
+        "claim_cover_tb": {
+          "mrr": 0.25,
+          "top1": "O.K. Corral hearing and aftermath",
+          "top1_is_gold": false,
+          "first_gold_rank": 4
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "Thomas Fitch (politician)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "Thomas Fitch (politician)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Thomas Fitch (politician)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Thomas Fitch (politician)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5a8d9e0f554299441c6ba015",
+      "question": "The actor that played Gutthi on Comedy nights with Kapil Show also starred in what 2016 Punjabi film directed by Smeep Kang?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "the actor that played Gutthi on Comedy nights with Kapil Show is ?",
+          "head": "Gutthi",
+          "relation": "character_actor_in_show",
+          "object": "Comedy nights with Kapil Show",
+          "type": "person"
+        },
+        {
+          "id": "c2",
+          "text": "$c1 starred in the 2016 Punjabi film ? directed by Smeep Kang",
+          "head": "$c1",
+          "relation": "actor_film_director_year",
+          "object": "Smeep Kang",
+          "type": "title"
+        }
+      ],
+      "gold_titles": [
+        "Sunil Grover",
+        "Vaisakhi List"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 0.3333333333333333,
+          "top1": "Bhaji in Problem",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "claim_max": {
+          "mrr": 1.0,
+          "top1": "Vaisakhi List",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_mean": {
+          "mrr": 1.0,
+          "top1": "Sunil Grover",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_min": {
+          "mrr": 0.16666666666666666,
+          "top1": "Smeep Kang",
+          "top1_is_gold": false,
+          "first_gold_rank": 6
+        },
+        "claim_cover": {
+          "mrr": 0.2,
+          "top1": "Chandan Prabhakar",
+          "top1_is_gold": false,
+          "first_gold_rank": 5
+        },
+        "claim_cover_tb": {
+          "mrr": 1.0,
+          "top1": "Sunil Grover",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.3": {
+          "mrr": 0.3333333333333333,
+          "top1": "Bhaji in Problem",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "hybrid_0.5": {
+          "mrr": 0.3333333333333333,
+          "top1": "Bhaji in Problem",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Vaisakhi List",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Sunil Grover",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5ae70ed7554299572ea546a1",
+      "question": "Victor Varnada directed Twisted Fortune, which starred which brother of Eddie Murphy?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Twisted Fortune starred ?",
+          "head": "Twisted Fortune",
+          "relation": "starring",
+          "object": "?",
+          "type": "person"
+        },
+        {
+          "id": "c2",
+          "text": "$c1 is the brother of Eddie Murphy",
+          "head": "$c1",
+          "relation": "sibling",
+          "object": "Eddie Murphy",
+          "type": "person"
+        }
+      ],
+      "gold_titles": [
+        "Charlie Murphy",
+        "Twisted Fortune"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 1.0,
+          "top1": "Twisted Fortune",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_max": {
+          "mrr": 1.0,
+          "top1": "Twisted Fortune",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_mean": {
+          "mrr": 1.0,
+          "top1": "Twisted Fortune",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_min": {
+          "mrr": 0.5,
+          "top1": "Coming to America",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_cover": {
+          "mrr": 1.0,
+          "top1": "Twisted Fortune",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_cover_tb": {
+          "mrr": 1.0,
+          "top1": "Twisted Fortune",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "Twisted Fortune",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "Twisted Fortune",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Twisted Fortune",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Twisted Fortune",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5a74a8fa55429929fddd8497",
+      "question": "After his curacy at the village that is a suburb of Scunthorpe, who was Industrial Chaplain to the Bishop of Lincoln?",
+      "n_claims": 3,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "a village that is a suburb of Scunthorpe is ?",
+          "head": "Scunthorpe",
+          "relation": "suburb_of",
+          "object": "?",
+          "type": "location"
+        },
+        {
+          "id": "c2",
+          "text": "a person had a curacy at $c1",
+          "head": "$c1",
+          "relation": "curacy_location",
+          "object": "?",
+          "type": "person"
+        },
+        {
+          "id": "c3",
+          "text": "$c2 was Industrial Chaplain to the Bishop of Lincoln",
+          "head": "$c2",
+          "relation": "industrial_chaplain_to",
+          "object": "Bishop of Lincoln",
+          "type": "person"
+        }
+      ],
+      "gold_titles": [
+        "Bill Dudman",
+        "Frodingham, Lincolnshire"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 1.0,
+          "top1": "Frodingham, Lincolnshire",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_max": {
+          "mrr": 0.5,
+          "top1": "Harold Buxton",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_mean": {
+          "mrr": 0.2,
+          "top1": "Harold Buxton",
+          "top1_is_gold": false,
+          "first_gold_rank": 5
+        },
+        "claim_min": {
+          "mrr": 0.1111111111111111,
+          "top1": "Philip Huggins",
+          "top1_is_gold": false,
+          "first_gold_rank": 9
+        },
+        "claim_cover": {
+          "mrr": 0.2,
+          "top1": "Randolph Wise",
+          "top1_is_gold": false,
+          "first_gold_rank": 5
+        },
+        "claim_cover_tb": {
+          "mrr": 0.2,
+          "top1": "Randolph Wise",
+          "top1_is_gold": false,
+          "first_gold_rank": 5
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "Frodingham, Lincolnshire",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "Frodingham, Lincolnshire",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Bill Dudman",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Bill Dudman",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5a7cb94f554299683c1c6353",
+      "question": "What is the first two words of the fifth studio album of Joseph Edgar Foreman?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Joseph Edgar Foreman released the fifth studio album ?",
+          "head": "Joseph Edgar Foreman",
+          "relation": "fifth_studio_album",
+          "object": "?",
+          "type": "title"
+        },
+        {
+          "id": "c2",
+          "text": "the first two words of $c1 are ?",
+          "head": "$c1",
+          "relation": "first_two_words",
+          "object": "?",
+          "type": "other"
+        }
+      ],
+      "gold_titles": [
+        "Afroman",
+        "The Hungry Hustlerz: Starvation Is Motivation"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 1.0,
+          "top1": "Afroman",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_max": {
+          "mrr": 0.5,
+          "top1": "Cherry Hill Park",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_mean": {
+          "mrr": 0.25,
+          "top1": "Sail On: The 30th Anniversary Collection",
+          "top1_is_gold": false,
+          "first_gold_rank": 4
+        },
+        "claim_min": {
+          "mrr": 0.14285714285714285,
+          "top1": "Sail On: The 30th Anniversary Collection",
+          "top1_is_gold": false,
+          "first_gold_rank": 7
+        },
+        "claim_cover": {
+          "mrr": 0.2,
+          "top1": "Cherry Hill Park",
+          "top1_is_gold": false,
+          "first_gold_rank": 5
+        },
+        "claim_cover_tb": {
+          "mrr": 0.25,
+          "top1": "Sail On: The 30th Anniversary Collection",
+          "top1_is_gold": false,
+          "first_gold_rank": 4
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "Afroman",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "Afroman",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 0.5,
+          "top1": "Cherry Hill Park",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Afroman",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5ab874ba5542990e739ec904",
+      "question": "The Twelfth United States Army Group commander was the first chairman of what?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "The Twelfth United States Army Group was commanded by ?",
+          "head": "Twelfth United States Army Group",
+          "relation": "commander",
+          "object": "?",
+          "type": "person"
+        },
+        {
+          "id": "c2",
+          "text": "$c1 was the first chairman of ?",
+          "head": "$c1",
+          "relation": "first_chairman_of",
+          "object": "?",
+          "type": "organization"
+        }
+      ],
+      "gold_titles": [
+        "Omar Bradley",
+        "Twelfth United States Army Group"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 1.0,
+          "top1": "Omar Bradley",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_max": {
+          "mrr": 1.0,
+          "top1": "Twelfth United States Army Group",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_mean": {
+          "mrr": 0.5,
+          "top1": "10th Armored Division (United States)",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_min": {
+          "mrr": 0.14285714285714285,
+          "top1": "South German Offensive",
+          "top1_is_gold": false,
+          "first_gold_rank": 7
+        },
+        "claim_cover": {
+          "mrr": 0.3333333333333333,
+          "top1": "South German Offensive",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "claim_cover_tb": {
+          "mrr": 0.3333333333333333,
+          "top1": "South German Offensive",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "Omar Bradley",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "Omar Bradley",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Twelfth United States Army Group",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Omar Bradley",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5ae3a8985542992f92d82329",
+      "question": "Politician Lyman Sherwood was born in what New York county?",
+      "n_claims": 1,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Lyman Sherwood was born in ?",
+          "head": "Lyman Sherwood",
+          "relation": "birth_place",
+          "object": "?",
+          "type": "location"
+        }
+      ],
+      "gold_titles": [
+        "Hoosick, New York",
+        "Lyman Sherwood"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 1.0,
+          "top1": "Lyman Sherwood",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_max": {
+          "mrr": 0.3333333333333333,
+          "top1": "Lyman Post",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "claim_mean": {
+          "mrr": 0.3333333333333333,
+          "top1": "Lyman Post",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "claim_min": {
+          "mrr": 0.3333333333333333,
+          "top1": "Lyman Post",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "claim_cover": {
+          "mrr": 0.2,
+          "top1": "Sherwood Equal Rights Historic District",
+          "top1_is_gold": false,
+          "first_gold_rank": 5
+        },
+        "claim_cover_tb": {
+          "mrr": 0.3333333333333333,
+          "top1": "Lyman Post",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "Lyman Sherwood",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 0.5,
+          "top1": "Lyman Post",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Lyman Sherwood",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Lyman Sherwood",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5ac39f7b554299218029dbe7",
+      "question": "Robert Earl Holding owned an oil company that was originally founded by who?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Robert Earl Holding owned an oil company ?",
+          "head": "Robert Earl Holding",
+          "relation": "owned_company",
+          "object": "?",
+          "type": "organization"
+        },
+        {
+          "id": "c2",
+          "text": "$c1 was originally founded by ?",
+          "head": "$c1",
+          "relation": "founded_by",
+          "object": "?",
+          "type": "person"
+        }
+      ],
+      "gold_titles": [
+        "Robert Holding",
+        "Sinclair Oil Corporation"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 1.0,
+          "top1": "Robert Holding",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_max": {
+          "mrr": 0.5,
+          "top1": "Little America, Wyoming",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_mean": {
+          "mrr": 0.5,
+          "top1": "Little America, Wyoming",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_min": {
+          "mrr": 0.16666666666666666,
+          "top1": "Ahvaz Field",
+          "top1_is_gold": false,
+          "first_gold_rank": 6
+        },
+        "claim_cover": {
+          "mrr": 0.5,
+          "top1": "Skelly Oil",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_cover_tb": {
+          "mrr": 0.5,
+          "top1": "Little America, Wyoming",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "Robert Holding",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "Robert Holding",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Robert Holding",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Robert Holding",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5ae27b535542996483e649b6",
+      "question": "The chorus of \"On the Radio\" contains references to the song \"November Rain\" whose band's lead singer is?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "the song \"November Rain\" is by the band ?",
+          "head": "November Rain",
+          "relation": "song_to_band",
+          "object": "?",
+          "type": "organization"
+        },
+        {
+          "id": "c2",
+          "text": "$c1 has lead singer ?",
+          "head": "$c1",
+          "relation": "band_lead_singer",
+          "object": "?",
+          "type": "person"
+        }
+      ],
+      "gold_titles": [
+        "November Rain",
+        "On the Radio (Regina Spektor song)"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 1.0,
+          "top1": "On the Radio (Regina Spektor song)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_max": {
+          "mrr": 1.0,
+          "top1": "November Rain",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_mean": {
+          "mrr": 1.0,
+          "top1": "November Rain",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_min": {
+          "mrr": 1.0,
+          "top1": "November Rain",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_cover": {
+          "mrr": 1.0,
+          "top1": "November Rain",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_cover_tb": {
+          "mrr": 1.0,
+          "top1": "November Rain",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "On the Radio (Regina Spektor song)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "On the Radio (Regina Spektor song)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "November Rain",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "November Rain",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5a7331de5542994cef4bc4a8",
+      "question": "If the Charhki  Dadri crash was less dangerous than the Tenerife airport disaster, which occured firat? ",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "the Charhki Dadri crash occurred on ?",
+          "head": "Charhki Dadri crash",
+          "relation": "occurrence_date",
+          "object": "?",
+          "type": "date"
+        },
+        {
+          "id": "c2",
+          "text": "the Tenerife airport disaster occurred on ?",
+          "head": "Tenerife airport disaster",
+          "relation": "occurrence_date",
+          "object": "?",
+          "type": "date"
+        }
+      ],
+      "gold_titles": [
+        "Charkhi Dadri mid-air collision",
+        "Tenerife airport disaster"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 0.3333333333333333,
+          "top1": "1938 Jersey Airport disaster",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "claim_max": {
+          "mrr": 1.0,
+          "top1": "Charkhi Dadri mid-air collision",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_mean": {
+          "mrr": 1.0,
+          "top1": "Charkhi Dadri mid-air collision",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_min": {
+          "mrr": 1.0,
+          "top1": "Charkhi Dadri mid-air collision",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_cover": {
+          "mrr": 1.0,
+          "top1": "Charkhi Dadri mid-air collision",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_cover_tb": {
+          "mrr": 1.0,
+          "top1": "Charkhi Dadri mid-air collision",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "Charkhi Dadri mid-air collision",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "Charkhi Dadri mid-air collision",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Tenerife airport disaster",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Charkhi Dadri mid-air collision",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5ac15de55542991316484afb",
+      "question": "Were the films Crazy Love and Welcome to Nollywood both released in 2008?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Crazy Love was released in ?",
+          "head": "Crazy Love",
+          "relation": "release_year",
+          "object": "?",
+          "type": "date"
+        },
+        {
+          "id": "c2",
+          "text": "Welcome to Nollywood was released in ?",
+          "head": "Welcome to Nollywood",
+          "relation": "release_year",
+          "object": "?",
+          "type": "date"
+        }
+      ],
+      "gold_titles": [
+        "Crazy Love (2007 film)",
+        "Welcome to Nollywood"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 1.0,
+          "top1": "Welcome to Nollywood",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_max": {
+          "mrr": 0.5,
+          "top1": "This Crazy Love",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_mean": {
+          "mrr": 0.25,
+          "top1": "This Crazy Love",
+          "top1_is_gold": false,
+          "first_gold_rank": 4
+        },
+        "claim_min": {
+          "mrr": 0.125,
+          "top1": "This Crazy Love",
+          "top1_is_gold": false,
+          "first_gold_rank": 8
+        },
+        "claim_cover": {
+          "mrr": 0.16666666666666666,
+          "top1": "This Crazy Love",
+          "top1_is_gold": false,
+          "first_gold_rank": 6
+        },
+        "claim_cover_tb": {
+          "mrr": 0.25,
+          "top1": "This Crazy Love",
+          "top1_is_gold": false,
+          "first_gold_rank": 4
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "Welcome to Nollywood",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "Welcome to Nollywood",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Crazy Love (2007 film)",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Welcome to Nollywood",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5a7c6c9d554299683c1c6302",
+      "question": "In what county was Duffy Jackson born?",
+      "n_claims": 1,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Duffy Jackson was born in ?",
+          "head": "Duffy Jackson",
+          "relation": "birth_place",
+          "object": "?",
+          "type": "location"
+        }
+      ],
+      "gold_titles": [
+        "Duffy Jackson",
+        "Freeport, New York"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 0.14285714285714285,
+          "top1": "Keith Duffy (bassist)",
+          "top1_is_gold": false,
+          "first_gold_rank": 7
+        },
+        "claim_max": {
+          "mrr": 1.0,
+          "top1": "Duffy Jackson",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_mean": {
+          "mrr": 1.0,
+          "top1": "Duffy Jackson",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_min": {
+          "mrr": 1.0,
+          "top1": "Duffy Jackson",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_cover": {
+          "mrr": 0.25,
+          "top1": "Keith Duffy (bassist)",
+          "top1_is_gold": false,
+          "first_gold_rank": 4
+        },
+        "claim_cover_tb": {
+          "mrr": 1.0,
+          "top1": "Duffy Jackson",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.3": {
+          "mrr": 0.25,
+          "top1": "Walter A. Duffy",
+          "top1_is_gold": false,
+          "first_gold_rank": 4
+        },
+        "hybrid_0.5": {
+          "mrr": 0.3333333333333333,
+          "top1": "Walter A. Duffy",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Freeport, New York",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 0.14285714285714285,
+          "top1": "Keith Duffy (bassist)",
+          "top1_is_gold": false,
+          "first_gold_rank": 7
+        }
+      }
+    },
+    {
+      "qid": "5ae6363b55429929b0807af0",
+      "question": "When was the defending titlist of 2009–10 Biathlon World Cup – Pursuit Men born? ",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "the defending titlist of 2009–10 Biathlon World Cup – Pursuit Men is ?",
+          "head": "2009–10 Biathlon World Cup – Pursuit Men",
+          "relation": "defending_champion",
+          "object": "?",
+          "type": "person"
+        },
+        {
+          "id": "c2",
+          "text": "$c1 was born on ?",
+          "head": "$c1",
+          "relation": "date_of_birth",
+          "object": "?",
+          "type": "date"
+        }
+      ],
+      "gold_titles": [
+        "2009–10 Biathlon World Cup – Pursuit Men",
+        "Ole Einar Bjørndalen"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 0.5,
+          "top1": "2009–10 Biathlon World Cup – Individual Men",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_max": {
+          "mrr": 1.0,
+          "top1": "Ole Einar Bjørndalen",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_mean": {
+          "mrr": 1.0,
+          "top1": "2009–10 Biathlon World Cup – Pursuit Men",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_min": {
+          "mrr": 1.0,
+          "top1": "2009–10 Biathlon World Cup – Pursuit Men",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_cover": {
+          "mrr": 0.5,
+          "top1": "2009–10 Biathlon World Cup – Pursuit Women",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_cover_tb": {
+          "mrr": 1.0,
+          "top1": "2009–10 Biathlon World Cup – Pursuit Men",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "2009–10 Biathlon World Cup – Pursuit Men",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "2009–10 Biathlon World Cup – Pursuit Men",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 0.25,
+          "top1": "2011–12 Biathlon World Cup – Pursuit Men",
+          "top1_is_gold": false,
+          "first_gold_rank": 4
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "2009–10 Biathlon World Cup – Pursuit Men",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    },
+    {
+      "qid": "5a8cea40554299441c6b9f76",
+      "question": "Which mountain is taller, Gasherbrum II or Langtang Ri?",
+      "n_claims": 2,
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Gasherbrum II has height ?",
+          "head": "Gasherbrum II",
+          "relation": "height",
+          "object": "?",
+          "type": "number"
+        },
+        {
+          "id": "c2",
+          "text": "Langtang Ri has height ?",
+          "head": "Langtang Ri",
+          "relation": "height",
+          "object": "?",
+          "type": "number"
+        }
+      ],
+      "gold_titles": [
+        "Gasherbrum II",
+        "Langtang Ri"
+      ],
+      "methods": {
+        "bm25_whole": {
+          "mrr": 1.0,
+          "top1": "Langtang Ri",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "claim_max": {
+          "mrr": 0.5,
+          "top1": "Karakoram",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_mean": {
+          "mrr": 0.3333333333333333,
+          "top1": "Karakoram",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "claim_min": {
+          "mrr": 0.2,
+          "top1": "Karakoram",
+          "top1_is_gold": false,
+          "first_gold_rank": 5
+        },
+        "claim_cover": {
+          "mrr": 0.5,
+          "top1": "Karakoram",
+          "top1_is_gold": false,
+          "first_gold_rank": 2
+        },
+        "claim_cover_tb": {
+          "mrr": 0.3333333333333333,
+          "top1": "Karakoram",
+          "top1_is_gold": false,
+          "first_gold_rank": 3
+        },
+        "hybrid_0.3": {
+          "mrr": 1.0,
+          "top1": "Langtang Ri",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "hybrid_0.5": {
+          "mrr": 1.0,
+          "top1": "Langtang Ri",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_oracle": {
+          "mrr": 1.0,
+          "top1": "Gasherbrum II",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        },
+        "judge_tb": {
+          "mrr": 1.0,
+          "top1": "Langtang Ri",
+          "top1_is_gold": true,
+          "first_gold_rank": 1
+        }
+      }
+    }
+  ]
+}

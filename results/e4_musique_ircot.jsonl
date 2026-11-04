@@ -1,0 +1,200 @@
+{"qid": "2hop__752214_639679", "method": "ircot", "pred": "Parbati Barua", "gold": "Clio Goldsmith", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "2hop__6827_79845", "method": "ircot", "pred": "15,900", "gold": "15,900", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "2hop__810884_22402", "method": "ircot", "pred": "nearly 25,000", "gold": "nearly 25,000", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "2hop__44815_494136", "method": "ircot", "pred": "The provided passages do not contain information about the spouse of KJ Apa.", "gold": "Meg Ryan", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "3hop2__90098_156850_10557", "method": "ircot", "pred": "Classical Latin", "gold": "Medieval Latin", "em": 0.0, "f1": 0.5, "info": {"retrieved": 10}}
+{"qid": "2hop__640262_122868", "method": "ircot", "pred": "University of British Columbia", "gold": "University of British Columbia", "em": 1.0, "f1": 1.0, "info": {"retrieved": 11}}
+{"qid": "2hop__17827_54024", "method": "ircot", "pred": "James I", "gold": "King James I of England", "em": 0.0, "f1": 0.5714285714285715, "info": {"retrieved": 7}}
+{"qid": "2hop__488811_30110", "method": "ircot", "pred": "subsequently expelled by the Soviet Union", "gold": "expelled by the Soviet Union", "em": 0.0, "f1": 0.888888888888889, "info": {"retrieved": 8}}
+{"qid": "2hop__370564_71701", "method": "ircot", "pred": "1980", "gold": "November 5", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "3hop2__132957_222979_40768", "method": "ircot", "pred": "by the early 1980s", "gold": "1981", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "3hop1__857_846_7821", "method": "ircot", "pred": "The provided passages do not contain information about the number of miles of highways in Nanjing.", "gold": "140 mi", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "3hop1__19768_19788_10117", "method": "ircot", "pred": "1,400 years ago", "gold": "1,400 years", "em": 0.0, "f1": 0.8571428571428571, "info": {"retrieved": 6}}
+{"qid": "2hop__56851_343058", "method": "ircot", "pred": "John Challis", "gold": "Adrian Edmondson", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "4hop1__341777_508773_85832_745702", "method": "ircot", "pred": "Sebastian Cabot", "gold": "Sebastian Cabot", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "3hop1__365934_87694_124169", "method": "ircot", "pred": "30 September 1986", "gold": "1952", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "2hop__62311_62279", "method": "ircot", "pred": "August 1941", "gold": "10 July -- 31 October 1940", "em": 0.0, "f1": 0.0, "info": {"retrieved": 11}}
+{"qid": "2hop__409166_152023", "method": "ircot", "pred": "Impulse!", "gold": "Kicking Mule Records", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "3hop2__30152_105395_20999", "method": "ircot", "pred": "Ottoman-Portuguese naval wars", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.22222222222222224, "info": {"retrieved": 3}}
+{"qid": "2hop__703767_37168", "method": "ircot", "pred": "551-600", "gold": "551-600", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "2hop__511176_22458", "method": "ircot", "pred": "Fédération Internationale de Football Association", "gold": "International Federation of Association Football", "em": 0.0, "f1": 0.3333333333333333, "info": {"retrieved": 11}}
+{"qid": "2hop__42747_83837", "method": "ircot", "pred": "Karen Fairchild", "gold": "Karen Fairchild", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "2hop__83800_747874", "method": "ircot", "pred": "Dinah, Tisha, and Lynette", "gold": "Jamie Murray", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "2hop__83257_19033", "method": "ircot", "pred": "WrestleMania 21", "gold": "Great American Bash", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "2hop__55966_162341", "method": "ircot", "pred": "positive reception from critics", "gold": "nominated for an Academy Award for Best Supporting Actor", "em": 0.0, "f1": 0.0, "info": {"retrieved": 11}}
+{"qid": "3hop1__102461_24918_24991", "method": "ircot", "pred": "the Soviet flag", "gold": "Soviet flag", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "2hop__30905_189318", "method": "ircot", "pred": "Yale University", "gold": "National War College", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "2hop__754753_57816", "method": "ircot", "pred": "68th nationally", "gold": "100", "em": 0.0, "f1": 0.0, "info": {"retrieved": 13}}
+{"qid": "3hop1__127837_157828_239539", "method": "ircot", "pred": "Belgrade", "gold": "Pristina", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "2hop__411091_625230", "method": "ircot", "pred": "Hancock County", "gold": "Hancock County", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "2hop__776377_857193", "method": "ircot", "pred": "Delaware River", "gold": "Delaware River", "em": 1.0, "f1": 1.0, "info": {"retrieved": 11}}
+{"qid": "4hop2__160585_14670_8987_8529", "method": "ircot", "pred": "1943–1992", "gold": "1943–1992", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "3hop1__28404_160713_77246", "method": "ircot", "pred": "Islam", "gold": "the country of India", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "2hop__612719_6455", "method": "ircot", "pred": "Firefox", "gold": "Firefox", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "2hop__8496_21567", "method": "ircot", "pred": "John Kukuzelis", "gold": "John Kukuzelis", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "2hop__70338_36240", "method": "ircot", "pred": "Job 19: 20", "gold": "Genesis 3:15", "em": 0.0, "f1": 0.0, "info": {"retrieved": 12}}
+{"qid": "2hop__275891_55984", "method": "ircot", "pred": "Phil Hanseroth", "gold": "Phil Hanseroth", "em": 1.0, "f1": 1.0, "info": {"retrieved": 12}}
+{"qid": "3hop1__136129_87694_124169", "method": "ircot", "pred": "251 AD", "gold": "1952", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "2hop__455158_247871", "method": "ircot", "pred": "Waseca County", "gold": "Waseca County", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "4hop3__373866_5189_38229_86687", "method": "ircot", "pred": "1989", "gold": "May 1990", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "2hop__123214_22402", "method": "ircot", "pred": "nearly 25,000", "gold": "nearly 25,000", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "2hop__418360_67370", "method": "ircot", "pred": "February 11, 2018", "gold": "January 19, 2018", "em": 0.0, "f1": 0.3333333333333333, "info": {"retrieved": 11}}
+{"qid": "2hop__552546_70131", "method": "ircot", "pred": "Hermann Ehrhardt", "gold": "consisting largely of World War I veterans", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "3hop1__131783_131926_13165", "method": "ircot", "pred": "Treaty of Guadalupe Hidalgo", "gold": "Treaty of Paris", "em": 0.0, "f1": 0.5714285714285715, "info": {"retrieved": 7}}
+{"qid": "3hop1__139787_88110_77129", "method": "ircot", "pred": "Windows Server 2008", "gold": "Windows 8", "em": 0.0, "f1": 0.4, "info": {"retrieved": 9}}
+{"qid": "3hop1__358853_339990_15538", "method": "ircot", "pred": "1984", "gold": "1984", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "2hop__67956_463572", "method": "ircot", "pred": "Epic Records", "gold": "MGM Records", "em": 0.0, "f1": 0.5, "info": {"retrieved": 9}}
+{"qid": "3hop2__326964_7855_7713", "method": "ircot", "pred": "since the 12th century", "gold": "about 400 years", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "2hop__73921_807969", "method": "ircot", "pred": "Mohamed Salah", "gold": "Egypt national football team", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "4hop1__58323_375563_161848_83118", "method": "ircot", "pred": "first Sunday in April", "gold": "the first Sunday in April", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "2hop__135652_669373", "method": "ircot", "pred": "Charles University in Prague", "gold": "Charles University", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 9}}
+{"qid": "2hop__90773_715759", "method": "ircot", "pred": "the Manhattan Project", "gold": "Manhattan Project", "em": 1.0, "f1": 1.0, "info": {"retrieved": 12}}
+{"qid": "2hop__141456_6455", "method": "ircot", "pred": "Firefox", "gold": "Firefox", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "2hop__354635_174222", "method": "ircot", "pred": "Time Warner Cable", "gold": "Time Warner Cable", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "4hop3__524186_219173_862998_72134", "method": "ircot", "pred": "1821", "gold": "1839", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "4hop1__436202_765799_282674_759393", "method": "ircot", "pred": "Pécs", "gold": "Green Bay", "em": 0.0, "f1": 0.0, "info": {"retrieved": 12}}
+{"qid": "3hop1__354480_834494_34109", "method": "ircot", "pred": "Pima County", "gold": "KUAT-TV 6", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "3hop1__389069_132457_47686", "method": "ircot", "pred": "Toronto Coach Terminal", "gold": "Toronto Coach Terminal", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "4hop3__678814_466199_695123_72134", "method": "ircot", "pred": "1825", "gold": "1839", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "4hop2__567956_39078_8987_8974", "method": "ircot", "pred": "Alfredo Stroessner's Paraguay", "gold": "Alfredo Stroessner's Paraguay", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "2hop__6736_6733", "method": "ircot", "pred": "Division I", "gold": "Eastern block", "em": 0.0, "f1": 0.0, "info": {"retrieved": 11}}
+{"qid": "2hop__60001_512508", "method": "ircot", "pred": "action at Gallipoli", "gold": "Manhattan Project", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "3hop1__409517_547811_80702", "method": "ircot", "pred": "Erasmusbrug", "gold": "Rialto Bridge", "em": 0.0, "f1": 0.0, "info": {"retrieved": 12}}
+{"qid": "2hop__403712_793210", "method": "ircot", "pred": "Henry Baring", "gold": "Sir Francis Baring, 1st Baronet", "em": 0.0, "f1": 0.28571428571428575, "info": {"retrieved": 8}}
+{"qid": "2hop__21104_16254", "method": "ircot", "pred": "92 percent", "gold": "92 percent", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "2hop__83405_158262", "method": "ircot", "pred": "1848", "gold": "1848", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "2hop__374767_152023", "method": "ircot", "pred": "Telarc record label", "gold": "Kicking Mule Records", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "2hop__820739_250752", "method": "ircot", "pred": "Darin Morgan", "gold": "Glen Morgan", "em": 0.0, "f1": 0.5, "info": {"retrieved": 8}}
+{"qid": "4hop1__433767_32392_823060_610794", "method": "ircot", "pred": "Richland County", "gold": "Richland County", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "4hop1__726391_153080_33952_34053", "method": "ircot", "pred": "1972", "gold": "1905", "em": 0.0, "f1": 0.0, "info": {"retrieved": 10}}
+{"qid": "2hop__689472_52835", "method": "ircot", "pred": "John D. Loudermilk", "gold": "John D. Loudermilk", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "4hop1__129721_32392_823060_610794", "method": "ircot", "pred": "Richland County", "gold": "Richland County", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "2hop__289517_139339", "method": "ircot", "pred": "Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series", "gold": "Academy Award for Best Live Action Short Film", "em": 0.0, "f1": 0.22222222222222224, "info": {"retrieved": 11}}
+{"qid": "2hop__80546_75184", "method": "ircot", "pred": "Claudia Wells", "gold": "Claudia Wells", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "3hop1__79462_91850_685675", "method": "ircot", "pred": "New York Yankees", "gold": "New York Yankees", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "4hop3__426860_88460_30152_20999", "method": "ircot", "pred": "fleeing to Dobruja", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "4hop1__94201_642284_131926_90707", "method": "ircot", "pred": "Cairo, Illinois", "gold": "at the city of Cairo, Illinois", "em": 0.0, "f1": 0.5714285714285715, "info": {"retrieved": 12}}
+{"qid": "2hop__142842_68489", "method": "ircot", "pred": "Kate Roberts", "gold": "Snapper Foster", "em": 0.0, "f1": 0.0, "info": {"retrieved": 14}}
+{"qid": "3hop1__540585_568433_47686", "method": "ircot", "pred": "Toronto", "gold": "Toronto Coach Terminal", "em": 0.0, "f1": 0.5, "info": {"retrieved": 5}}
+{"qid": "2hop__323534_810083", "method": "ircot", "pred": "Scranton, Pennsylvania, United States", "gold": "Scranton", "em": 0.0, "f1": 0.4, "info": {"retrieved": 10}}
+{"qid": "2hop__829474_123956", "method": "ircot", "pred": "July 6, 1983", "gold": "15 February 1942", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "2hop__56307_604644", "method": "ircot", "pred": "Columbia Records", "gold": "429 Records", "em": 0.0, "f1": 0.5, "info": {"retrieved": 9}}
+{"qid": "2hop__507528_139339", "method": "ircot", "pred": "The provided passages do not contain information about what the director of *Lisa Picard is Famous* was nominated for.", "gold": "Academy Award for Best Live Action Short Film", "em": 0.0, "f1": 0.07999999999999999, "info": {"retrieved": 10}}
+{"qid": "2hop__44259_747874", "method": "ircot", "pred": "Jamie Murray", "gold": "Jamie Murray", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "3hop1__107540_720914_27537", "method": "ircot", "pred": "for the conclave in Rome", "gold": "for the conclave in Rome", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "2hop__428940_135373", "method": "ircot", "pred": "Vitus Bering", "gold": "Vitus Bering", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "2hop__71871_494136", "method": "ircot", "pred": "Meg Ryan", "gold": "Meg Ryan", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "3hop1__147225_30587_83479", "method": "ircot", "pred": "Germany's subsequent counter-blockade", "gold": "to stem the flow of merchant shipping that enabled Britain to keep fighting", "em": 0.0, "f1": 0.0, "info": {"retrieved": 11}}
+{"qid": "3hop1__161433_33952_33939", "method": "ircot", "pred": "7,531", "gold": "7,531", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "4hop1__629520_49925_13759_736921", "method": "ircot", "pred": "east of Saxony-Anhalt", "gold": "Saxony-Anhalt", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 11}}
+{"qid": "2hop__865828_377862", "method": "ircot", "pred": "The provided passages do not contain information about Gmina Jordanow or its county.", "gold": "Sucha Beskidzka", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "2hop__642686_7292", "method": "ircot", "pred": "George Benson", "gold": "George Benson", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "2hop__620853_22458", "method": "ircot", "pred": "Fédération Internationale de Football Association", "gold": "International Federation of Association Football", "em": 0.0, "f1": 0.3333333333333333, "info": {"retrieved": 8}}
+{"qid": "4hop3__630723_88460_30152_20999", "method": "ircot", "pred": "Mekong River", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "4hop3__719125_132409_371500_35031", "method": "ircot", "pred": "4th", "gold": "third-largest", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "3hop1__376309_160713_77246", "method": "ircot", "pred": "Islam", "gold": "the country of India", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "4hop1__310029_153080_33897_81096", "method": "ircot", "pred": "Mark Dismore", "gold": "Mario Andretti", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "4hop1__105688_17130_70784_79935", "method": "ircot", "pred": "not mentioned", "gold": "1930", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "2hop__709357_136043", "method": "ircot", "pred": "Nicole and Natalie Albino", "gold": "Natalie Albino", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 10}}
+{"qid": "3hop1__347858_503371_21711", "method": "ircot", "pred": "15th century", "gold": "built in the 15th century", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 6}}
+{"qid": "4hop1__525129_315334_131926_87157", "method": "ircot", "pred": "north northwest", "gold": "rises in northern Minnesota and meanders slowly southwards", "em": 0.0, "f1": 0.0, "info": {"retrieved": 11}}
+{"qid": "3hop1__140554_2053_52946", "method": "ircot", "pred": "February 7, 2018", "gold": "February 7, 2018", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "3hop1__516535_834494_34109", "method": "ircot", "pred": "KUAT-TV 6", "gold": "KUAT-TV 6", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "3hop1__639955_834494_34109", "method": "ircot", "pred": "KUNO-TV", "gold": "KUAT-TV 6", "em": 0.0, "f1": 0.4, "info": {"retrieved": 9}}
+{"qid": "3hop1__786067_228453_86925", "method": "ircot", "pred": "The Saints", "gold": "fleur - de-lis", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "4hop1__60000_59747_211319_557671", "method": "ircot", "pred": "Tarrant County", "gold": "Presque Isle County", "em": 0.0, "f1": 0.4, "info": {"retrieved": 5}}
+{"qid": "3hop1__295815_40769_64047", "method": "ircot", "pred": "1998", "gold": "Sales began worldwide in April 2012", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "2hop__145203_34088", "method": "ircot", "pred": "Tucson Raceway Park", "gold": "Tucson Raceway Park", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "3hop1__17192_78396_54865", "method": "ircot", "pred": "1783", "gold": "1776", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "3hop1__506062_792411_51423", "method": "ircot", "pred": "Katzenstein Castle", "gold": "Casa Loma", "em": 0.0, "f1": 0.0, "info": {"retrieved": 12}}
+{"qid": "2hop__179149_396277", "method": "ircot", "pred": "Shrek!", "gold": "Doctor De Soto", "em": 0.0, "f1": 0.0, "info": {"retrieved": 10}}
+{"qid": "4hop3__439878_88460_30152_20999", "method": "ircot", "pred": "Mekong River", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "3hop2__36852_326964_7713", "method": "ircot", "pred": "not mentioned in the passages", "gold": "about 400 years", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "2hop__157376_643670", "method": "ircot", "pred": "Nieuwe Maas", "gold": "Het Scheur", "em": 0.0, "f1": 0.0, "info": {"retrieved": 12}}
+{"qid": "4hop1__105401_17130_70784_61381", "method": "ircot", "pred": "1932", "gold": "1932", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "3hop1__747772_514761_594810", "method": "ircot", "pred": "MCA Nashville", "gold": "Warner Bros. Records", "em": 0.0, "f1": 0.0, "info": {"retrieved": 11}}
+{"qid": "3hop1__823336_228453_86925", "method": "ircot", "pred": "The Pentagon", "gold": "fleur - de-lis", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "3hop1__768500_730460_70315", "method": "ircot", "pred": "New Orleans", "gold": "the city of New Orleans", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 12}}
+{"qid": "2hop__59612_42352", "method": "ircot", "pred": "2 million", "gold": "2 million", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "2hop__96096_78606", "method": "ircot", "pred": "Patricia", "gold": "Joyce Van Patten", "em": 0.0, "f1": 0.0, "info": {"retrieved": 10}}
+{"qid": "2hop__35136_35117", "method": "ircot", "pred": "1213–1288", "gold": "1213–1288", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "4hop1__15567_59747_211319_557671", "method": "ircot", "pred": "Duval County", "gold": "Presque Isle County", "em": 0.0, "f1": 0.4, "info": {"retrieved": 5}}
+{"qid": "3hop1__559908_42197_18397", "method": "ircot", "pred": "the UN", "gold": "the Politburo", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "3hop1__127821_157828_162309", "method": "ircot", "pred": "1990", "gold": "2016", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "4hop1__130623_32392_823060_610794", "method": "ircot", "pred": "Richland County", "gold": "Richland County", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "2hop__776637_87295", "method": "ircot", "pred": "Queen dowager Clarisse Renaldi", "gold": "Queen dowager Clarisse Renaldi", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "4hop1__58323_375563_161848_61344", "method": "ircot", "pred": "Zealandia", "gold": "submerged continent of Zealandia", "em": 0.0, "f1": 0.4, "info": {"retrieved": 9}}
+{"qid": "2hop__84937_21969", "method": "ircot", "pred": "1788", "gold": "1786", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "3hop2__132957_483843_40768", "method": "ircot", "pred": "A decade after the 1973 oil crisis", "gold": "1981", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "2hop__198650_84856", "method": "ircot", "pred": "The provided passages do not contain information about a show starring Bill Maher or when a new season of such a show starts.", "gold": "January 20, 2017", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "2hop__631139_75487", "method": "ircot", "pred": "Andrew Scheer", "gold": "Andrew Scheer", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "3hop1__161507_160713_77246", "method": "ircot", "pred": "freedom", "gold": "the country of India", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "4hop1__752321_153080_159767_81096", "method": "ircot", "pred": "Logan Gomez", "gold": "Mario Andretti", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "2hop__189094_612080", "method": "ircot", "pred": "Maltese Premier League", "gold": "Maltese Premier League", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "2hop__223823_29898", "method": "ircot", "pred": "CFJC-TV", "gold": "CFJC-TV in Kamloops", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 7}}
+{"qid": "2hop__199513_801817", "method": "ircot", "pred": "Nazareth", "gold": "Nazareth", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "3hop1__84887_538202_84283", "method": "ircot", "pred": "James Conkling", "gold": "Warner Music Group", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "2hop__80637_19033", "method": "ircot", "pred": "WrestleMania 21", "gold": "Great American Bash", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "4hop2__161602_426860_88460_126088", "method": "ircot", "pred": "Canada", "gold": "Thein Sein", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "3hop2__607269_223623_162182", "method": "ircot", "pred": "South Central Coast", "gold": "South Central Coast", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "3hop1__305282_282081_10972", "method": "ircot", "pred": "1973", "gold": "1970s", "em": 0.0, "f1": 0.0, "info": {"retrieved": 13}}
+{"qid": "2hop__734582_74481", "method": "ircot", "pred": "Vito Andolini Corleone", "gold": "Vito Corleone", "em": 0.0, "f1": 0.8, "info": {"retrieved": 6}}
+{"qid": "2hop__156085_436709", "method": "ircot", "pred": "Walt Disney and Ub Iwerks", "gold": "Walt Disney", "em": 0.0, "f1": 0.5714285714285715, "info": {"retrieved": 9}}
+{"qid": "2hop__669160_139339", "method": "ircot", "pred": "an Academy Award for Best Live Action Short Film", "gold": "Academy Award for Best Live Action Short Film", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "2hop__67660_67223", "method": "ircot", "pred": "Tracy McConnell", "gold": "Tracy Mosby", "em": 0.0, "f1": 0.5, "info": {"retrieved": 5}}
+{"qid": "3hop1__857_846_7810", "method": "ircot", "pred": "Nanjing", "gold": "RMB 98,174(US$16041)", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "2hop__137061_45752", "method": "ircot", "pred": "The provided passages do not contain information about why the place where Step Up Revolution takes place has a duck for a mascot.", "gold": "when the school's yearbook chose its name to be ``The Ibis", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "2hop__58691_192417", "method": "ircot", "pred": "National Football League", "gold": "sports league", "em": 0.0, "f1": 0.4, "info": {"retrieved": 9}}
+{"qid": "3hop1__133292_40769_64047", "method": "ircot", "pred": "April 2012", "gold": "Sales began worldwide in April 2012", "em": 0.0, "f1": 0.5, "info": {"retrieved": 5}}
+{"qid": "2hop__252521_80650", "method": "ircot", "pred": "Sir David Jason", "gold": "Martin Short", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "2hop__194532_57594", "method": "ircot", "pred": "The provided passages do not contain information about the director of the film *Pollock* or what gun they use in *Westworld*. Passage [6] mentions", "gold": "LeMat revolver", "em": 0.0, "f1": 0.0, "info": {"retrieved": 11}}
+{"qid": "3hop2__304722_203717_63959", "method": "ircot", "pred": "21 May 2005", "gold": "1 December 2010", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "4hop1__9002_698949_157828_239539", "method": "ircot", "pred": "Belgrade", "gold": "Pristina", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "4hop3__373573_132409_146285_35031", "method": "ircot", "pred": "27th", "gold": "third-largest", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "2hop__450600_158262", "method": "ircot", "pred": "1848", "gold": "1848", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "4hop3__661103_698586_1926_54362", "method": "ircot", "pred": "The provided passages do not contain the answer to the question.", "gold": "Confederate Gen. John Bell Hood", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "2hop__268084_78303", "method": "ircot", "pred": "Joel McCrea", "gold": "Cordell Walker", "em": 0.0, "f1": 0.0, "info": {"retrieved": 11}}
+{"qid": "3hop1__104996_160713_77246", "method": "ircot", "pred": "Islam", "gold": "the country of India", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "3hop1__374018_160713_77246", "method": "ircot", "pred": "a large body of water", "gold": "the country of India", "em": 0.0, "f1": 0.28571428571428575, "info": {"retrieved": 3}}
+{"qid": "2hop__10017_18974", "method": "ircot", "pred": "Chen Zheng", "gold": "Chen Zheng", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "2hop__596188_297986", "method": "ircot", "pred": "Greenwich", "gold": "Royal Borough of Greenwich", "em": 0.0, "f1": 0.4, "info": {"retrieved": 6}}
+{"qid": "3hop1__120881_2053_52946", "method": "ircot", "pred": "February 7, 2018", "gold": "February 7, 2018", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "3hop1__145427_106426_157788", "method": "ircot", "pred": "Shanghai–Hangzhou high-speed railway", "gold": "Yamanote Line loop", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "2hop__735014_83837", "method": "ircot", "pred": "Karen Fairchild", "gold": "Karen Fairchild", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "2hop__123104_77615", "method": "ircot", "pred": "1912", "gold": "1912", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "4hop3__700962_88460_30152_20999", "method": "ircot", "pred": "fleeing to Dobruja", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "2hop__857493_17335", "method": "ircot", "pred": "323 BC", "gold": "323 BC", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "4hop1__749065_698949_157828_239539", "method": "ircot", "pred": "Belgrade", "gold": "Pristina", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "2hop__788087_150107", "method": "ircot", "pred": "Routledge", "gold": "Association for Computing Machinery", "em": 0.0, "f1": 0.0, "info": {"retrieved": 12}}
+{"qid": "2hop__530579_13529", "method": "ircot", "pred": "June 1982", "gold": "June 1982", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "4hop1__73810_32392_823060_610794", "method": "ircot", "pred": "Waseca County", "gold": "Richland County", "em": 0.0, "f1": 0.5, "info": {"retrieved": 9}}
+{"qid": "3hop1__222380_443779_52195", "method": "ircot", "pred": "Xanana Gusmão", "gold": "Francisco Guterres", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "4hop1__51465_53706_795904_580996", "method": "ircot", "pred": "Baja California", "gold": "Rio Linda", "em": 0.0, "f1": 0.0, "info": {"retrieved": 10}}
+{"qid": "4hop2__9988_685934_70784_61381", "method": "ircot", "pred": "1979", "gold": "1932", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "4hop2__161602_426860_88460_20988", "method": "ircot", "pred": "World War II", "gold": "one of the world's longest-running ongoing civil wars.", "em": 0.0, "f1": 0.16666666666666666, "info": {"retrieved": 10}}
+{"qid": "3hop1__622497_160088_49779", "method": "ircot", "pred": "Christopher Bryan Harrison", "gold": "Chris Harrison", "em": 0.0, "f1": 0.4, "info": {"retrieved": 7}}
+{"qid": "2hop__66167_88526", "method": "ircot", "pred": "Wilt Chamberlain", "gold": "Greg Oden", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "2hop__485221_544917", "method": "ircot", "pred": "Lake Superior", "gold": "Lake Superior", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "3hop1__622497_160088_73916", "method": "ircot", "pred": "$72,641", "gold": "$72,641", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "3hop1__145427_106426_77199", "method": "ircot", "pred": "December 8, 1941", "gold": "December 8, 1941", "em": 1.0, "f1": 1.0, "info": {"retrieved": 11}}
+{"qid": "3hop2__326964_263934_7713", "method": "ircot", "pred": "not mentioned", "gold": "about 400 years", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "2hop__14_59409", "method": "ircot", "pred": "three different relationships he had in the past", "gold": "three different relationships he had in the past", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "2hop__5658_25002", "method": "ircot", "pred": "10-year", "gold": "10-year", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "2hop__35566_17873", "method": "ircot", "pred": "it was seldom used, even neglected", "gold": "palace was seldom used, even neglected", "em": 0.0, "f1": 0.8333333333333334, "info": {"retrieved": 7}}
+{"qid": "3hop1__796649_720914_27537", "method": "ircot", "pred": "for the conclave in Rome", "gold": "for the conclave in Rome", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "4hop2__71753_729371_70784_61381", "method": "ircot", "pred": "1521", "gold": "1932", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "3hop1__131110_39743_24526", "method": "ircot", "pred": "10 °F (−12 °C) to 50 °F (10 °C)", "gold": "upper 40s–lower 50s °F", "em": 0.0, "f1": 0.14285714285714285, "info": {"retrieved": 9}}
+{"qid": "2hop__16844_42173", "method": "ircot", "pred": "1757", "gold": "1599", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "2hop__13539_13493", "method": "ircot", "pred": "sextuple", "gold": "continental treble", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "2hop__497191_129669", "method": "ircot", "pred": "Lisbon District", "gold": "Lisbon District", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "3hop1__672543_503371_21711", "method": "ircot", "pred": "15th century", "gold": "built in the 15th century", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 5}}
+{"qid": "2hop__9285_42311", "method": "ircot", "pred": "Medical University of Warsaw", "gold": "Medical University of Warsaw", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "3hop1__404541_629431_124169", "method": "ircot", "pred": "1870", "gold": "1952", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "4hop1__9007_698949_157828_239539", "method": "ircot", "pred": "Belgrade", "gold": "Pristina", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "4hop2__161602_426860_88460_21062", "method": "ircot", "pred": "no", "gold": "It is not possible for foreigners to go to/from Myanmar by sea or river.", "em": 0.0, "f1": 0.0, "info": {"retrieved": 13}}
+{"qid": "3hop1__9285_5188_23307", "method": "ircot", "pred": "June 1989", "gold": "mid-June", "em": 0.0, "f1": 0.5, "info": {"retrieved": 9}}
+{"qid": "2hop__32441_522949", "method": "ircot", "pred": "Edith Roosevelt", "gold": "Edith Roosevelt", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "2hop__648648_173389", "method": "ircot", "pred": "Middleton", "gold": "Middleton", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "3hop1__671542_665330_47686", "method": "ircot", "pred": "1001 Filbert Street in Center City Philadelphia", "gold": "Toronto Coach Terminal", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "3hop1__662413_42197_18397", "method": "ircot", "pred": "In his speech on the UN", "gold": "the Politburo", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "3hop1__140855_2053_52946", "method": "ircot", "pred": "February 7, 2018", "gold": "February 7, 2018", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}

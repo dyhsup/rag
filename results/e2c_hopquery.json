@@ -1,0 +1,3829 @@
+{
+  "n_hops": 540,
+  "hops": [
+    {
+      "qid": "2hop__44815_494136",
+      "hop": 0,
+      "text": "who plays old ethan in a dogs purpose",
+      "rank_dense_bound": 4,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "2hop__44815_494136",
+      "hop": 1,
+      "text": "Dennis Quaid   spouse",
+      "rank_dense_bound": 145,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__640262_122868",
+      "hop": 0,
+      "text": "1967: The Last Good Year   author",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__640262_122868",
+      "hop": 1,
+      "text": "What is the university where Pierre Berton went?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__370564_71701",
+      "hop": 0,
+      "text": "Century Lotus Stadium   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__370564_71701",
+      "hop": 1,
+      "text": "what year did the japanese get to Foshan and the rest of guangdong province",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__6827_79845",
+      "hop": 0,
+      "text": "Who bought FleetBoston Financial?",
+      "rank_dense_bound": 4,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "2hop__6827_79845",
+      "hop": 1,
+      "text": "how many Bank of America atms are there",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "3hop2__90098_156850_10557",
+      "hop": 0,
+      "text": "where does the last name sylvester come from",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop2__90098_156850_10557",
+      "hop": 1,
+      "text": "What is Fastrada's spouse's name?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__90098_156850_10557",
+      "hop": 2,
+      "text": "What was the from the Latin of Charlemagne 's era later known as?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__488811_30110",
+      "hop": 0,
+      "text": "Erich Zakowski   place of birth",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__488811_30110",
+      "hop": 1,
+      "text": "What happened to the Curonians who lived in the area in East Prussia ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__17827_54024",
+      "hop": 0,
+      "text": "Who sold off part of the Crown Freehold?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__17827_54024",
+      "hop": 1,
+      "text": "who is king James I who translated the bible",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "2hop__752214_639679",
+      "hop": 0,
+      "text": "Queen of the Elephants   author",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__752214_639679",
+      "hop": 1,
+      "text": "Mark Shand   spouse",
+      "rank_dense_bound": 975,
+      "rank_bm25_bound": 67
+    },
+    {
+      "qid": "2hop__810884_22402",
+      "hop": 0,
+      "text": "Edith Humphrey   educated at",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__810884_22402",
+      "hop": 1,
+      "text": "How many students attend University of Zurich ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop1__341777_508773_85832_745702",
+      "hop": 0,
+      "text": "Eduardo Cuervo   place of birth",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__341777_508773_85832_745702",
+      "hop": 1,
+      "text": "Guadalajara   continent",
+      "rank_dense_bound": 84,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop1__341777_508773_85832_745702",
+      "hop": 2,
+      "text": "who was the italian navigator sailing for england that explored the eastern coast of North America",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__341777_508773_85832_745702",
+      "hop": 3,
+      "text": "John Cabot   child",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__132957_222979_40768",
+      "hop": 0,
+      "text": "Who made Acura Legend?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "3hop2__132957_222979_40768",
+      "hop": 1,
+      "text": "Scion   owned by",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "3hop2__132957_222979_40768",
+      "hop": 2,
+      "text": "When did Honda , Toyota and Nissan open US assembly plants?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__62311_62279",
+      "hop": 0,
+      "text": "who was the us at war with during the american revolution",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 49
+    },
+    {
+      "qid": "2hop__62311_62279",
+      "hop": 1,
+      "text": "when did germany launch an air attack on Great Britain",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 18
+    },
+    {
+      "qid": "3hop1__365934_87694_124169",
+      "hop": 0,
+      "text": "Mantua Cathedral   named after",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__365934_87694_124169",
+      "hop": 1,
+      "text": "st. Peter ’s basilica the head of the catholic religion is located in",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "3hop1__365934_87694_124169",
+      "hop": 2,
+      "text": "On what date did Governor of Vatican City end?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__409166_152023",
+      "hop": 0,
+      "text": "Sanctuary   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "2hop__409166_152023",
+      "hop": 1,
+      "text": "What label was responsible for Charlie Musselwhite ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "3hop1__857_846_7821",
+      "hop": 0,
+      "text": "Who was the edict addressed to?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__857_846_7821",
+      "hop": 1,
+      "text": "Where did the Yongle Emperor greet the the Karmapa ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__857_846_7821",
+      "hop": 2,
+      "text": "How many miles of highways are in Nanjing ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__19768_19788_10117",
+      "hop": 0,
+      "text": "Which region has the 2nd largest rain-forest in the world?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__19768_19788_10117",
+      "hop": 1,
+      "text": "Which religion is widely practiced in Southeast Asia ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__19768_19788_10117",
+      "hop": 2,
+      "text": "How long ago did Islam arrive in Zhejiang?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__703767_37168",
+      "hop": 0,
+      "text": "Hasan Hanafi   employer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__703767_37168",
+      "hop": 1,
+      "text": "According to QS World University Rankings where does Cairo University rank?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__56851_343058",
+      "hop": 0,
+      "text": "who plays the fairy god mother in shrek 2",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__56851_343058",
+      "hop": 1,
+      "text": "Jennifer Saunders   spouse",
+      "rank_dense_bound": 276,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__30152_105395_20999",
+      "hop": 0,
+      "text": "New coins were a proclamation of independence by the Somali Muslim Ajuran Empire from whom?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__30152_105395_20999",
+      "hop": 1,
+      "text": "The country for Star Cola was what?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__30152_105395_20999",
+      "hop": 2,
+      "text": "How were the the Portuguese expelled from Myanmar ?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__42747_83837",
+      "hop": 0,
+      "text": "who sings the country song light it up",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__42747_83837",
+      "hop": 1,
+      "text": "who sings home alone tonight with Luke Bryan",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__511176_22458",
+      "hop": 0,
+      "text": "Danish Football Union   member of",
+      "rank_dense_bound": 4,
+      "rank_bm25_bound": 37
+    },
+    {
+      "qid": "2hop__511176_22458",
+      "hop": 1,
+      "text": "What does FIFA stand for?",
+      "rank_dense_bound": 5,
+      "rank_bm25_bound": 39
+    },
+    {
+      "qid": "2hop__83800_747874",
+      "hop": 0,
+      "text": "who won the men's wimbledon championship 2016",
+      "rank_dense_bound": 11,
+      "rank_bm25_bound": 211
+    },
+    {
+      "qid": "2hop__83800_747874",
+      "hop": 1,
+      "text": "Andy Murray   sibling",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__83257_19033",
+      "hop": 0,
+      "text": "who invented the money in the bank ladder match",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__83257_19033",
+      "hop": 1,
+      "text": "Where did Chris Jericho win in 2008?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__55966_162341",
+      "hop": 0,
+      "text": "who played the game maker in hunger games",
+      "rank_dense_bound": 34,
+      "rank_bm25_bound": 3370
+    },
+    {
+      "qid": "2hop__55966_162341",
+      "hop": 1,
+      "text": "Philip Seymour Hoffman received what recognition?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__754753_57816",
+      "hop": 0,
+      "text": "Carlos Alvarez   employer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__754753_57816",
+      "hop": 1,
+      "text": "Florida International University law school ranking us news",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 9
+    },
+    {
+      "qid": "3hop1__127837_157828_239539",
+      "hop": 0,
+      "text": "What language is Kuhinjica in?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__127837_157828_239539",
+      "hop": 1,
+      "text": "Serbian is the co-official language of what country?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__127837_157828_239539",
+      "hop": 2,
+      "text": "Radio Television of Kosovo   headquarters location",
+      "rank_dense_bound": 13,
+      "rank_bm25_bound": 2764
+    },
+    {
+      "qid": "3hop1__102461_24918_24991",
+      "hop": 0,
+      "text": "What was Andrey Dashkov birth country?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__102461_24918_24991",
+      "hop": 1,
+      "text": "Who visited the Ukraine while the protests were taking place?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "3hop1__102461_24918_24991",
+      "hop": 2,
+      "text": "What went down after Gorbachev departed from the Kremlin?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "2hop__612719_6455",
+      "hop": 0,
+      "text": "Mozilla Messaging   owned by",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__612719_6455",
+      "hop": 1,
+      "text": "What was the resulting browser for Mozilla Foundation ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__30905_189318",
+      "hop": 0,
+      "text": "Who sponsored the resolution to reopen trade with Vietnam, along with Kerry?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__30905_189318",
+      "hop": 1,
+      "text": "John McCain   educated at",
+      "rank_dense_bound": 49,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__776377_857193",
+      "hop": 0,
+      "text": "Bartram's Covered Bridge   crosses",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__776377_857193",
+      "hop": 1,
+      "text": "Crum Creek   mouth of the watercourse",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__411091_625230",
+      "hop": 0,
+      "text": "Mark Dismore   place of birth",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__411091_625230",
+      "hop": 1,
+      "text": "Greenfield   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 19
+    },
+    {
+      "qid": "4hop2__160585_14670_8987_8529",
+      "hop": 0,
+      "text": "Where was Hana Mandlikova born?",
+      "rank_dense_bound": 10,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "4hop2__160585_14670_8987_8529",
+      "hop": 1,
+      "text": "The Air Defense Artillery is a branch of what?",
+      "rank_dense_bound": 9,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop2__160585_14670_8987_8529",
+      "hop": 2,
+      "text": "What the Army was unprepared for the invasion of Czechoslovakia ?",
+      "rank_dense_bound": 3,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop2__160585_14670_8987_8529",
+      "hop": 3,
+      "text": "When was the word \"Slavs\" used in the national anthem of Yugoslavia ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__28404_160713_77246",
+      "hop": 0,
+      "text": "Which country disavowed the Taliban?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__28404_160713_77246",
+      "hop": 1,
+      "text": "What was the majority religion in the area of British India that become India when Pakistan was created?",
+      "rank_dense_bound": 31,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__28404_160713_77246",
+      "hop": 2,
+      "text": "what is the meaning of Hindu in arabic dictionary",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "2hop__8496_21567",
+      "hop": 0,
+      "text": "There is no evidence of a Slavic settlement where before c. 600 AD?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__8496_21567",
+      "hop": 1,
+      "text": "Who introduced a system of musical notation used in the the Balkans in the 14th century?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__70338_36240",
+      "hop": 0,
+      "text": "where did by the skin of your teeth come from",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__70338_36240",
+      "hop": 1,
+      "text": "What specific part the from the Bible does this document reference for Mary ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 59
+    },
+    {
+      "qid": "2hop__275891_55984",
+      "hop": 0,
+      "text": "Rhapsody Originals   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__275891_55984",
+      "hop": 1,
+      "text": "who wrote the song the story sung by Brandi Carlile",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__136129_87694_124169",
+      "hop": 0,
+      "text": "What is Đakovo Cathedral named after?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__136129_87694_124169",
+      "hop": 1,
+      "text": "st. Peter ’s basilica the head of the catholic religion is located in",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "3hop1__136129_87694_124169",
+      "hop": 2,
+      "text": "On what date did Governor of Vatican City end?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__373866_5189_38229_86687",
+      "hop": 0,
+      "text": "People's Socialist Republic of Albania   member of",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "4hop3__373866_5189_38229_86687",
+      "hop": 1,
+      "text": "Which nation was in effective control of both political and military functions of Warsaw Pact ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop3__373866_5189_38229_86687",
+      "hop": 2,
+      "text": "What topic did Eisenhower not discuss during the campaign?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__373866_5189_38229_86687",
+      "hop": 3,
+      "text": "when did the the USSR agree to a unified germany inside of NATO",
+      "rank_dense_bound": 9,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__455158_247871",
+      "hop": 0,
+      "text": "NRHEG High School   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__455158_247871",
+      "hop": 1,
+      "text": "New Richland   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__131783_131926_13165",
+      "hop": 0,
+      "text": "Which state is The Minikahda Club located?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__131783_131926_13165",
+      "hop": 1,
+      "text": "Which is the body of water by Minneapolis ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__131783_131926_13165",
+      "hop": 2,
+      "text": "What treaty ceded territory to the US extending west to Mississippi River ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "2hop__123214_22402",
+      "hop": 0,
+      "text": "Where did Daniel Thürer study or work?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__123214_22402",
+      "hop": 1,
+      "text": "How many students attend University of Zurich ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "3hop1__358853_339990_15538",
+      "hop": 0,
+      "text": "Raven Creek   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__358853_339990_15538",
+      "hop": 1,
+      "text": "Columbia County   located in the administrative territorial entity",
+      "rank_dense_bound": 849,
+      "rank_bm25_bound": 65
+    },
+    {
+      "qid": "3hop1__358853_339990_15538",
+      "hop": 2,
+      "text": "When did Oregon reinstate the death penalty?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__552546_70131",
+      "hop": 0,
+      "text": "Free State of Mecklenburg-Schwerin   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__552546_70131",
+      "hop": 1,
+      "text": "who constituted the free crops in Weimar Republic",
+      "rank_dense_bound": 4,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "2hop__67956_463572",
+      "hop": 0,
+      "text": "who sang the song you belong to me",
+      "rank_dense_bound": 58,
+      "rank_bm25_bound": 175
+    },
+    {
+      "qid": "2hop__67956_463572",
+      "hop": 1,
+      "text": "Joni James   record label",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__418360_67370",
+      "hop": 0,
+      "text": "The New New Rules   author",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__418360_67370",
+      "hop": 1,
+      "text": "when does real time with Bill Maher start again in 2018",
+      "rank_dense_bound": 172,
+      "rank_bm25_bound": 1299
+    },
+    {
+      "qid": "2hop__73921_807969",
+      "hop": 0,
+      "text": "who is the bbc footballer of the year",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__73921_807969",
+      "hop": 1,
+      "text": "Mohamed Salah   member of sports team",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__139787_88110_77129",
+      "hop": 0,
+      "text": "What network broadcast Buchanan & Press?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__139787_88110_77129",
+      "hop": 1,
+      "text": "what do the letters ms in MSNBC stand for",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__139787_88110_77129",
+      "hop": 2,
+      "text": "what was the first os to support Microsoft hyper-v",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__141456_6455",
+      "hop": 0,
+      "text": "What company is Mozilla Messaging part of?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__141456_6455",
+      "hop": 1,
+      "text": "What was the resulting browser for Mozilla Foundation ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__326964_7855_7713",
+      "hop": 0,
+      "text": "Yaxing Coach   headquarters location",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__326964_7855_7713",
+      "hop": 1,
+      "text": "What city is considered to be a place that is popular with tourists?",
+      "rank_dense_bound": 3,
+      "rank_bm25_bound": 150
+    },
+    {
+      "qid": "3hop2__326964_7855_7713",
+      "hop": 2,
+      "text": "How long had Nanjing been the capital city of Yangzhou ?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__436202_765799_282674_759393",
+      "hop": 0,
+      "text": "J. P. Hayes   place of birth",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop1__436202_765799_282674_759393",
+      "hop": 1,
+      "text": "Appleton   capital of",
+      "rank_dense_bound": 5,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "4hop1__436202_765799_282674_759393",
+      "hop": 2,
+      "text": "Outagamie County   shares border with",
+      "rank_dense_bound": 89,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop1__436202_765799_282674_759393",
+      "hop": 3,
+      "text": "Brown County   capital",
+      "rank_dense_bound": 15,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "3hop1__389069_132457_47686",
+      "hop": 0,
+      "text": "Sleep Is the Enemy   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__389069_132457_47686",
+      "hop": 1,
+      "text": "What city was Danko Jones formed in?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__389069_132457_47686",
+      "hop": 2,
+      "text": "where do greyhound buses leave from in Toronto",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "2hop__90773_715759",
+      "hop": 0,
+      "text": "who invented the trigger for the atomic bomb",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 11
+    },
+    {
+      "qid": "2hop__90773_715759",
+      "hop": 1,
+      "text": "Robert Serber   participant in",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__135652_669373",
+      "hop": 0,
+      "text": "What is Mach number named after?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__135652_669373",
+      "hop": 1,
+      "text": "Ernst Mach   employer",
+      "rank_dense_bound": 7,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "2hop__6736_6733",
+      "hop": 0,
+      "text": "Where are the most speakers found?",
+      "rank_dense_bound": 3,
+      "rank_bm25_bound": 6
+    },
+    {
+      "qid": "2hop__6736_6733",
+      "hop": 1,
+      "text": "To what division does Central Catalan belong?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__58323_375563_161848_83118",
+      "hop": 0,
+      "text": "who wrote the book thief soon to appear as a film",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop1__58323_375563_161848_83118",
+      "hop": 1,
+      "text": "Markus Zusak   country of citizenship",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__58323_375563_161848_83118",
+      "hop": 2,
+      "text": "What country located near Australia was a first time participant in these games?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__58323_375563_161848_83118",
+      "hop": 3,
+      "text": "when does daylight saving end in New Zealand",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__524186_219173_862998_72134",
+      "hop": 0,
+      "text": "The Poor Boob   screenwriter",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__524186_219173_862998_72134",
+      "hop": 1,
+      "text": "Margaret Mayo   place of birth",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__524186_219173_862998_72134",
+      "hop": 2,
+      "text": "Hillcrest High School   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__524186_219173_862998_72134",
+      "hop": 3,
+      "text": "when did Springfield become the capital of Illinois",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__354480_834494_34109",
+      "hop": 0,
+      "text": "Eric Marcus Municipal Airport   location",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__354480_834494_34109",
+      "hop": 1,
+      "text": "Pima County   contains administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__354480_834494_34109",
+      "hop": 2,
+      "text": "What is Tucson 's PBS station?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__354635_174222",
+      "hop": 0,
+      "text": "Empire Sports Network   owned by",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__354635_174222",
+      "hop": 1,
+      "text": "Adelphia Communications Corporation   followed by",
+      "rank_dense_bound": 4,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "4hop3__678814_466199_695123_72134",
+      "hop": 0,
+      "text": "Stoney Creek Township   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__678814_466199_695123_72134",
+      "hop": 1,
+      "text": "Randolph County   located in the administrative territorial entity",
+      "rank_dense_bound": 10,
+      "rank_bm25_bound": 288
+    },
+    {
+      "qid": "4hop3__678814_466199_695123_72134",
+      "hop": 2,
+      "text": "WIZE   licensed to broadcast to",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "4hop3__678814_466199_695123_72134",
+      "hop": 3,
+      "text": "when did Springfield become the capital of Illinois",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__83405_158262",
+      "hop": 0,
+      "text": "who was the president of confederate states of america",
+      "rank_dense_bound": 13,
+      "rank_bm25_bound": 11
+    },
+    {
+      "qid": "2hop__83405_158262",
+      "hop": 1,
+      "text": "When did Jefferson Davis end his fight in the Mexican-American war?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__60001_512508",
+      "hop": 0,
+      "text": "who discovered that all atoms of an element have the same number of protons",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "2hop__60001_512508",
+      "hop": 1,
+      "text": "James Chadwick   participant in",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "2hop__403712_793210",
+      "hop": 0,
+      "text": "Edward Baring, 1st Baron Revelstoke   father",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__403712_793210",
+      "hop": 1,
+      "text": "Henry Baring   father",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__409517_547811_80702",
+      "hop": 0,
+      "text": "Scanderbeg   composer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__409517_547811_80702",
+      "hop": 1,
+      "text": "Antonio Vivaldi   place of birth",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__409517_547811_80702",
+      "hop": 2,
+      "text": "what is the name of the famous bridge in Venice",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__433767_32392_823060_610794",
+      "hop": 0,
+      "text": "Mike Dow   place of birth",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__433767_32392_823060_610794",
+      "hop": 1,
+      "text": "What city became the state capital of South Carolina ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__433767_32392_823060_610794",
+      "hop": 2,
+      "text": "Columbia   shares border with",
+      "rank_dense_bound": 139,
+      "rank_bm25_bound": 63
+    },
+    {
+      "qid": "4hop1__433767_32392_823060_610794",
+      "hop": 3,
+      "text": "Forest Acres   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop2__567956_39078_8987_8974",
+      "hop": 0,
+      "text": "Normalization   country",
+      "rank_dense_bound": 260,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "4hop2__567956_39078_8987_8974",
+      "hop": 1,
+      "text": "Which military branch helped the Old West's inadequate local police?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "4hop2__567956_39078_8987_8974",
+      "hop": 2,
+      "text": "What The Army was unprepared for the invasion of Czechoslovakia ?",
+      "rank_dense_bound": 3,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop2__567956_39078_8987_8974",
+      "hop": 3,
+      "text": "Yugoslavia was the only communist country to have an embassy where?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__689472_52835",
+      "hop": 0,
+      "text": "Feelin' the Same Way   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__689472_52835",
+      "hop": 1,
+      "text": "who wrote turn me on by Norah Jones",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__820739_250752",
+      "hop": 0,
+      "text": "War of the Coprophages   screenwriter",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__820739_250752",
+      "hop": 1,
+      "text": "Darin Morgan   sibling",
+      "rank_dense_bound": 79,
+      "rank_bm25_bound": 11
+    },
+    {
+      "qid": "2hop__21104_16254",
+      "hop": 0,
+      "text": "Which group represents at least 70% of Jews worldwide?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__21104_16254",
+      "hop": 1,
+      "text": "By 1931, what percentage of the world’s Jews were Ashkenazi Jews ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__726391_153080_33952_34053",
+      "hop": 0,
+      "text": "Oh Yeah   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__726391_153080_33952_34053",
+      "hop": 1,
+      "text": "What city is Charles Mingus from?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop1__726391_153080_33952_34053",
+      "hop": 2,
+      "text": "What is the second largest city in Arizona ?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__726391_153080_33952_34053",
+      "hop": 3,
+      "text": "What was Tucson 's wettest year?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 9
+    },
+    {
+      "qid": "2hop__374767_152023",
+      "hop": 0,
+      "text": "One Night in America   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__374767_152023",
+      "hop": 1,
+      "text": "What label was responsible for Charlie Musselwhite ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop3__426860_88460_30152_20999",
+      "hop": 0,
+      "text": "That Dam   country",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 7
+    },
+    {
+      "qid": "4hop3__426860_88460_30152_20999",
+      "hop": 1,
+      "text": "what natural boundary lies between thailand and Laos",
+      "rank_dense_bound": 8,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "4hop3__426860_88460_30152_20999",
+      "hop": 2,
+      "text": "New coins were a proclamation of independence by the Somali Muslim Ajuran Empire from whom?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__426860_88460_30152_20999",
+      "hop": 3,
+      "text": "How were the the Portuguese expelled from Myanmar ?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__79462_91850_685675",
+      "hop": 0,
+      "text": "where will the american league wildcard game be played",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 61
+    },
+    {
+      "qid": "3hop1__79462_91850_685675",
+      "hop": 1,
+      "text": "who hit the first home run at the new Yankee Stadium",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__79462_91850_685675",
+      "hop": 2,
+      "text": "Jorge Posada   member of sports team",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__289517_139339",
+      "hop": 0,
+      "text": "After Hours   cast member",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__289517_139339",
+      "hop": 1,
+      "text": "What was Griffin Dunne nominated for?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__129721_32392_823060_610794",
+      "hop": 0,
+      "text": "In which state is Zubly Cemetery located?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__129721_32392_823060_610794",
+      "hop": 1,
+      "text": "What city became the state capital of South Carolina ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__129721_32392_823060_610794",
+      "hop": 2,
+      "text": "Columbia   shares border with",
+      "rank_dense_bound": 139,
+      "rank_bm25_bound": 63
+    },
+    {
+      "qid": "4hop1__129721_32392_823060_610794",
+      "hop": 3,
+      "text": "Forest Acres   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__142842_68489",
+      "hop": 0,
+      "text": "Which performer released Night Rocker?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__142842_68489",
+      "hop": 1,
+      "text": "who did David Hasselhoff play on young and restless",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__80546_75184",
+      "hop": 0,
+      "text": "who played marlene mcfly in back to the future",
+      "rank_dense_bound": 5,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__80546_75184",
+      "hop": 1,
+      "text": "who played Michael J. Fox girlfriend in back to the future",
+      "rank_dense_bound": 3,
+      "rank_bm25_bound": 6
+    },
+    {
+      "qid": "2hop__323534_810083",
+      "hop": 0,
+      "text": "Marcinkus   author",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__323534_810083",
+      "hop": 1,
+      "text": "Tom Flannery   place of birth",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__829474_123956",
+      "hop": 0,
+      "text": "Muhammad Shobran   place of birth",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__829474_123956",
+      "hop": 1,
+      "text": "On what date did Battle of Palembang end?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__94201_642284_131926_90707",
+      "hop": 0,
+      "text": "The designer for Southeast Library was?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__94201_642284_131926_90707",
+      "hop": 1,
+      "text": "Ralph Rapson   place of death",
+      "rank_dense_bound": 32,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__94201_642284_131926_90707",
+      "hop": 2,
+      "text": "Which is the body of water by Minneapolis ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__94201_642284_131926_90707",
+      "hop": 3,
+      "text": "where does Mississippi River and ohio river meet",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__629520_49925_13759_736921",
+      "hop": 0,
+      "text": "Victor Razafimahatratra   religion",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__629520_49925_13759_736921",
+      "hop": 1,
+      "text": "who wanted Catholic Church to reform and address",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "4hop1__629520_49925_13759_736921",
+      "hop": 2,
+      "text": "Where did Martin Luther preach a sermon on Marian devotion a month before his death?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__629520_49925_13759_736921",
+      "hop": 3,
+      "text": "Wittenberg   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 18
+    },
+    {
+      "qid": "3hop1__540585_568433_47686",
+      "hop": 0,
+      "text": "Miss Spider's Sunny Patch Kids   production company",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__540585_568433_47686",
+      "hop": 1,
+      "text": "Nelvana   headquarters location",
+      "rank_dense_bound": 501,
+      "rank_bm25_bound": 142
+    },
+    {
+      "qid": "3hop1__540585_568433_47686",
+      "hop": 2,
+      "text": "where do greyhound buses leave from in Toronto",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "2hop__56307_604644",
+      "hop": 0,
+      "text": "who sang hey now you're a rockstar",
+      "rank_dense_bound": 48,
+      "rank_bm25_bound": 2230
+    },
+    {
+      "qid": "2hop__56307_604644",
+      "hop": 1,
+      "text": "Smash Mouth   record label",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__507528_139339",
+      "hop": 0,
+      "text": "Lisa Picard is Famous   director",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__507528_139339",
+      "hop": 1,
+      "text": "What was Griffin Dunne nominated for?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__44259_747874",
+      "hop": 0,
+      "text": "who won men's us open tennis 2012",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__44259_747874",
+      "hop": 1,
+      "text": "Andy Murray   sibling",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__428940_135373",
+      "hop": 0,
+      "text": "Partridge Lake   part of",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__428940_135373",
+      "hop": 1,
+      "text": "What is Bering Sea named after?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__147225_30587_83479",
+      "hop": 0,
+      "text": "Where did Herbert Saffir live when he died?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__147225_30587_83479",
+      "hop": 1,
+      "text": "What ocean is Miami adjacent to?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "3hop1__147225_30587_83479",
+      "hop": 2,
+      "text": "what was germany's main goal in the battle of the Atlantic",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 9
+    },
+    {
+      "qid": "2hop__642686_7292",
+      "hop": 0,
+      "text": "Hello Tomorrow   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__642686_7292",
+      "hop": 1,
+      "text": "Along with Kenny G and Dave Koz , what artist was featured on smooth jazz stations?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__107540_720914_27537",
+      "hop": 0,
+      "text": "The Gozzi Altarpiece was made by whom?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__107540_720914_27537",
+      "hop": 1,
+      "text": "Titian   place of death",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "3hop1__107540_720914_27537",
+      "hop": 2,
+      "text": "Why did Roncalli leave Venice ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__161433_33952_33939",
+      "hop": 0,
+      "text": "In what state is the committee focusing?",
+      "rank_dense_bound": 7,
+      "rank_bm25_bound": 26
+    },
+    {
+      "qid": "3hop1__161433_33952_33939",
+      "hop": 1,
+      "text": "What is the second largest city in Arizona ?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__161433_33952_33939",
+      "hop": 2,
+      "text": "What was Tucson 's population in 1900?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__71871_494136",
+      "hop": 0,
+      "text": "who played bart's father in i can only imagine",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "2hop__71871_494136",
+      "hop": 1,
+      "text": "Dennis Quaid   spouse",
+      "rank_dense_bound": 145,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "4hop1__310029_153080_33897_81096",
+      "hop": 0,
+      "text": "Jazz Portraits: Mingus in Wonderland   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__310029_153080_33897_81096",
+      "hop": 1,
+      "text": "What city is Charles Mingus from?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop1__310029_153080_33897_81096",
+      "hop": 2,
+      "text": "What is the largest populated city in Arizona ?",
+      "rank_dense_bound": 4,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__310029_153080_33897_81096",
+      "hop": 3,
+      "text": "who won the indy car race in Phoenix",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__620853_22458",
+      "hop": 0,
+      "text": "Haiti national football team   member of",
+      "rank_dense_bound": 4,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "2hop__620853_22458",
+      "hop": 1,
+      "text": "What does FIFA stand for?",
+      "rank_dense_bound": 5,
+      "rank_bm25_bound": 39
+    },
+    {
+      "qid": "2hop__865828_377862",
+      "hop": 0,
+      "text": "Gmina Jordanów   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__865828_377862",
+      "hop": 1,
+      "text": "Sucha County   contains administrative territorial entity",
+      "rank_dense_bound": 4,
+      "rank_bm25_bound": 25
+    },
+    {
+      "qid": "4hop3__630723_88460_30152_20999",
+      "hop": 0,
+      "text": "Phommathat   country of citizenship",
+      "rank_dense_bound": 19,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "4hop3__630723_88460_30152_20999",
+      "hop": 1,
+      "text": "what natural boundary lies between thailand and Laos",
+      "rank_dense_bound": 8,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "4hop3__630723_88460_30152_20999",
+      "hop": 2,
+      "text": "New coins were a proclamation of independence by the Somali Muslim Ajuran Empire from whom?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__630723_88460_30152_20999",
+      "hop": 3,
+      "text": "How were the the Portuguese expelled from Myanmar ?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__719125_132409_371500_35031",
+      "hop": 0,
+      "text": "Scars   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__719125_132409_371500_35031",
+      "hop": 1,
+      "text": "What city was Papa Roach formed in?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__719125_132409_371500_35031",
+      "hop": 2,
+      "text": "Veoh   headquarters location",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__719125_132409_371500_35031",
+      "hop": 3,
+      "text": "In the top five largest urban areas in California , where does San Diego rank?",
+      "rank_dense_bound": 5,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "4hop1__105688_17130_70784_79935",
+      "hop": 0,
+      "text": "Which was the country for Eyal Golan?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__105688_17130_70784_79935",
+      "hop": 1,
+      "text": "Where is Israel located?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 9
+    },
+    {
+      "qid": "4hop1__105688_17130_70784_79935",
+      "hop": 2,
+      "text": "what region lies immediately to the north of Middle East and the persian gulf",
+      "rank_dense_bound": 9,
+      "rank_bm25_bound": 25
+    },
+    {
+      "qid": "4hop1__105688_17130_70784_79935",
+      "hop": 3,
+      "text": "when was Kingdom of Saudi Arabia created",
+      "rank_dense_bound": 5,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "3hop1__376309_160713_77246",
+      "hop": 0,
+      "text": "Garlat   country",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__376309_160713_77246",
+      "hop": 1,
+      "text": "What was the majority religion in the area of British India that become India when Pakistan was created?",
+      "rank_dense_bound": 31,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__376309_160713_77246",
+      "hop": 2,
+      "text": "what is the meaning of Hindu in arabic dictionary",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "4hop1__525129_315334_131926_87157",
+      "hop": 0,
+      "text": "Lots More Blues, Rags and Hollers   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__525129_315334_131926_87157",
+      "hop": 1,
+      "text": "Koerner, Ray & Glover   location of formation",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__525129_315334_131926_87157",
+      "hop": 2,
+      "text": "Which is the body of water by Minneapolis ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__525129_315334_131926_87157",
+      "hop": 3,
+      "text": "what is the direction of flow of Mississippi River",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__140554_2053_52946",
+      "hop": 0,
+      "text": "What network hosts Westinghouse Playhouse?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__140554_2053_52946",
+      "hop": 1,
+      "text": "Along with ABC and NBC , what other major broadcaster is based in New York?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__140554_2053_52946",
+      "hop": 2,
+      "text": "when is celebrity big brother coming to CBS",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__347858_503371_21711",
+      "hop": 0,
+      "text": "Castiliscar   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__347858_503371_21711",
+      "hop": 1,
+      "text": "Martin of Aragon   place of death",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__347858_503371_21711",
+      "hop": 2,
+      "text": "When was the Palau de la Generalitat in Barcelona constructed?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__709357_136043",
+      "hop": 0,
+      "text": "Move Ya Body   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "2hop__709357_136043",
+      "hop": 1,
+      "text": "What is Nina Sky named after?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__516535_834494_34109",
+      "hop": 0,
+      "text": "Allen   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 18
+    },
+    {
+      "qid": "3hop1__516535_834494_34109",
+      "hop": 1,
+      "text": "Pima County   contains administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__516535_834494_34109",
+      "hop": 2,
+      "text": "What is Tucson 's PBS station?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__639955_834494_34109",
+      "hop": 0,
+      "text": "Helvetia   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__639955_834494_34109",
+      "hop": 1,
+      "text": "Pima County   contains administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__639955_834494_34109",
+      "hop": 2,
+      "text": "What is Tucson 's PBS station?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__786067_228453_86925",
+      "hop": 0,
+      "text": "McAfee's Benchmark   manufacturer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__786067_228453_86925",
+      "hop": 1,
+      "text": "Sazerac Company   headquarters location",
+      "rank_dense_bound": 8,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__786067_228453_86925",
+      "hop": 2,
+      "text": "what is the New Orleans saints symbol called",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 15
+    },
+    {
+      "qid": "3hop1__506062_792411_51423",
+      "hop": 0,
+      "text": "When I Was a Boy   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__506062_792411_51423",
+      "hop": 1,
+      "text": "Jane Siberry   place of birth",
+      "rank_dense_bound": 1601,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__506062_792411_51423",
+      "hop": 2,
+      "text": "what is the name of the castle in Toronto",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 736
+    },
+    {
+      "qid": "4hop1__60000_59747_211319_557671",
+      "hop": 0,
+      "text": "where was the movie birth of a nation filmed",
+      "rank_dense_bound": 15,
+      "rank_bm25_bound": 2338
+    },
+    {
+      "qid": "4hop1__60000_59747_211319_557671",
+      "hop": 1,
+      "text": "what is the largest city in Georgia by population",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 6
+    },
+    {
+      "qid": "4hop1__60000_59747_211319_557671",
+      "hop": 2,
+      "text": "Atlanta   located in the administrative territorial entity",
+      "rank_dense_bound": 804,
+      "rank_bm25_bound": 64
+    },
+    {
+      "qid": "4hop1__60000_59747_211319_557671",
+      "hop": 3,
+      "text": "Montmorency County   shares border with",
+      "rank_dense_bound": 101,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "3hop1__17192_78396_54865",
+      "hop": 0,
+      "text": "Who secured southern Lebanon?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__17192_78396_54865",
+      "hop": 1,
+      "text": "who owned Israel before it became a country",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 19
+    },
+    {
+      "qid": "3hop1__17192_78396_54865",
+      "hop": 2,
+      "text": "when did the the British lose the american colonies",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop2__36852_326964_7713",
+      "hop": 0,
+      "text": "What city did the Qing lose in 1853?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop2__36852_326964_7713",
+      "hop": 1,
+      "text": "Yaxing Coach   headquarters location",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__36852_326964_7713",
+      "hop": 2,
+      "text": "How long had Nanjing been the capital city of Yangzhou ?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__179149_396277",
+      "hop": 0,
+      "text": "Shrek   creator",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "2hop__179149_396277",
+      "hop": 1,
+      "text": "William Steig   notable work",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__145203_34088",
+      "hop": 0,
+      "text": "Where was Ulysses Kay born in?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__145203_34088",
+      "hop": 1,
+      "text": "Where does Tucson hold NASCAR races?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__295815_40769_64047",
+      "hop": 0,
+      "text": "Toyopet Master   manufacturer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__295815_40769_64047",
+      "hop": 1,
+      "text": "Name a luxury division of Toyota .",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 7
+    },
+    {
+      "qid": "3hop1__295815_40769_64047",
+      "hop": 2,
+      "text": "when did Lexus rx 350 change body style",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__747772_514761_594810",
+      "hop": 0,
+      "text": "Heart Like Mine   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__747772_514761_594810",
+      "hop": 1,
+      "text": "Miranda Lambert   spouse",
+      "rank_dense_bound": 107,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "3hop1__747772_514761_594810",
+      "hop": 2,
+      "text": "Blake Shelton   record label",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__439878_88460_30152_20999",
+      "hop": 0,
+      "text": "Ban Kenpha   country",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__439878_88460_30152_20999",
+      "hop": 1,
+      "text": "what natural boundary lies between thailand and Laos",
+      "rank_dense_bound": 8,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "4hop3__439878_88460_30152_20999",
+      "hop": 2,
+      "text": "New coins were a proclamation of independence by the Somali Muslim Ajuran Empire from whom?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__439878_88460_30152_20999",
+      "hop": 3,
+      "text": "How were the the Portuguese expelled from Myanmar ?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__35136_35117",
+      "hop": 0,
+      "text": "Who theorized about pulmonary circulation?",
+      "rank_dense_bound": 5,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "2hop__35136_35117",
+      "hop": 1,
+      "text": "What was the life span of Ibn al-Nafis ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__559908_42197_18397",
+      "hop": 0,
+      "text": "Yagutil Mishiev   country of citizenship",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__559908_42197_18397",
+      "hop": 1,
+      "text": "Who argued that the USSR had itself become an imperialist power?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__559908_42197_18397",
+      "hop": 2,
+      "text": "Where did Mao Zedong declare that he would intervene in the Korean conflict?",
+      "rank_dense_bound": 3,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop1__105401_17130_70784_61381",
+      "hop": 0,
+      "text": "The country for Strangers No More was what?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__105401_17130_70784_61381",
+      "hop": 1,
+      "text": "Where is Israel located?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 9
+    },
+    {
+      "qid": "4hop1__105401_17130_70784_61381",
+      "hop": 2,
+      "text": "what region lies immediately to the north of Middle East and the persian gulf",
+      "rank_dense_bound": 9,
+      "rank_bm25_bound": 25
+    },
+    {
+      "qid": "4hop1__105401_17130_70784_61381",
+      "hop": 3,
+      "text": "when was Kingdom of Saudi Arabia established",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__157376_643670",
+      "hop": 0,
+      "text": "What does Willemsbrug cross over?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "2hop__157376_643670",
+      "hop": 1,
+      "text": "Nieuwe Maas   mouth of the watercourse",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__823336_228453_86925",
+      "hop": 0,
+      "text": "Ten High   manufacturer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__823336_228453_86925",
+      "hop": 1,
+      "text": "Sazerac Company   headquarters location",
+      "rank_dense_bound": 8,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__823336_228453_86925",
+      "hop": 2,
+      "text": "what is the New Orleans saints symbol called",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 15
+    },
+    {
+      "qid": "2hop__59612_42352",
+      "hop": 0,
+      "text": "where does the london broil cut come from",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__59612_42352",
+      "hop": 1,
+      "text": "How many people were in British North American Colonies?",
+      "rank_dense_bound": 4,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__768500_730460_70315",
+      "hop": 0,
+      "text": "Toussaint   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__768500_730460_70315",
+      "hop": 1,
+      "text": "Allen Toussaint   place of birth",
+      "rank_dense_bound": 17,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "3hop1__768500_730460_70315",
+      "hop": 2,
+      "text": "where did katrina hit the hardest in New Orleans",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 6
+    },
+    {
+      "qid": "3hop1__127821_157828_162309",
+      "hop": 0,
+      "text": "What language is Olivera Marković in?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__127821_157828_162309",
+      "hop": 1,
+      "text": "Serbian is the co-official language of what country?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__127821_157828_162309",
+      "hop": 2,
+      "text": "When did Kosovo first attend the Olympics games as an independent team?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__15567_59747_211319_557671",
+      "hop": 0,
+      "text": "A jury in what state sentenced Demarcus Sears to death?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__15567_59747_211319_557671",
+      "hop": 1,
+      "text": "what is the largest city in Georgia by population",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 6
+    },
+    {
+      "qid": "4hop1__15567_59747_211319_557671",
+      "hop": 2,
+      "text": "Atlanta   located in the administrative territorial entity",
+      "rank_dense_bound": 804,
+      "rank_bm25_bound": 64
+    },
+    {
+      "qid": "4hop1__15567_59747_211319_557671",
+      "hop": 3,
+      "text": "Montmorency County   shares border with",
+      "rank_dense_bound": 101,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "2hop__96096_78606",
+      "hop": 0,
+      "text": "Who is in Real Rob as a cast member?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "2hop__96096_78606",
+      "hop": 1,
+      "text": "who plays Rob Schneider wife in grown ups",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop1__58323_375563_161848_61344",
+      "hop": 0,
+      "text": "who wrote the book thief soon to appear as a film",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop1__58323_375563_161848_61344",
+      "hop": 1,
+      "text": "Markus Zusak   country of citizenship",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__58323_375563_161848_61344",
+      "hop": 2,
+      "text": "What country located near Australia was a first time participant in these games?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__58323_375563_161848_61344",
+      "hop": 3,
+      "text": "New Zealand is a part of what continent",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__776637_87295",
+      "hop": 0,
+      "text": "Julie   cast member",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 10
+    },
+    {
+      "qid": "2hop__776637_87295",
+      "hop": 1,
+      "text": "who does Julie Andrews play in princess diaries",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__752321_153080_159767_81096",
+      "hop": 0,
+      "text": "Pithecanthropus Erectus   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__752321_153080_159767_81096",
+      "hop": 1,
+      "text": "What city is Charles Mingus from?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop1__752321_153080_159767_81096",
+      "hop": 2,
+      "text": "what city is both the largest city and the state capital of Arizona ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "4hop1__752321_153080_159767_81096",
+      "hop": 3,
+      "text": "who won the indy car race in Phoenix",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__161507_160713_77246",
+      "hop": 0,
+      "text": "What country is this landmark in?",
+      "rank_dense_bound": 33,
+      "rank_bm25_bound": 543
+    },
+    {
+      "qid": "3hop1__161507_160713_77246",
+      "hop": 1,
+      "text": "What was the majority religion in the area of British India that become India when Pakistan was created?",
+      "rank_dense_bound": 31,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__161507_160713_77246",
+      "hop": 2,
+      "text": "what is the meaning of Hindu in arabic dictionary",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "2hop__84937_21969",
+      "hop": 0,
+      "text": "who was impeached in england for acts committed as governor general of india",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 12
+    },
+    {
+      "qid": "2hop__84937_21969",
+      "hop": 1,
+      "text": "When was Warren Hastings impeached?",
+      "rank_dense_bound": 4,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "4hop1__130623_32392_823060_610794",
+      "hop": 0,
+      "text": "What state is Erskine College located?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "4hop1__130623_32392_823060_610794",
+      "hop": 1,
+      "text": "What city became the state capital of South Carolina ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__130623_32392_823060_610794",
+      "hop": 2,
+      "text": "Columbia   shares border with",
+      "rank_dense_bound": 139,
+      "rank_bm25_bound": 63
+    },
+    {
+      "qid": "4hop1__130623_32392_823060_610794",
+      "hop": 3,
+      "text": "Forest Acres   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__132957_483843_40768",
+      "hop": 0,
+      "text": "Who made Acura Legend?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "3hop2__132957_483843_40768",
+      "hop": 1,
+      "text": "Scion bbX   manufacturer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__132957_483843_40768",
+      "hop": 2,
+      "text": "When did Honda , Toyota and Nissan open US assembly plants?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__198650_84856",
+      "hop": 0,
+      "text": "True Story: A Novel   author",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__198650_84856",
+      "hop": 1,
+      "text": "when does the new season of Bill Maher start",
+      "rank_dense_bound": 36,
+      "rank_bm25_bound": 3899
+    },
+    {
+      "qid": "2hop__631139_75487",
+      "hop": 0,
+      "text": "John Lynch-Staunton   position held",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__631139_75487",
+      "hop": 1,
+      "text": "federal leader of Conservative Party of Canada",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__223823_29898",
+      "hop": 0,
+      "text": "Canadian Broadcasting Centre   owned by",
+      "rank_dense_bound": 151,
+      "rank_bm25_bound": 1959
+    },
+    {
+      "qid": "2hop__223823_29898",
+      "hop": 1,
+      "text": "Which affiliate left CBC due to an agreement with CHBC?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__607269_223623_162182",
+      "hop": 0,
+      "text": "Hạ Hòa   country",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__607269_223623_162182",
+      "hop": 1,
+      "text": "John Phan   place of birth",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__607269_223623_162182",
+      "hop": 2,
+      "text": "In what region of Vietnam is Da Nang located?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 56
+    },
+    {
+      "qid": "2hop__189094_612080",
+      "hop": 0,
+      "text": "Rabat Ajax Football Ground   occupant",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__189094_612080",
+      "hop": 1,
+      "text": "Rabat Ajax F.C.   league",
+      "rank_dense_bound": 61,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "3hop1__84887_538202_84283",
+      "hop": 0,
+      "text": "who sings i just got started lovin you",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__84887_538202_84283",
+      "hop": 1,
+      "text": "James Otto   record label",
+      "rank_dense_bound": 26,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "3hop1__84887_538202_84283",
+      "hop": 2,
+      "text": "who is the owner of Warner Bros. Records",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__305282_282081_10972",
+      "hop": 0,
+      "text": "III   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__305282_282081_10972",
+      "hop": 1,
+      "text": "Stanton Moore   place of birth",
+      "rank_dense_bound": 9,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__305282_282081_10972",
+      "hop": 2,
+      "text": "When did New Orleans elect it's first black Mayor?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__199513_801817",
+      "hop": 0,
+      "text": "São José dos Campos   named after",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__199513_801817",
+      "hop": 1,
+      "text": "Joseph   place of birth",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__80637_19033",
+      "hop": 0,
+      "text": "who created the money inthe bank ladder match",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__80637_19033",
+      "hop": 1,
+      "text": "Where did Chris Jericho win in 2008?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__133292_40769_64047",
+      "hop": 0,
+      "text": "Which corporation created Hino Dutro?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__133292_40769_64047",
+      "hop": 1,
+      "text": "Name a luxury division of Toyota .",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 7
+    },
+    {
+      "qid": "3hop1__133292_40769_64047",
+      "hop": 2,
+      "text": "when did Lexus rx 350 change body style",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__857_846_7810",
+      "hop": 0,
+      "text": "Who was the edict addressed to?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__857_846_7810",
+      "hop": 1,
+      "text": "Where did the Yongle Emperor greet the the Karmapa ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__857_846_7810",
+      "hop": 2,
+      "text": "What was Nanjing 's GDP per person in 2013?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop2__161602_426860_88460_126088",
+      "hop": 0,
+      "text": "Who hosted the tournament?",
+      "rank_dense_bound": 53,
+      "rank_bm25_bound": 33
+    },
+    {
+      "qid": "4hop2__161602_426860_88460_126088",
+      "hop": 1,
+      "text": "That Dam   country",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 7
+    },
+    {
+      "qid": "4hop2__161602_426860_88460_126088",
+      "hop": 2,
+      "text": "what natural boundary lies between Thailand and Laos",
+      "rank_dense_bound": 8,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "4hop2__161602_426860_88460_126088",
+      "hop": 3,
+      "text": "Who was in charge of Myanmar ?",
+      "rank_dense_bound": 8,
+      "rank_bm25_bound": 24
+    },
+    {
+      "qid": "2hop__669160_139339",
+      "hop": 0,
+      "text": "Addicted to Love   director",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__669160_139339",
+      "hop": 1,
+      "text": "What was Griffin Dunne nominated for?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__734582_74481",
+      "hop": 0,
+      "text": "The Good Shepherd   director",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "2hop__734582_74481",
+      "hop": 1,
+      "text": "who did Robert De Niro play in godfather 2",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__156085_436709",
+      "hop": 0,
+      "text": "What is Mickey Mouse's spouse's name?",
+      "rank_dense_bound": 5,
+      "rank_bm25_bound": 11
+    },
+    {
+      "qid": "2hop__156085_436709",
+      "hop": 1,
+      "text": "Minnie Mouse   creator",
+      "rank_dense_bound": 7,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__137061_45752",
+      "hop": 0,
+      "text": "Which place is Step Up Revolution in?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__137061_45752",
+      "hop": 1,
+      "text": "why does Miami have a duck as their mascot",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 8
+    },
+    {
+      "qid": "2hop__67660_67223",
+      "hop": 0,
+      "text": "who is the narrator on how i met your mother",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 8
+    },
+    {
+      "qid": "2hop__67660_67223",
+      "hop": 1,
+      "text": "who married Ted Mosby in how i met your mother",
+      "rank_dense_bound": 10,
+      "rank_bm25_bound": 7
+    },
+    {
+      "qid": "2hop__252521_80650",
+      "hop": 0,
+      "text": "Frost at Christmas   part of the series",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__252521_80650",
+      "hop": 1,
+      "text": "who played Jack Frost in the santa clause 3",
+      "rank_dense_bound": 15,
+      "rank_bm25_bound": 7
+    },
+    {
+      "qid": "2hop__58691_192417",
+      "hop": 0,
+      "text": "who plays in the thursday night football game",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__58691_192417",
+      "hop": 1,
+      "text": "National Football League   instance of",
+      "rank_dense_bound": 15,
+      "rank_bm25_bound": 186
+    },
+    {
+      "qid": "3hop2__304722_203717_63959",
+      "hop": 0,
+      "text": "1894–95 FA Cup   winner",
+      "rank_dense_bound": 14,
+      "rank_bm25_bound": 126
+    },
+    {
+      "qid": "3hop2__304722_203717_63959",
+      "hop": 1,
+      "text": "Alan O'Neill   member of sports team",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__304722_203717_63959",
+      "hop": 2,
+      "text": "when was the last time Birmingham City beat Aston Villa",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__450600_158262",
+      "hop": 0,
+      "text": "The Rise and Fall of the Confederate Government   author",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__450600_158262",
+      "hop": 1,
+      "text": "When did Jefferson Davis end his fight in the Mexican-American war?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__194532_57594",
+      "hop": 0,
+      "text": "Pollock   director",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__194532_57594",
+      "hop": 1,
+      "text": "what gun does Ed Harris used in westworld",
+      "rank_dense_bound": 39,
+      "rank_bm25_bound": 3446
+    },
+    {
+      "qid": "4hop1__9002_698949_157828_239539",
+      "hop": 0,
+      "text": "In what city was Tito interred?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__9002_698949_157828_239539",
+      "hop": 1,
+      "text": "Belgrade   original language of film or TV show",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__9002_698949_157828_239539",
+      "hop": 2,
+      "text": "Serbian is the co-official language of what country?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__9002_698949_157828_239539",
+      "hop": 3,
+      "text": "Radio Television of Kosovo   headquarters location",
+      "rank_dense_bound": 13,
+      "rank_bm25_bound": 2764
+    },
+    {
+      "qid": "3hop1__374018_160713_77246",
+      "hop": 0,
+      "text": "Dubbi   country",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__374018_160713_77246",
+      "hop": 1,
+      "text": "What was the majority religion in the area of British India that become India when Pakistan was created?",
+      "rank_dense_bound": 31,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__374018_160713_77246",
+      "hop": 2,
+      "text": "what is the meaning of Hindu in arabic dictionary",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "2hop__268084_78303",
+      "hop": 0,
+      "text": "Forced Vengeance   cast member",
+      "rank_dense_bound": 26,
+      "rank_bm25_bound": 203
+    },
+    {
+      "qid": "2hop__268084_78303",
+      "hop": 1,
+      "text": "what was Chuck Norris name in walker texas ranger",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__661103_698586_1926_54362",
+      "hop": 0,
+      "text": "Dunn Dunn   record label",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 6
+    },
+    {
+      "qid": "4hop3__661103_698586_1926_54362",
+      "hop": 1,
+      "text": "Shawty Lo   place of death",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__661103_698586_1926_54362",
+      "hop": 2,
+      "text": "Since what event did the first time black people decline in living in NYC?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__661103_698586_1926_54362",
+      "hop": 3,
+      "text": "who burned down Atlanta in the Civil War",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 26
+    },
+    {
+      "qid": "4hop3__373573_132409_146285_35031",
+      "hop": 0,
+      "text": "Still Swingin'   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__373573_132409_146285_35031",
+      "hop": 1,
+      "text": "What city was Papa Roach formed in?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__373573_132409_146285_35031",
+      "hop": 2,
+      "text": "In what place did Alexander Golitzen die?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__373573_132409_146285_35031",
+      "hop": 3,
+      "text": "In the top five largest urban areas in California , where does San Diego rank?",
+      "rank_dense_bound": 5,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__104996_160713_77246",
+      "hop": 0,
+      "text": "What country released Ankahi?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__104996_160713_77246",
+      "hop": 1,
+      "text": "What was the majority religion in the area of British India that become India when Pakistan was created?",
+      "rank_dense_bound": 31,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__104996_160713_77246",
+      "hop": 2,
+      "text": "what is the meaning of Hindu in arabic dictionary",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "2hop__10017_18974",
+      "hop": 0,
+      "text": "Which province is Zhejiang bordered by to the south?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__10017_18974",
+      "hop": 1,
+      "text": "Who led the military expedition in Fujian ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__120881_2053_52946",
+      "hop": 0,
+      "text": "Who released Stand Against Fear?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__120881_2053_52946",
+      "hop": 1,
+      "text": "Along with ABC and NBC , what other major broadcaster is based in New York?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__120881_2053_52946",
+      "hop": 2,
+      "text": "when is celebrity big brother coming to CBS",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__735014_83837",
+      "hop": 0,
+      "text": "I Don't Want This Night to End   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__735014_83837",
+      "hop": 1,
+      "text": "who sings home alone tonight with Luke Bryan",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__596188_297986",
+      "hop": 0,
+      "text": "Mycenae House   location",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__596188_297986",
+      "hop": 1,
+      "text": "Westcombe Park   located in the administrative territorial entity",
+      "rank_dense_bound": 26,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "4hop3__700962_88460_30152_20999",
+      "hop": 0,
+      "text": "Ban Pakpo   country",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__700962_88460_30152_20999",
+      "hop": 1,
+      "text": "what natural boundary lies between thailand and Laos",
+      "rank_dense_bound": 8,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "4hop3__700962_88460_30152_20999",
+      "hop": 2,
+      "text": "New coins were a proclamation of independence by the Somali Muslim Ajuran Empire from whom?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop3__700962_88460_30152_20999",
+      "hop": 3,
+      "text": "How were the the Portuguese expelled from Myanmar ?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__145427_106426_157788",
+      "hop": 0,
+      "text": "Which city was the birthplace of You Wenhui?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__145427_106426_157788",
+      "hop": 1,
+      "text": "Which was the country for The Longest Night in Shanghai ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__145427_106426_157788",
+      "hop": 2,
+      "text": "What is one railway line in Japan ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 19
+    },
+    {
+      "qid": "2hop__857493_17335",
+      "hop": 0,
+      "text": "Parysatis II   spouse",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__857493_17335",
+      "hop": 1,
+      "text": "When did Alexander the Great die?",
+      "rank_dense_bound": 3,
+      "rank_bm25_bound": 30
+    },
+    {
+      "qid": "2hop__123104_77615",
+      "hop": 0,
+      "text": "What university did Paolo Manalo attend?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__123104_77615",
+      "hop": 1,
+      "text": "when did the military instruction start in University of the Philippines",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop2__9988_685934_70784_61381",
+      "hop": 0,
+      "text": "What prevailed with the disgrace of \"Near East\"?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop2__9988_685934_70784_61381",
+      "hop": 1,
+      "text": "The World   located in or next to body of water",
+      "rank_dense_bound": 5,
+      "rank_bm25_bound": 75
+    },
+    {
+      "qid": "4hop2__9988_685934_70784_61381",
+      "hop": 2,
+      "text": "what region lies immediately to the north of \"Middle East\" and Persian Gulf",
+      "rank_dense_bound": 12,
+      "rank_bm25_bound": 25
+    },
+    {
+      "qid": "4hop2__9988_685934_70784_61381",
+      "hop": 3,
+      "text": "when was Kingdom of Saudi Arabia established",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__788087_150107",
+      "hop": 0,
+      "text": "Deborah Estrin   member of",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "2hop__788087_150107",
+      "hop": 1,
+      "text": "Who published Communications of the ACM ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__73810_32392_823060_610794",
+      "hop": 0,
+      "text": "who won the womens 2017 ncaa basketball tournament",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 10
+    },
+    {
+      "qid": "4hop1__73810_32392_823060_610794",
+      "hop": 1,
+      "text": "What city became the state capital of South Carolina ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__73810_32392_823060_610794",
+      "hop": 2,
+      "text": "Columbia   shares border with",
+      "rank_dense_bound": 139,
+      "rank_bm25_bound": 63
+    },
+    {
+      "qid": "4hop1__73810_32392_823060_610794",
+      "hop": 3,
+      "text": "Forest Acres   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__749065_698949_157828_239539",
+      "hop": 0,
+      "text": "Slavko Šurdonja   place of death",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__749065_698949_157828_239539",
+      "hop": 1,
+      "text": "Belgrade   original language of film or TV show",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__749065_698949_157828_239539",
+      "hop": 2,
+      "text": "Serbian is the co-official language of what country?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__749065_698949_157828_239539",
+      "hop": 3,
+      "text": "Radio Television of Kosovo   headquarters location",
+      "rank_dense_bound": 13,
+      "rank_bm25_bound": 2764
+    },
+    {
+      "qid": "3hop1__222380_443779_52195",
+      "hop": 0,
+      "text": "Buru   country",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__222380_443779_52195",
+      "hop": 1,
+      "text": "Indonesia –Timor Leste Commission of Truth and Friendship   country",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__222380_443779_52195",
+      "hop": 2,
+      "text": "who is the president of newly declared independent country East Timor",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 52
+    },
+    {
+      "qid": "2hop__530579_13529",
+      "hop": 0,
+      "text": "Diego Sinagra   father",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__530579_13529",
+      "hop": 1,
+      "text": "When was Diego Maradona signed by Barcelona?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop2__161602_426860_88460_20988",
+      "hop": 0,
+      "text": "Who hosted the tournament?",
+      "rank_dense_bound": 53,
+      "rank_bm25_bound": 33
+    },
+    {
+      "qid": "4hop2__161602_426860_88460_20988",
+      "hop": 1,
+      "text": "That Dam   country",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 7
+    },
+    {
+      "qid": "4hop2__161602_426860_88460_20988",
+      "hop": 2,
+      "text": "what natural boundary lies between Thailand and Laos",
+      "rank_dense_bound": 8,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "4hop2__161602_426860_88460_20988",
+      "hop": 3,
+      "text": "What major conflict is Myanmar known for?",
+      "rank_dense_bound": 9,
+      "rank_bm25_bound": 2721
+    },
+    {
+      "qid": "3hop1__622497_160088_49779",
+      "hop": 0,
+      "text": "The Wild Women of Chastity Gulch   producer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__622497_160088_49779",
+      "hop": 1,
+      "text": "What nationality was Aaron Spelling ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "3hop1__622497_160088_49779",
+      "hop": 2,
+      "text": "an American who wants to be a millionaire host",
+      "rank_dense_bound": 3,
+      "rank_bm25_bound": 2077
+    },
+    {
+      "qid": "2hop__14_59409",
+      "hop": 0,
+      "text": "Who is Beyoncé married to?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 14
+    },
+    {
+      "qid": "2hop__14_59409",
+      "hop": 1,
+      "text": "who was Jay Z talking about in song cry",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__51465_53706_795904_580996",
+      "hop": 0,
+      "text": "where do the most billionaires live in america",
+      "rank_dense_bound": 19,
+      "rank_bm25_bound": 2804
+    },
+    {
+      "qid": "4hop1__51465_53706_795904_580996",
+      "hop": 1,
+      "text": "someone who went to California during the gold rush",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 13
+    },
+    {
+      "qid": "4hop1__51465_53706_795904_580996",
+      "hop": 2,
+      "text": "Samuel Brannan   work location",
+      "rank_dense_bound": 74,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "4hop1__51465_53706_795904_580996",
+      "hop": 3,
+      "text": "Sacramento   shares border with",
+      "rank_dense_bound": 486,
+      "rank_bm25_bound": 17
+    },
+    {
+      "qid": "2hop__5658_25002",
+      "hop": 0,
+      "text": "Who signed the decree suspending the Communist Party of the Russian SFSR?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__5658_25002",
+      "hop": 1,
+      "text": "How long lasting was the pact between Kravchuk and Yeltsin ?",
+      "rank_dense_bound": 20,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__66167_88526",
+      "hop": 0,
+      "text": "who has the most points in a nba season",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__66167_88526",
+      "hop": 1,
+      "text": "who was picked before Kevin Durant in the nba draft",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__485221_544917",
+      "hop": 0,
+      "text": "Coffee Swamp   located on terrain feature",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__485221_544917",
+      "hop": 1,
+      "text": "Washington Island   located in or next to body of water",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 18
+    },
+    {
+      "qid": "3hop1__622497_160088_73916",
+      "hop": 0,
+      "text": "The Wild Women of Chastity Gulch   producer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__622497_160088_73916",
+      "hop": 1,
+      "text": "What nationality was Aaron Spelling ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "3hop1__622497_160088_73916",
+      "hop": 2,
+      "text": "what is the average yearly income for an an American",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__35566_17873",
+      "hop": 0,
+      "text": "Who did Martha Ann Ricks present the famed Liberian coffee tree to?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__35566_17873",
+      "hop": 1,
+      "text": "What happened to Buckingham after Queen Victoria left?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__326964_263934_7713",
+      "hop": 0,
+      "text": "Yaxing Coach   headquarters location",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__326964_263934_7713",
+      "hop": 1,
+      "text": "Tang Jinhua   place of birth",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop2__326964_263934_7713",
+      "hop": 2,
+      "text": "How long had Nanjing been the capital city of Yangzhou ?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__145427_106426_77199",
+      "hop": 0,
+      "text": "Which city was the birthplace of You Wenhui?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__145427_106426_77199",
+      "hop": 1,
+      "text": "Which was the country for The Longest Night in Shanghai ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__145427_106426_77199",
+      "hop": 2,
+      "text": "when did the usa declare war on Japan",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "4hop2__71753_729371_70784_61381",
+      "hop": 0,
+      "text": "what region of the world is israel located",
+      "rank_dense_bound": 3,
+      "rank_bm25_bound": 6
+    },
+    {
+      "qid": "4hop2__71753_729371_70784_61381",
+      "hop": 1,
+      "text": "Operation Earnest Will   location",
+      "rank_dense_bound": 265,
+      "rank_bm25_bound": 131
+    },
+    {
+      "qid": "4hop2__71753_729371_70784_61381",
+      "hop": 2,
+      "text": "what region lies immediately to the north of Middle East, and Persian Gulf",
+      "rank_dense_bound": 9,
+      "rank_bm25_bound": 25
+    },
+    {
+      "qid": "4hop2__71753_729371_70784_61381",
+      "hop": 3,
+      "text": "when was Kingdom of Saudi Arabia established",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "2hop__13539_13493",
+      "hop": 0,
+      "text": "What team won the first match in the 1943 Copa del Generalissimo?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__13539_13493",
+      "hop": 1,
+      "text": "What series of wins did Barcelona achieve in 2009?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__796649_720914_27537",
+      "hop": 0,
+      "text": "Flora   creator",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 12
+    },
+    {
+      "qid": "3hop1__796649_720914_27537",
+      "hop": 1,
+      "text": "Titian   place of death",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 5
+    },
+    {
+      "qid": "3hop1__796649_720914_27537",
+      "hop": 2,
+      "text": "Why did Roncalli leave Venice ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__9285_42311",
+      "hop": 0,
+      "text": "What was the nobilities commonwealth?",
+      "rank_dense_bound": 10,
+      "rank_bm25_bound": 15
+    },
+    {
+      "qid": "2hop__9285_42311",
+      "hop": 1,
+      "text": "What is the largest medical school in Poland ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__9007_698949_157828_239539",
+      "hop": 0,
+      "text": "Where is the final resting place of Tito?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__9007_698949_157828_239539",
+      "hop": 1,
+      "text": "Belgrade   original language of film or TV show",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__9007_698949_157828_239539",
+      "hop": 2,
+      "text": "Serbian is the co-official language of what country?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop1__9007_698949_157828_239539",
+      "hop": 3,
+      "text": "Radio Television of Kosovo   headquarters location",
+      "rank_dense_bound": 13,
+      "rank_bm25_bound": 2764
+    },
+    {
+      "qid": "2hop__497191_129669",
+      "hop": 0,
+      "text": "Alhandra   place of birth",
+      "rank_dense_bound": 3,
+      "rank_bm25_bound": 14
+    },
+    {
+      "qid": "2hop__497191_129669",
+      "hop": 1,
+      "text": "In which state is Vila Franca de Xira located?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__131110_39743_24526",
+      "hop": 0,
+      "text": "What state is Walnut Spring located?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__131110_39743_24526",
+      "hop": 1,
+      "text": "In which of Virginia 's regions is Richmond?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "3hop1__131110_39743_24526",
+      "hop": 2,
+      "text": "What is the average winter daytime temperature in the Piedmont ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__9285_5188_23307",
+      "hop": 0,
+      "text": "What was the nobilities commonwealth?",
+      "rank_dense_bound": 10,
+      "rank_bm25_bound": 15
+    },
+    {
+      "qid": "3hop1__9285_5188_23307",
+      "hop": 1,
+      "text": "Despite being headquartered in Poland , the top-ranking operatives of the Warsaw Pact were from which country?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "3hop1__9285_5188_23307",
+      "hop": 2,
+      "text": "What month did the Tripartite discussions begin between Britain, the USSR and France?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__16844_42173",
+      "hop": 0,
+      "text": "What ruler was dissolved after the Indian Rebellion in 1857?",
+      "rank_dense_bound": 5,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "2hop__16844_42173",
+      "hop": 1,
+      "text": "When was British East India Company established?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__671542_665330_47686",
+      "hop": 0,
+      "text": "Darlings   performer",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__671542_665330_47686",
+      "hop": 1,
+      "text": "Kevin Drew   location of formation",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__671542_665330_47686",
+      "hop": 2,
+      "text": "where do greyhound buses leave from in Toronto",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "3hop1__672543_503371_21711",
+      "hop": 0,
+      "text": "Piedratajada   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__672543_503371_21711",
+      "hop": 1,
+      "text": "Martin of Aragon   place of death",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__672543_503371_21711",
+      "hop": 2,
+      "text": "When was the Palau de la Generalitat in Barcelona constructed?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "4hop2__161602_426860_88460_21062",
+      "hop": 0,
+      "text": "Who hosted the tournament?",
+      "rank_dense_bound": 53,
+      "rank_bm25_bound": 33
+    },
+    {
+      "qid": "4hop2__161602_426860_88460_21062",
+      "hop": 1,
+      "text": "That Dam   country",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 7
+    },
+    {
+      "qid": "4hop2__161602_426860_88460_21062",
+      "hop": 2,
+      "text": "what natural boundary lies between Thailand and Laos",
+      "rank_dense_bound": 8,
+      "rank_bm25_bound": 4
+    },
+    {
+      "qid": "4hop2__161602_426860_88460_21062",
+      "hop": 3,
+      "text": "Are there any cruise travel destinations for Myanmar ?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 2
+    },
+    {
+      "qid": "3hop1__404541_629431_124169",
+      "hop": 0,
+      "text": "Paenitentiam Agere   author",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__404541_629431_124169",
+      "hop": 1,
+      "text": "John XXIII   place of death",
+      "rank_dense_bound": 4,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__404541_629431_124169",
+      "hop": 2,
+      "text": "On what date did Governor of Vatican City end?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__648648_173389",
+      "hop": 0,
+      "text": "Broadhurst Park   located in the administrative territorial entity",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__648648_173389",
+      "hop": 1,
+      "text": "Moston   shares border with",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 8
+    },
+    {
+      "qid": "2hop__32441_522949",
+      "hop": 0,
+      "text": "What other president did the Jenkins Orphanage play for other than Taft?",
+      "rank_dense_bound": 2,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "2hop__32441_522949",
+      "hop": 1,
+      "text": "Theodore Roosevelt   spouse",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__662413_42197_18397",
+      "hop": 0,
+      "text": "Kirill Eskov   country of citizenship",
+      "rank_dense_bound": 10,
+      "rank_bm25_bound": 7
+    },
+    {
+      "qid": "3hop1__662413_42197_18397",
+      "hop": 1,
+      "text": "Who argued that the USSR had itself become an imperialist power?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__662413_42197_18397",
+      "hop": 2,
+      "text": "Where did Mao Zedong declare that he would intervene in the Korean conflict?",
+      "rank_dense_bound": 3,
+      "rank_bm25_bound": 3
+    },
+    {
+      "qid": "3hop1__140855_2053_52946",
+      "hop": 0,
+      "text": "What was the original network of Then Came Bronson?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__140855_2053_52946",
+      "hop": 1,
+      "text": "Along with ABC and NBC , what other major broadcaster is based in New York?",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    },
+    {
+      "qid": "3hop1__140855_2053_52946",
+      "hop": 2,
+      "text": "when is celebrity big brother coming to CBS",
+      "rank_dense_bound": 1,
+      "rank_bm25_bound": 1
+    }
+  ],
+  "rank_dense_bound": {
+    "0": {
+      "n": 200,
+      "recall@50": 0.97,
+      "recall@10": 0.92
+    },
+    "1": {
+      "n": 200,
+      "recall@50": 0.935,
+      "recall@10": 0.86
+    },
+    "2": {
+      "n": 101,
+      "recall@50": 0.9207920792079208,
+      "recall@10": 0.900990099009901
+    },
+    "3": {
+      "n": 39,
+      "recall@50": 0.9230769230769231,
+      "recall@10": 0.8205128205128205
+    }
+  },
+  "rank_bm25_bound": {
+    "0": {
+      "n": 200,
+      "recall@50": 0.945,
+      "recall@10": 0.865
+    },
+    "1": {
+      "n": 200,
+      "recall@50": 0.94,
+      "recall@10": 0.89
+    },
+    "2": {
+      "n": 101,
+      "recall@50": 0.8910891089108911,
+      "recall@10": 0.8217821782178217
+    },
+    "3": {
+      "n": 39,
+      "recall@50": 0.8974358974358975,
+      "recall@10": 0.7948717948717948
+    }
+  }
+}

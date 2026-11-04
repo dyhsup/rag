@@ -1,0 +1,4754 @@
+{
+  "n_questions": 10,
+  "n_variants": 64,
+  "per_style": {
+    "dispersal": {
+      "bm25_whole": {
+        "mean_delta": 0.8823529411764706,
+        "ci": [
+          0.8823529411764706,
+          0.23529411764705882,
+          1.3529411764705883
+        ]
+      },
+      "claim_max": {
+        "mean_delta": 0.8235294117647058,
+        "ci": [
+          0.8235294117647058,
+          -1.4705882352941178,
+          2.588235294117647
+        ]
+      },
+      "claim_mean": {
+        "mean_delta": 0.4117647058823529,
+        "ci": [
+          0.4117647058823529,
+          -1.5294117647058822,
+          1.8823529411764706
+        ]
+      },
+      "claim_min": {
+        "mean_delta": 2.0588235294117645,
+        "ci": [
+          2.0588235294117645,
+          -0.35294117647058826,
+          4.294117647058823
+        ]
+      },
+      "claim_cover": {
+        "mean_delta": 6.176470588235294,
+        "ci": [
+          6.176470588235294,
+          5.0,
+          7.411764705882353
+        ]
+      },
+      "claim_cover_tb": {
+        "mean_delta": 0.4117647058823529,
+        "ci": [
+          0.4117647058823529,
+          -1.5294117647058822,
+          1.8823529411764706
+        ]
+      },
+      "hybrid_0.3": {
+        "mean_delta": 0.7647058823529411,
+        "ci": [
+          0.7647058823529411,
+          -0.23529411764705882,
+          1.588235294117647
+        ]
+      },
+      "hybrid_0.5": {
+        "mean_delta": 0.47058823529411764,
+        "ci": [
+          0.47058823529411764,
+          -0.23529411764705882,
+          1.1176470588235294
+        ]
+      }
+    },
+    "relation": {
+      "bm25_whole": {
+        "mean_delta": 2.25,
+        "ci": [
+          2.25,
+          0.4375,
+          4.0625
+        ]
+      },
+      "claim_max": {
+        "mean_delta": 4.125,
+        "ci": [
+          4.125,
+          2.3125,
+          6.5
+        ]
+      },
+      "claim_mean": {
+        "mean_delta": 3.3125,
+        "ci": [
+          3.3125,
+          1.5,
+          5.75
+        ]
+      },
+      "claim_min": {
+        "mean_delta": 2.1875,
+        "ci": [
+          2.1875,
+          0.9375,
+          3.4375
+        ]
+      },
+      "claim_cover": {
+        "mean_delta": 5.4375,
+        "ci": [
+          5.4375,
+          3.875,
+          7.125
+        ]
+      },
+      "claim_cover_tb": {
+        "mean_delta": 3.0,
+        "ci": [
+          3.0,
+          1.375,
+          5.0
+        ]
+      },
+      "hybrid_0.3": {
+        "mean_delta": 2.125,
+        "ci": [
+          2.125,
+          0.0625,
+          4.25
+        ]
+      },
+      "hybrid_0.5": {
+        "mean_delta": 1.875,
+        "ci": [
+          1.875,
+          -0.3125,
+          4.3125
+        ]
+      }
+    },
+    "alias": {
+      "bm25_whole": {
+        "mean_delta": 3.1818181818181817,
+        "ci": [
+          3.1818181818181817,
+          1.4545454545454546,
+          4.818181818181818
+        ]
+      },
+      "claim_max": {
+        "mean_delta": 6.090909090909091,
+        "ci": [
+          6.090909090909091,
+          4.090909090909091,
+          8.272727272727273
+        ]
+      },
+      "claim_mean": {
+        "mean_delta": 5.2727272727272725,
+        "ci": [
+          5.2727272727272725,
+          3.4545454545454546,
+          7.2727272727272725
+        ]
+      },
+      "claim_min": {
+        "mean_delta": 0.9090909090909091,
+        "ci": [
+          0.9090909090909091,
+          -1.6363636363636365,
+          3.272727272727273
+        ]
+      },
+      "claim_cover": {
+        "mean_delta": 7.363636363636363,
+        "ci": [
+          7.363636363636363,
+          4.2727272727272725,
+          11.0
+        ]
+      },
+      "claim_cover_tb": {
+        "mean_delta": 5.2727272727272725,
+        "ci": [
+          5.2727272727272725,
+          3.4545454545454546,
+          7.2727272727272725
+        ]
+      },
+      "hybrid_0.3": {
+        "mean_delta": 3.8181818181818183,
+        "ci": [
+          3.8181818181818183,
+          2.3636363636363638,
+          5.2727272727272725
+        ]
+      },
+      "hybrid_0.5": {
+        "mean_delta": 4.7272727272727275,
+        "ci": [
+          4.7272727272727275,
+          3.272727272727273,
+          6.545454545454546
+        ]
+      }
+    },
+    "inversion": {
+      "bm25_whole": {
+        "mean_delta": 0.05,
+        "ci": [
+          0.05,
+          -1.3,
+          1.25
+        ]
+      },
+      "claim_max": {
+        "mean_delta": 2.0,
+        "ci": [
+          2.0,
+          0.65,
+          3.15
+        ]
+      },
+      "claim_mean": {
+        "mean_delta": 0.45,
+        "ci": [
+          0.45,
+          -1.35,
+          2.25
+        ]
+      },
+      "claim_min": {
+        "mean_delta": 1.9,
+        "ci": [
+          1.9,
+          -1.05,
+          4.9
+        ]
+      },
+      "claim_cover": {
+        "mean_delta": 5.65,
+        "ci": [
+          5.65,
+          4.75,
+          6.55
+        ]
+      },
+      "claim_cover_tb": {
+        "mean_delta": 0.35,
+        "ci": [
+          0.35,
+          -1.35,
+          2.0
+        ]
+      },
+      "hybrid_0.3": {
+        "mean_delta": 0.25,
+        "ci": [
+          0.25,
+          -1.2,
+          1.65
+        ]
+      },
+      "hybrid_0.5": {
+        "mean_delta": 0.05,
+        "ci": [
+          0.05,
+          -1.35,
+          1.35
+        ]
+      }
+    }
+  },
+  "per_question": [
+    {
+      "qid": "5add1d575542992c1e3a2540",
+      "question": "What nationality was Oliver Reed's character in the film Royal Flash?",
+      "n_pool": 28,
+      "items": [
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 20,
+            "claim_max": 25,
+            "claim_mean": 25,
+            "claim_min": 7,
+            "claim_cover": 18,
+            "claim_cover_tb": 25,
+            "hybrid_0.3": 22,
+            "hybrid_0.5": 25
+          },
+          "score": {
+            "bm25_whole": 0.1464170996776956,
+            "claim_max": 0.19423170974192525,
+            "claim_mean": 0.09711585487096262,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 9.711585487096263e-05,
+            "hybrid_0.3": 0.1316267262356757,
+            "hybrid_0.5": 0.1217664772743291
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 16,
+            "claim_max": 19,
+            "claim_mean": 19,
+            "claim_min": 8,
+            "claim_cover": 19,
+            "claim_cover_tb": 19,
+            "hybrid_0.3": 16,
+            "hybrid_0.5": 14
+          },
+          "score": {
+            "bm25_whole": 0.3556837263110281,
+            "claim_max": 0.41136898115602966,
+            "claim_mean": 0.20568449057801483,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00020568449057801482,
+            "hybrid_0.3": 0.3106839555911241,
+            "hybrid_0.5": 0.28068410844452146
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 1,
+            "claim_max": 5,
+            "claim_mean": 5,
+            "claim_min": 9,
+            "claim_cover": 1,
+            "claim_cover_tb": 5,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.8966495513315379,
+            "claim_mean": 0.44832477566576895,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004483247756658,
+            "hybrid_0.3": 0.8344974326997306,
+            "hybrid_0.5": 0.7241623878328844
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 14,
+            "claim_max": 21,
+            "claim_mean": 21,
+            "claim_min": 10,
+            "claim_cover": 20,
+            "claim_cover_tb": 21,
+            "hybrid_0.3": 14,
+            "hybrid_0.5": 16
+          },
+          "score": {
+            "bm25_whole": 0.39833744851080194,
+            "claim_max": 0.2655499539799413,
+            "claim_mean": 0.13277497698997065,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00013277497698997064,
+            "hybrid_0.3": 0.3186687070545526,
+            "hybrid_0.5": 0.2655562127503863
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 8,
+            "claim_max": 1,
+            "claim_mean": 3,
+            "claim_min": 11,
+            "claim_cover": 2,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 3
+          },
+          "score": {
+            "bm25_whole": 0.8034857051354489,
+            "claim_max": 1.0,
+            "claim_mean": 0.5,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005,
+            "hybrid_0.3": 0.7124399935948142,
+            "hybrid_0.5": 0.6517428525677245
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 5,
+            "claim_max": 12,
+            "claim_mean": 12,
+            "claim_min": 12,
+            "claim_cover": 3,
+            "claim_cover_tb": 12,
+            "hybrid_0.3": 7,
+            "hybrid_0.5": 9
+          },
+          "score": {
+            "bm25_whole": 0.8537713057493509,
+            "claim_max": 0.7010628370037817,
+            "claim_mean": 0.35053141850189085,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003505314185019,
+            "hybrid_0.3": 0.7027993395751129,
+            "hybrid_0.5": 0.6021513621256209
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 10,
+            "claim_max": 16,
+            "claim_mean": 16,
+            "claim_min": 13,
+            "claim_cover": 4,
+            "claim_cover_tb": 16,
+            "hybrid_0.3": 12,
+            "hybrid_0.5": 12
+          },
+          "score": {
+            "bm25_whole": 0.5198690897782329,
+            "claim_max": 0.6373727787222787,
+            "claim_mean": 0.31868638936113936,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003186863893612,
+            "hybrid_0.3": 0.45951427965310476,
+            "hybrid_0.5": 0.4192777395696861
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 18,
+            "claim_max": 23,
+            "claim_mean": 23,
+            "claim_min": 14,
+            "claim_cover": 21,
+            "claim_cover_tb": 23,
+            "hybrid_0.3": 18,
+            "hybrid_0.5": 20
+          },
+          "score": {
+            "bm25_whole": 0.3457348696841155,
+            "claim_max": 0.22891261516254865,
+            "claim_mean": 0.11445630758127433,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00011445630758127432,
+            "hybrid_0.3": 0.2763513010532631,
+            "hybrid_0.5": 0.23009558863269491
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 12,
+            "claim_max": 2,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 5,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 10,
+            "hybrid_0.5": 7
+          },
+          "score": {
+            "bm25_whole": 0.5161377040328509,
+            "claim_max": 1.0,
+            "claim_mean": 0.698712458537313,
+            "claim_min": 0.39742491707462607,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006987124585374,
+            "hybrid_0.3": 0.5709101303841895,
+            "hybrid_0.5": 0.6074250812850819
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 27,
+            "claim_max": 7,
+            "claim_mean": 7,
+            "claim_min": 4,
+            "claim_cover": 6,
+            "claim_cover_tb": 7,
+            "hybrid_0.3": 24,
+            "hybrid_0.5": 22
+          },
+          "score": {
+            "bm25_whole": 0.0,
+            "claim_max": 0.7889192806843971,
+            "claim_mean": 0.4001988688817519,
+            "claim_min": 0.011478457079106632,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004001988688818,
+            "hybrid_0.3": 0.12005966066452556,
+            "hybrid_0.5": 0.20009943444087594
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 6,
+            "claim_max": 13,
+            "claim_mean": 13,
+            "claim_min": 15,
+            "claim_cover": 7,
+            "claim_cover_tb": 13,
+            "hybrid_0.3": 8,
+            "hybrid_0.5": 10
+          },
+          "score": {
+            "bm25_whole": 0.8537713057493509,
+            "claim_max": 0.7010628370037817,
+            "claim_mean": 0.35053141850189085,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003505314185019,
+            "hybrid_0.3": 0.7027993395751129,
+            "hybrid_0.5": 0.6021513621256209
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 3,
+            "claim_cover": 4,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 3,
+            "claim_max": 14,
+            "claim_mean": 14,
+            "claim_min": 16,
+            "claim_cover": 8,
+            "claim_cover_tb": 14,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 5
+          },
+          "score": {
+            "bm25_whole": 0.9359090829409693,
+            "claim_max": 0.7010628370037817,
+            "claim_mean": 0.35053141850189085,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003505314185019,
+            "hybrid_0.3": 0.7602957836092457,
+            "hybrid_0.5": 0.6432202507214301
+          },
+          "delta": {
+            "bm25_whole": -2,
+            "claim_max": 2,
+            "claim_mean": 2,
+            "claim_min": 4,
+            "claim_cover": 5,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": -4,
+            "hybrid_0.5": -4
+          }
+        },
+        {
+          "kind": "alias",
+          "rank": {
+            "bm25_whole": 7,
+            "claim_max": 18,
+            "claim_mean": 18,
+            "claim_min": 17,
+            "claim_cover": 22,
+            "claim_cover_tb": 18,
+            "hybrid_0.3": 9,
+            "hybrid_0.5": 11
+          },
+          "score": {
+            "bm25_whole": 0.8087184690884208,
+            "claim_max": 0.48775768399251573,
+            "claim_mean": 0.24387884199625787,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00024387884199625787,
+            "hybrid_0.3": 0.6392665809607719,
+            "hybrid_0.5": 0.5262986555423393
+          },
+          "delta": {
+            "bm25_whole": 2,
+            "claim_max": 6,
+            "claim_mean": 6,
+            "claim_min": 5,
+            "claim_cover": 19,
+            "claim_cover_tb": 6,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 4,
+            "claim_max": 15,
+            "claim_mean": 15,
+            "claim_min": 18,
+            "claim_cover": 9,
+            "claim_cover_tb": 15,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 6
+          },
+          "score": {
+            "bm25_whole": 0.9077671949898451,
+            "claim_max": 0.7010628370037817,
+            "claim_mean": 0.35053141850189085,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003505314185019,
+            "hybrid_0.3": 0.7405964620434587,
+            "hybrid_0.5": 0.629149306745868
+          },
+          "delta": {
+            "bm25_whole": -1,
+            "claim_max": 3,
+            "claim_mean": 3,
+            "claim_min": 6,
+            "claim_cover": 6,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": -3,
+            "hybrid_0.5": -3
+          }
+        },
+        {
+          "kind": "alias",
+          "rank": {
+            "bm25_whole": 26,
+            "claim_max": 11,
+            "claim_mean": 11,
+            "claim_min": 5,
+            "claim_cover": 10,
+            "claim_cover_tb": 11,
+            "hybrid_0.3": 26,
+            "hybrid_0.5": 24
+          },
+          "score": {
+            "bm25_whole": 0.0018871185359924795,
+            "claim_max": 0.7084030100334447,
+            "claim_mean": 0.3599407335562757,
+            "claim_min": 0.011478457079106632,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003599407335563,
+            "hybrid_0.3": 0.10930320304207744,
+            "hybrid_0.5": 0.1809139260461341
+          },
+          "delta": {
+            "bm25_whole": -1,
+            "claim_max": 4,
+            "claim_mean": 4,
+            "claim_min": 1,
+            "claim_cover": 4,
+            "claim_cover_tb": 4,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 28,
+            "claim_max": 8,
+            "claim_mean": 8,
+            "claim_min": 6,
+            "claim_cover": 11,
+            "claim_cover_tb": 8,
+            "hybrid_0.3": 25,
+            "hybrid_0.5": 23
+          },
+          "score": {
+            "bm25_whole": 0.0,
+            "claim_max": 0.7889192806843971,
+            "claim_mean": 0.4001988688817519,
+            "claim_min": 0.011478457079106632,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004001988688818,
+            "hybrid_0.3": 0.12005966066452556,
+            "hybrid_0.5": 0.20009943444087594
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 2,
+            "claim_cover": 5,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 23,
+            "claim_max": 9,
+            "claim_mean": 9,
+            "claim_min": 19,
+            "claim_cover": 12,
+            "claim_cover_tb": 9,
+            "hybrid_0.3": 21,
+            "hybrid_0.5": 19
+          },
+          "score": {
+            "bm25_whole": 0.07245460347948554,
+            "claim_max": 0.7889192806843971,
+            "claim_mean": 0.39445964034219855,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003944596403422,
+            "hybrid_0.3": 0.16905611453829944,
+            "hybrid_0.5": 0.23345712191084206
+          },
+          "delta": {
+            "bm25_whole": -4,
+            "claim_max": 2,
+            "claim_mean": 2,
+            "claim_min": 15,
+            "claim_cover": 6,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": -3,
+            "hybrid_0.5": -3
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 22,
+            "claim_max": 10,
+            "claim_mean": 10,
+            "claim_min": 3,
+            "claim_cover": 13,
+            "claim_cover_tb": 10,
+            "hybrid_0.3": 20,
+            "hybrid_0.5": 18
+          },
+          "score": {
+            "bm25_whole": 0.1207671200797317,
+            "claim_max": 0.7408055084977319,
+            "claim_mean": 0.39442783026407274,
+            "claim_min": 0.04805015203041365,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003944278302641,
+            "hybrid_0.3": 0.20286533313503402,
+            "hybrid_0.5": 0.25759747517190223
+          },
+          "delta": {
+            "bm25_whole": -5,
+            "claim_max": 3,
+            "claim_mean": 3,
+            "claim_min": -1,
+            "claim_cover": 7,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": -4,
+            "hybrid_0.5": -4
+          }
+        }
+      ]
+    },
+    {
+      "qid": "5ac55ea55542993e66e82377",
+      "question": "Pacific Mozart Ensemble performed which German composer's Der Lindberghflug in 2002?",
+      "n_pool": 26,
+      "items": [
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 19,
+            "claim_max": 1,
+            "claim_mean": 2,
+            "claim_min": 6,
+            "claim_cover": 1,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 15,
+            "hybrid_0.5": 10
+          },
+          "score": {
+            "bm25_whole": 0.23203081227467617,
+            "claim_max": 1.0,
+            "claim_mean": 0.6738921204334696,
+            "claim_min": 0.34778424086693926,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006738921204335,
+            "hybrid_0.3": 0.36458920472231415,
+            "hybrid_0.5": 0.45296146635407286
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 13,
+            "claim_max": 9,
+            "claim_mean": 9,
+            "claim_min": 1,
+            "claim_cover": 9,
+            "claim_cover_tb": 9,
+            "hybrid_0.3": 8,
+            "hybrid_0.5": 8
+          },
+          "score": {
+            "bm25_whole": 0.46293516510129556,
+            "claim_max": 0.4657751510632998,
+            "claim_mean": 0.4486636410520504,
+            "claim_min": 0.43155213104080103,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00044866364105205044,
+            "hybrid_0.3": 0.458653707886522,
+            "hybrid_0.5": 0.455799403076673
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 15,
+            "claim_max": 21,
+            "claim_mean": 13,
+            "claim_min": 8,
+            "claim_cover": 10,
+            "claim_cover_tb": 13,
+            "hybrid_0.3": 17,
+            "hybrid_0.5": 15
+          },
+          "score": {
+            "bm25_whole": 0.3843397444247299,
+            "claim_max": 0.3500627662036494,
+            "claim_mean": 0.2939561370973993,
+            "claim_min": 0.23784950799114918,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0002939561370973993,
+            "hybrid_0.3": 0.3572246622265307,
+            "hybrid_0.5": 0.3391479407610646
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 11,
+            "claim_max": 14,
+            "claim_mean": 15,
+            "claim_min": 12,
+            "claim_cover": 11,
+            "claim_cover_tb": 15,
+            "hybrid_0.3": 11,
+            "hybrid_0.5": 13
+          },
+          "score": {
+            "bm25_whole": 0.4826033518344971,
+            "claim_max": 0.37673544783438573,
+            "claim_mean": 0.22469045412578453,
+            "claim_min": 0.07264546041718335,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00022469045412578455,
+            "hybrid_0.3": 0.4052294825218833,
+            "hybrid_0.5": 0.3536469029801408
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 24,
+            "claim_max": 16,
+            "claim_mean": 21,
+            "claim_min": 24,
+            "claim_cover": 12,
+            "claim_cover_tb": 21,
+            "hybrid_0.3": 24,
+            "hybrid_0.5": 24
+          },
+          "score": {
+            "bm25_whole": 0.15010131257250703,
+            "claim_max": 0.3754118547310353,
+            "claim_mean": 0.18770592736551764,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00018770592736551764,
+            "hybrid_0.3": 0.1613826970104102,
+            "hybrid_0.5": 0.16890361996901232
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 17,
+            "claim_max": 19,
+            "claim_mean": 23,
+            "claim_min": 21,
+            "claim_cover": 13,
+            "claim_cover_tb": 23,
+            "hybrid_0.3": 22,
+            "hybrid_0.5": 22
+          },
+          "score": {
+            "bm25_whole": 0.24811620982252836,
+            "claim_max": 0.3578768929689834,
+            "claim_mean": 0.18265223100482125,
+            "claim_min": 0.007427569040659114,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00018265223100482125,
+            "hybrid_0.3": 0.22847701617721622,
+            "hybrid_0.5": 0.2153842204136748
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 6,
+            "claim_max": 23,
+            "claim_mean": 19,
+            "claim_min": 10,
+            "claim_cover": 14,
+            "claim_cover_tb": 19,
+            "hybrid_0.3": 6,
+            "hybrid_0.5": 6
+          },
+          "score": {
+            "bm25_whole": 0.9121939964347391,
+            "claim_max": 0.27720255568134716,
+            "claim_mean": 0.18886324943098565,
+            "claim_min": 0.10052394318062412,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00018886324943098566,
+            "hybrid_0.3": 0.695194772333613,
+            "hybrid_0.5": 0.5505286229328623
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 2,
+            "claim_max": 2,
+            "claim_mean": 4,
+            "claim_min": 14,
+            "claim_cover": 2,
+            "claim_cover_tb": 4,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          },
+          "score": {
+            "bm25_whole": 0.9770489461518255,
+            "claim_max": 1.0,
+            "claim_mean": 0.5133168907045943,
+            "claim_min": 0.02663378140918863,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005133168907046,
+            "hybrid_0.3": 0.837929329517656,
+            "hybrid_0.5": 0.7451829184282099
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 22,
+            "claim_max": 11,
+            "claim_mean": 11,
+            "claim_min": 4,
+            "claim_cover": 15,
+            "claim_cover_tb": 11,
+            "hybrid_0.3": 20,
+            "hybrid_0.5": 20
+          },
+          "score": {
+            "bm25_whole": 0.1578521252171601,
+            "claim_max": 0.46422829766272317,
+            "claim_mean": 0.4170901452890605,
+            "claim_min": 0.36995199291539793,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0004170901452890605,
+            "hybrid_0.3": 0.2356235312387302,
+            "hybrid_0.5": 0.2874711352531103
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 8,
+            "claim_max": 25,
+            "claim_mean": 25,
+            "claim_min": 19,
+            "claim_cover": 16,
+            "claim_cover_tb": 25,
+            "hybrid_0.3": 13,
+            "hybrid_0.5": 18
+          },
+          "score": {
+            "bm25_whole": 0.5704873631233962,
+            "claim_max": 0.019881330533923082,
+            "claim_mean": 0.015477029330166755,
+            "claim_min": 0.011072728126410428,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 1.5477029330166755e-05,
+            "hybrid_0.3": 0.40398426298542733,
+            "hybrid_0.5": 0.29298219622678146
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 3,
+            "claim_max": 3,
+            "claim_mean": 5,
+            "claim_min": 15,
+            "claim_cover": 3,
+            "claim_cover_tb": 5,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 3
+          },
+          "score": {
+            "bm25_whole": 0.9770489461518255,
+            "claim_max": 1.0,
+            "claim_mean": 0.5133168907045943,
+            "claim_min": 0.02663378140918863,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005133168907046,
+            "hybrid_0.3": 0.837929329517656,
+            "hybrid_0.5": 0.7451829184282099
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 1,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "alias",
+          "rank": {
+            "bm25_whole": 4,
+            "claim_max": 7,
+            "claim_mean": 6,
+            "claim_min": 16,
+            "claim_cover": 4,
+            "claim_cover_tb": 6,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 4
+          },
+          "score": {
+            "bm25_whole": 0.9696421571373605,
+            "claim_max": 0.9511277650815274,
+            "claim_mean": 0.488880773245358,
+            "claim_min": 0.02663378140918863,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004888807732454,
+            "hybrid_0.3": 0.8254137419697596,
+            "hybrid_0.5": 0.7292614651913593
+          },
+          "delta": {
+            "bm25_whole": 2,
+            "claim_max": 5,
+            "claim_mean": 2,
+            "claim_min": 2,
+            "claim_cover": 2,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 5,
+            "claim_max": 6,
+            "claim_mean": 7,
+            "claim_min": 18,
+            "claim_cover": 5,
+            "claim_cover_tb": 7,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 5
+          },
+          "score": {
+            "bm25_whole": 0.9620158425769861,
+            "claim_max": 0.9617681354710459,
+            "claim_mean": 0.4876792068072049,
+            "claim_min": 0.013590278143363875,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004876792068073,
+            "hybrid_0.3": 0.8197148518460518,
+            "hybrid_0.5": 0.7248475246920956
+          },
+          "delta": {
+            "bm25_whole": 3,
+            "claim_max": 4,
+            "claim_mean": 3,
+            "claim_min": 4,
+            "claim_cover": 3,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 3
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 1,
+            "claim_max": 4,
+            "claim_mean": 1,
+            "claim_min": 3,
+            "claim_cover": 6,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 1.0,
+            "claim_mean": 0.6866562868836805,
+            "claim_min": 0.37331257376736104,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006866562868837,
+            "hybrid_0.3": 0.9059968860651041,
+            "hybrid_0.5": 0.8433281434418403
+          },
+          "delta": {
+            "bm25_whole": -1,
+            "claim_max": 2,
+            "claim_mean": -3,
+            "claim_min": -11,
+            "claim_cover": 4,
+            "claim_cover_tb": -3,
+            "hybrid_0.3": -1,
+            "hybrid_0.5": -1
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 9,
+            "claim_max": 26,
+            "claim_mean": 26,
+            "claim_min": 20,
+            "claim_cover": 17,
+            "claim_cover_tb": 26,
+            "hybrid_0.3": 14,
+            "hybrid_0.5": 19
+          },
+          "score": {
+            "bm25_whole": 0.5704873631233962,
+            "claim_max": 0.019881330533923082,
+            "claim_mean": 0.015477029330166755,
+            "claim_min": 0.011072728126410428,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 1.5477029330166755e-05,
+            "hybrid_0.3": 0.40398426298542733,
+            "hybrid_0.5": 0.29298219622678146
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 1,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 10,
+            "claim_max": 18,
+            "claim_mean": 18,
+            "claim_min": 17,
+            "claim_cover": 18,
+            "claim_cover_tb": 18,
+            "hybrid_0.3": 10,
+            "hybrid_0.5": 12
+          },
+          "score": {
+            "bm25_whole": 0.5619000306049728,
+            "claim_max": 0.37081803108557054,
+            "claim_mean": 0.19534968080974682,
+            "claim_min": 0.019881330533923082,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00019534968080974684,
+            "hybrid_0.3": 0.451934925666405,
+            "hybrid_0.5": 0.3786248557073598
+          },
+          "delta": {
+            "bm25_whole": 2,
+            "claim_max": -7,
+            "claim_mean": -7,
+            "claim_min": -2,
+            "claim_cover": 2,
+            "claim_cover_tb": -7,
+            "hybrid_0.3": -3,
+            "hybrid_0.5": -6
+          }
+        }
+      ]
+    },
+    {
+      "qid": "5ac3a76e554299741d48a2be",
+      "question": "Who released the song \"With or Without You\" first, Jai McDowall or U2?",
+      "n_pool": 25,
+      "items": [
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 13,
+            "claim_max": 22,
+            "claim_mean": 22,
+            "claim_min": 20,
+            "claim_cover": 8,
+            "claim_cover_tb": 22,
+            "hybrid_0.3": 15,
+            "hybrid_0.5": 16
+          },
+          "score": {
+            "bm25_whole": 0.6136174473252846,
+            "claim_max": 0.26450248558327183,
+            "claim_mean": 0.19731092724125626,
+            "claim_min": 0.13011936889924072,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00019731092724125626,
+            "hybrid_0.3": 0.48872549130007603,
+            "hybrid_0.5": 0.4054641872832704
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 21,
+            "claim_max": 14,
+            "claim_mean": 16,
+            "claim_min": 18,
+            "claim_cover": 9,
+            "claim_cover_tb": 16,
+            "hybrid_0.3": 21,
+            "hybrid_0.5": 23
+          },
+          "score": {
+            "bm25_whole": 0.44532232038673986,
+            "claim_max": 0.34694033243361583,
+            "claim_mean": 0.2515356569585219,
+            "claim_min": 0.15613098148342805,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0002515356569585219,
+            "hybrid_0.3": 0.38718632135827447,
+            "hybrid_0.5": 0.3484289886726309
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 11,
+            "claim_max": 18,
+            "claim_mean": 18,
+            "claim_min": 14,
+            "claim_cover": 10,
+            "claim_cover_tb": 18,
+            "hybrid_0.3": 10,
+            "hybrid_0.5": 10
+          },
+          "score": {
+            "bm25_whole": 0.6820766537235535,
+            "claim_max": 0.27685342399575397,
+            "claim_mean": 0.240236456542232,
+            "claim_min": 0.20361948908871003,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.000240236456542232,
+            "hybrid_0.3": 0.549524594569157,
+            "hybrid_0.5": 0.4611565551328928
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 15,
+            "claim_max": 16,
+            "claim_mean": 14,
+            "claim_min": 10,
+            "claim_cover": 11,
+            "claim_cover_tb": 14,
+            "hybrid_0.3": 13,
+            "hybrid_0.5": 12
+          },
+          "score": {
+            "bm25_whole": 0.5907657045667756,
+            "claim_max": 0.2852009466600392,
+            "claim_mean": 0.2559707975221343,
+            "claim_min": 0.22674064838422944,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00025597079752213433,
+            "hybrid_0.3": 0.49032723245338317,
+            "hybrid_0.5": 0.42336825104445497
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 17,
+            "claim_max": 20,
+            "claim_mean": 20,
+            "claim_min": 16,
+            "claim_cover": 12,
+            "claim_cover_tb": 20,
+            "hybrid_0.3": 17,
+            "hybrid_0.5": 14
+          },
+          "score": {
+            "bm25_whole": 0.5894779781311468,
+            "claim_max": 0.2684351249218808,
+            "claim_mean": 0.2251838421245939,
+            "claim_min": 0.181932559327307,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0002251838421245939,
+            "hybrid_0.3": 0.48018973732918085,
+            "hybrid_0.5": 0.40733091012787037
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 8,
+            "claim_max": 12,
+            "claim_mean": 8,
+            "claim_min": 8,
+            "claim_cover": 13,
+            "claim_cover_tb": 8,
+            "hybrid_0.3": 8,
+            "hybrid_0.5": 8
+          },
+          "score": {
+            "bm25_whole": 0.7324771184935207,
+            "claim_max": 0.3610085996997965,
+            "claim_mean": 0.30454958280074296,
+            "claim_min": 0.24809056590168946,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.000304549582800743,
+            "hybrid_0.3": 0.6040988577856874,
+            "hybrid_0.5": 0.5185133506471318
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 5,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 1,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          },
+          "score": {
+            "bm25_whole": 0.9157382095090105,
+            "claim_max": 1.0,
+            "claim_mean": 1.0,
+            "claim_min": 1.0,
+            "claim_cover": 1.0,
+            "claim_cover_tb": 1.001,
+            "hybrid_0.3": 0.9410167466563073,
+            "hybrid_0.5": 0.9578691047545053
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 1,
+            "claim_max": 2,
+            "claim_mean": 2,
+            "claim_min": 3,
+            "claim_cover": 2,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.8669971622551598,
+            "claim_mean": 0.7812330981571476,
+            "claim_min": 0.6954690340591355,
+            "claim_cover": 1.0,
+            "claim_cover_tb": 1.0007812330981571,
+            "hybrid_0.3": 0.9343699294471443,
+            "hybrid_0.5": 0.8906165490785738
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 23,
+            "claim_max": 10,
+            "claim_mean": 10,
+            "claim_min": 12,
+            "claim_cover": 14,
+            "claim_cover_tb": 10,
+            "hybrid_0.3": 23,
+            "hybrid_0.5": 21
+          },
+          "score": {
+            "bm25_whole": 0.42072286215358984,
+            "claim_max": 0.36346803656700133,
+            "claim_mean": 0.2843681842789306,
+            "claim_min": 0.2052683319908599,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0002843681842789306,
+            "hybrid_0.3": 0.3798164587911921,
+            "hybrid_0.5": 0.3525455232162602
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 19,
+            "claim_max": 8,
+            "claim_mean": 12,
+            "claim_min": 22,
+            "claim_cover": 15,
+            "claim_cover_tb": 12,
+            "hybrid_0.3": 19,
+            "hybrid_0.5": 19
+          },
+          "score": {
+            "bm25_whole": 0.47304242683645814,
+            "claim_max": 0.4495012884660063,
+            "claim_mean": 0.27621440964683625,
+            "claim_min": 0.10292753082766622,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00027621440964683625,
+            "hybrid_0.3": 0.41399402167957156,
+            "hybrid_0.5": 0.37462841824164717
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 4,
+            "claim_max": 5,
+            "claim_mean": 5,
+            "claim_min": 2,
+            "claim_cover": 3,
+            "claim_cover_tb": 5,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 5
+          },
+          "score": {
+            "bm25_whole": 0.9741912179521245,
+            "claim_max": 0.792179197397232,
+            "claim_mean": 0.7723876295408063,
+            "claim_min": 0.7525960616843806,
+            "claim_cover": 1.0,
+            "claim_cover_tb": 1.000772387629541,
+            "hybrid_0.3": 0.913650141428729,
+            "hybrid_0.5": 0.8732894237464655
+          },
+          "delta": {
+            "bm25_whole": -1,
+            "claim_max": 4,
+            "claim_mean": 4,
+            "claim_min": 1,
+            "claim_cover": 2,
+            "claim_cover_tb": 4,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 4
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 6,
+            "claim_max": 6,
+            "claim_mean": 6,
+            "claim_min": 6,
+            "claim_cover": 4,
+            "claim_cover_tb": 6,
+            "hybrid_0.3": 6,
+            "hybrid_0.5": 6
+          },
+          "score": {
+            "bm25_whole": 0.8188536062727055,
+            "claim_max": 0.752900083690465,
+            "claim_mean": 0.6784225953569749,
+            "claim_min": 0.6039451070234848,
+            "claim_cover": 1.0,
+            "claim_cover_tb": 1.0006784225953569,
+            "hybrid_0.3": 0.7767243029979863,
+            "hybrid_0.5": 0.7486381008148402
+          },
+          "delta": {
+            "bm25_whole": 5,
+            "claim_max": 4,
+            "claim_mean": 4,
+            "claim_min": 3,
+            "claim_cover": 2,
+            "claim_cover_tb": 4,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 4
+          }
+        },
+        {
+          "kind": "alias",
+          "rank": {
+            "bm25_whole": 7,
+            "claim_max": 7,
+            "claim_mean": 7,
+            "claim_min": 7,
+            "claim_cover": 5,
+            "claim_cover_tb": 7,
+            "hybrid_0.3": 7,
+            "hybrid_0.5": 7
+          },
+          "score": {
+            "bm25_whole": 0.8125400883396241,
+            "claim_max": 0.752900083690465,
+            "claim_mean": 0.6784225953569749,
+            "claim_min": 0.6039451070234848,
+            "claim_cover": 1.0,
+            "claim_cover_tb": 1.0006784225953569,
+            "hybrid_0.3": 0.7723048404448293,
+            "hybrid_0.5": 0.7454813418482995
+          },
+          "delta": {
+            "bm25_whole": 6,
+            "claim_max": 5,
+            "claim_mean": 5,
+            "claim_min": 4,
+            "claim_cover": 3,
+            "claim_cover_tb": 5,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 5
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 2,
+            "claim_max": 3,
+            "claim_mean": 3,
+            "claim_min": 4,
+            "claim_cover": 6,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 3
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.8669971622551598,
+            "claim_mean": 0.7812330981571476,
+            "claim_min": 0.6954690340591355,
+            "claim_cover": 1.0,
+            "claim_cover_tb": 1.0007812330981571,
+            "hybrid_0.3": 0.9343699294471443,
+            "hybrid_0.5": 0.8906165490785738
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 4,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 3,
+            "claim_max": 4,
+            "claim_mean": 4,
+            "claim_min": 5,
+            "claim_cover": 7,
+            "claim_cover_tb": 4,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 4
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.8669971622551598,
+            "claim_mean": 0.7812330981571476,
+            "claim_min": 0.6954690340591355,
+            "claim_cover": 1.0,
+            "claim_cover_tb": 1.0007812330981571,
+            "hybrid_0.3": 0.9343699294471443,
+            "hybrid_0.5": 0.8906165490785738
+          },
+          "delta": {
+            "bm25_whole": 2,
+            "claim_max": 2,
+            "claim_mean": 2,
+            "claim_min": 2,
+            "claim_cover": 5,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          }
+        }
+      ]
+    },
+    {
+      "qid": "5a7133565542994082a3e65c",
+      "question": "What Kentucky county has a population of 60,316 and features the Lake Louisvilla neighborhood?",
+      "n_pool": 28,
+      "items": [
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 21,
+            "claim_max": 16,
+            "claim_mean": 16,
+            "claim_min": 12,
+            "claim_cover": 11,
+            "claim_cover_tb": 16,
+            "hybrid_0.3": 21,
+            "hybrid_0.5": 21
+          },
+          "score": {
+            "bm25_whole": 0.25921200672617073,
+            "claim_max": 0.12048732333711794,
+            "claim_mean": 0.0998007427754383,
+            "claim_min": 0.07911416221375867,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 9.98007427754383e-05,
+            "hybrid_0.3": 0.21138862754095097,
+            "hybrid_0.5": 0.1795063747508045
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 5,
+            "claim_max": 1,
+            "claim_mean": 2,
+            "claim_min": 14,
+            "claim_cover": 1,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 5
+          },
+          "score": {
+            "bm25_whole": 0.8471462179938621,
+            "claim_max": 1.0,
+            "claim_mean": 0.538430275678724,
+            "claim_min": 0.07686055135744803,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005384302756787,
+            "hybrid_0.3": 0.7545314352993207,
+            "hybrid_0.5": 0.6927882468362931
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 17,
+            "claim_max": 20,
+            "claim_mean": 22,
+            "claim_min": 21,
+            "claim_cover": 12,
+            "claim_cover_tb": 22,
+            "hybrid_0.3": 17,
+            "hybrid_0.5": 17
+          },
+          "score": {
+            "bm25_whole": 0.2819357535230286,
+            "claim_max": 0.10596967250055352,
+            "claim_mean": 0.08565696038911519,
+            "claim_min": 0.06534424827767686,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 8.56569603891152e-05,
+            "hybrid_0.3": 0.22305211558285454,
+            "hybrid_0.5": 0.18379635695607188
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 11,
+            "claim_max": 22,
+            "claim_mean": 18,
+            "claim_min": 8,
+            "claim_cover": 13,
+            "claim_cover_tb": 18,
+            "hybrid_0.3": 11,
+            "hybrid_0.5": 15
+          },
+          "score": {
+            "bm25_whole": 0.5750690698840131,
+            "claim_max": 0.1057640264046866,
+            "claim_mean": 0.09587365431075653,
+            "claim_min": 0.08598328221682648,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 9.587365431075653e-05,
+            "hybrid_0.3": 0.4313104452120361,
+            "hybrid_0.5": 0.3354713620973848
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 19,
+            "claim_max": 18,
+            "claim_mean": 24,
+            "claim_min": 24,
+            "claim_cover": 14,
+            "claim_cover_tb": 24,
+            "hybrid_0.3": 19,
+            "hybrid_0.5": 19
+          },
+          "score": {
+            "bm25_whole": 0.2802044947369877,
+            "claim_max": 0.1119636234441071,
+            "claim_mean": 0.08063628552507311,
+            "claim_min": 0.049308947606039134,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 8.063628552507311e-05,
+            "hybrid_0.3": 0.2203340319734133,
+            "hybrid_0.5": 0.18042039013103042
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 1,
+            "claim_max": 6,
+            "claim_mean": 6,
+            "claim_min": 5,
+            "claim_cover": 2,
+            "claim_cover_tb": 6,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 2
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.9161676904666041,
+            "claim_mean": 0.5169413371488053,
+            "claim_min": 0.11771498383100652,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005169413371489,
+            "hybrid_0.3": 0.8550824011446415,
+            "hybrid_0.5": 0.7584706685744027
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 13,
+            "claim_max": 14,
+            "claim_mean": 11,
+            "claim_min": 1,
+            "claim_cover": 15,
+            "claim_cover_tb": 11,
+            "hybrid_0.3": 13,
+            "hybrid_0.5": 11
+          },
+          "score": {
+            "bm25_whole": 0.4895789118059524,
+            "claim_max": 0.23549992747107332,
+            "claim_mean": 0.22358760171958142,
+            "claim_min": 0.21167527596808952,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00022358760171958141,
+            "hybrid_0.3": 0.4097815187800411,
+            "hybrid_0.5": 0.3565832567627669
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 15,
+            "claim_max": 11,
+            "claim_mean": 13,
+            "claim_min": 15,
+            "claim_cover": 16,
+            "claim_cover_tb": 13,
+            "hybrid_0.3": 15,
+            "hybrid_0.5": 13
+          },
+          "score": {
+            "bm25_whole": 0.4789882033587255,
+            "claim_max": 0.32967967230685113,
+            "claim_mean": 0.20327011183214957,
+            "claim_min": 0.07686055135744803,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00020327011183214958,
+            "hybrid_0.3": 0.39627277590075266,
+            "hybrid_0.5": 0.34112915759543755
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 25,
+            "claim_max": 26,
+            "claim_mean": 26,
+            "claim_min": 26,
+            "claim_cover": 17,
+            "claim_cover_tb": 26,
+            "hybrid_0.3": 25,
+            "hybrid_0.5": 26
+          },
+          "score": {
+            "bm25_whole": 0.20661076261841002,
+            "claim_max": 0.08448030442675382,
+            "claim_mean": 0.04224015221337691,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 4.224015221337691e-05,
+            "hybrid_0.3": 0.15729957949690007,
+            "hybrid_0.5": 0.12442545741589346
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 23,
+            "claim_max": 24,
+            "claim_mean": 20,
+            "claim_min": 9,
+            "claim_cover": 18,
+            "claim_cover_tb": 20,
+            "hybrid_0.3": 23,
+            "hybrid_0.5": 23
+          },
+          "score": {
+            "bm25_whole": 0.2210764426155082,
+            "claim_max": 0.10024641817497015,
+            "claim_mean": 0.09311485019589832,
+            "claim_min": 0.08598328221682648,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 9.311485019589833e-05,
+            "hybrid_0.3": 0.18268796488962522,
+            "hybrid_0.5": 0.15709564640570328
+          }
+        },
+        {
+          "kind": "alias",
+          "rank": {
+            "bm25_whole": 10,
+            "claim_max": 9,
+            "claim_mean": 10,
+            "claim_min": 19,
+            "claim_cover": 3,
+            "claim_cover_tb": 10,
+            "hybrid_0.3": 10,
+            "hybrid_0.5": 10
+          },
+          "score": {
+            "bm25_whole": 0.783446812015421,
+            "claim_max": 0.8733370662015443,
+            "claim_mean": 0.47355113787577885,
+            "claim_min": 0.07376520955001344,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004735511378757,
+            "hybrid_0.3": 0.6904781097735283,
+            "hybrid_0.5": 0.6284989749455999
+          },
+          "delta": {
+            "bm25_whole": 5,
+            "claim_max": 8,
+            "claim_mean": 8,
+            "claim_min": 5,
+            "claim_cover": 2,
+            "claim_cover_tb": 8,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 5
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 9,
+            "claim_max": 5,
+            "claim_mean": 5,
+            "claim_min": 20,
+            "claim_cover": 4,
+            "claim_cover_tb": 5,
+            "hybrid_0.3": 8,
+            "hybrid_0.5": 8
+          },
+          "score": {
+            "bm25_whole": 0.8347765764442436,
+            "claim_max": 0.9682288556222264,
+            "claim_mean": 0.52099703258612,
+            "claim_min": 0.07376520955001344,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005209970325861,
+            "hybrid_0.3": 0.7406427132868064,
+            "hybrid_0.5": 0.6778868045151818
+          },
+          "delta": {
+            "bm25_whole": 4,
+            "claim_max": 4,
+            "claim_mean": 3,
+            "claim_min": 6,
+            "claim_cover": 3,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 3
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 6,
+            "claim_max": 2,
+            "claim_mean": 3,
+            "claim_min": 16,
+            "claim_cover": 5,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 6,
+            "hybrid_0.5": 6
+          },
+          "score": {
+            "bm25_whole": 0.8471462179938621,
+            "claim_max": 1.0,
+            "claim_mean": 0.538430275678724,
+            "claim_min": 0.07686055135744803,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005384302756787,
+            "hybrid_0.3": 0.7545314352993207,
+            "hybrid_0.5": 0.6927882468362931
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 2,
+            "claim_cover": 4,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 7,
+            "claim_max": 3,
+            "claim_mean": 4,
+            "claim_min": 17,
+            "claim_cover": 6,
+            "claim_cover_tb": 4,
+            "hybrid_0.3": 7,
+            "hybrid_0.5": 7
+          },
+          "score": {
+            "bm25_whole": 0.8429895947629491,
+            "claim_max": 1.0,
+            "claim_mean": 0.538430275678724,
+            "claim_min": 0.07686055135744803,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005384302756787,
+            "hybrid_0.3": 0.7516217990376816,
+            "hybrid_0.5": 0.6907099352208366
+          },
+          "delta": {
+            "bm25_whole": 2,
+            "claim_max": 2,
+            "claim_mean": 2,
+            "claim_min": 3,
+            "claim_cover": 5,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 3,
+            "claim_max": 10,
+            "claim_mean": 9,
+            "claim_min": 4,
+            "claim_cover": 7,
+            "claim_cover_tb": 9,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 4
+          },
+          "score": {
+            "bm25_whole": 0.9866781205771563,
+            "claim_max": 0.8588043468460359,
+            "claim_mean": 0.48966451181765563,
+            "claim_min": 0.12052467678927532,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004896645118176,
+            "hybrid_0.3": 0.8375740379493061,
+            "hybrid_0.5": 0.738171316197406
+          },
+          "delta": {
+            "bm25_whole": 2,
+            "claim_max": 4,
+            "claim_mean": 3,
+            "claim_min": -1,
+            "claim_cover": 5,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 2
+          }
+        },
+        {
+          "kind": "alias",
+          "rank": {
+            "bm25_whole": 8,
+            "claim_max": 8,
+            "claim_mean": 8,
+            "claim_min": 3,
+            "claim_cover": 8,
+            "claim_cover_tb": 8,
+            "hybrid_0.3": 9,
+            "hybrid_0.5": 9
+          },
+          "score": {
+            "bm25_whole": 0.8359308145738036,
+            "claim_max": 0.8855082248264053,
+            "claim_mean": 0.5138853478392179,
+            "claim_min": 0.14226247085203053,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005138853478392,
+            "hybrid_0.3": 0.7393171745534278,
+            "hybrid_0.5": 0.6749080812065107
+          },
+          "delta": {
+            "bm25_whole": 7,
+            "claim_max": 2,
+            "claim_mean": 2,
+            "claim_min": -2,
+            "claim_cover": 6,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 8,
+            "hybrid_0.5": 7
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 2,
+            "claim_max": 7,
+            "claim_mean": 7,
+            "claim_min": 6,
+            "claim_cover": 9,
+            "claim_cover_tb": 7,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 3
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.9161676904666041,
+            "claim_mean": 0.5169413371488053,
+            "claim_min": 0.11771498383100652,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005169413371489,
+            "hybrid_0.3": 0.8550824011446415,
+            "hybrid_0.5": 0.7584706685744027
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 7,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 4,
+            "claim_max": 4,
+            "claim_mean": 1,
+            "claim_min": 7,
+            "claim_cover": 10,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 1
+          },
+          "score": {
+            "bm25_whole": 0.9825114769513758,
+            "claim_max": 1.0,
+            "claim_mean": 0.5553656273351202,
+            "claim_min": 0.11073125467024031,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005553656273352,
+            "hybrid_0.3": 0.854367722066499,
+            "hybrid_0.5": 0.7689385521432479
+          },
+          "delta": {
+            "bm25_whole": 3,
+            "claim_max": -2,
+            "claim_mean": -5,
+            "claim_min": 2,
+            "claim_cover": 8,
+            "claim_cover_tb": -5,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": -1
+          }
+        }
+      ]
+    },
+    {
+      "qid": "5ac1a4745542991316484b82",
+      "question": "Para Hills West, South Australia lies within a city with what estimated population?",
+      "n_pool": 27,
+      "items": [
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 16,
+            "claim_max": 18,
+            "claim_mean": 20,
+            "claim_min": 9,
+            "claim_cover": 12,
+            "claim_cover_tb": 20,
+            "hybrid_0.3": 16,
+            "hybrid_0.5": 16
+          },
+          "score": {
+            "bm25_whole": 0.4042409884859944,
+            "claim_max": 0.3676405671224729,
+            "claim_mean": 0.18382028356123645,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00018382028356123646,
+            "hybrid_0.3": 0.33811477700856696,
+            "hybrid_0.5": 0.2940306360236154
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 6,
+            "claim_max": 12,
+            "claim_mean": 12,
+            "claim_min": 10,
+            "claim_cover": 13,
+            "claim_cover_tb": 12,
+            "hybrid_0.3": 11,
+            "hybrid_0.5": 12
+          },
+          "score": {
+            "bm25_whole": 0.5869825594660142,
+            "claim_max": 0.4475438768207101,
+            "claim_mean": 0.22377193841035506,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00022377193841035506,
+            "hybrid_0.3": 0.4780193731493164,
+            "hybrid_0.5": 0.4053772489381846
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 20,
+            "claim_max": 14,
+            "claim_mean": 14,
+            "claim_min": 11,
+            "claim_cover": 14,
+            "claim_cover_tb": 14,
+            "hybrid_0.3": 20,
+            "hybrid_0.5": 18
+          },
+          "score": {
+            "bm25_whole": 0.36102019698459853,
+            "claim_max": 0.42042100919002445,
+            "claim_mean": 0.21021050459501223,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00021021050459501224,
+            "hybrid_0.3": 0.31577728926772264,
+            "hybrid_0.5": 0.2856153507898054
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 8,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 1,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 3
+          },
+          "score": {
+            "bm25_whole": 0.5319645715707023,
+            "claim_max": 1.0,
+            "claim_mean": 0.6367272522800713,
+            "claim_min": 0.27345450456014253,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.50063672725228,
+            "hybrid_0.3": 0.563393375783513,
+            "hybrid_0.5": 0.5843459119253869
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 4,
+            "claim_max": 6,
+            "claim_mean": 6,
+            "claim_min": 12,
+            "claim_cover": 2,
+            "claim_cover_tb": 6,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 7
+          },
+          "score": {
+            "bm25_whole": 0.6184835016893496,
+            "claim_max": 0.9452928379930443,
+            "claim_mean": 0.47264641899652216,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004726464189965,
+            "hybrid_0.3": 0.5747323768815014,
+            "hybrid_0.5": 0.5455649603429359
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 14,
+            "claim_max": 16,
+            "claim_mean": 16,
+            "claim_min": 13,
+            "claim_cover": 15,
+            "claim_cover_tb": 16,
+            "hybrid_0.3": 14,
+            "hybrid_0.5": 14
+          },
+          "score": {
+            "bm25_whole": 0.44733900036192153,
+            "claim_max": 0.3964216245800856,
+            "claim_mean": 0.1982108122900428,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0001982108122900428,
+            "hybrid_0.3": 0.3726005439403579,
+            "hybrid_0.5": 0.32277490632598216
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 1,
+            "claim_max": 9,
+            "claim_mean": 9,
+            "claim_min": 14,
+            "claim_cover": 3,
+            "claim_cover_tb": 9,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.664319419843985,
+            "claim_mean": 0.3321597099219925,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.500332159709922,
+            "hybrid_0.3": 0.7996479129765977,
+            "hybrid_0.5": 0.6660798549609963
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 25,
+            "claim_max": 25,
+            "claim_mean": 25,
+            "claim_min": 15,
+            "claim_cover": 16,
+            "claim_cover_tb": 25,
+            "hybrid_0.3": 25,
+            "hybrid_0.5": 25
+          },
+          "score": {
+            "bm25_whole": 0.17716760231528494,
+            "claim_max": 0.22012870877407853,
+            "claim_mean": 0.11006435438703926,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00011006435438703927,
+            "hybrid_0.3": 0.15703662793681122,
+            "hybrid_0.5": 0.1436159783511621
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 18,
+            "claim_max": 20,
+            "claim_mean": 22,
+            "claim_min": 16,
+            "claim_cover": 17,
+            "claim_cover_tb": 22,
+            "hybrid_0.3": 18,
+            "hybrid_0.5": 20
+          },
+          "score": {
+            "bm25_whole": 0.4027468366639394,
+            "claim_max": 0.3350354008645951,
+            "claim_mean": 0.16751770043229755,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00016751770043229756,
+            "hybrid_0.3": 0.3321780957944468,
+            "hybrid_0.5": 0.28513226854811846
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 22,
+            "claim_max": 23,
+            "claim_mean": 18,
+            "claim_min": 5,
+            "claim_cover": 18,
+            "claim_cover_tb": 18,
+            "hybrid_0.3": 22,
+            "hybrid_0.5": 22
+          },
+          "score": {
+            "bm25_whole": 0.26029751982827376,
+            "claim_max": 0.24166708927247665,
+            "claim_mean": 0.1886134890815278,
+            "claim_min": 0.13555988889057893,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00018861348908152782,
+            "hybrid_0.3": 0.23879231060424994,
+            "hybrid_0.5": 0.22445550445490078
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 10,
+            "claim_max": 2,
+            "claim_mean": 2,
+            "claim_min": 2,
+            "claim_cover": 4,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 7,
+            "hybrid_0.5": 5
+          },
+          "score": {
+            "bm25_whole": 0.5285387556877359,
+            "claim_max": 1.0,
+            "claim_mean": 0.6367272522800713,
+            "claim_min": 0.27345450456014253,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.50063672725228,
+            "hybrid_0.3": 0.5609953046654365,
+            "hybrid_0.5": 0.5826330039839036
+          },
+          "delta": {
+            "bm25_whole": 2,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 3,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          }
+        },
+        {
+          "kind": "alias",
+          "rank": {
+            "bm25_whole": 13,
+            "claim_max": 3,
+            "claim_mean": 4,
+            "claim_min": 7,
+            "claim_cover": 5,
+            "claim_cover_tb": 4,
+            "hybrid_0.3": 10,
+            "hybrid_0.5": 8
+          },
+          "score": {
+            "bm25_whole": 0.4620833945988514,
+            "claim_max": 1.0,
+            "claim_mean": 0.5600502200950845,
+            "claim_min": 0.1201004401901691,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005600502200951,
+            "hybrid_0.3": 0.49147344224772127,
+            "hybrid_0.5": 0.511066807346968
+          },
+          "delta": {
+            "bm25_whole": 5,
+            "claim_max": 2,
+            "claim_mean": 3,
+            "claim_min": 6,
+            "claim_cover": 4,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 5
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 9,
+            "claim_max": 4,
+            "claim_mean": 3,
+            "claim_min": 3,
+            "claim_cover": 6,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 6,
+            "hybrid_0.5": 4
+          },
+          "score": {
+            "bm25_whole": 0.5319645715707023,
+            "claim_max": 1.0,
+            "claim_mean": 0.6367272522800713,
+            "claim_min": 0.27345450456014253,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.50063672725228,
+            "hybrid_0.3": 0.563393375783513,
+            "hybrid_0.5": 0.5843459119253869
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 3,
+            "claim_mean": 2,
+            "claim_min": 2,
+            "claim_cover": 5,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 11,
+            "claim_max": 8,
+            "claim_mean": 7,
+            "claim_min": 4,
+            "claim_cover": 7,
+            "claim_cover_tb": 7,
+            "hybrid_0.3": 9,
+            "hybrid_0.5": 9
+          },
+          "score": {
+            "bm25_whole": 0.5218043658493584,
+            "claim_max": 0.6656592580894701,
+            "claim_mean": 0.46955688132480633,
+            "claim_min": 0.27345450456014253,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004695568813248,
+            "hybrid_0.3": 0.5061301204919928,
+            "hybrid_0.5": 0.49568062358708237
+          },
+          "delta": {
+            "bm25_whole": 3,
+            "claim_max": 7,
+            "claim_mean": 6,
+            "claim_min": 3,
+            "claim_cover": 6,
+            "claim_cover_tb": 6,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 6
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 12,
+            "claim_max": 7,
+            "claim_mean": 8,
+            "claim_min": 17,
+            "claim_cover": 8,
+            "claim_cover_tb": 8,
+            "hybrid_0.3": 13,
+            "hybrid_0.5": 11
+          },
+          "score": {
+            "bm25_whole": 0.48297872884742926,
+            "claim_max": 0.6677520227890855,
+            "claim_mean": 0.33387601139454276,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003338760113946,
+            "hybrid_0.3": 0.4382479136115633,
+            "hybrid_0.5": 0.408427370120986
+          },
+          "delta": {
+            "bm25_whole": 8,
+            "claim_max": 1,
+            "claim_mean": 2,
+            "claim_min": 5,
+            "claim_cover": 6,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 9,
+            "hybrid_0.5": 4
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 3,
+            "claim_max": 5,
+            "claim_mean": 5,
+            "claim_min": 18,
+            "claim_cover": 9,
+            "claim_cover_tb": 5,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 6
+          },
+          "score": {
+            "bm25_whole": 0.6290479237282633,
+            "claim_max": 1.0,
+            "claim_mean": 0.5,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005,
+            "hybrid_0.3": 0.5903335466097843,
+            "hybrid_0.5": 0.5645239618641317
+          },
+          "delta": {
+            "bm25_whole": -1,
+            "claim_max": -1,
+            "claim_mean": -1,
+            "claim_min": 6,
+            "claim_cover": 7,
+            "claim_cover_tb": -1,
+            "hybrid_0.3": -1,
+            "hybrid_0.5": -1
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 5,
+            "claim_max": 11,
+            "claim_mean": 11,
+            "claim_min": 19,
+            "claim_cover": 10,
+            "claim_cover_tb": 11,
+            "hybrid_0.3": 8,
+            "hybrid_0.5": 10
+          },
+          "score": {
+            "bm25_whole": 0.613320449347736,
+            "claim_max": 0.5918006154566567,
+            "claim_mean": 0.29590030772832837,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5002959003077283,
+            "hybrid_0.3": 0.5180944068619137,
+            "hybrid_0.5": 0.4546103785380322
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 5,
+            "claim_mean": 5,
+            "claim_min": 7,
+            "claim_cover": 8,
+            "claim_cover_tb": 5,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 3
+          }
+        }
+      ]
+    },
+    {
+      "qid": "5adc597d55429947ff17392f",
+      "question": "In what year was the narrator of \"Blackadder's Christmas Carol\" born?",
+      "n_pool": 25,
+      "items": [
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 1,
+            "claim_max": 13,
+            "claim_mean": 12,
+            "claim_min": 4,
+            "claim_cover": 13,
+            "claim_cover_tb": 13,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.4739090314724426,
+            "claim_mean": 0.3627582905187793,
+            "claim_min": 0.25160754956511594,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0003627582905187793,
+            "hybrid_0.3": 0.8088274871556338,
+            "hybrid_0.5": 0.6813791452593896
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 12,
+            "claim_max": 19,
+            "claim_mean": 16,
+            "claim_min": 6,
+            "claim_cover": 14,
+            "claim_cover_tb": 17,
+            "hybrid_0.3": 12,
+            "hybrid_0.5": 14
+          },
+          "score": {
+            "bm25_whole": 0.4234817885443909,
+            "claim_max": 0.3041762087165537,
+            "claim_mean": 0.2766378153779136,
+            "claim_min": 0.2490994220392735,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0002766378153779136,
+            "hybrid_0.3": 0.3794285965944477,
+            "hybrid_0.5": 0.3500598019611523
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 24,
+            "claim_max": 23,
+            "claim_mean": 24,
+            "claim_min": 21,
+            "claim_cover": 15,
+            "claim_cover_tb": 24,
+            "hybrid_0.3": 24,
+            "hybrid_0.5": 24
+          },
+          "score": {
+            "bm25_whole": 0.0,
+            "claim_max": 0.2114268319839442,
+            "claim_mean": 0.1057134159919721,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0001057134159919721,
+            "hybrid_0.3": 0.03171402479759163,
+            "hybrid_0.5": 0.05285670799598605
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 18,
+            "claim_max": 10,
+            "claim_mean": 10,
+            "claim_min": 16,
+            "claim_cover": 1,
+            "claim_cover_tb": 10,
+            "hybrid_0.3": 16,
+            "hybrid_0.5": 16
+          },
+          "score": {
+            "bm25_whole": 0.29988618793655447,
+            "claim_max": 0.5704481036683832,
+            "claim_mean": 0.3753089492857131,
+            "claim_min": 0.18016979490304305,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003753089492857,
+            "hybrid_0.3": 0.32251301634130203,
+            "hybrid_0.5": 0.33759756861113377
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 9,
+            "claim_max": 1,
+            "claim_mean": 2,
+            "claim_min": 10,
+            "claim_cover": 2,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 7,
+            "hybrid_0.5": 8
+          },
+          "score": {
+            "bm25_whole": 0.4856756780138692,
+            "claim_max": 1.0,
+            "claim_mean": 0.6068498980523055,
+            "claim_min": 0.21369979610461093,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006068498980523,
+            "hybrid_0.3": 0.5220279440254001,
+            "hybrid_0.5": 0.5462627880330874
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 7,
+            "claim_max": 8,
+            "claim_mean": 8,
+            "claim_min": 22,
+            "claim_cover": 3,
+            "claim_cover_tb": 8,
+            "hybrid_0.3": 10,
+            "hybrid_0.5": 10
+          },
+          "score": {
+            "bm25_whole": 0.5106528258079435,
+            "claim_max": 0.8764245560082803,
+            "claim_mean": 0.43821227800414014,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004382122780041,
+            "hybrid_0.3": 0.48892066146680246,
+            "hybrid_0.5": 0.47443255190604183
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 16,
+            "claim_max": 21,
+            "claim_mean": 20,
+            "claim_min": 8,
+            "claim_cover": 16,
+            "claim_cover_tb": 21,
+            "hybrid_0.3": 18,
+            "hybrid_0.5": 18
+          },
+          "score": {
+            "bm25_whole": 0.31961487620129003,
+            "claim_max": 0.29239899560375643,
+            "claim_mean": 0.25878432556633524,
+            "claim_min": 0.2251696555289141,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00025878432556633525,
+            "hybrid_0.3": 0.30136571101080356,
+            "hybrid_0.5": 0.28919960088381264
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 20,
+            "claim_max": 17,
+            "claim_mean": 18,
+            "claim_min": 18,
+            "claim_cover": 17,
+            "claim_cover_tb": 19,
+            "hybrid_0.3": 20,
+            "hybrid_0.5": 20
+          },
+          "score": {
+            "bm25_whole": 0.28543532092701446,
+            "claim_max": 0.35124574862726854,
+            "claim_mean": 0.2630538535492479,
+            "claim_min": 0.17486195847122724,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0002630538535492479,
+            "hybrid_0.3": 0.27872088071368445,
+            "hybrid_0.5": 0.27424458723813117
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 14,
+            "claim_max": 15,
+            "claim_mean": 14,
+            "claim_min": 2,
+            "claim_cover": 18,
+            "claim_cover_tb": 15,
+            "hybrid_0.3": 14,
+            "hybrid_0.5": 12
+          },
+          "score": {
+            "bm25_whole": 0.38727673693443293,
+            "claim_max": 0.3788422023257587,
+            "claim_mean": 0.3405560861429454,
+            "claim_min": 0.30226996996013206,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0003405560861429454,
+            "hybrid_0.3": 0.37326054169698664,
+            "hybrid_0.5": 0.36391641153868914
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 5,
+            "claim_max": 2,
+            "claim_mean": 4,
+            "claim_min": 12,
+            "claim_cover": 4,
+            "claim_cover_tb": 4,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 6
+          },
+          "score": {
+            "bm25_whole": 0.5210209039410375,
+            "claim_max": 1.0,
+            "claim_mean": 0.6006146472522764,
+            "claim_min": 0.20122929450455282,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006006146472523,
+            "hybrid_0.3": 0.5448990269344092,
+            "hybrid_0.5": 0.560817775596657
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 11,
+            "claim_max": 3,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 5,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 9,
+            "hybrid_0.5": 5
+          },
+          "score": {
+            "bm25_whole": 0.45873842984797386,
+            "claim_max": 1.0,
+            "claim_mean": 0.6654767888389956,
+            "claim_min": 0.3309535776779914,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.500665476788839,
+            "hybrid_0.3": 0.5207599375452804,
+            "hybrid_0.5": 0.5621076093434847
+          },
+          "delta": {
+            "bm25_whole": 2,
+            "claim_max": 2,
+            "claim_mean": -1,
+            "claim_min": -9,
+            "claim_cover": 3,
+            "claim_cover_tb": -1,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": -3
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 10,
+            "claim_max": 4,
+            "claim_mean": 3,
+            "claim_min": 11,
+            "claim_cover": 6,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 8,
+            "hybrid_0.5": 9
+          },
+          "score": {
+            "bm25_whole": 0.4856756780138692,
+            "claim_max": 1.0,
+            "claim_mean": 0.6068498980523055,
+            "claim_min": 0.21369979610461093,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006068498980523,
+            "hybrid_0.3": 0.5220279440254001,
+            "hybrid_0.5": 0.5462627880330874
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 3,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 4,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 3,
+            "claim_max": 5,
+            "claim_mean": 5,
+            "claim_min": 13,
+            "claim_cover": 7,
+            "claim_cover_tb": 5,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          },
+          "score": {
+            "bm25_whole": 0.898419290609241,
+            "claim_max": 1.0,
+            "claim_mean": 0.6006146472522764,
+            "claim_min": 0.20122929450455282,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006006146472523,
+            "hybrid_0.3": 0.8090778976021515,
+            "hybrid_0.5": 0.7495169689307587
+          },
+          "delta": {
+            "bm25_whole": -2,
+            "claim_max": 3,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 3,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": -4,
+            "hybrid_0.5": -5
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 4,
+            "claim_max": 6,
+            "claim_mean": 6,
+            "claim_min": 14,
+            "claim_cover": 8,
+            "claim_cover_tb": 6,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 4
+          },
+          "score": {
+            "bm25_whole": 0.5295486850141239,
+            "claim_max": 1.0,
+            "claim_mean": 0.6006146472522764,
+            "claim_min": 0.20122929450455282,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006006146472523,
+            "hybrid_0.3": 0.5508684736855696,
+            "hybrid_0.5": 0.5650816661332001
+          },
+          "delta": {
+            "bm25_whole": -1,
+            "claim_max": 4,
+            "claim_mean": 2,
+            "claim_min": 2,
+            "claim_cover": 4,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": -1,
+            "hybrid_0.5": -2
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 6,
+            "claim_max": 7,
+            "claim_mean": 7,
+            "claim_min": 15,
+            "claim_cover": 9,
+            "claim_cover_tb": 7,
+            "hybrid_0.3": 6,
+            "hybrid_0.5": 7
+          },
+          "score": {
+            "bm25_whole": 0.5210209039410375,
+            "claim_max": 1.0,
+            "claim_mean": 0.6006146472522764,
+            "claim_min": 0.20122929450455282,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006006146472523,
+            "hybrid_0.3": 0.5448990269344092,
+            "hybrid_0.5": 0.560817775596657
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 5,
+            "claim_mean": 3,
+            "claim_min": 3,
+            "claim_cover": 5,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        }
+      ]
+    },
+    {
+      "qid": "5ac55e835542993e66e82375",
+      "question": "Thomas Fitch defended John Henry Holliday when he was accused of killing men during the gunfight at the o.k. corral, when was that?",
+      "n_pool": 25,
+      "items": [
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 12,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 1,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 8,
+            "hybrid_0.5": 4
+          },
+          "score": {
+            "bm25_whole": 0.4175015103175949,
+            "claim_max": 1.0,
+            "claim_mean": 0.7984501310669,
+            "claim_min": 0.5969002621338,
+            "claim_cover": 1.0,
+            "claim_cover_tb": 1.000798450131067,
+            "hybrid_0.3": 0.5317860965423864,
+            "hybrid_0.5": 0.6079758206922474
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 1,
+            "claim_max": 6,
+            "claim_mean": 10,
+            "claim_min": 14,
+            "claim_cover": 7,
+            "claim_cover_tb": 10,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.9582262304643101,
+            "claim_mean": 0.47911311523215505,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004791131152322,
+            "hybrid_0.3": 0.8437339345696464,
+            "hybrid_0.5": 0.7395565576160775
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 8,
+            "claim_max": 15,
+            "claim_mean": 21,
+            "claim_min": 15,
+            "claim_cover": 8,
+            "claim_cover_tb": 19,
+            "hybrid_0.3": 16,
+            "hybrid_0.5": 20
+          },
+          "score": {
+            "bm25_whole": 0.4459953921232388,
+            "claim_max": 0.6579900006669954,
+            "claim_mean": 0.3289950003334977,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003289950003335,
+            "hybrid_0.3": 0.4108952745863165,
+            "hybrid_0.5": 0.38749519622836825
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 6,
+            "claim_max": 13,
+            "claim_mean": 19,
+            "claim_min": 16,
+            "claim_cover": 9,
+            "claim_cover_tb": 17,
+            "hybrid_0.3": 6,
+            "hybrid_0.5": 10
+          },
+          "score": {
+            "bm25_whole": 0.6248598545393099,
+            "claim_max": 0.7179522353138262,
+            "claim_mean": 0.3589761176569131,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003589761176569,
+            "hybrid_0.3": 0.5450947334745908,
+            "hybrid_0.5": 0.49191798609811155
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 20,
+            "claim_max": 4,
+            "claim_mean": 3,
+            "claim_min": 3,
+            "claim_cover": 2,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 10,
+            "hybrid_0.5": 7
+          },
+          "score": {
+            "bm25_whole": 0.328987162560825,
+            "claim_max": 0.971559131405626,
+            "claim_mean": 0.7609082768714823,
+            "claim_min": 0.5502574223373385,
+            "claim_cover": 1.0,
+            "claim_cover_tb": 1.0007609082768716,
+            "hybrid_0.3": 0.4585634968540222,
+            "hybrid_0.5": 0.5449477197161536
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 14,
+            "claim_max": 19,
+            "claim_mean": 11,
+            "claim_min": 9,
+            "claim_cover": 10,
+            "claim_cover_tb": 11,
+            "hybrid_0.3": 12,
+            "hybrid_0.5": 16
+          },
+          "score": {
+            "bm25_whole": 0.41705151405637286,
+            "claim_max": 0.5515478735521288,
+            "claim_mean": 0.45473056660921785,
+            "claim_min": 0.357913259666307,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004547305666092,
+            "hybrid_0.3": 0.4283552298222263,
+            "hybrid_0.5": 0.43589104033279535
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 22,
+            "claim_max": 7,
+            "claim_mean": 5,
+            "claim_min": 7,
+            "claim_cover": 11,
+            "claim_cover_tb": 7,
+            "hybrid_0.3": 20,
+            "hybrid_0.5": 12
+          },
+          "score": {
+            "bm25_whole": 0.29621217464309535,
+            "claim_max": 0.8612895818655539,
+            "claim_mean": 0.6204582094092245,
+            "claim_min": 0.37962683695289495,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006204582094093,
+            "hybrid_0.3": 0.3934859850729341,
+            "hybrid_0.5": 0.4583351920261599
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 10,
+            "claim_max": 24,
+            "claim_mean": 16,
+            "claim_min": 11,
+            "claim_cover": 24,
+            "claim_cover_tb": 24,
+            "hybrid_0.3": 14,
+            "hybrid_0.5": 18
+          },
+          "score": {
+            "bm25_whole": 0.42139197784362814,
+            "claim_max": 0.48972551250279694,
+            "claim_mean": 0.4054492078535778,
+            "claim_min": 0.32117290320435865,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00040544920785357783,
+            "hybrid_0.3": 0.41660914684661304,
+            "hybrid_0.5": 0.413420592848603
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 16,
+            "claim_max": 21,
+            "claim_mean": 7,
+            "claim_min": 5,
+            "claim_cover": 3,
+            "claim_cover_tb": 5,
+            "hybrid_0.3": 18,
+            "hybrid_0.5": 14
+          },
+          "score": {
+            "bm25_whole": 0.3519283519222177,
+            "claim_max": 0.545709924994104,
+            "claim_mean": 0.5283268322757201,
+            "claim_min": 0.5109437395573362,
+            "claim_cover": 1.0,
+            "claim_cover_tb": 1.0005283268322758,
+            "hybrid_0.3": 0.40484789602826843,
+            "hybrid_0.5": 0.4401275920989689
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 18,
+            "claim_max": 9,
+            "claim_mean": 13,
+            "claim_min": 17,
+            "claim_cover": 12,
+            "claim_cover_tb": 13,
+            "hybrid_0.3": 22,
+            "hybrid_0.5": 22
+          },
+          "score": {
+            "bm25_whole": 0.348301628406223,
+            "claim_max": 0.8419928257082147,
+            "claim_mean": 0.4209964128541073,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004209964128541,
+            "hybrid_0.3": 0.3701100637405883,
+            "hybrid_0.5": 0.38464902063016515
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 4,
+            "claim_max": 18,
+            "claim_mean": 24,
+            "claim_min": 18,
+            "claim_cover": 13,
+            "claim_cover_tb": 22,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 6
+          },
+          "score": {
+            "bm25_whole": 0.8322237197415904,
+            "claim_max": 0.5669469480353426,
+            "claim_mean": 0.2834734740176713,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5002834734740177,
+            "hybrid_0.3": 0.6675986460244147,
+            "hybrid_0.5": 0.5578485968796308
+          },
+          "delta": {
+            "bm25_whole": 3,
+            "claim_max": 12,
+            "claim_mean": 14,
+            "claim_min": 4,
+            "claim_cover": 6,
+            "claim_cover_tb": 12,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 5
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 3,
+            "claim_max": 12,
+            "claim_mean": 18,
+            "claim_min": 19,
+            "claim_cover": 14,
+            "claim_cover_tb": 16,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 3
+          },
+          "score": {
+            "bm25_whole": 0.938132268020012,
+            "claim_max": 0.7964599749233467,
+            "claim_mean": 0.3982299874616734,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003982299874616,
+            "hybrid_0.3": 0.7761615838525104,
+            "hybrid_0.5": 0.6681811277408427
+          },
+          "delta": {
+            "bm25_whole": 2,
+            "claim_max": 6,
+            "claim_mean": 8,
+            "claim_min": 5,
+            "claim_cover": 7,
+            "claim_cover_tb": 6,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 2,
+            "claim_max": 11,
+            "claim_mean": 15,
+            "claim_min": 20,
+            "claim_cover": 15,
+            "claim_cover_tb": 15,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.8376012918749173,
+            "claim_mean": 0.41880064593745864,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004188006459375,
+            "hybrid_0.3": 0.8256401937812375,
+            "hybrid_0.5": 0.7094003229687293
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 5,
+            "claim_mean": 5,
+            "claim_min": 6,
+            "claim_cover": 8,
+            "claim_cover_tb": 5,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 7,
+            "claim_max": 17,
+            "claim_mean": 23,
+            "claim_min": 21,
+            "claim_cover": 16,
+            "claim_cover_tb": 21,
+            "hybrid_0.3": 7,
+            "hybrid_0.5": 11
+          },
+          "score": {
+            "bm25_whole": 0.6248598545393099,
+            "claim_max": 0.6417935947977202,
+            "claim_mean": 0.3208967973988601,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003208967973989,
+            "hybrid_0.3": 0.533670937397175,
+            "hybrid_0.5": 0.472878325969085
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 4,
+            "claim_mean": 4,
+            "claim_min": 5,
+            "claim_cover": 7,
+            "claim_cover_tb": 4,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 5,
+            "claim_max": 14,
+            "claim_mean": 20,
+            "claim_min": 22,
+            "claim_cover": 17,
+            "claim_cover_tb": 18,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 9
+          },
+          "score": {
+            "bm25_whole": 0.6630763626217316,
+            "claim_max": 0.6826506900747176,
+            "claim_mean": 0.3413253450373588,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003413253450374,
+            "hybrid_0.3": 0.5665510573464198,
+            "hybrid_0.5": 0.5022008538295453
+          },
+          "delta": {
+            "bm25_whole": -1,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 6,
+            "claim_cover": 8,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": -1,
+            "hybrid_0.5": -1
+          }
+        }
+      ]
+    },
+    {
+      "qid": "5a8d9e0f554299441c6ba015",
+      "question": "The actor that played Gutthi on Comedy nights with Kapil Show also starred in what 2016 Punjabi film directed by Smeep Kang?",
+      "n_pool": 26,
+      "items": [
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 8,
+            "claim_max": 5,
+            "claim_mean": 6,
+            "claim_min": 13,
+            "claim_cover": 1,
+            "claim_cover_tb": 6,
+            "hybrid_0.3": 8,
+            "hybrid_0.5": 8
+          },
+          "score": {
+            "bm25_whole": 0.6777413367585056,
+            "claim_max": 0.8493811368662801,
+            "claim_mean": 0.4583822520996041,
+            "claim_min": 0.06738336733292806,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004583822520996,
+            "hybrid_0.3": 0.6119336113608351,
+            "hybrid_0.5": 0.5680617944290548
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 11,
+            "claim_max": 15,
+            "claim_mean": 20,
+            "claim_min": 21,
+            "claim_cover": 2,
+            "claim_cover_tb": 17,
+            "hybrid_0.3": 11,
+            "hybrid_0.5": 11
+          },
+          "score": {
+            "bm25_whole": 0.5246334915633497,
+            "claim_max": 0.5936326709774702,
+            "claim_mean": 0.3000040030581894,
+            "claim_min": 0.006375335138908599,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003000040030582,
+            "hybrid_0.3": 0.4572446450118016,
+            "hybrid_0.5": 0.41231874731076956
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 3,
+            "claim_max": 17,
+            "claim_mean": 8,
+            "claim_min": 2,
+            "claim_cover": 3,
+            "claim_cover_tb": 8,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 3
+          },
+          "score": {
+            "bm25_whole": 0.9721457394745586,
+            "claim_max": 0.5762828458848375,
+            "claim_mean": 0.39821781597593175,
+            "claim_min": 0.22015278606702604,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003982178159759,
+            "hybrid_0.3": 0.7999673624249705,
+            "hybrid_0.5": 0.6851817777252451
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 23,
+            "claim_max": 23,
+            "claim_mean": 15,
+            "claim_min": 5,
+            "claim_cover": 22,
+            "claim_cover_tb": 22,
+            "hybrid_0.3": 22,
+            "hybrid_0.5": 22
+          },
+          "score": {
+            "bm25_whole": 0.2007241325239437,
+            "claim_max": 0.48405324852228415,
+            "claim_mean": 0.3355586028697687,
+            "claim_min": 0.18706395721725322,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0003355586028697687,
+            "hybrid_0.3": 0.24117447362769118,
+            "hybrid_0.5": 0.2681413676968562
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 21,
+            "claim_max": 7,
+            "claim_mean": 12,
+            "claim_min": 20,
+            "claim_cover": 4,
+            "claim_cover_tb": 12,
+            "hybrid_0.3": 21,
+            "hybrid_0.5": 17
+          },
+          "score": {
+            "bm25_whole": 0.21597032880973405,
+            "claim_max": 0.770492512349007,
+            "claim_mean": 0.39074387464485244,
+            "claim_min": 0.010995236940697936,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003907438746449,
+            "hybrid_0.3": 0.26840239256026954,
+            "hybrid_0.5": 0.30335710172729324
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 16,
+            "claim_max": 20,
+            "claim_mean": 23,
+            "claim_min": 10,
+            "claim_cover": 5,
+            "claim_cover_tb": 20,
+            "hybrid_0.3": 17,
+            "hybrid_0.5": 20
+          },
+          "score": {
+            "bm25_whole": 0.28854456449796867,
+            "claim_max": 0.5036749578294155,
+            "claim_mean": 0.2879981827381963,
+            "claim_min": 0.07232140764697705,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5002879981827382,
+            "hybrid_0.3": 0.28838064997003693,
+            "hybrid_0.5": 0.28827137361808247
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 13,
+            "claim_max": 13,
+            "claim_mean": 17,
+            "claim_min": 17,
+            "claim_cover": 6,
+            "claim_cover_tb": 15,
+            "hybrid_0.3": 13,
+            "hybrid_0.5": 13
+          },
+          "score": {
+            "bm25_whole": 0.4413079102833291,
+            "claim_max": 0.6024188080964001,
+            "claim_mean": 0.31713543026948066,
+            "claim_min": 0.03185205244256119,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003171354302695,
+            "hybrid_0.3": 0.40405616627917457,
+            "hybrid_0.5": 0.37922167027640485
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 19,
+            "claim_max": 8,
+            "claim_mean": 13,
+            "claim_min": 23,
+            "claim_cover": 7,
+            "claim_cover_tb": 13,
+            "hybrid_0.3": 19,
+            "hybrid_0.5": 18
+          },
+          "score": {
+            "bm25_whole": 0.22923108434474962,
+            "claim_max": 0.7544665730050228,
+            "claim_mean": 0.3772332865025114,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003772332865025,
+            "hybrid_0.3": 0.27363174499207815,
+            "hybrid_0.5": 0.3032321854236305
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 6,
+            "claim_max": 3,
+            "claim_mean": 4,
+            "claim_min": 15,
+            "claim_cover": 8,
+            "claim_cover_tb": 4,
+            "hybrid_0.3": 6,
+            "hybrid_0.5": 6
+          },
+          "score": {
+            "bm25_whole": 0.8471252075240449,
+            "claim_max": 0.9565123220423648,
+            "claim_mean": 0.49936826950110685,
+            "claim_min": 0.04222421695984887,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004993682695011,
+            "hybrid_0.3": 0.7427981261171634,
+            "hybrid_0.5": 0.6732467385125759
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 1,
+            "claim_max": 11,
+            "claim_mean": 10,
+            "claim_min": 8,
+            "claim_cover": 9,
+            "claim_cover_tb": 10,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.7205627052082165,
+            "claim_mean": 0.39672586566978485,
+            "claim_min": 0.07288902613135313,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003967258656697,
+            "hybrid_0.3": 0.8190177597009354,
+            "hybrid_0.5": 0.6983629328348924
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 26,
+            "claim_max": 19,
+            "claim_mean": 22,
+            "claim_min": 19,
+            "claim_cover": 10,
+            "claim_cover_tb": 19,
+            "hybrid_0.3": 26,
+            "hybrid_0.5": 26
+          },
+          "score": {
+            "bm25_whole": 0.0,
+            "claim_max": 0.556326602077302,
+            "claim_mean": 0.29299853906513795,
+            "claim_min": 0.02967047605297393,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5002929985390652,
+            "hybrid_0.3": 0.08789956171954139,
+            "hybrid_0.5": 0.14649926953256898
+          },
+          "delta": {
+            "bm25_whole": 5,
+            "claim_max": 12,
+            "claim_mean": 10,
+            "claim_min": -1,
+            "claim_cover": 6,
+            "claim_cover_tb": 7,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 9
+          }
+        },
+        {
+          "kind": "alias",
+          "rank": {
+            "bm25_whole": 22,
+            "claim_max": 22,
+            "claim_mean": 25,
+            "claim_min": 12,
+            "claim_cover": 23,
+            "claim_cover_tb": 25,
+            "hybrid_0.3": 24,
+            "hybrid_0.5": 24
+          },
+          "score": {
+            "bm25_whole": 0.21534777295864055,
+            "claim_max": 0.4957098235863186,
+            "claim_mean": 0.28247855260198457,
+            "claim_min": 0.06924728161765051,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0002824785526019846,
+            "hybrid_0.3": 0.23548700685164375,
+            "hybrid_0.5": 0.24891316278031256
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 15,
+            "claim_mean": 13,
+            "claim_min": -8,
+            "claim_cover": 19,
+            "claim_cover_tb": 13,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 7
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 10,
+            "claim_max": 10,
+            "claim_mean": 2,
+            "claim_min": 1,
+            "claim_cover": 11,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 10,
+            "hybrid_0.5": 10
+          },
+          "score": {
+            "bm25_whole": 0.5375978158074157,
+            "claim_max": 0.741951722213668,
+            "claim_mean": 0.5004091806174742,
+            "claim_min": 0.2588666390212805,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005004091806174,
+            "hybrid_0.3": 0.5264412252504332,
+            "hybrid_0.5": 0.519003498212445
+          },
+          "delta": {
+            "bm25_whole": -11,
+            "claim_max": 3,
+            "claim_mean": -10,
+            "claim_min": -19,
+            "claim_cover": 7,
+            "claim_cover_tb": -10,
+            "hybrid_0.3": -11,
+            "hybrid_0.5": -7
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 18,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 16,
+            "claim_cover": 12,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 16,
+            "hybrid_0.5": 15
+          },
+          "score": {
+            "bm25_whole": 0.22999917469116218,
+            "claim_max": 1.0,
+            "claim_mean": 0.5206313292674667,
+            "claim_min": 0.0412626585349334,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005206313292675,
+            "hybrid_0.3": 0.31718882106405355,
+            "hybrid_0.5": 0.3753152519793144
+          },
+          "delta": {
+            "bm25_whole": -3,
+            "claim_max": -6,
+            "claim_mean": -11,
+            "claim_min": -4,
+            "claim_cover": 8,
+            "claim_cover_tb": -11,
+            "hybrid_0.3": -5,
+            "hybrid_0.5": -2
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 5,
+            "claim_max": 4,
+            "claim_mean": 5,
+            "claim_min": 24,
+            "claim_cover": 13,
+            "claim_cover_tb": 5,
+            "hybrid_0.3": 7,
+            "hybrid_0.5": 7
+          },
+          "score": {
+            "bm25_whole": 0.854840185759977,
+            "claim_max": 0.9516384341251571,
+            "claim_mean": 0.47581921706257857,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004758192170626,
+            "hybrid_0.3": 0.7411338951507574,
+            "hybrid_0.5": 0.6653297014112778
+          },
+          "delta": {
+            "bm25_whole": -1,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 9,
+            "claim_cover": 5,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 7,
+            "claim_max": 2,
+            "claim_mean": 3,
+            "claim_min": 25,
+            "claim_cover": 14,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 5
+          },
+          "score": {
+            "bm25_whole": 0.8471252075240449,
+            "claim_max": 1.0,
+            "claim_mean": 0.5,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005,
+            "hybrid_0.3": 0.7429876452668314,
+            "hybrid_0.5": 0.6735626037620224
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": -1,
+            "claim_mean": -1,
+            "claim_min": 10,
+            "claim_cover": 6,
+            "claim_cover_tb": -1,
+            "hybrid_0.3": -1,
+            "hybrid_0.5": -1
+          }
+        }
+      ]
+    },
+    {
+      "qid": "5ae70ed7554299572ea546a1",
+      "question": "Victor Varnada directed Twisted Fortune, which starred which brother of Eddie Murphy?",
+      "n_pool": 26,
+      "items": [
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 3,
+            "claim_max": 1,
+            "claim_mean": 2,
+            "claim_min": 4,
+            "claim_cover": 1,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          },
+          "score": {
+            "bm25_whole": 0.9204129352490557,
+            "claim_max": 1.0,
+            "claim_mean": 0.6119097702093067,
+            "claim_min": 0.22381954041861332,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006119097702093,
+            "hybrid_0.3": 0.827861985737131,
+            "hybrid_0.5": 0.7661613527291812
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 7,
+            "claim_max": 2,
+            "claim_mean": 5,
+            "claim_min": 9,
+            "claim_cover": 2,
+            "claim_cover_tb": 5,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 5
+          },
+          "score": {
+            "bm25_whole": 0.8111575338228872,
+            "claim_max": 1.0,
+            "claim_mean": 0.5,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005,
+            "hybrid_0.3": 0.717810273676021,
+            "hybrid_0.5": 0.6555787669114437
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 20,
+            "claim_max": 25,
+            "claim_mean": 25,
+            "claim_min": 10,
+            "claim_cover": 12,
+            "claim_cover_tb": 25,
+            "hybrid_0.3": 24,
+            "hybrid_0.5": 24
+          },
+          "score": {
+            "bm25_whole": 0.1737937278596412,
+            "claim_max": 0.0,
+            "claim_mean": 0.0,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0,
+            "hybrid_0.3": 0.12165560950174883,
+            "hybrid_0.5": 0.0868968639298206
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 1,
+            "claim_max": 22,
+            "claim_mean": 22,
+            "claim_min": 11,
+            "claim_cover": 13,
+            "claim_cover_tb": 22,
+            "hybrid_0.3": 7,
+            "hybrid_0.5": 10
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.11414584824108279,
+            "claim_mean": 0.05707292412054139,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 5.7072924120541394e-05,
+            "hybrid_0.3": 0.7171218772361624,
+            "hybrid_0.5": 0.5285364620602707
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 22,
+            "claim_max": 18,
+            "claim_mean": 18,
+            "claim_min": 12,
+            "claim_cover": 14,
+            "claim_cover_tb": 18,
+            "hybrid_0.3": 20,
+            "hybrid_0.5": 20
+          },
+          "score": {
+            "bm25_whole": 0.16173041257067666,
+            "claim_max": 0.2285438582128854,
+            "claim_mean": 0.1142719291064427,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00011427192910644269,
+            "hybrid_0.3": 0.14749286753140647,
+            "hybrid_0.5": 0.13800117083855967
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 10,
+            "claim_max": 12,
+            "claim_mean": 8,
+            "claim_min": 1,
+            "claim_cover": 15,
+            "claim_cover_tb": 12,
+            "hybrid_0.3": 10,
+            "hybrid_0.5": 8
+          },
+          "score": {
+            "bm25_whole": 0.6553221831777005,
+            "claim_max": 0.49086108854589755,
+            "claim_mean": 0.406892631755743,
+            "claim_min": 0.32292417496558845,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.000406892631755743,
+            "hybrid_0.3": 0.5807933177511132,
+            "hybrid_0.5": 0.5311074074667217
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 23,
+            "claim_max": 20,
+            "claim_mean": 20,
+            "claim_min": 13,
+            "claim_cover": 16,
+            "claim_cover_tb": 20,
+            "hybrid_0.3": 22,
+            "hybrid_0.5": 22
+          },
+          "score": {
+            "bm25_whole": 0.16173041257067666,
+            "claim_max": 0.17560750166014305,
+            "claim_mean": 0.08780375083007153,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 8.780375083007152e-05,
+            "hybrid_0.3": 0.1395524140484951,
+            "hybrid_0.5": 0.1247670817003741
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 13,
+            "claim_max": 10,
+            "claim_mean": 10,
+            "claim_min": 7,
+            "claim_cover": 3,
+            "claim_cover_tb": 8,
+            "hybrid_0.3": 12,
+            "hybrid_0.5": 12
+          },
+          "score": {
+            "bm25_whole": 0.523164608058263,
+            "claim_max": 0.5094856661045531,
+            "claim_mean": 0.34233581917135103,
+            "claim_min": 0.17518597223814897,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003423358191713,
+            "hybrid_0.3": 0.46891597139218943,
+            "hybrid_0.5": 0.43275021361480703
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 18,
+            "claim_max": 16,
+            "claim_mean": 16,
+            "claim_min": 14,
+            "claim_cover": 17,
+            "claim_cover_tb": 16,
+            "hybrid_0.3": 18,
+            "hybrid_0.5": 18
+          },
+          "score": {
+            "bm25_whole": 0.30327267321187124,
+            "claim_max": 0.23280458018562217,
+            "claim_mean": 0.11640229009281108,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.00011640229009281109,
+            "hybrid_0.3": 0.24721155827615318,
+            "hybrid_0.5": 0.20983748165234117
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 15,
+            "claim_max": 8,
+            "claim_mean": 12,
+            "claim_min": 15,
+            "claim_cover": 4,
+            "claim_cover_tb": 10,
+            "hybrid_0.3": 15,
+            "hybrid_0.5": 15
+          },
+          "score": {
+            "bm25_whole": 0.31650628194245395,
+            "claim_max": 0.6242357391073988,
+            "claim_mean": 0.3121178695536994,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5003121178695537,
+            "hybrid_0.3": 0.31518975822582757,
+            "hybrid_0.5": 0.3143120757480767
+          }
+        },
+        {
+          "kind": "alias",
+          "rank": {
+            "bm25_whole": 6,
+            "claim_max": 3,
+            "claim_mean": 4,
+            "claim_min": 6,
+            "claim_cover": 5,
+            "claim_cover_tb": 4,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 4
+          },
+          "score": {
+            "bm25_whole": 0.8682300471597313,
+            "claim_max": 1.0,
+            "claim_mean": 0.6063766360039716,
+            "claim_min": 0.21275327200794322,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006063766360039,
+            "hybrid_0.3": 0.7896740238130033,
+            "hybrid_0.5": 0.7373033415818515
+          },
+          "delta": {
+            "bm25_whole": 3,
+            "claim_max": 2,
+            "claim_mean": 2,
+            "claim_min": 2,
+            "claim_cover": 4,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 3
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 5,
+            "claim_max": 4,
+            "claim_mean": 1,
+            "claim_min": 3,
+            "claim_cover": 6,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 3
+          },
+          "score": {
+            "bm25_whole": 0.8902727203523136,
+            "claim_max": 1.0,
+            "claim_mean": 0.6138885851830311,
+            "claim_min": 0.22777717036606232,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006138885851831,
+            "hybrid_0.3": 0.8073574798015288,
+            "hybrid_0.5": 0.7520806527676724
+          },
+          "delta": {
+            "bm25_whole": 2,
+            "claim_max": 3,
+            "claim_mean": -1,
+            "claim_min": -1,
+            "claim_cover": 5,
+            "claim_cover_tb": -1,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 4,
+            "claim_max": 5,
+            "claim_mean": 3,
+            "claim_min": 5,
+            "claim_cover": 7,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          },
+          "score": {
+            "bm25_whole": 0.9154641175769742,
+            "claim_max": 1.0,
+            "claim_mean": 0.6119097702093067,
+            "claim_min": 0.22381954041861332,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5006119097702093,
+            "hybrid_0.3": 0.824397813366674,
+            "hybrid_0.5": 0.7636869438931404
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 4,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 6,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 17,
+            "claim_max": 15,
+            "claim_mean": 15,
+            "claim_min": 16,
+            "claim_cover": 18,
+            "claim_cover_tb": 15,
+            "hybrid_0.3": 17,
+            "hybrid_0.5": 17
+          },
+          "score": {
+            "bm25_whole": 0.3158879635843554,
+            "claim_max": 0.3111600727392936,
+            "claim_mean": 0.1555800363696468,
+            "claim_min": 0.0,
+            "claim_cover": 0.0,
+            "claim_cover_tb": 0.0001555800363696468,
+            "hybrid_0.3": 0.2677955854199428,
+            "hybrid_0.5": 0.2357339999770011
+          },
+          "delta": {
+            "bm25_whole": 10,
+            "claim_max": 13,
+            "claim_mean": 10,
+            "claim_min": 7,
+            "claim_cover": 16,
+            "claim_cover_tb": 10,
+            "hybrid_0.3": 12,
+            "hybrid_0.5": 12
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 8,
+            "claim_max": 6,
+            "claim_mean": 6,
+            "claim_min": 17,
+            "claim_cover": 8,
+            "claim_cover_tb": 6,
+            "hybrid_0.3": 6,
+            "hybrid_0.5": 6
+          },
+          "score": {
+            "bm25_whole": 0.8111575338228872,
+            "claim_max": 1.0,
+            "claim_mean": 0.5,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5005,
+            "hybrid_0.3": 0.717810273676021,
+            "hybrid_0.5": 0.6555787669114437
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 4,
+            "claim_mean": 1,
+            "claim_min": 8,
+            "claim_cover": 6,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 9,
+            "claim_max": 7,
+            "claim_mean": 7,
+            "claim_min": 18,
+            "claim_cover": 9,
+            "claim_cover_tb": 7,
+            "hybrid_0.3": 9,
+            "hybrid_0.5": 7
+          },
+          "score": {
+            "bm25_whole": 0.7996616113768309,
+            "claim_max": 0.9299025905565479,
+            "claim_mean": 0.46495129527827395,
+            "claim_min": 0.0,
+            "claim_cover": 0.5,
+            "claim_cover_tb": 0.5004649512952782,
+            "hybrid_0.3": 0.6992485165472637,
+            "hybrid_0.5": 0.6323064533275524
+          },
+          "delta": {
+            "bm25_whole": 2,
+            "claim_max": 5,
+            "claim_mean": 2,
+            "claim_min": 9,
+            "claim_cover": 7,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 2
+          }
+        }
+      ]
+    },
+    {
+      "qid": "5a74a8fa55429929fddd8497",
+      "question": "After his curacy at the village that is a suburb of Scunthorpe, who was Industrial Chaplain to the Bishop of Lincoln?",
+      "n_pool": 28,
+      "items": [
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 9,
+            "claim_max": 21,
+            "claim_mean": 9,
+            "claim_min": 1,
+            "claim_cover": 3,
+            "claim_cover_tb": 9,
+            "hybrid_0.3": 8,
+            "hybrid_0.5": 8
+          },
+          "score": {
+            "bm25_whole": 0.6504480760278241,
+            "claim_max": 0.5690699612102678,
+            "claim_mean": 0.4575533236507738,
+            "claim_min": 0.36271034188049417,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.3337908866569841,
+            "hybrid_0.3": 0.5925796503147089,
+            "hybrid_0.5": 0.5540006998392989
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 16,
+            "claim_max": 19,
+            "claim_mean": 15,
+            "claim_min": 5,
+            "claim_cover": 4,
+            "claim_cover_tb": 15,
+            "hybrid_0.3": 17,
+            "hybrid_0.5": 18
+          },
+          "score": {
+            "bm25_whole": 0.5445572566827235,
+            "claim_max": 0.569469400778631,
+            "claim_mean": 0.3692036225629945,
+            "claim_min": 0.19388193604053083,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.3337025369558963,
+            "hybrid_0.3": 0.49195116644680476,
+            "hybrid_0.5": 0.45688043962285896
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 22,
+            "claim_max": 1,
+            "claim_mean": 3,
+            "claim_min": 9,
+            "claim_cover": 5,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": 19,
+            "hybrid_0.5": 12
+          },
+          "score": {
+            "bm25_whole": 0.4759409981580847,
+            "claim_max": 1.0,
+            "claim_mean": 0.5292014726806645,
+            "claim_min": 0.14652614580375936,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.33386253480601397,
+            "hybrid_0.3": 0.49191914051485863,
+            "hybrid_0.5": 0.5025712354193747
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 1,
+            "claim_max": 16,
+            "claim_mean": 17,
+            "claim_min": 20,
+            "claim_cover": 6,
+            "claim_cover_tb": 17,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.7262480720781692,
+            "claim_mean": 0.3634647530605792,
+            "claim_min": 0.03993625567492979,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.3336967980863939,
+            "hybrid_0.3": 0.8090394259181737,
+            "hybrid_0.5": 0.6817323765302896
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 20,
+            "claim_max": 8,
+            "claim_mean": 1,
+            "claim_min": 17,
+            "claim_cover": 1,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 11,
+            "hybrid_0.5": 10
+          },
+          "score": {
+            "bm25_whole": 0.5163849673715714,
+            "claim_max": 0.9479883399341137,
+            "claim_mean": 0.554954775776164,
+            "claim_min": 0.05645668930304579,
+            "claim_cover": 0.6666666666666666,
+            "claim_cover_tb": 0.6672216214424428,
+            "hybrid_0.3": 0.5279559098929492,
+            "hybrid_0.5": 0.5356698715738677
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 13,
+            "claim_max": 5,
+            "claim_mean": 23,
+            "claim_min": 24,
+            "claim_cover": 7,
+            "claim_cover_tb": 23,
+            "hybrid_0.3": 15,
+            "hybrid_0.5": 20
+          },
+          "score": {
+            "bm25_whole": 0.5789590015642184,
+            "claim_max": 0.9728530709557534,
+            "claim_mean": 0.330781653891485,
+            "claim_min": 0.0017316185781516866,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.3336641149872248,
+            "hybrid_0.3": 0.5045057972623983,
+            "hybrid_0.5": 0.45487032772785174
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 24,
+            "claim_max": 10,
+            "claim_mean": 5,
+            "claim_min": 7,
+            "claim_cover": 8,
+            "claim_cover_tb": 5,
+            "hybrid_0.3": 24,
+            "hybrid_0.5": 16
+          },
+          "score": {
+            "bm25_whole": 0.4662782175541552,
+            "claim_max": 0.8990380861313503,
+            "claim_mean": 0.4708570917591646,
+            "claim_min": 0.14748863775388607,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.33380419042509246,
+            "hybrid_0.3": 0.46765187981565803,
+            "hybrid_0.5": 0.46856765465665995
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 26,
+            "claim_max": 26,
+            "claim_mean": 12,
+            "claim_min": 11,
+            "claim_cover": 9,
+            "claim_cover_tb": 12,
+            "hybrid_0.3": 26,
+            "hybrid_0.5": 26
+          },
+          "score": {
+            "bm25_whole": 0.46334936421978085,
+            "claim_max": 0.5554967011447711,
+            "claim_mean": 0.3815142401397696,
+            "claim_min": 0.09594457714642345,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.3337148475734731,
+            "hybrid_0.3": 0.43879882699577744,
+            "hybrid_0.5": 0.4224318021797752
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 18,
+            "claim_max": 23,
+            "claim_mean": 20,
+            "claim_min": 14,
+            "claim_cover": 10,
+            "claim_cover_tb": 20,
+            "hybrid_0.3": 22,
+            "hybrid_0.5": 24
+          },
+          "score": {
+            "bm25_whole": 0.5338176253881398,
+            "claim_max": 0.5658522777905841,
+            "claim_mean": 0.3363724030270572,
+            "claim_min": 0.07848177961277236,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.33366970573636034,
+            "hybrid_0.3": 0.474584058679815,
+            "hybrid_0.5": 0.4350950142075985
+          }
+        },
+        {
+          "kind": "orig",
+          "rank": {
+            "bm25_whole": 6,
+            "claim_max": 12,
+            "claim_mean": 7,
+            "claim_min": 3,
+            "claim_cover": 11,
+            "claim_cover_tb": 7,
+            "hybrid_0.3": 5,
+            "hybrid_0.5": 5
+          },
+          "score": {
+            "bm25_whole": 0.7717521001953507,
+            "claim_max": 0.844596415159082,
+            "claim_mean": 0.4656441916766843,
+            "claim_min": 0.23365603686666897,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.33379897752501,
+            "hybrid_0.3": 0.6799197276397507,
+            "hybrid_0.5": 0.6186981459360175
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 4,
+            "claim_max": 15,
+            "claim_mean": 14,
+            "claim_min": 19,
+            "claim_cover": 12,
+            "claim_cover_tb": 14,
+            "hybrid_0.3": 4,
+            "hybrid_0.5": 4
+          },
+          "score": {
+            "bm25_whole": 0.9383914599904079,
+            "claim_max": 0.7375669916076791,
+            "claim_mean": 0.37414619997161164,
+            "claim_min": 0.043376624591585804,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.33370747953330493,
+            "hybrid_0.3": 0.7691178819847689,
+            "hybrid_0.5": 0.6562688299810098
+          },
+          "delta": {
+            "bm25_whole": 3,
+            "claim_max": -1,
+            "claim_mean": -3,
+            "claim_min": -1,
+            "claim_cover": 6,
+            "claim_cover_tb": -3,
+            "hybrid_0.3": 2,
+            "hybrid_0.5": 2
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 2,
+            "claim_max": 17,
+            "claim_mean": 18,
+            "claim_min": 21,
+            "claim_cover": 13,
+            "claim_cover_tb": 18,
+            "hybrid_0.3": 3,
+            "hybrid_0.5": 3
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 0.7262480720781692,
+            "claim_mean": 0.3634647530605792,
+            "claim_min": 0.03993625567492979,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.3336967980863939,
+            "hybrid_0.3": 0.8090394259181737,
+            "hybrid_0.5": 0.6817323765302896
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 1,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 7,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        },
+        {
+          "kind": "alias",
+          "rank": {
+            "bm25_whole": 8,
+            "claim_max": 25,
+            "claim_mean": 27,
+            "claim_min": 16,
+            "claim_cover": 14,
+            "claim_cover_tb": 27,
+            "hybrid_0.3": 10,
+            "hybrid_0.5": 14
+          },
+          "score": {
+            "bm25_whole": 0.7332960582915098,
+            "claim_max": 0.5574377313469003,
+            "claim_mean": 0.25851499551631846,
+            "claim_min": 0.058867794124168434,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.33359184832884964,
+            "hybrid_0.3": 0.5908617394589524,
+            "hybrid_0.5": 0.4959055269039141
+          },
+          "delta": {
+            "bm25_whole": 7,
+            "claim_max": 9,
+            "claim_mean": 10,
+            "claim_min": -4,
+            "claim_cover": 8,
+            "claim_cover_tb": 10,
+            "hybrid_0.3": 8,
+            "hybrid_0.5": 12
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 3,
+            "claim_max": 2,
+            "claim_mean": 11,
+            "claim_min": 13,
+            "claim_cover": 15,
+            "claim_cover_tb": 11,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          },
+          "score": {
+            "bm25_whole": 1.0,
+            "claim_max": 1.0,
+            "claim_mean": 0.4347321837342954,
+            "claim_min": 0.0806903556034291,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.3337680655170676,
+            "hybrid_0.3": 0.8304196551202886,
+            "hybrid_0.5": 0.7173660918671477
+          },
+          "delta": {
+            "bm25_whole": 2,
+            "claim_max": -14,
+            "claim_mean": -6,
+            "claim_min": -7,
+            "claim_cover": 9,
+            "claim_cover_tb": -6,
+            "hybrid_0.3": -1,
+            "hybrid_0.5": -1
+          }
+        },
+        {
+          "kind": "relation",
+          "rank": {
+            "bm25_whole": 12,
+            "claim_max": 3,
+            "claim_mean": 19,
+            "claim_min": 26,
+            "claim_cover": 16,
+            "claim_cover_tb": 19,
+            "hybrid_0.3": 13,
+            "hybrid_0.5": 15
+          },
+          "score": {
+            "bm25_whole": 0.6038693579252868,
+            "claim_max": 1.0,
+            "claim_mean": 0.3376705020656526,
+            "claim_min": 0.0,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.333671003835399,
+            "hybrid_0.3": 0.5240097011673965,
+            "hybrid_0.5": 0.47076992999546974
+          },
+          "delta": {
+            "bm25_whole": -1,
+            "claim_max": -2,
+            "claim_mean": -4,
+            "claim_min": 2,
+            "claim_cover": 9,
+            "claim_cover_tb": -4,
+            "hybrid_0.3": -2,
+            "hybrid_0.5": -5
+          }
+        },
+        {
+          "kind": "alias",
+          "rank": {
+            "bm25_whole": 11,
+            "claim_max": 14,
+            "claim_mean": 26,
+            "claim_min": 23,
+            "claim_cover": 17,
+            "claim_cover_tb": 26,
+            "hybrid_0.3": 14,
+            "hybrid_0.5": 22
+          },
+          "score": {
+            "bm25_whole": 0.6100460458741541,
+            "claim_max": 0.8151306035801427,
+            "claim_mean": 0.2839931725848864,
+            "claim_min": 0.01301150619695773,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.3336173265059182,
+            "hybrid_0.3": 0.5122301838873737,
+            "hybrid_0.5": 0.4470196092295202
+          },
+          "delta": {
+            "bm25_whole": -2,
+            "claim_max": 9,
+            "claim_mean": 3,
+            "claim_min": -1,
+            "claim_cover": 10,
+            "claim_cover_tb": 3,
+            "hybrid_0.3": -1,
+            "hybrid_0.5": 2
+          }
+        },
+        {
+          "kind": "inversion",
+          "rank": {
+            "bm25_whole": 15,
+            "claim_max": 6,
+            "claim_mean": 25,
+            "claim_min": 27,
+            "claim_cover": 18,
+            "claim_cover_tb": 25,
+            "hybrid_0.3": 21,
+            "hybrid_0.5": 23
+          },
+          "score": {
+            "bm25_whole": 0.5503325086467497,
+            "claim_max": 0.9728530709557534,
+            "claim_mean": 0.3248615631779684,
+            "claim_min": 0.0,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.3336581948965113,
+            "hybrid_0.3": 0.4826912250061152,
+            "hybrid_0.5": 0.437597035912359
+          },
+          "delta": {
+            "bm25_whole": 2,
+            "claim_max": 1,
+            "claim_mean": 2,
+            "claim_min": 3,
+            "claim_cover": 11,
+            "claim_cover_tb": 2,
+            "hybrid_0.3": 6,
+            "hybrid_0.5": 3
+          }
+        },
+        {
+          "kind": "dispersal",
+          "rank": {
+            "bm25_whole": 14,
+            "claim_max": 7,
+            "claim_mean": 24,
+            "claim_min": 25,
+            "claim_cover": 19,
+            "claim_cover_tb": 24,
+            "hybrid_0.3": 16,
+            "hybrid_0.5": 21
+          },
+          "score": {
+            "bm25_whole": 0.5789590015642184,
+            "claim_max": 0.9728530709557534,
+            "claim_mean": 0.330781653891485,
+            "claim_min": 0.0017316185781516866,
+            "claim_cover": 0.3333333333333333,
+            "claim_cover_tb": 0.3336641149872248,
+            "hybrid_0.3": 0.5045057972623983,
+            "hybrid_0.5": 0.45487032772785174
+          },
+          "delta": {
+            "bm25_whole": 1,
+            "claim_max": 2,
+            "claim_mean": 1,
+            "claim_min": 1,
+            "claim_cover": 12,
+            "claim_cover_tb": 1,
+            "hybrid_0.3": 1,
+            "hybrid_0.5": 1
+          }
+        }
+      ]
+    }
+  ]
+}

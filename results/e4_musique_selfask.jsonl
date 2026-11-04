@@ -1,0 +1,200 @@
+{"qid": "2hop__6827_79845", "method": "selfask", "pred": "16,000", "gold": "15,900", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__17827_54024", "method": "selfask", "pred": "Henry VIII", "gold": "King James I of England", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__44815_494136", "method": "selfask", "pred": "None", "gold": "Meg Ryan", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__640262_122868", "method": "selfask", "pred": "Oxford University", "gold": "University of British Columbia", "em": 0.0, "f1": 0.3333333333333333, "info": {"steps": 2}}
+{"qid": "2hop__752214_639679", "method": "selfask", "pred": "John Eagles", "gold": "Clio Goldsmith", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__488811_30110", "method": "selfask", "pred": "They were assimilated by the Latvians and Lithuanians, and their language became extinct.", "gold": "expelled by the Soviet Union", "em": 0.0, "f1": 0.125, "info": {"steps": 2}}
+{"qid": "2hop__370564_71701", "method": "selfask", "pred": "1939", "gold": "November 5", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__810884_22402", "method": "selfask", "pred": "Approximately 24,000", "gold": "nearly 25,000", "em": 0.0, "f1": 0.3333333333333333, "info": {"steps": 2}}
+{"qid": "3hop2__90098_156850_10557", "method": "selfask", "pred": "Medieval Latin", "gold": "Medieval Latin", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "4hop1__341777_508773_85832_745702", "method": "selfask", "pred": "None", "gold": "Sebastian Cabot", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "2hop__409166_152023", "method": "selfask", "pred": "EMI", "gold": "Kicking Mule Records", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__56851_343058", "method": "selfask", "pred": "Blake Edwards", "gold": "Adrian Edmondson", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__62311_62279", "method": "selfask", "pred": "1940", "gold": "10 July -- 31 October 1940", "em": 0.0, "f1": 0.33333333333333337, "info": {"steps": 2}}
+{"qid": "3hop1__19768_19788_10117", "method": "selfask", "pred": "Approximately 2000 years ago", "gold": "1,400 years", "em": 0.0, "f1": 0.28571428571428575, "info": {"steps": 3}}
+{"qid": "2hop__42747_83837", "method": "selfask", "pred": "Becky G", "gold": "Karen Fairchild", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop2__132957_222979_40768", "method": "selfask", "pred": "1982", "gold": "1981", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__83800_747874", "method": "selfask", "pred": "Jamie Murray", "gold": "Jamie Murray", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "2hop__703767_37168", "method": "selfask", "pred": "281-290", "gold": "551-600", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__511176_22458", "method": "selfask", "pred": "Union of European Football Associations", "gold": "International Federation of Association Football", "em": 0.0, "f1": 0.4000000000000001, "info": {"steps": 2}}
+{"qid": "3hop1__127837_157828_239539", "method": "selfask", "pred": "Rome", "gold": "Pristina", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "2hop__55966_162341", "method": "selfask", "pred": "Academy Award nomination, Golden Globe Award, and Tony Award nomination", "gold": "nominated for an Academy Award for Best Supporting Actor", "em": 0.0, "f1": 0.22222222222222224, "info": {"steps": 2}}
+{"qid": "2hop__612719_6455", "method": "selfask", "pred": "Firefox", "gold": "Firefox", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "2hop__754753_57816", "method": "selfask", "pred": "50", "gold": "100", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__776377_857193", "method": "selfask", "pred": "Chesapeake Bay", "gold": "Delaware River", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop2__30152_105395_20999", "method": "selfask", "pred": "They were expelled by the Ajuran Empire through military conquest and siege.", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.12500000000000003, "info": {"steps": 3}}
+{"qid": "2hop__30905_189318", "method": "selfask", "pred": "University of California, Los Angeles (UCLA)", "gold": "National War College", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__365934_87694_124169", "method": "selfask", "pred": "Yes", "gold": "1952", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__8496_21567", "method": "selfask", "pred": "Francesco Landini", "gold": "John Kukuzelis", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__411091_625230", "method": "selfask", "pred": "San Diego County", "gold": "Hancock County", "em": 0.0, "f1": 0.4, "info": {"steps": 2}}
+{"qid": "3hop1__857_846_7821", "method": "selfask", "pred": "Yes", "gold": "140 mi", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__275891_55984", "method": "selfask", "pred": "Lauri Ylönen", "gold": "Phil Hanseroth", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "4hop2__160585_14670_8987_8529", "method": "selfask", "pred": "Yes", "gold": "1943–1992", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "4hop3__373866_5189_38229_86687", "method": "selfask", "pred": "1990", "gold": "May 1990", "em": 0.0, "f1": 0.6666666666666666, "info": {"steps": 4}}
+{"qid": "2hop__83257_19033", "method": "selfask", "pred": "Yes", "gold": "Great American Bash", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__131783_131926_13165", "method": "selfask", "pred": "Treaty of St. Peters (1837)", "gold": "Treaty of Paris", "em": 0.0, "f1": 0.5, "info": {"steps": 3}}
+{"qid": "2hop__455158_247871", "method": "selfask", "pred": "Rockland County", "gold": "Waseca County", "em": 0.0, "f1": 0.5, "info": {"steps": 2}}
+{"qid": "3hop1__102461_24918_24991", "method": "selfask", "pred": "Yes", "gold": "Soviet flag", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "2hop__67956_463572", "method": "selfask", "pred": "Capitol Records", "gold": "MGM Records", "em": 0.0, "f1": 0.5, "info": {"steps": 2}}
+{"qid": "2hop__123214_22402", "method": "selfask", "pred": "Approximately 19,000", "gold": "nearly 25,000", "em": 0.0, "f1": 0.3333333333333333, "info": {"steps": 2}}
+{"qid": "2hop__70338_36240", "method": "selfask", "pred": "The premise is incorrect; the quote is from Job 19:20 and does not reference Mary.", "gold": "Genesis 3:15", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__141456_6455", "method": "selfask", "pred": "Firefox", "gold": "Firefox", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "2hop__73921_807969", "method": "selfask", "pred": "Chelsea FC", "gold": "Egypt national football team", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__358853_339990_15538", "method": "selfask", "pred": "Yes", "gold": "1984", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "3hop1__28404_160713_77246", "method": "selfask", "pred": "Yes", "gold": "the country of India", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__552546_70131", "method": "selfask", "pred": "Former German soldiers and officers", "gold": "consisting largely of World War I veterans", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__90773_715759", "method": "selfask", "pred": "The Manhattan Project", "gold": "Manhattan Project", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "3hop1__139787_88110_77129", "method": "selfask", "pred": "Windows Server 2008", "gold": "Windows 8", "em": 0.0, "f1": 0.4, "info": {"steps": 3}}
+{"qid": "3hop2__326964_7855_7713", "method": "selfask", "pred": "Since 1997", "gold": "about 400 years", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__6736_6733", "method": "selfask", "pred": "Asia", "gold": "Eastern block", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "3hop1__136129_87694_124169", "method": "selfask", "pred": "Yes", "gold": "1952", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__135652_669373", "method": "selfask", "pred": "Charles University", "gold": "Charles University", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "2hop__354635_174222", "method": "selfask", "pred": "NBCUniversal", "gold": "Time Warner Cable", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "4hop3__524186_219173_862998_72134", "method": "selfask", "pred": "1864", "gold": "1839", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "3hop1__389069_132457_47686", "method": "selfask", "pred": "Victoria Coach Station", "gold": "Toronto Coach Terminal", "em": 0.0, "f1": 0.3333333333333333, "info": {"steps": 3}}
+{"qid": "4hop1__436202_765799_282674_759393", "method": "selfask", "pred": "Castlebar, Roscommon, Sligo, Carrick-on-Shannon,", "gold": "Green Bay", "em": 0.0, "f1": 0.0, "info": {"steps": 10}}
+{"qid": "2hop__83405_158262", "method": "selfask", "pred": "1848", "gold": "1848", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "3hop1__354480_834494_34109", "method": "selfask", "pred": "Camden County, Georgia", "gold": "KUAT-TV 6", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "4hop1__58323_375563_161848_83118", "method": "selfask", "pred": "First Sunday in April", "gold": "the first Sunday in April", "em": 1.0, "f1": 1.0, "info": {"steps": 4}}
+{"qid": "2hop__403712_793210", "method": "selfask", "pred": "Henry Baring, 1st Baron Revelstoke", "gold": "Sir Francis Baring, 1st Baronet", "em": 0.0, "f1": 0.4000000000000001, "info": {"steps": 2}}
+{"qid": "4hop3__678814_466199_695123_72134", "method": "selfask", "pred": "1812", "gold": "1839", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__60001_512508", "method": "selfask", "pred": "World War I", "gold": "Manhattan Project", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__689472_52835", "method": "selfask", "pred": "Jagger/Richards", "gold": "John D. Loudermilk", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__418360_67370", "method": "selfask", "pred": "Yes", "gold": "January 19, 2018", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__21104_16254", "method": "selfask", "pred": "92%", "gold": "92 percent", "em": 0.0, "f1": 0.6666666666666666, "info": {"steps": 2}}
+{"qid": "2hop__374767_152023", "method": "selfask", "pred": "Polydor Records", "gold": "Kicking Mule Records", "em": 0.0, "f1": 0.4, "info": {"steps": 2}}
+{"qid": "3hop1__409517_547811_80702", "method": "selfask", "pred": "Ponte di Tiberio", "gold": "Rialto Bridge", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__820739_250752", "method": "selfask", "pred": "Sergio Citti", "gold": "Glen Morgan", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "4hop1__433767_32392_823060_610794", "method": "selfask", "pred": "Yes", "gold": "Richland County", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "4hop1__129721_32392_823060_610794", "method": "selfask", "pred": "Fulton County", "gold": "Richland County", "em": 0.0, "f1": 0.5, "info": {"steps": 4}}
+{"qid": "4hop1__726391_153080_33952_34053", "method": "selfask", "pred": "2013", "gold": "1905", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "2hop__80546_75184", "method": "selfask", "pred": "Michael J. Fox", "gold": "Claudia Wells", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__289517_139339", "method": "selfask", "pred": "Golden Globe Award for Best Supporting Actress – Series, Miniseries or Television Film", "gold": "Academy Award for Best Live Action Short Film", "em": 0.0, "f1": 0.4, "info": {"steps": 2}}
+{"qid": "2hop__829474_123956", "method": "selfask", "pred": "October 10, 1945", "gold": "15 February 1942", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "3hop1__79462_91850_685675", "method": "selfask", "pred": "Yes", "gold": "New York Yankees", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "2hop__142842_68489", "method": "selfask", "pred": "Jack Abbott", "gold": "Snapper Foster", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "4hop1__629520_49925_13759_736921", "method": "selfask", "pred": "Saxony-Anhalt", "gold": "Saxony-Anhalt", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "4hop2__567956_39078_8987_8974", "method": "selfask", "pred": "Israel", "gold": "Alfredo Stroessner's Paraguay", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__56307_604644", "method": "selfask", "pred": "Fueled by Ramen", "gold": "429 Records", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__44259_747874", "method": "selfask", "pred": "Jamie Murray", "gold": "Jamie Murray", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "4hop1__94201_642284_131926_90707", "method": "selfask", "pred": "They do not meet", "gold": "at the city of Cairo, Illinois", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "2hop__507528_139339", "method": "selfask", "pred": "Genie Award for Best Direction", "gold": "Academy Award for Best Live Action Short Film", "em": 0.0, "f1": 0.4615384615384615, "info": {"steps": 2}}
+{"qid": "3hop1__147225_30587_83479", "method": "selfask", "pred": "To cut off Allied supply lines from North America to Britain", "gold": "to stem the flow of merchant shipping that enabled Britain to keep fighting", "em": 0.0, "f1": 0.2608695652173913, "info": {"steps": 3}}
+{"qid": "3hop1__540585_568433_47686", "method": "selfask", "pred": "Union Station", "gold": "Toronto Coach Terminal", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__71871_494136", "method": "selfask", "pred": "Rachel Goodman", "gold": "Meg Ryan", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__642686_7292", "method": "selfask", "pred": "Dave Koz", "gold": "George Benson", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__107540_720914_27537", "method": "selfask", "pred": "He was accused of sodomy and fled to avoid prosecution", "gold": "for the conclave in Rome", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "4hop3__426860_88460_30152_20999", "method": "selfask", "pred": "Yes", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "2hop__620853_22458", "method": "selfask", "pred": "Confederation of North, Central America and Caribbean Association Football", "gold": "International Federation of Association Football", "em": 0.0, "f1": 0.42857142857142855, "info": {"steps": 2}}
+{"qid": "2hop__865828_377862", "method": "selfask", "pred": "Jordanów", "gold": "Sucha Beskidzka", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "4hop1__105688_17130_70784_79935", "method": "selfask", "pred": "1923", "gold": "1930", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "3hop1__161433_33952_33939", "method": "selfask", "pred": "82,400", "gold": "7,531", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__323534_810083", "method": "selfask", "pred": "Yes", "gold": "Scranton", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "4hop1__525129_315334_131926_87157", "method": "selfask", "pred": "North", "gold": "rises in northern Minnesota and meanders slowly southwards", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "4hop3__630723_88460_30152_20999", "method": "selfask", "pred": "Yes", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__428940_135373", "method": "selfask", "pred": "Yes", "gold": "Vitus Bering", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "3hop1__376309_160713_77246", "method": "selfask", "pred": "Submission to God", "gold": "the country of India", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "3hop1__516535_834494_34109", "method": "selfask", "pred": "KNAU-TV", "gold": "KUAT-TV 6", "em": 0.0, "f1": 0.4, "info": {"steps": 3}}
+{"qid": "3hop1__140554_2053_52946", "method": "selfask", "pred": "2018", "gold": "February 7, 2018", "em": 0.0, "f1": 0.5, "info": {"steps": 3}}
+{"qid": "3hop1__347858_503371_21711", "method": "selfask", "pred": "1359-1370", "gold": "built in the 15th century", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "4hop3__719125_132409_371500_35031", "method": "selfask", "pred": "It does not rank in the top five largest urban areas of New York state because it is located in California.", "gold": "third-largest", "em": 0.0, "f1": 0.09090909090909091, "info": {"steps": 5}}
+{"qid": "4hop1__310029_153080_33897_81096", "method": "selfask", "pred": "Yes", "gold": "Mario Andretti", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "2hop__709357_136043", "method": "selfask", "pred": "No specific person", "gold": "Natalie Albino", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__639955_834494_34109", "method": "selfask", "pred": "WVTF", "gold": "KUAT-TV 6", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__17192_78396_54865", "method": "selfask", "pred": "Israel never owned American colonies.", "gold": "1776", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__506062_792411_51423", "method": "selfask", "pred": "There is no castle in Liverpool.", "gold": "Casa Loma", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__145203_34088", "method": "selfask", "pred": "Watkins Glen International", "gold": "Tucson Raceway Park", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__786067_228453_86925", "method": "selfask", "pred": "Yes", "gold": "fleur - de-lis", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "4hop1__60000_59747_211319_557671", "method": "selfask", "pred": "Yes", "gold": "Presque Isle County", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "3hop1__747772_514761_594810", "method": "selfask", "pred": "EMI", "gold": "Warner Bros. Records", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__179149_396277", "method": "selfask", "pred": "Sylvester and the Magic Pebble", "gold": "Doctor De Soto", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__35136_35117", "method": "selfask", "pred": "1213–1288", "gold": "1213–1288", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "3hop1__295815_40769_64047", "method": "selfask", "pred": "2003", "gold": "Sales began worldwide in April 2012", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "4hop1__105401_17130_70784_61381", "method": "selfask", "pred": "1921", "gold": "1932", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "3hop2__36852_326964_7713", "method": "selfask", "pred": "Yes", "gold": "about 400 years", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__157376_643670", "method": "selfask", "pred": "Rhine-Meuse-Scheldt delta", "gold": "Het Scheur", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__768500_730460_70315", "method": "selfask", "pred": "The Lower Ninth Ward", "gold": "the city of New Orleans", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "4hop3__439878_88460_30152_20999", "method": "selfask", "pred": "The premise of the question is factually incorrect.", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "4hop1__15567_59747_211319_557671", "method": "selfask", "pred": "Delaware County, Madison County, Union County, Licking County, Fairfield County, Pickaway County, and Fayette County", "gold": "Presque Isle County", "em": 0.0, "f1": 0.1111111111111111, "info": {"steps": 4}}
+{"qid": "4hop1__58323_375563_161848_61344", "method": "selfask", "pred": "Oceania", "gold": "submerged continent of Zealandia", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "3hop1__127821_157828_162309", "method": "selfask", "pred": "2006", "gold": "2016", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__96096_78606", "method": "selfask", "pred": "Marisa Tomei", "gold": "Joyce Van Patten", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__776637_87295", "method": "selfask", "pred": "Queen Clarisse Renaldi", "gold": "Queen dowager Clarisse Renaldi", "em": 0.0, "f1": 0.8571428571428571, "info": {"steps": 2}}
+{"qid": "3hop1__823336_228453_86925", "method": "selfask", "pred": "Yes", "gold": "fleur - de-lis", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__84937_21969", "method": "selfask", "pred": "1788", "gold": "1786", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__559908_42197_18397", "method": "selfask", "pred": "He did not declare such intervention (Lenin died before the Korean conflict)", "gold": "the Politburo", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "3hop2__132957_483843_40768", "method": "selfask", "pred": "1982", "gold": "1981", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__631139_75487", "method": "selfask", "pred": "Justin Trudeau", "gold": "Andrew Scheer", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__59612_42352", "method": "selfask", "pred": "Approximately 67 million (population of the UK)", "gold": "2 million", "em": 0.0, "f1": 0.25, "info": {"steps": 2}}
+{"qid": "3hop2__607269_223623_162182", "method": "selfask", "pred": "Southeast region", "gold": "South Central Coast", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "3hop1__161507_160713_77246", "method": "selfask", "pred": "Submission (to the will of God)", "gold": "the country of India", "em": 0.0, "f1": 0.25, "info": {"steps": 3}}
+{"qid": "4hop1__752321_153080_159767_81096", "method": "selfask", "pred": "Yes", "gold": "Mario Andretti", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "2hop__199513_801817", "method": "selfask", "pred": "Nazareth", "gold": "Nazareth", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "2hop__223823_29898", "method": "selfask", "pred": "CHBC-DT", "gold": "CFJC-TV in Kamloops", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__84887_538202_84283", "method": "selfask", "pred": "Usher Raymond", "gold": "Warner Music Group", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__189094_612080", "method": "selfask", "pred": "Botswana Premier League", "gold": "Maltese Premier League", "em": 0.0, "f1": 0.6666666666666666, "info": {"steps": 2}}
+{"qid": "2hop__198650_84856", "method": "selfask", "pred": "There is no new season; it is a standalone special released in 2023.", "gold": "January 20, 2017", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "4hop1__130623_32392_823060_610794", "method": "selfask", "pred": "Richland County or Lexington County", "gold": "Richland County", "em": 0.0, "f1": 0.5714285714285715, "info": {"steps": 6}}
+{"qid": "3hop1__133292_40769_64047", "method": "selfask", "pred": "2003, 2009, 2015, and 2022", "gold": "Sales began worldwide in April 2012", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "3hop1__305282_282081_10972", "method": "selfask", "pred": "1974", "gold": "1970s", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__734582_74481", "method": "selfask", "pred": "Vito Corleone", "gold": "Vito Corleone", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "2hop__252521_80650", "method": "selfask", "pred": "Tim Allen", "gold": "Martin Short", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "4hop2__161602_426860_88460_126088", "method": "selfask", "pred": "Yes", "gold": "Thein Sein", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "2hop__156085_436709", "method": "selfask", "pred": "Walt Disney and Ub Iwerks", "gold": "Walt Disney", "em": 0.0, "f1": 0.5714285714285715, "info": {"steps": 2}}
+{"qid": "2hop__67660_67223", "method": "selfask", "pred": "Tracy McConnell", "gold": "Tracy Mosby", "em": 0.0, "f1": 0.5, "info": {"steps": 2}}
+{"qid": "3hop1__857_846_7810", "method": "selfask", "pred": "Approximately $6,000 USD", "gold": "RMB 98,174(US$16041)", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__669160_139339", "method": "selfask", "pred": "Golden Globe Award for Best Director – Motion Picture and a Golden Globe Award for Best Screenplay – Motion Picture", "gold": "Academy Award for Best Live Action Short Film", "em": 0.0, "f1": 0.24, "info": {"steps": 2}}
+{"qid": "2hop__80637_19033", "method": "selfask", "pred": "WrestleMania XXIV", "gold": "Great American Bash", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__194532_57594", "method": "selfask", "pred": "Colt Single Action Army", "gold": "LeMat revolver", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop2__304722_203717_63959", "method": "selfask", "pred": "2023", "gold": "1 December 2010", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__58691_192417", "method": "selfask", "pred": "Professional sports league", "gold": "sports league", "em": 0.0, "f1": 0.8, "info": {"steps": 2}}
+{"qid": "2hop__137061_45752", "method": "selfask", "pred": "Yes", "gold": "when the school's yearbook chose its name to be ``The Ibis", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "2hop__450600_158262", "method": "selfask", "pred": "1848", "gold": "1848", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "3hop1__120881_2053_52946", "method": "selfask", "pred": "2023", "gold": "February 7, 2018", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "4hop1__9002_698949_157828_239539", "method": "selfask", "pred": "Zagreb", "gold": "Pristina", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "2hop__596188_297986", "method": "selfask", "pred": "Oxfordshire", "gold": "Royal Borough of Greenwich", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__268084_78303", "method": "selfask", "pred": "Walter McGrail", "gold": "Cordell Walker", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "3hop1__374018_160713_77246", "method": "selfask", "pred": "Yes", "gold": "the country of India", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "4hop3__661103_698586_1926_54362", "method": "selfask", "pred": "Yes", "gold": "Confederate Gen. John Bell Hood", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "3hop1__104996_160713_77246", "method": "selfask", "pred": "Yes", "gold": "the country of India", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__123104_77615", "method": "selfask", "pred": "1901", "gold": "1912", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__735014_83837", "method": "selfask", "pred": "George Jones", "gold": "Karen Fairchild", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__788087_150107", "method": "selfask", "pred": "ACM", "gold": "Association for Computing Machinery", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__857493_17335", "method": "selfask", "pred": "404 BC", "gold": "323 BC", "em": 0.0, "f1": 0.5, "info": {"steps": 2}}
+{"qid": "4hop3__373573_132409_146285_35031", "method": "selfask", "pred": "1st", "gold": "third-largest", "em": 0.0, "f1": 0.0, "info": {"steps": 6}}
+{"qid": "2hop__530579_13529", "method": "selfask", "pred": "1993", "gold": "June 1982", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__145427_106426_157788", "method": "selfask", "pred": "Yes", "gold": "Yamanote Line loop", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "4hop1__749065_698949_157828_239539", "method": "selfask", "pred": "Sarajevo", "gold": "Pristina", "em": 0.0, "f1": 0.0, "info": {"steps": 5}}
+{"qid": "4hop1__73810_32392_823060_610794", "method": "selfask", "pred": "Wake County", "gold": "Richland County", "em": 0.0, "f1": 0.5, "info": {"steps": 4}}
+{"qid": "3hop1__222380_443779_52195", "method": "selfask", "pred": "José Ramos-Horta", "gold": "Francisco Guterres", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "3hop1__622497_160088_49779", "method": "selfask", "pred": "Regis Philbin", "gold": "Chris Harrison", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "4hop1__51465_53706_795904_580996", "method": "selfask", "pred": "The Pacific Ocean", "gold": "Rio Linda", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "2hop__66167_88526", "method": "selfask", "pred": "No one", "gold": "Greg Oden", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__10017_18974", "method": "selfask", "pred": "Yes", "gold": "Chen Zheng", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__14_59409", "method": "selfask", "pred": "Beyonce", "gold": "three different relationships he had in the past", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "4hop3__700962_88460_30152_20999", "method": "selfask", "pred": "Yes", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "4hop2__9988_685934_70784_61381", "method": "selfask", "pred": "Yes", "gold": "1932", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "2hop__35566_17873", "method": "selfask", "pred": "Buckingham Palace was closed for mourning and the royal family moved to Windsor Castle", "gold": "palace was seldom used, even neglected", "em": 0.0, "f1": 0.21052631578947367, "info": {"steps": 2}}
+{"qid": "3hop1__622497_160088_73916", "method": "selfask", "pred": "Yes", "gold": "$72,641", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "3hop2__326964_263934_7713", "method": "selfask", "pred": "Yes", "gold": "about 400 years", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__485221_544917", "method": "selfask", "pred": "Florida Bay", "gold": "Lake Superior", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__145427_106426_77199", "method": "selfask", "pred": "The USA never declared war on China.", "gold": "December 8, 1941", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "4hop2__161602_426860_88460_20988", "method": "selfask", "pred": "Yes", "gold": "one of the world's longest-running ongoing civil wars.", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "3hop1__131110_39743_24526", "method": "selfask", "pred": "20°F to 35°F", "gold": "upper 40s–lower 50s °F", "em": 0.0, "f1": 0.20000000000000004, "info": {"steps": 2}}
+{"qid": "4hop2__71753_729371_70784_61381", "method": "selfask", "pred": "Yes", "gold": "1932", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__13539_13493", "method": "selfask", "pred": "La Liga and Copa del Rey double", "gold": "continental treble", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "2hop__5658_25002", "method": "selfask", "pred": "Yes", "gold": "10-year", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "4hop1__9007_698949_157828_239539", "method": "selfask", "pred": "Sarajevo", "gold": "Pristina", "em": 0.0, "f1": 0.0, "info": {"steps": 5}}
+{"qid": "2hop__9285_42311", "method": "selfask", "pred": "Medical University of Warsaw", "gold": "Medical University of Warsaw", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "2hop__16844_42173", "method": "selfask", "pred": "1600", "gold": "1599", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__796649_720914_27537", "method": "selfask", "pred": "Yes", "gold": "for the conclave in Rome", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "2hop__497191_129669", "method": "selfask", "pred": "Santarém", "gold": "Lisbon District", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__672543_503371_21711", "method": "selfask", "pred": "14th century", "gold": "built in the 15th century", "em": 0.0, "f1": 0.3333333333333333, "info": {"steps": 3}}
+{"qid": "2hop__32441_522949", "method": "selfask", "pred": "Edith Bolling Galt", "gold": "Edith Roosevelt", "em": 0.0, "f1": 0.4, "info": {"steps": 2}}
+{"qid": "3hop1__404541_629431_124169", "method": "selfask", "pred": "1870", "gold": "1952", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "2hop__648648_173389", "method": "selfask", "pred": "Salford", "gold": "Middleton", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "3hop1__9285_5188_23307", "method": "selfask", "pred": "July", "gold": "mid-June", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "3hop1__140855_2053_52946", "method": "selfask", "pred": "2023", "gold": "February 7, 2018", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "3hop1__671542_665330_47686", "method": "selfask", "pred": "Port Authority Bus Terminal", "gold": "Toronto Coach Terminal", "em": 0.0, "f1": 0.28571428571428575, "info": {"steps": 2}}
+{"qid": "3hop1__662413_42197_18397", "method": "selfask", "pred": "Moscow", "gold": "the Politburo", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "4hop2__161602_426860_88460_21062", "method": "selfask", "pred": "Yes", "gold": "It is not possible for foreigners to go to/from Myanmar by sea or river.", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}

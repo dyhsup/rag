@@ -1,0 +1,1095 @@
+{
+  "n_questions": 10,
+  "summary": {
+    "1": {
+      "pointwise": {
+        "mean": 0.25,
+        "ci": [
+          0.25,
+          0.1,
+          0.4
+        ]
+      },
+      "coverage": {
+        "mean": 0.5,
+        "ci": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    },
+    "2": {
+      "pointwise": {
+        "mean": 0.5,
+        "ci": [
+          0.5,
+          0.35,
+          0.65
+        ]
+      },
+      "coverage": {
+        "mean": 1.0,
+        "ci": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "3": {
+      "pointwise": {
+        "mean": 0.55,
+        "ci": [
+          0.55,
+          0.5,
+          0.65
+        ]
+      },
+      "coverage": {
+        "mean": 1.0,
+        "ci": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "4": {
+      "pointwise": {
+        "mean": 0.65,
+        "ci": [
+          0.65,
+          0.55,
+          0.8
+        ]
+      },
+      "coverage": {
+        "mean": 1.0,
+        "ci": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "5": {
+      "pointwise": {
+        "mean": 0.75,
+        "ci": [
+          0.75,
+          0.6,
+          0.9
+        ]
+      },
+      "coverage": {
+        "mean": 1.0,
+        "ci": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "6": {
+      "pointwise": {
+        "mean": 0.75,
+        "ci": [
+          0.75,
+          0.6,
+          0.9
+        ]
+      },
+      "coverage": {
+        "mean": 1.0,
+        "ci": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    }
+  },
+  "per_question": [
+    {
+      "qid": "5add1d575542992c1e3a2540",
+      "question": "What nationality was Oliver Reed's character in the film Royal Flash?",
+      "n_pool": 16,
+      "n_gold": 2,
+      "per_k": {
+        "1": {
+          "pointwise": 0.0,
+          "coverage": 0.5,
+          "pointwise_ids": [
+            "5add1d575542992c1e3a2540::neg::Ivan Dragomiloff"
+          ],
+          "coverage_ids": [
+            "5add1d575542992c1e3a2540#Royal Flash (film)#alias"
+          ]
+        },
+        "2": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5add1d575542992c1e3a2540::neg::Ivan Dragomiloff",
+            "5add1d575542992c1e3a2540#Royal Flash (film)#alias"
+          ],
+          "coverage_ids": [
+            "5add1d575542992c1e3a2540#Royal Flash (film)#alias",
+            "5add1d575542992c1e3a2540#Otto von Bismarck#relation"
+          ]
+        },
+        "3": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5add1d575542992c1e3a2540::neg::Ivan Dragomiloff",
+            "5add1d575542992c1e3a2540#Royal Flash (film)#alias",
+            "5add1d575542992c1e3a2540::neg::Harry Flashman"
+          ],
+          "coverage_ids": [
+            "5add1d575542992c1e3a2540#Royal Flash (film)#alias",
+            "5add1d575542992c1e3a2540#Otto von Bismarck#relation",
+            "5add1d575542992c1e3a2540::neg::Ivan Dragomiloff"
+          ]
+        },
+        "4": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5add1d575542992c1e3a2540::neg::Ivan Dragomiloff",
+            "5add1d575542992c1e3a2540#Royal Flash (film)#alias",
+            "5add1d575542992c1e3a2540::neg::Harry Flashman",
+            "5add1d575542992c1e3a2540#Royal Flash (film)#relation"
+          ],
+          "coverage_ids": [
+            "5add1d575542992c1e3a2540#Royal Flash (film)#alias",
+            "5add1d575542992c1e3a2540#Otto von Bismarck#relation",
+            "5add1d575542992c1e3a2540::neg::Ivan Dragomiloff",
+            "5add1d575542992c1e3a2540::neg::Harry Flashman"
+          ]
+        },
+        "5": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5add1d575542992c1e3a2540::neg::Ivan Dragomiloff",
+            "5add1d575542992c1e3a2540#Royal Flash (film)#alias",
+            "5add1d575542992c1e3a2540::neg::Harry Flashman",
+            "5add1d575542992c1e3a2540#Royal Flash (film)#relation",
+            "5add1d575542992c1e3a2540#Royal Flash (film)#inversion"
+          ],
+          "coverage_ids": [
+            "5add1d575542992c1e3a2540#Royal Flash (film)#alias",
+            "5add1d575542992c1e3a2540#Otto von Bismarck#relation",
+            "5add1d575542992c1e3a2540::neg::Ivan Dragomiloff",
+            "5add1d575542992c1e3a2540::neg::Harry Flashman",
+            "5add1d575542992c1e3a2540#Royal Flash (film)#relation"
+          ]
+        },
+        "6": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5add1d575542992c1e3a2540::neg::Ivan Dragomiloff",
+            "5add1d575542992c1e3a2540#Royal Flash (film)#alias",
+            "5add1d575542992c1e3a2540::neg::Harry Flashman",
+            "5add1d575542992c1e3a2540#Royal Flash (film)#relation",
+            "5add1d575542992c1e3a2540#Royal Flash (film)#inversion",
+            "5add1d575542992c1e3a2540#Royal Flash (film)"
+          ],
+          "coverage_ids": [
+            "5add1d575542992c1e3a2540#Royal Flash (film)#alias",
+            "5add1d575542992c1e3a2540#Otto von Bismarck#relation",
+            "5add1d575542992c1e3a2540::neg::Ivan Dragomiloff",
+            "5add1d575542992c1e3a2540::neg::Harry Flashman",
+            "5add1d575542992c1e3a2540#Royal Flash (film)#relation",
+            "5add1d575542992c1e3a2540#Royal Flash (film)#inversion"
+          ]
+        }
+      }
+    },
+    {
+      "qid": "5ac55ea55542993e66e82377",
+      "question": "Pacific Mozart Ensemble performed which German composer's Der Lindberghflug in 2002?",
+      "n_pool": 14,
+      "n_gold": 2,
+      "per_k": {
+        "1": {
+          "pointwise": 0.5,
+          "coverage": 0.5,
+          "pointwise_ids": [
+            "5ac55ea55542993e66e82377#Kurt Weill"
+          ],
+          "coverage_ids": [
+            "5ac55ea55542993e66e82377#Kurt Weill"
+          ]
+        },
+        "2": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac55ea55542993e66e82377#Kurt Weill",
+            "5ac55ea55542993e66e82377#Kurt Weill#relation"
+          ],
+          "coverage_ids": [
+            "5ac55ea55542993e66e82377#Kurt Weill",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble#inversion"
+          ]
+        },
+        "3": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac55ea55542993e66e82377#Kurt Weill",
+            "5ac55ea55542993e66e82377#Kurt Weill#relation",
+            "5ac55ea55542993e66e82377#Kurt Weill#inversion"
+          ],
+          "coverage_ids": [
+            "5ac55ea55542993e66e82377#Kurt Weill",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble#inversion",
+            "5ac55ea55542993e66e82377#Kurt Weill#relation"
+          ]
+        },
+        "4": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac55ea55542993e66e82377#Kurt Weill",
+            "5ac55ea55542993e66e82377#Kurt Weill#relation",
+            "5ac55ea55542993e66e82377#Kurt Weill#inversion",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble#inversion"
+          ],
+          "coverage_ids": [
+            "5ac55ea55542993e66e82377#Kurt Weill",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble#inversion",
+            "5ac55ea55542993e66e82377#Kurt Weill#relation",
+            "5ac55ea55542993e66e82377#Kurt Weill#inversion"
+          ]
+        },
+        "5": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac55ea55542993e66e82377#Kurt Weill",
+            "5ac55ea55542993e66e82377#Kurt Weill#relation",
+            "5ac55ea55542993e66e82377#Kurt Weill#inversion",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble#inversion",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble"
+          ],
+          "coverage_ids": [
+            "5ac55ea55542993e66e82377#Kurt Weill",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble#inversion",
+            "5ac55ea55542993e66e82377#Kurt Weill#relation",
+            "5ac55ea55542993e66e82377#Kurt Weill#inversion",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble"
+          ]
+        },
+        "6": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac55ea55542993e66e82377#Kurt Weill",
+            "5ac55ea55542993e66e82377#Kurt Weill#relation",
+            "5ac55ea55542993e66e82377#Kurt Weill#inversion",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble#inversion",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble#dispersal"
+          ],
+          "coverage_ids": [
+            "5ac55ea55542993e66e82377#Kurt Weill",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble#inversion",
+            "5ac55ea55542993e66e82377#Kurt Weill#relation",
+            "5ac55ea55542993e66e82377#Kurt Weill#inversion",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble",
+            "5ac55ea55542993e66e82377#Pacific Mozart Ensemble#dispersal"
+          ]
+        }
+      }
+    },
+    {
+      "qid": "5ac3a76e554299741d48a2be",
+      "question": "Who released the song \"With or Without You\" first, Jai McDowall or U2?",
+      "n_pool": 13,
+      "n_gold": 2,
+      "per_k": {
+        "1": {
+          "pointwise": 0.5,
+          "coverage": 0.5,
+          "pointwise_ids": [
+            "5ac3a76e554299741d48a2be#With or Without You#inversion"
+          ],
+          "coverage_ids": [
+            "5ac3a76e554299741d48a2be#With or Without You#inversion"
+          ]
+        },
+        "2": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac3a76e554299741d48a2be#With or Without You#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)"
+          ],
+          "coverage_ids": [
+            "5ac3a76e554299741d48a2be#With or Without You#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)"
+          ]
+        },
+        "3": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac3a76e554299741d48a2be#With or Without You#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#inversion"
+          ],
+          "coverage_ids": [
+            "5ac3a76e554299741d48a2be#With or Without You#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#inversion"
+          ]
+        },
+        "4": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac3a76e554299741d48a2be#With or Without You#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#dispersal"
+          ],
+          "coverage_ids": [
+            "5ac3a76e554299741d48a2be#With or Without You#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#dispersal"
+          ]
+        },
+        "5": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac3a76e554299741d48a2be#With or Without You#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#dispersal",
+            "5ac3a76e554299741d48a2be#With or Without You"
+          ],
+          "coverage_ids": [
+            "5ac3a76e554299741d48a2be#With or Without You#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#dispersal",
+            "5ac3a76e554299741d48a2be#With or Without You"
+          ]
+        },
+        "6": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac3a76e554299741d48a2be#With or Without You#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#dispersal",
+            "5ac3a76e554299741d48a2be#With or Without You",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#relation"
+          ],
+          "coverage_ids": [
+            "5ac3a76e554299741d48a2be#With or Without You#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#inversion",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#dispersal",
+            "5ac3a76e554299741d48a2be#With or Without You",
+            "5ac3a76e554299741d48a2be#Believe (Jai McDowall album)#relation"
+          ]
+        }
+      }
+    },
+    {
+      "qid": "5a7133565542994082a3e65c",
+      "question": "What Kentucky county has a population of 60,316 and features the Lake Louisvilla neighborhood?",
+      "n_pool": 16,
+      "n_gold": 2,
+      "per_k": {
+        "1": {
+          "pointwise": 0.5,
+          "coverage": 0.5,
+          "pointwise_ids": [
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville"
+          ],
+          "coverage_ids": [
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville"
+          ]
+        },
+        "2": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#dispersal"
+          ],
+          "coverage_ids": [
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville",
+            "5a7133565542994082a3e65c#Oldham County, Kentucky"
+          ]
+        },
+        "3": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#dispersal",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#relation"
+          ],
+          "coverage_ids": [
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville",
+            "5a7133565542994082a3e65c#Oldham County, Kentucky",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#dispersal"
+          ]
+        },
+        "4": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#dispersal",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#relation",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#inversion"
+          ],
+          "coverage_ids": [
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville",
+            "5a7133565542994082a3e65c#Oldham County, Kentucky",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#dispersal",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#relation"
+          ]
+        },
+        "5": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#dispersal",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#relation",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#inversion",
+            "5a7133565542994082a3e65c::neg::Battle of Blue Licks"
+          ],
+          "coverage_ids": [
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville",
+            "5a7133565542994082a3e65c#Oldham County, Kentucky",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#dispersal",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#relation",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#inversion"
+          ]
+        },
+        "6": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#dispersal",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#relation",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#inversion",
+            "5a7133565542994082a3e65c::neg::Battle of Blue Licks",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#alias"
+          ],
+          "coverage_ids": [
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville",
+            "5a7133565542994082a3e65c#Oldham County, Kentucky",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#dispersal",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#relation",
+            "5a7133565542994082a3e65c#Lake Louisvilla, Louisville#inversion",
+            "5a7133565542994082a3e65c::neg::Battle of Blue Licks"
+          ]
+        }
+      }
+    },
+    {
+      "qid": "5ac1a4745542991316484b82",
+      "question": "Para Hills West, South Australia lies within a city with what estimated population?",
+      "n_pool": 15,
+      "n_gold": 2,
+      "per_k": {
+        "1": {
+          "pointwise": 0.0,
+          "coverage": 0.5,
+          "pointwise_ids": [
+            "5ac1a4745542991316484b82::neg::Wentworth, New South Wales"
+          ],
+          "coverage_ids": [
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#inversion"
+          ]
+        },
+        "2": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac1a4745542991316484b82::neg::Wentworth, New South Wales",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#inversion"
+          ],
+          "coverage_ids": [
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#inversion",
+            "5ac1a4745542991316484b82#City of Salisbury"
+          ]
+        },
+        "3": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac1a4745542991316484b82::neg::Wentworth, New South Wales",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#inversion",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia"
+          ],
+          "coverage_ids": [
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#inversion",
+            "5ac1a4745542991316484b82#City of Salisbury",
+            "5ac1a4745542991316484b82::neg::Wentworth, New South Wales"
+          ]
+        },
+        "4": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac1a4745542991316484b82::neg::Wentworth, New South Wales",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#inversion",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#dispersal"
+          ],
+          "coverage_ids": [
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#inversion",
+            "5ac1a4745542991316484b82#City of Salisbury",
+            "5ac1a4745542991316484b82::neg::Wentworth, New South Wales",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia"
+          ]
+        },
+        "5": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac1a4745542991316484b82::neg::Wentworth, New South Wales",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#inversion",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#dispersal",
+            "5ac1a4745542991316484b82::neg::Gulfview Heights, South Australia"
+          ],
+          "coverage_ids": [
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#inversion",
+            "5ac1a4745542991316484b82#City of Salisbury",
+            "5ac1a4745542991316484b82::neg::Wentworth, New South Wales",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#dispersal"
+          ]
+        },
+        "6": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac1a4745542991316484b82::neg::Wentworth, New South Wales",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#inversion",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#dispersal",
+            "5ac1a4745542991316484b82::neg::Gulfview Heights, South Australia",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#relation"
+          ],
+          "coverage_ids": [
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#inversion",
+            "5ac1a4745542991316484b82#City of Salisbury",
+            "5ac1a4745542991316484b82::neg::Wentworth, New South Wales",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia",
+            "5ac1a4745542991316484b82#Para Hills West, South Australia#dispersal",
+            "5ac1a4745542991316484b82::neg::Gulfview Heights, South Australia"
+          ]
+        }
+      }
+    },
+    {
+      "qid": "5adc597d55429947ff17392f",
+      "question": "In what year was the narrator of \"Blackadder's Christmas Carol\" born?",
+      "n_pool": 13,
+      "n_gold": 2,
+      "per_k": {
+        "1": {
+          "pointwise": 0.0,
+          "coverage": 0.5,
+          "pointwise_ids": [
+            "5adc597d55429947ff17392f::neg::The Chimes"
+          ],
+          "coverage_ids": [
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#relation"
+          ]
+        },
+        "2": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5adc597d55429947ff17392f::neg::The Chimes",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#relation"
+          ],
+          "coverage_ids": [
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#relation",
+            "5adc597d55429947ff17392f#Hugh Laurie"
+          ]
+        },
+        "3": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5adc597d55429947ff17392f::neg::The Chimes",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#relation",
+            "5adc597d55429947ff17392f::neg::I Heard the Bells on Christmas Day"
+          ],
+          "coverage_ids": [
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#relation",
+            "5adc597d55429947ff17392f#Hugh Laurie",
+            "5adc597d55429947ff17392f::neg::The Chimes"
+          ]
+        },
+        "4": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5adc597d55429947ff17392f::neg::The Chimes",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#relation",
+            "5adc597d55429947ff17392f::neg::I Heard the Bells on Christmas Day",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#inversion"
+          ],
+          "coverage_ids": [
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#relation",
+            "5adc597d55429947ff17392f#Hugh Laurie",
+            "5adc597d55429947ff17392f::neg::The Chimes",
+            "5adc597d55429947ff17392f::neg::I Heard the Bells on Christmas Day"
+          ]
+        },
+        "5": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5adc597d55429947ff17392f::neg::The Chimes",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#relation",
+            "5adc597d55429947ff17392f::neg::I Heard the Bells on Christmas Day",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#inversion",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol"
+          ],
+          "coverage_ids": [
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#relation",
+            "5adc597d55429947ff17392f#Hugh Laurie",
+            "5adc597d55429947ff17392f::neg::The Chimes",
+            "5adc597d55429947ff17392f::neg::I Heard the Bells on Christmas Day",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#inversion"
+          ]
+        },
+        "6": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5adc597d55429947ff17392f::neg::The Chimes",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#relation",
+            "5adc597d55429947ff17392f::neg::I Heard the Bells on Christmas Day",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#inversion",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#dispersal"
+          ],
+          "coverage_ids": [
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#relation",
+            "5adc597d55429947ff17392f#Hugh Laurie",
+            "5adc597d55429947ff17392f::neg::The Chimes",
+            "5adc597d55429947ff17392f::neg::I Heard the Bells on Christmas Day",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol#inversion",
+            "5adc597d55429947ff17392f#Blackadder's Christmas Carol"
+          ]
+        }
+      }
+    },
+    {
+      "qid": "5ac55e835542993e66e82375",
+      "question": "Thomas Fitch defended John Henry Holliday when he was accused of killing men during the gunfight at the o.k. corral, when was that?",
+      "n_pool": 13,
+      "n_gold": 2,
+      "per_k": {
+        "1": {
+          "pointwise": 0.5,
+          "coverage": 0.5,
+          "pointwise_ids": [
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)"
+          ],
+          "coverage_ids": [
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)"
+          ]
+        },
+        "2": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#dispersal"
+          ],
+          "coverage_ids": [
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)",
+            "5ac55e835542993e66e82375#Doc Holliday#dispersal"
+          ]
+        },
+        "3": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#dispersal",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#inversion"
+          ],
+          "coverage_ids": [
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)",
+            "5ac55e835542993e66e82375#Doc Holliday#dispersal",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#dispersal"
+          ]
+        },
+        "4": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#dispersal",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#inversion",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#relation"
+          ],
+          "coverage_ids": [
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)",
+            "5ac55e835542993e66e82375#Doc Holliday#dispersal",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#dispersal",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#inversion"
+          ]
+        },
+        "5": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#dispersal",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#inversion",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#relation",
+            "5ac55e835542993e66e82375#Doc Holliday#dispersal"
+          ],
+          "coverage_ids": [
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)",
+            "5ac55e835542993e66e82375#Doc Holliday#dispersal",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#dispersal",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#inversion",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#relation"
+          ]
+        },
+        "6": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#dispersal",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#inversion",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#relation",
+            "5ac55e835542993e66e82375#Doc Holliday#dispersal",
+            "5ac55e835542993e66e82375#Doc Holliday"
+          ],
+          "coverage_ids": [
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)",
+            "5ac55e835542993e66e82375#Doc Holliday#dispersal",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#dispersal",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#inversion",
+            "5ac55e835542993e66e82375#Thomas Fitch (politician)#relation",
+            "5ac55e835542993e66e82375#Doc Holliday"
+          ]
+        }
+      }
+    },
+    {
+      "qid": "5a8d9e0f554299441c6ba015",
+      "question": "The actor that played Gutthi on Comedy nights with Kapil Show also starred in what 2016 Punjabi film directed by Smeep Kang?",
+      "n_pool": 14,
+      "n_gold": 2,
+      "per_k": {
+        "1": {
+          "pointwise": 0.0,
+          "coverage": 0.5,
+          "pointwise_ids": [
+            "5a8d9e0f554299441c6ba015::neg::Bhaji in Problem"
+          ],
+          "coverage_ids": [
+            "5a8d9e0f554299441c6ba015#Vaisakhi List#inversion"
+          ]
+        },
+        "2": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a8d9e0f554299441c6ba015::neg::Bhaji in Problem",
+            "5a8d9e0f554299441c6ba015#Vaisakhi List#inversion"
+          ],
+          "coverage_ids": [
+            "5a8d9e0f554299441c6ba015#Vaisakhi List#inversion",
+            "5a8d9e0f554299441c6ba015#Sunil Grover#inversion"
+          ]
+        },
+        "3": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a8d9e0f554299441c6ba015::neg::Bhaji in Problem",
+            "5a8d9e0f554299441c6ba015#Vaisakhi List#inversion",
+            "5a8d9e0f554299441c6ba015::neg::Chandan Prabhakar"
+          ],
+          "coverage_ids": [
+            "5a8d9e0f554299441c6ba015#Vaisakhi List#inversion",
+            "5a8d9e0f554299441c6ba015#Sunil Grover#inversion",
+            "5a8d9e0f554299441c6ba015::neg::Bhaji in Problem"
+          ]
+        },
+        "4": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a8d9e0f554299441c6ba015::neg::Bhaji in Problem",
+            "5a8d9e0f554299441c6ba015#Vaisakhi List#inversion",
+            "5a8d9e0f554299441c6ba015::neg::Chandan Prabhakar",
+            "5a8d9e0f554299441c6ba015#Sunil Grover#inversion"
+          ],
+          "coverage_ids": [
+            "5a8d9e0f554299441c6ba015#Vaisakhi List#inversion",
+            "5a8d9e0f554299441c6ba015#Sunil Grover#inversion",
+            "5a8d9e0f554299441c6ba015::neg::Bhaji in Problem",
+            "5a8d9e0f554299441c6ba015::neg::Chandan Prabhakar"
+          ]
+        },
+        "5": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a8d9e0f554299441c6ba015::neg::Bhaji in Problem",
+            "5a8d9e0f554299441c6ba015#Vaisakhi List#inversion",
+            "5a8d9e0f554299441c6ba015::neg::Chandan Prabhakar",
+            "5a8d9e0f554299441c6ba015#Sunil Grover#inversion",
+            "5a8d9e0f554299441c6ba015#Sunil Grover"
+          ],
+          "coverage_ids": [
+            "5a8d9e0f554299441c6ba015#Vaisakhi List#inversion",
+            "5a8d9e0f554299441c6ba015#Sunil Grover#inversion",
+            "5a8d9e0f554299441c6ba015::neg::Bhaji in Problem",
+            "5a8d9e0f554299441c6ba015::neg::Chandan Prabhakar",
+            "5a8d9e0f554299441c6ba015#Sunil Grover"
+          ]
+        },
+        "6": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a8d9e0f554299441c6ba015::neg::Bhaji in Problem",
+            "5a8d9e0f554299441c6ba015#Vaisakhi List#inversion",
+            "5a8d9e0f554299441c6ba015::neg::Chandan Prabhakar",
+            "5a8d9e0f554299441c6ba015#Sunil Grover#inversion",
+            "5a8d9e0f554299441c6ba015#Sunil Grover",
+            "5a8d9e0f554299441c6ba015#Sunil Grover#dispersal"
+          ],
+          "coverage_ids": [
+            "5a8d9e0f554299441c6ba015#Vaisakhi List#inversion",
+            "5a8d9e0f554299441c6ba015#Sunil Grover#inversion",
+            "5a8d9e0f554299441c6ba015::neg::Bhaji in Problem",
+            "5a8d9e0f554299441c6ba015::neg::Chandan Prabhakar",
+            "5a8d9e0f554299441c6ba015#Sunil Grover",
+            "5a8d9e0f554299441c6ba015#Sunil Grover#dispersal"
+          ]
+        }
+      }
+    },
+    {
+      "qid": "5ae70ed7554299572ea546a1",
+      "question": "Victor Varnada directed Twisted Fortune, which starred which brother of Eddie Murphy?",
+      "n_pool": 14,
+      "n_gold": 2,
+      "per_k": {
+        "1": {
+          "pointwise": 0.0,
+          "coverage": 0.5,
+          "pointwise_ids": [
+            "5ae70ed7554299572ea546a1::neg::Eddie Murphy Delirious"
+          ],
+          "coverage_ids": [
+            "5ae70ed7554299572ea546a1#Twisted Fortune"
+          ]
+        },
+        "2": {
+          "pointwise": 0.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ae70ed7554299572ea546a1::neg::Eddie Murphy Delirious",
+            "5ae70ed7554299572ea546a1::neg::Coming to America"
+          ],
+          "coverage_ids": [
+            "5ae70ed7554299572ea546a1#Twisted Fortune",
+            "5ae70ed7554299572ea546a1#Charlie Murphy"
+          ]
+        },
+        "3": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ae70ed7554299572ea546a1::neg::Eddie Murphy Delirious",
+            "5ae70ed7554299572ea546a1::neg::Coming to America",
+            "5ae70ed7554299572ea546a1#Twisted Fortune"
+          ],
+          "coverage_ids": [
+            "5ae70ed7554299572ea546a1#Twisted Fortune",
+            "5ae70ed7554299572ea546a1#Charlie Murphy",
+            "5ae70ed7554299572ea546a1::neg::Eddie Murphy Delirious"
+          ]
+        },
+        "4": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ae70ed7554299572ea546a1::neg::Eddie Murphy Delirious",
+            "5ae70ed7554299572ea546a1::neg::Coming to America",
+            "5ae70ed7554299572ea546a1#Twisted Fortune",
+            "5ae70ed7554299572ea546a1#Twisted Fortune#inversion"
+          ],
+          "coverage_ids": [
+            "5ae70ed7554299572ea546a1#Twisted Fortune",
+            "5ae70ed7554299572ea546a1#Charlie Murphy",
+            "5ae70ed7554299572ea546a1::neg::Eddie Murphy Delirious",
+            "5ae70ed7554299572ea546a1::neg::Coming to America"
+          ]
+        },
+        "5": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ae70ed7554299572ea546a1::neg::Eddie Murphy Delirious",
+            "5ae70ed7554299572ea546a1::neg::Coming to America",
+            "5ae70ed7554299572ea546a1#Twisted Fortune",
+            "5ae70ed7554299572ea546a1#Twisted Fortune#inversion",
+            "5ae70ed7554299572ea546a1#Charlie Murphy"
+          ],
+          "coverage_ids": [
+            "5ae70ed7554299572ea546a1#Twisted Fortune",
+            "5ae70ed7554299572ea546a1#Charlie Murphy",
+            "5ae70ed7554299572ea546a1::neg::Eddie Murphy Delirious",
+            "5ae70ed7554299572ea546a1::neg::Coming to America",
+            "5ae70ed7554299572ea546a1#Twisted Fortune#inversion"
+          ]
+        },
+        "6": {
+          "pointwise": 1.0,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5ae70ed7554299572ea546a1::neg::Eddie Murphy Delirious",
+            "5ae70ed7554299572ea546a1::neg::Coming to America",
+            "5ae70ed7554299572ea546a1#Twisted Fortune",
+            "5ae70ed7554299572ea546a1#Twisted Fortune#inversion",
+            "5ae70ed7554299572ea546a1#Charlie Murphy",
+            "5ae70ed7554299572ea546a1#Charlie Murphy#inversion"
+          ],
+          "coverage_ids": [
+            "5ae70ed7554299572ea546a1#Twisted Fortune",
+            "5ae70ed7554299572ea546a1#Charlie Murphy",
+            "5ae70ed7554299572ea546a1::neg::Eddie Murphy Delirious",
+            "5ae70ed7554299572ea546a1::neg::Coming to America",
+            "5ae70ed7554299572ea546a1#Twisted Fortune#inversion",
+            "5ae70ed7554299572ea546a1#Charlie Murphy#inversion"
+          ]
+        }
+      }
+    },
+    {
+      "qid": "5a74a8fa55429929fddd8497",
+      "question": "After his curacy at the village that is a suburb of Scunthorpe, who was Industrial Chaplain to the Bishop of Lincoln?",
+      "n_pool": 16,
+      "n_gold": 2,
+      "per_k": {
+        "1": {
+          "pointwise": 0.5,
+          "coverage": 0.5,
+          "pointwise_ids": [
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire"
+          ],
+          "coverage_ids": [
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire"
+          ]
+        },
+        "2": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#relation"
+          ],
+          "coverage_ids": [
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire",
+            "5a74a8fa55429929fddd8497#Bill Dudman#relation"
+          ]
+        },
+        "3": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#relation",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#dispersal"
+          ],
+          "coverage_ids": [
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire",
+            "5a74a8fa55429929fddd8497#Bill Dudman#relation",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#relation"
+          ]
+        },
+        "4": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#relation",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#dispersal",
+            "5a74a8fa55429929fddd8497::neg::Alfred Hurley"
+          ],
+          "coverage_ids": [
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire",
+            "5a74a8fa55429929fddd8497#Bill Dudman#relation",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#relation",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#dispersal"
+          ]
+        },
+        "5": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#relation",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#dispersal",
+            "5a74a8fa55429929fddd8497::neg::Alfred Hurley",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#inversion"
+          ],
+          "coverage_ids": [
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire",
+            "5a74a8fa55429929fddd8497#Bill Dudman#relation",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#relation",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#dispersal",
+            "5a74a8fa55429929fddd8497::neg::Alfred Hurley"
+          ]
+        },
+        "6": {
+          "pointwise": 0.5,
+          "coverage": 1.0,
+          "pointwise_ids": [
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#relation",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#dispersal",
+            "5a74a8fa55429929fddd8497::neg::Alfred Hurley",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#inversion",
+            "5a74a8fa55429929fddd8497::neg::Philip Huggins"
+          ],
+          "coverage_ids": [
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire",
+            "5a74a8fa55429929fddd8497#Bill Dudman#relation",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#relation",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#dispersal",
+            "5a74a8fa55429929fddd8497::neg::Alfred Hurley",
+            "5a74a8fa55429929fddd8497#Frodingham, Lincolnshire#inversion"
+          ]
+        }
+      }
+    }
+  ]
+}

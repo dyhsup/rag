@@ -1,0 +1,14 @@
+# third-party papers (arXiv PDFs and their parsed text) - not ours to redistribute
+papers/
+markdown/
+
+# large / regenerable artifacts
+data/index/
+cache/
+logs/
+models/
+dist/*.tar.gz
+__pycache__/
+*.pyc
+*.sqlite
+.env

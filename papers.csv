@@ -1,0 +1,24 @@
+arxiv_id,title,year,cites_openalex,pdf,markdown,pdf_kb,url
+2205.10625v3,Least-to-Most Prompting Enables Complex Reasoning in Large Language Models,2022,388,papers/2205.10625.pdf,markdown/2205.10625.md,714,https://arxiv.org/abs/2205.10625v3
+2212.10496v1,Precise Zero-Shot Dense Retrieval without Relevance Labels,2022,371,papers/2212.10496.pdf,markdown/2212.10496.md,415,https://arxiv.org/abs/2212.10496v1
+2212.10509v2,Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions,2022,359,papers/2212.10509.pdf,markdown/2212.10509.md,6011,https://arxiv.org/abs/2212.10509v2
+2210.03350v3,Measuring and Narrowing the Compositionality Gap in Language Models,2022,303,papers/2210.03350.pdf,markdown/2210.03350.md,1048,https://arxiv.org/abs/2210.03350v3
+2305.14283v3,Query Rewriting for Retrieval-Augmented Large Language Models,2023,276,papers/2305.14283.pdf,markdown/2305.14283.md,1184,https://arxiv.org/abs/2305.14283v3
+2403.14403v2,Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity,2024,264,papers/2403.14403.pdf,markdown/2403.14403.md,563,https://arxiv.org/abs/2403.14403v2
+2303.07678v2,Query2doc: Query Expansion with Large Language Models,2023,220,papers/2303.07678.pdf,markdown/2303.07678.md,394,https://arxiv.org/abs/2303.07678v2
+1904.08375v2,Document Expansion by Query Prediction,2019,215,papers/1904.08375.pdf,markdown/1904.08375.md,245,https://arxiv.org/abs/1904.08375v2
+2401.15884v3,Corrective Retrieval Augmented Generation,2024,187,papers/2401.15884.pdf,markdown/2401.15884.md,652,https://arxiv.org/abs/2401.15884v3
+2210.08726v3,"RARR: Researching and Revising What Language Models Say, Using Language Models",2022,148,papers/2210.08726.pdf,markdown/2210.08726.md,1384,https://arxiv.org/abs/2210.08726v3
+2103.04831v4,Semantic Models for the First-stage Retrieval: A Comprehensive Review,2021,119,papers/2103.04831.pdf,markdown/2103.04831.md,1311,https://arxiv.org/abs/2103.04831v4
+2310.11511v1,"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",2023,104,papers/2310.11511.pdf,markdown/2310.11511.md,1372,https://arxiv.org/abs/2310.11511v1
+2304.13157v1,Generative Relevance Feedback with Large Language Models,2023,49,papers/2304.13157.pdf,markdown/2304.13157.md,749,https://arxiv.org/abs/2304.13157v1
+2305.03653v1,Query Expansion by Prompting Large Language Models,2023,26,papers/2305.03653.pdf,markdown/2305.03653.md,502,https://arxiv.org/abs/2305.03653v1
+2405.14431v1,RaFe: Ranking Feedback Improves Query Rewriting for RAG,2024,21,papers/2405.14431.pdf,markdown/2405.14431.md,1139,https://arxiv.org/abs/2405.14431v1
+2310.19056v3,MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion,2023,17,papers/2310.19056.pdf,markdown/2310.19056.md,557,https://arxiv.org/abs/2310.19056v3
+2401.06311v3,Exploring the Best Practices of Query Expansion with Large Language Models,2024,15,papers/2401.06311.pdf,markdown/2401.06311.md,985,https://arxiv.org/abs/2401.06311v3
+2410.13765v2,Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval,2024,5,papers/2410.13765.pdf,markdown/2410.13765.md,719,https://arxiv.org/abs/2410.13765v2
+2407.12529v2,Crafting the Path: Robust Query Rewriting for Information Retrieval,2024,4,papers/2407.12529.pdf,markdown/2407.12529.md,457,https://arxiv.org/abs/2407.12529v2
+2607.29402v1,Bridging the Question-Answer Gap in Retrieval-Augmented Generation: Hypothetical Prompt Embeddings,2026,4,papers/2607.29402.pdf,markdown/2607.29402.md,3066,https://arxiv.org/abs/2607.29402v1
+2412.17558v3,A Survey of Query Optimization in Large Language Models,2024,2,papers/2412.17558.pdf,markdown/2412.17558.md,451,https://arxiv.org/abs/2412.17558v3
+2411.13154v1,DMQR-RAG: Diverse Multi-Query Rewriting for RAG,2024,2,papers/2411.13154.pdf,markdown/2411.13154.md,4141,https://arxiv.org/abs/2411.13154v1
+2504.20114v3,TreeHop: Efficient Embedding-Level Query Rewriter,2025,0,papers/2504.20114.pdf,markdown/2504.20114.md,464,https://arxiv.org/abs/2504.20114v3
