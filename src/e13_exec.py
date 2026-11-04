@@ -190,8 +190,8 @@ def solve(q, hops, index, llm, ce, mode):
     return final, tr
 
 
-def run(n=200, workers=8, modes=("base", "gate", "rollback")):
-    qs = load()[:n]
+def run(n=200, workers=8, modes=("base", "gate", "rollback"), data="musique200.jsonl"):
+    qs = load(os.path.join(ROOT, "data", "raw", data))[:n]
     docs = []
     for q in qs:
         for d in q["docs"]:
@@ -202,7 +202,7 @@ def run(n=200, workers=8, modes=("base", "gate", "rollback")):
     ce = CERemote()
 
     plans = {}
-    ppath = os.path.join(RES, "e13_plans.jsonl")
+    ppath = os.path.join(RES, f"e13_plans_{data.replace('.jsonl','')}.jsonl")
     if os.path.exists(ppath):
         for line in open(ppath, encoding="utf-8"):
             r = json.loads(line)
@@ -221,7 +221,7 @@ def run(n=200, workers=8, modes=("base", "gate", "rollback")):
 
     stats = {}
     for mode in modes:
-        path = os.path.join(RES, f"e13_{mode}.jsonl")
+        path = os.path.join(RES, f"e13_{mode}_{data.replace('.jsonl','')}.jsonl")
         done = set()
         if os.path.exists(path):
             for line in open(path, encoding="utf-8"):
@@ -254,7 +254,7 @@ def run(n=200, workers=8, modes=("base", "gate", "rollback")):
             "by_hops": {k: {"n": len(v), "em": sum(x["em"] for x in v) / len(v)} for k, v in by_hop.items()},
             "gate_rate": sum(r["gate_pass"] for r in recs) / max(1, sum(r["n_hops"] for r in recs)),
         }
-    json.dump(stats, open(os.path.join(RES, "e13_summary.json"), "w"), ensure_ascii=False, indent=2)
+    json.dump(stats, open(os.path.join(RES, f"e13_summary_{data.replace('.jsonl','')}.json"), "w"), ensure_ascii=False, indent=2)
     print(json.dumps(stats, ensure_ascii=False, indent=2))
 
 
@@ -263,5 +263,6 @@ if __name__ == "__main__":
     ap.add_argument("--n", type=int, default=200)
     ap.add_argument("--workers", type=int, default=8)
     ap.add_argument("--modes", default="base,gate,rollback")
+    ap.add_argument("--data", default="musique200.jsonl")
     a = ap.parse_args()
-    run(a.n, a.workers, tuple(a.modes.split(",")))
+    run(a.n, a.workers, tuple(a.modes.split(",")), a.data)
