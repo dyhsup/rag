@@ -171,6 +171,7 @@ $$\mathrm{cov}(S)\le \underbrace{\frac{|\{i:\exists d\in C,\ \mathrm{ground}(r_i
 | 方法 | EM | F1 |
 |---|---|---|
 | Vanilla | 0.175 | 0.281 |
+| HyDE | 0.205 | — |
 | IRCoT | 0.330 | 0.434 |
 | Self-Ask | 0.075 | 0.163 |
 | RBG-Exec（自动计划，朴素读者） | 0.405 | 0.528 |
@@ -217,7 +218,7 @@ $$\mathrm{cov}(S)\le \underbrace{\frac{|\{i:\exists d\in C,\ \mathrm{ground}(r_i
 | RBG-Exec（末跳终止） | 0.440 | — |
 | RBG-Exec（决策层） | 0.660 | — |
 
-`RBG−IRCoT = +0.015 [−0.015,+0.050]`（朴素绑定持平）；末跳终止会破坏 comparison 题，决策层恢复到持平。
+`RBG−IRCoT = +0.015 [−0.015,+0.050]`（朴素绑定持平）；末跳终止会破坏 comparison 题，决策层恢复到持平。按题型切开：bridge（n=158）−0.013 [−0.057,+0.038]，comparison（n=42）+0.048 [−0.048,+0.143]，均不显著。
 
 ### 6.4 按跳数分解
 
