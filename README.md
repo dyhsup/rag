@@ -34,6 +34,7 @@ $$\text{gap 消除率}=\underbrace{\text{候选可达性}}_{\text{绑定/第一�
 | 端到端（MuSiQue 200） | ours **0.425 EM** vs IRCoT 0.330（Δ+0.095 [+0.040,+0.150]） |
 | 端到端（MuSiQue 400 同池） | ours **0.430** vs IRCoT 0.255（Δ+0.175 [+0.130,+0.223]） |
 | 端到端（2Wiki 200） | ours **0.605** vs IRCoT 0.535（Δ+0.070 [+0.010,+0.125]） |
+| 端到端（MultiHopRAG 新闻 200） | ours **0.530** vs IRCoT 0.465（Δ+0.065） |
 | 端到端（HotpotQA 200） | ours 0.660 vs IRCoT 0.660（打平） |
 | 2×2 消融 | 绑定 +0.14、CE 选证 +0.08，近乎可加；绑定单独只追平 IRCoT |
 | 语义 gap 占比（chunk 级） | **17.6%**（dense）/ 23.6%（BM25） |

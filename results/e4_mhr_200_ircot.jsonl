@@ -1,0 +1,200 @@
+{"qid": "mhr774", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr537", "pred": "[1]", "gold": "Polygon", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "mhr1514", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr921", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr2223", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr575", "pred": "Tyreek Hill", "gold": "Tyreek Hill", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1762", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "mhr331", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr2275", "pred": "The provided passages do not contain information about the FTX collapse, cryptocurrency figures, or allegations of fraud. Therefore, the question cannot be answered using only the given", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "mhr2386", "pred": "The provided passages do not contain information regarding Pamela Anderson, the New York Times, BBC News, or any network she partnered with. Therefore, the question cannot be", "gold": "Insufficient information.", "em": 0.0, "f1": 0.07692307692307693, "info": {"retrieved": 3}}
+{"qid": "mhr1454", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "mhr1089", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "mhr9", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr1526", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "mhr1591", "pred": "No", "gold": "No", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "mhr1395", "pred": "It", "gold": "Sportsbooks", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1121", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1147", "pred": "O", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "mhr886", "pred": "The provided passages do not contain information about a 'Fortune' article or a 'TechCrunch' article, nor do they discuss the specific reasons for the", "gold": "Similar", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1710", "pred": "agree", "gold": "Agree", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "mhr2328", "pred": "The provided passages do not contain information about FTX, Alameda Research, or the individual described in the question.", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "mhr2376", "pred": "The provided passages do not contain information about Ellyse Perry, her jersey number, or her performance in international or domestic matches. Therefore, the question cannot be", "gold": "Insufficient information.", "em": 0.0, "f1": 0.07692307692307693, "info": {"retrieved": 4}}
+{"qid": "mhr1065", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1088", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr685", "pred": "The Department of Homeland Security", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "mhr3", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr576", "pred": "The provided passages do not contain information regarding Independence Pet Holdings, its financial performance, strategic partnerships, or credit rating.", "gold": "Insufficient information.", "em": 0.0, "f1": 0.09999999999999999, "info": {"retrieved": 1}}
+{"qid": "mhr2064", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr2106", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1338", "pred": "The provided passages do not contain the answer.", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1924", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr159", "pred": "The provided passages do not contain information about Heather Knight, The Guardian, ESPN, or her cricket career. Therefore, the question cannot be answered using only the given", "gold": "Insufficient information.", "em": 0.0, "f1": 0.08, "info": {"retrieved": 2}}
+{"qid": "mhr2336", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1099", "pred": "Amazon", "gold": "Amazon", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr168", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "mhr2531", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr1476", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "mhr1647", "pred": "The provided passages do not contain information about an individual implicated in a legal case covered by The Verge or accused of fraud by TechCrunch.", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "mhr1763", "pred": "SBF", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "mhr2499", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr2549", "pred": "Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.8, "info": {"retrieved": 1}}
+{"qid": "mhr837", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "mhr1856", "pred": "OpenAI", "gold": "OpenAI", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr966", "pred": "yes", "gold": "No", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1834", "pred": "Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.8, "info": {"retrieved": 2}}
+{"qid": "mhr621", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr803", "pred": "The provided passages do not contain the answer.", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1049", "pred": "The provided passages do not contain information about economic reforms in a Bloomberg article, environmental policies in a Reuters report on Mexico, or any ministers. Therefore, the question", "gold": "Insufficient information.", "em": 0.0, "f1": 0.07692307692307693, "info": {"retrieved": 2}}
+{"qid": "mhr211", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr1506", "pred": "The provided passages do not contain information about Nikhil Nanda, The Economic Times, Business Standard, or a company in the agricultural sector collaborating with a Japanese firm", "gold": "Insufficient information.", "em": 0.0, "f1": 0.08333333333333334, "info": {"retrieved": 4}}
+{"qid": "mhr2356", "pred": "Swift", "gold": "Taylor Swift", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 1}}
+{"qid": "mhr2378", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr722", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1255", "pred": "He also believes that after everything on social media becomes so perfectly curated for us, our brains will start to crave things that are not.", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr299", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "mhr479", "pred": "Altman", "gold": "Sam Altman", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 1}}
+{"qid": "mhr645", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1813", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr2011", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "mhr1120", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "mhr1419", "pred": "Swift and the athlete", "gold": "Taylor Swift and Travis Kelce", "em": 0.0, "f1": 0.5, "info": {"retrieved": 3}}
+{"qid": "mhr306", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "mhr1537", "pred": "Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.8, "info": {"retrieved": 2}}
+{"qid": "mhr800", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1773", "pred": "The provided passages do not contain information regarding Bank of America Corporation, its financial performance, or its strategic expansion plans. Therefore, the question cannot be answered using only", "gold": "Insufficient information.", "em": 0.0, "f1": 0.07142857142857144, "info": {"retrieved": 5}}
+{"qid": "mhr615", "pred": "sportsbooks", "gold": "Sportsbooks", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr50", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "mhr272", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "mhr2122", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr2125", "pred": "Valve", "gold": "Valve", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr2457", "pred": "The provided passages do not contain information regarding Google Maps Search updates reported by The Verge or CNET, nor do they mention features related to locating services and businesses", "gold": "Insufficient information.", "em": 0.0, "f1": 0.06896551724137931, "info": {"retrieved": 6}}
+{"qid": "mhr402", "pred": "The “app store for AI” will be pushed hard as the platform to get your AI toys and tools from, and never mind Hugging Face or any open", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1579", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr699", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "mhr2468", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr789", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "mhr7", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr36", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1532", "pred": "The provided passages do not contain information about Royal Challengers Bangalore, IPL seasons, player performance statistics, or specific reports from ESPN or Cricbuzz. Therefore,", "gold": "Insufficient information.", "em": 0.0, "f1": 0.08, "info": {"retrieved": 4}}
+{"qid": "mhr533", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1846", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "mhr1791", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr486", "pred": "The provided passages do not contain information about Synchrony Financial, CNBC, Bloomberg, or any of its divisions.", "gold": "Insufficient information.", "em": 0.0, "f1": 0.1111111111111111, "info": {"retrieved": 2}}
+{"qid": "mhr1287", "pred": "Vikings", "gold": "Minnesota Vikings", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 1}}
+{"qid": "mhr0", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr183", "pred": "Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.8, "info": {"retrieved": 1}}
+{"qid": "mhr119", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "mhr1841", "pred": "inconsistent", "gold": "Consistent", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "mhr2325", "pred": "The provided passages do not contain information regarding an organization identified by a single letter that has adopted innovative digital reporting techniques and launched initiatives to support local newsrooms. Therefore", "gold": "Insufficient information.", "em": 0.0, "f1": 0.06896551724137931, "info": {"retrieved": 3}}
+{"qid": "mhr1964", "pred": "Yes", "gold": "True", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1063", "pred": "Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.8, "info": {"retrieved": 2}}
+{"qid": "mhr217", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "mhr2159", "pred": "The provided passages do not contain information about the Cabora Bassa Basin, BBC News, Reuters, or any company starting with the letter 'T'. Therefore,", "gold": "Insufficient information.", "em": 0.0, "f1": 0.08695652173913042, "info": {"retrieved": 2}}
+{"qid": "mhr689", "pred": "The provided passages do not contain the answer.", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr98", "pred": "they begin to tighten the NBA Rookie of the Year lines in response", "gold": "Agree", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr91", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1217", "pred": "The provided passages do not contain information regarding TechCrunch's report on Biden's AI Executive Order, Music Business Worldwide's sharing of concerns from the National Music Publishers", "gold": "Consistent", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr2365", "pred": "Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.8, "info": {"retrieved": 1}}
+{"qid": "mhr1503", "pred": "TikTok", "gold": "TikTok", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr2170", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "mhr2205", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr1969", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1079", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "mhr1517", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1740", "pred": "YouTube", "gold": "YouTube", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr1054", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1814", "pred": "Apple", "gold": "Apple", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr236", "pred": "ChatGPT", "gold": "ChatGPT", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "mhr821", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr476", "pred": "consistent", "gold": "Consistent", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "mhr1509", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr732", "pred": "Johny Srouji", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "mhr2068", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "mhr366", "pred": "Yes", "gold": "True", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "mhr844", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr17", "pred": "no", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "mhr518", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1874", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr703", "pred": "Beeper Mini", "gold": "Beeper Mini", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr840", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr713", "pred": "Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.8, "info": {"retrieved": 1}}
+{"qid": "mhr607", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "mhr118", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr61", "pred": "Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.8, "info": {"retrieved": 2}}
+{"qid": "mhr56", "pred": "Tyreek Hill", "gold": "Tyreek Hill", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr34", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "mhr1963", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1182", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "mhr573", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "mhr1166", "pred": "Uber", "gold": "Uber", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr1669", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1490", "pred": "SBF", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "mhr1996", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "mhr10", "pred": "The provided passages do not contain information about Sridevi, her film roles, or any awards.", "gold": "Insufficient information.", "em": 0.0, "f1": 0.125, "info": {"retrieved": 2}}
+{"qid": "mhr70", "pred": "Amazon", "gold": "Amazon", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr74", "pred": "Everton", "gold": "Everton Football Club", "em": 0.0, "f1": 0.5, "info": {"retrieved": 2}}
+{"qid": "mhr1974", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "mhr2212", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "mhr916", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr307", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr2277", "pred": "SBF", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr964", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1169", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr501", "pred": "The provided passages do not contain any information regarding Kumkum Fernando, The Times, The Guardian, or any related characters or initiatives. Therefore, the question cannot", "gold": "Insufficient information.", "em": 0.0, "f1": 0.08695652173913042, "info": {"retrieved": 4}}
+{"qid": "mhr224", "pred": "The provided passages do not contain information about *Teenage Mutant Ninja Turtles: Mutant Mayhem*, Variety, The Hollywood Reporter, or any character arcs", "gold": "Insufficient information.", "em": 0.0, "f1": 0.09090909090909091, "info": {"retrieved": 3}}
+{"qid": "mhr1553", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr2495", "pred": "Altman", "gold": "Sam Altman", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 2}}
+{"qid": "mhr705", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1109", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr267", "pred": "The provided passages do not contain the answer to the question.", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1312", "pred": "The provided passages do not contain information about Shreyanka Patil, The Times of India, The Hindu, or her professional matches.", "gold": "Insufficient information.", "em": 0.0, "f1": 0.10526315789473684, "info": {"retrieved": 3}}
+{"qid": "mhr1528", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr2054", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1307", "pred": "The provided passages do not contain information about BBC Sound articles, specific artists, sound mixing techniques, or music awards. Therefore, the question cannot be answered using only", "gold": "Insufficient information.", "em": 0.0, "f1": 0.07407407407407407, "info": {"retrieved": 3}}
+{"qid": "mhr178", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1377", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "mhr139", "pred": "Amazon", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "mhr1727", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "mhr1657", "pred": "Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.8, "info": {"retrieved": 1}}
+{"qid": "mhr1403", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr737", "pred": "yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "mhr2193", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "mhr993", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "mhr1679", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr193", "pred": "The passages do not provide information about TechCrunch or conversing with Alexa, so it is not possible to determine if both articles suggest the same engagement strategies.", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr723", "pred": "yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1173", "pred": "Kevin McCarthy", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1960", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1736", "pred": "Everton", "gold": "Manchester United", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "mhr1296", "pred": "after", "gold": "Before", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "mhr2490", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "mhr811", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr400", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr345", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr2383", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "mhr1973", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1188", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 2}}
+{"qid": "mhr560", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 3}}
+{"qid": "mhr1038", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr2373", "pred": "Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.8, "info": {"retrieved": 1}}
+{"qid": "mhr2302", "pred": "Altman", "gold": "Sam Altman", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 1}}
+{"qid": "mhr2022", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr2427", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr1146", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr2348", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "mhr2047", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr2158", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1789", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1252", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "mhr2045", "pred": "All Blacks", "gold": "All Blacks", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr940", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1434", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr437", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1026", "pred": "No", "gold": "No", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}
+{"qid": "mhr2127", "pred": "K", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "mhr1110", "pred": "Swift", "gold": "Taylor Swift", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 1}}
+{"qid": "mhr2191", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 1}}
+{"qid": "mhr1046", "pred": "The provided passages do not contain information about Anthony Melone, TechCrunch, or the Wall Street Journal reporting on his career moves. Therefore, the question cannot", "gold": "Insufficient information.", "em": 0.0, "f1": 0.08333333333333334, "info": {"retrieved": 1}}
+{"qid": "mhr1199", "pred": "The provided passages do not contain information about Amitabh Bachchan, his philanthropic efforts, his filmography, or any character he portrayed. Therefore, the question", "gold": "Insufficient information.", "em": 0.0, "f1": 0.08695652173913042, "info": {"retrieved": 1}}
+{"qid": "mhr2534", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 2}}

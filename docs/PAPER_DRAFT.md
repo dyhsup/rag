@@ -154,7 +154,7 @@ $$\mathrm{cov}(S)\le \underbrace{\frac{|\{i:\exists d\in C,\ \mathrm{ground}(r_i
 
 ## 5 实验设置
 
-**数据。** MuSiQue validation（200 / 400 题，逐跳标签）、2WikiMultihopQA dev（200 题，由 `evidences` 三元组还原逐跳）、HotpotQA distractor（200 题）。chunk 级协议：40-token 滑窗、stride 20。
+**数据。** MuSiQue validation（200 / 400 题，逐跳标签）、2WikiMultihopQA dev（200 题，由 `evidences` 三元组还原逐跳）、MultiHopRAG（新闻域，200 题，10 段池）、HotpotQA distractor（200 题）。chunk 级协议：40-token 滑窗、stride 20。
 
 **基线。** Vanilla RAG、IRCoT、Self-Ask；检索器 BM25 与 MiniLM；读者 qwen3.6-27b（temperature 0）。
 
@@ -200,6 +200,12 @@ $$\mathrm{cov}(S)\le \underbrace{\frac{|\{i:\exists d\in C,\ \mathrm{ground}(r_i
 | 全部 | **0.605** | 0.535 | **+0.070 [+0.010,+0.125]** |
 | 2 跳（n=116） | 0.474 | 0.397 | +0.078 [+0.009,+0.138] |
 | 4 跳（n=53） | 0.755 | 0.660 | +0.094 [−0.038,+0.226] |
+
+**MultiHopRAG（新闻域，200 题）**
+
+| 方法 | EM | IRCoT | ΔEM |
+|---|---|---|---|
+| 全部 | **0.530** | 0.465 | +0.065 [+0.000,+0.130] |
 
 **HotpotQA（200 题）**
 
