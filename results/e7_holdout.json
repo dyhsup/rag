@@ -1,0 +1,874 @@
+{
+  "summary": {
+    "n_questions": 200,
+    "n_chunks": 14863,
+    "n_hops": 543,
+    "gap_cases": 107,
+    "base": {
+      "reachable": 83,
+      "closure@3": 0.4819277108433735
+    },
+    "dist": {
+      "reachable": 83,
+      "closure@3": 0.5783132530120482
+    }
+  },
+  "details": [
+    {
+      "qid": "4hop3__323121_88460_30152_20999",
+      "hop": 1,
+      "dense_rank": 46,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "2hop__29893_29898",
+      "hop": 1,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "2hop__62823_654855",
+      "hop": 0,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "3hop1__497845_629431_64412",
+      "hop": 1,
+      "dense_rank": 27,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "2hop__556426_9237",
+      "hop": 1,
+      "dense_rank": 10,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "2hop__593866_80026",
+      "hop": 1,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 15,
+      "dist_rank": 15
+    },
+    {
+      "qid": "4hop1__58323_375563_161848_53331",
+      "hop": 1,
+      "dense_rank": 9,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "4hop1__58323_375563_161848_53331",
+      "hop": 2,
+      "dense_rank": 9,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "4hop1__58323_375563_161848_53331",
+      "hop": 3,
+      "dense_rank": 16,
+      "reachable": true,
+      "base_rank": 7,
+      "dist_rank": 3
+    },
+    {
+      "qid": "2hop__998_25855",
+      "hop": 1,
+      "dense_rank": 6,
+      "reachable": true,
+      "base_rank": 4,
+      "dist_rank": 4
+    },
+    {
+      "qid": "2hop__72487_510545",
+      "hop": 0,
+      "dense_rank": 8,
+      "reachable": true,
+      "base_rank": 6,
+      "dist_rank": 1
+    },
+    {
+      "qid": "3hop1__579562_629431_124169",
+      "hop": 1,
+      "dense_rank": 27,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "4hop1__161765_53706_795904_580996",
+      "hop": 1,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 5,
+      "dist_rank": 2
+    },
+    {
+      "qid": "4hop1__161765_53706_795904_580996",
+      "hop": 2,
+      "dense_rank": 21,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "2hop__657913_88628",
+      "hop": 1,
+      "dense_rank": 8,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "3hop1__604797_443779_52195",
+      "hop": 2,
+      "dense_rank": 7,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "3hop2__802066_223623_162182",
+      "hop": 2,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 2,
+      "dist_rank": 2
+    },
+    {
+      "qid": "4hop3__279362_88460_30152_20999",
+      "hop": 1,
+      "dense_rank": 46,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "2hop__35445_22458",
+      "hop": 1,
+      "dense_rank": 21,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "3hop2__668732_467331_162182",
+      "hop": 2,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 3,
+      "dist_rank": 3
+    },
+    {
+      "qid": "2hop__89403_122023",
+      "hop": 0,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 3,
+      "dist_rank": 3
+    },
+    {
+      "qid": "2hop__38030_23241",
+      "hop": 0,
+      "dense_rank": 4,
+      "reachable": true,
+      "base_rank": 6,
+      "dist_rank": 3
+    },
+    {
+      "qid": "2hop__132969_417697",
+      "hop": 0,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "2hop__132969_417697",
+      "hop": 1,
+      "dense_rank": 49,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "2hop__96414_159054",
+      "hop": 0,
+      "dense_rank": 7,
+      "reachable": true,
+      "base_rank": 5,
+      "dist_rank": 6
+    },
+    {
+      "qid": "2hop__96414_159054",
+      "hop": 1,
+      "dense_rank": 24,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "4hop2__161602_474028_88460_21074",
+      "hop": 2,
+      "dense_rank": 46,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "2hop__697729_576069",
+      "hop": 0,
+      "dense_rank": 14,
+      "reachable": true,
+      "base_rank": 13,
+      "dist_rank": 7
+    },
+    {
+      "qid": "2hop__697729_576069",
+      "hop": 1,
+      "dense_rank": 6,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 2
+    },
+    {
+      "qid": "4hop2__160585_14670_8987_8974",
+      "hop": 0,
+      "dense_rank": 17,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "4hop2__160585_14670_8987_8974",
+      "hop": 2,
+      "dense_rank": 6,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "4hop1__88342_49853_128008_46894",
+      "hop": 0,
+      "dense_rank": 17,
+      "reachable": true,
+      "base_rank": 9,
+      "dist_rank": 17
+    },
+    {
+      "qid": "4hop1__88342_49853_128008_46894",
+      "hop": 1,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 8,
+      "dist_rank": 5
+    },
+    {
+      "qid": "3hop1__76377_40769_64047",
+      "hop": 2,
+      "dense_rank": 4,
+      "reachable": true,
+      "base_rank": 9,
+      "dist_rank": 11
+    },
+    {
+      "qid": "4hop3__668721_132409_146285_35031",
+      "hop": 3,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "3hop2__89854_38738_76291",
+      "hop": 0,
+      "dense_rank": 18,
+      "reachable": true,
+      "base_rank": 18,
+      "dist_rank": 18
+    },
+    {
+      "qid": "2hop__611178_131968",
+      "hop": 0,
+      "dense_rank": 35,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "2hop__3131_3300",
+      "hop": 0,
+      "dense_rank": 11,
+      "reachable": true,
+      "base_rank": 18,
+      "dist_rank": 17
+    },
+    {
+      "qid": "4hop1__56270_53706_795904_580996",
+      "hop": 1,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 4,
+      "dist_rank": 1
+    },
+    {
+      "qid": "4hop1__56270_53706_795904_580996",
+      "hop": 2,
+      "dense_rank": 21,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "2hop__126306_396277",
+      "hop": 1,
+      "dense_rank": 6,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "4hop1__56635_49925_13759_736921",
+      "hop": 0,
+      "dense_rank": 12,
+      "reachable": true,
+      "base_rank": 9,
+      "dist_rank": 8
+    },
+    {
+      "qid": "2hop__6827_88924",
+      "hop": 0,
+      "dense_rank": 4,
+      "reachable": true,
+      "base_rank": 2,
+      "dist_rank": 2
+    },
+    {
+      "qid": "3hop2__104979_23308_28343",
+      "hop": 1,
+      "dense_rank": 10,
+      "reachable": true,
+      "base_rank": 4,
+      "dist_rank": 4
+    },
+    {
+      "qid": "2hop__96411_159054",
+      "hop": 1,
+      "dense_rank": 24,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "3hop2__782397_467331_162182",
+      "hop": 2,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "2hop__463884_807572",
+      "hop": 1,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 4,
+      "dist_rank": 2
+    },
+    {
+      "qid": "3hop1__222497_309482_89834",
+      "hop": 1,
+      "dense_rank": 7,
+      "reachable": true,
+      "base_rank": 2,
+      "dist_rank": 2
+    },
+    {
+      "qid": "4hop3__474028_88460_30152_20999",
+      "hop": 1,
+      "dense_rank": 46,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "2hop__37353_23241",
+      "hop": 0,
+      "dense_rank": 34,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "4hop1__88342_49853_128008_54974",
+      "hop": 0,
+      "dense_rank": 17,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "4hop1__88342_49853_128008_54974",
+      "hop": 1,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 9,
+      "dist_rank": 6
+    },
+    {
+      "qid": "4hop1__88342_49853_128008_54974",
+      "hop": 3,
+      "dense_rank": 4,
+      "reachable": true,
+      "base_rank": 2,
+      "dist_rank": 2
+    },
+    {
+      "qid": "2hop__435184_67370",
+      "hop": 1,
+      "dense_rank": 13,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 2
+    },
+    {
+      "qid": "2hop__389778_78303",
+      "hop": 0,
+      "dense_rank": 11,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "3hop1__761225_831637_91775",
+      "hop": 0,
+      "dense_rank": 31,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "4hop1__88342_49853_128008_48717",
+      "hop": 0,
+      "dense_rank": 17,
+      "reachable": true,
+      "base_rank": 11,
+      "dist_rank": 19
+    },
+    {
+      "qid": "4hop1__88342_49853_128008_48717",
+      "hop": 1,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 6,
+      "dist_rank": 3
+    },
+    {
+      "qid": "4hop1__88342_49853_128008_48717",
+      "hop": 3,
+      "dense_rank": 48,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "4hop1__152146_5274_458768_33632",
+      "hop": 1,
+      "dense_rank": 8,
+      "reachable": true,
+      "base_rank": 5,
+      "dist_rank": 5
+    },
+    {
+      "qid": "4hop1__152146_5274_458768_33632",
+      "hop": 2,
+      "dense_rank": 9,
+      "reachable": true,
+      "base_rank": 8,
+      "dist_rank": 4
+    },
+    {
+      "qid": "3hop2__60649_90098_10557",
+      "hop": 0,
+      "dense_rank": 14,
+      "reachable": true,
+      "base_rank": 8,
+      "dist_rank": 8
+    },
+    {
+      "qid": "3hop2__304722_747004_63959",
+      "hop": 1,
+      "dense_rank": 12,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 2
+    },
+    {
+      "qid": "3hop1__222497_737465_93723",
+      "hop": 1,
+      "dense_rank": 13,
+      "reachable": true,
+      "base_rank": 5,
+      "dist_rank": 7
+    },
+    {
+      "qid": "3hop1__222497_737465_93723",
+      "hop": 2,
+      "dense_rank": 9,
+      "reachable": true,
+      "base_rank": 3,
+      "dist_rank": 2
+    },
+    {
+      "qid": "4hop1__88342_49853_128008_87812",
+      "hop": 0,
+      "dense_rank": 17,
+      "reachable": true,
+      "base_rank": 10,
+      "dist_rank": 18
+    },
+    {
+      "qid": "4hop1__88342_49853_128008_87812",
+      "hop": 1,
+      "dense_rank": 5,
+      "reachable": true,
+      "base_rank": 7,
+      "dist_rank": 4
+    },
+    {
+      "qid": "4hop2__161602_426860_88460_63559",
+      "hop": 2,
+      "dense_rank": 46,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "2hop__35137_22940",
+      "hop": 0,
+      "dense_rank": 6,
+      "reachable": true,
+      "base_rank": 4,
+      "dist_rank": 4
+    },
+    {
+      "qid": "2hop__681463_402641",
+      "hop": 1,
+      "dense_rank": 4,
+      "reachable": true,
+      "base_rank": 2,
+      "dist_rank": 3
+    },
+    {
+      "qid": "2hop__71755_463572",
+      "hop": 0,
+      "dense_rank": 43,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "4hop1__814776_765799_282674_759393",
+      "hop": 1,
+      "dense_rank": 12,
+      "reachable": true,
+      "base_rank": 4,
+      "dist_rank": 6
+    },
+    {
+      "qid": "4hop1__814776_765799_282674_759393",
+      "hop": 3,
+      "dense_rank": 19,
+      "reachable": true,
+      "base_rank": 2,
+      "dist_rank": 2
+    },
+    {
+      "qid": "4hop1__152028_141441_458768_33633",
+      "hop": 2,
+      "dense_rank": 13,
+      "reachable": true,
+      "base_rank": 6,
+      "dist_rank": 2
+    },
+    {
+      "qid": "3hop1__222497_309482_80702",
+      "hop": 1,
+      "dense_rank": 7,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "3hop1__516535_834494_33939",
+      "hop": 2,
+      "dense_rank": 12,
+      "reachable": true,
+      "base_rank": 3,
+      "dist_rank": 1
+    },
+    {
+      "qid": "3hop1__103662_443779_52195",
+      "hop": 2,
+      "dense_rank": 7,
+      "reachable": true,
+      "base_rank": 2,
+      "dist_rank": 2
+    },
+    {
+      "qid": "3hop1__106042_64399_62676",
+      "hop": 1,
+      "dense_rank": 12,
+      "reachable": true,
+      "base_rank": 20,
+      "dist_rank": 16
+    },
+    {
+      "qid": "4hop1__373866_5186_10659_23296",
+      "hop": 1,
+      "dense_rank": 10,
+      "reachable": true,
+      "base_rank": 7,
+      "dist_rank": 7
+    },
+    {
+      "qid": "4hop3__238811_88460_30152_20999",
+      "hop": 1,
+      "dense_rank": 46,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "4hop3__507819_88460_30152_20999",
+      "hop": 1,
+      "dense_rank": 46,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "4hop1__707078_378185_282674_759393",
+      "hop": 1,
+      "dense_rank": 7,
+      "reachable": true,
+      "base_rank": 2,
+      "dist_rank": 2
+    },
+    {
+      "qid": "4hop1__707078_378185_282674_759393",
+      "hop": 3,
+      "dense_rank": 19,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "4hop1__152562_5274_458768_33637",
+      "hop": 1,
+      "dense_rank": 8,
+      "reachable": true,
+      "base_rank": 4,
+      "dist_rank": 4
+    },
+    {
+      "qid": "4hop1__152562_5274_458768_33637",
+      "hop": 2,
+      "dense_rank": 9,
+      "reachable": true,
+      "base_rank": 5,
+      "dist_rank": 1
+    },
+    {
+      "qid": "4hop2__161602_474028_88460_21062",
+      "hop": 2,
+      "dense_rank": 46,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "2hop__32541_85460",
+      "hop": 0,
+      "dense_rank": 6,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "2hop__32541_85460",
+      "hop": 1,
+      "dense_rank": 18,
+      "reachable": true,
+      "base_rank": 8,
+      "dist_rank": 8
+    },
+    {
+      "qid": "4hop1__152562_5274_458768_33633",
+      "hop": 1,
+      "dense_rank": 8,
+      "reachable": true,
+      "base_rank": 6,
+      "dist_rank": 6
+    },
+    {
+      "qid": "4hop1__152562_5274_458768_33633",
+      "hop": 2,
+      "dense_rank": 9,
+      "reachable": true,
+      "base_rank": 9,
+      "dist_rank": 5
+    },
+    {
+      "qid": "2hop__695364_513121",
+      "hop": 0,
+      "dense_rank": 9,
+      "reachable": true,
+      "base_rank": 2,
+      "dist_rank": 1
+    },
+    {
+      "qid": "4hop3__160230_470287_862998_72134",
+      "hop": 1,
+      "dense_rank": 4,
+      "reachable": true,
+      "base_rank": 2,
+      "dist_rank": 1
+    },
+    {
+      "qid": "3hop1__92251_34179_23375",
+      "hop": 0,
+      "dense_rank": 10,
+      "reachable": true,
+      "base_rank": 7,
+      "dist_rank": 5
+    },
+    {
+      "qid": "3hop1__92251_34179_23375",
+      "hop": 1,
+      "dense_rank": 18,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "2hop__34495_85544",
+      "hop": 1,
+      "dense_rank": 4,
+      "reachable": true,
+      "base_rank": 4,
+      "dist_rank": 4
+    },
+    {
+      "qid": "4hop2__5206_39078_8987_8974",
+      "hop": 2,
+      "dense_rank": 6,
+      "reachable": true,
+      "base_rank": 2,
+      "dist_rank": 2
+    },
+    {
+      "qid": "4hop1__625463_229349_66759_54221",
+      "hop": 2,
+      "dense_rank": 18,
+      "reachable": true,
+      "base_rank": 2,
+      "dist_rank": 5
+    },
+    {
+      "qid": "2hop__107238_64918",
+      "hop": 1,
+      "dense_rank": 7,
+      "reachable": true,
+      "base_rank": 3,
+      "dist_rank": 2
+    },
+    {
+      "qid": "3hop1__36497_78276_68042",
+      "hop": 2,
+      "dense_rank": 18,
+      "reachable": true,
+      "base_rank": 11,
+      "dist_rank": 13
+    },
+    {
+      "qid": "4hop1__88342_75218_128008_48717",
+      "hop": 0,
+      "dense_rank": 17,
+      "reachable": true,
+      "base_rank": 8,
+      "dist_rank": 16
+    },
+    {
+      "qid": "4hop1__88342_75218_128008_48717",
+      "hop": 3,
+      "dense_rank": 48,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "4hop2__71753_685934_70784_79935",
+      "hop": 0,
+      "dense_rank": 4,
+      "reachable": true,
+      "base_rank": 1,
+      "dist_rank": 1
+    },
+    {
+      "qid": "4hop2__71753_685934_70784_79935",
+      "hop": 2,
+      "dense_rank": 11,
+      "reachable": true,
+      "base_rank": 3,
+      "dist_rank": 4
+    },
+    {
+      "qid": "4hop1__567737_141375_458768_33637",
+      "hop": 2,
+      "dense_rank": 13,
+      "reachable": true,
+      "base_rank": 8,
+      "dist_rank": 4
+    },
+    {
+      "qid": "2hop__778212_22458",
+      "hop": 1,
+      "dense_rank": 21,
+      "reachable": false,
+      "base_rank": null,
+      "dist_rank": null
+    },
+    {
+      "qid": "2hop__179322_83289",
+      "hop": 1,
+      "dense_rank": 10,
+      "reachable": true,
+      "base_rank": 9,
+      "dist_rank": 9
+    },
+    {
+      "qid": "3hop1__9285_5188_6375",
+      "hop": 1,
+      "dense_rank": 6,
+      "reachable": true,
+      "base_rank": 13,
+      "dist_rank": 3
+    }
+  ]
+}

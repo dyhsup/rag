@@ -1,0 +1,10 @@
+{
+  "model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "epochs": 4,
+  "lr": 2e-5,
+  "batch_size": 64,
+  "max_length": 128,
+  "train_frac": 0.7,
+  "seed": 0,
+  "oversample_confident_wrong": 3
+}

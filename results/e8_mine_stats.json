@@ -1,0 +1,9 @@
+{
+  "hops": 6404,
+  "hops_with_gold": 6383,
+  "hard_pos": 4289,
+  "easy_pos": 2659,
+  "hard_neg": 13205,
+  "easy_neg": 6383,
+  "unreachable": 1250
+}

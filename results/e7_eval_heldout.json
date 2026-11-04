@@ -1,0 +1,116 @@
+[
+  {
+    "qid": "2hop__83800_747874",
+    "hop": 0,
+    "base_rank": null,
+    "dist_rank": null
+  },
+  {
+    "qid": "3hop1__28404_160713_77246",
+    "hop": 1,
+    "base_rank": 5,
+    "dist_rank": 5
+  },
+  {
+    "qid": "2hop__418360_67370",
+    "hop": 1,
+    "base_rank": null,
+    "dist_rank": null
+  },
+  {
+    "qid": "2hop__83405_158262",
+    "hop": 0,
+    "base_rank": 8,
+    "dist_rank": 8
+  },
+  {
+    "qid": "2hop__80546_75184",
+    "hop": 0,
+    "base_rank": 1,
+    "dist_rank": 1
+  },
+  {
+    "qid": "2hop__80546_75184",
+    "hop": 1,
+    "base_rank": 10,
+    "dist_rank": 9
+  },
+  {
+    "qid": "3hop1__147225_30587_83479",
+    "hop": 1,
+    "base_rank": 1,
+    "dist_rank": 2
+  },
+  {
+    "qid": "4hop3__630723_88460_30152_20999",
+    "hop": 1,
+    "base_rank": null,
+    "dist_rank": null
+  },
+  {
+    "qid": "2hop__96096_78606",
+    "hop": 1,
+    "base_rank": 5,
+    "dist_rank": 4
+  },
+  {
+    "qid": "2hop__189094_612080",
+    "hop": 1,
+    "base_rank": 2,
+    "dist_rank": 2
+  },
+  {
+    "qid": "3hop1__305282_282081_10972",
+    "hop": 1,
+    "base_rank": 3,
+    "dist_rank": 7
+  },
+  {
+    "qid": "3hop1__133292_40769_64047",
+    "hop": 2,
+    "base_rank": 7,
+    "dist_rank": 10
+  },
+  {
+    "qid": "2hop__156085_436709",
+    "hop": 1,
+    "base_rank": 5,
+    "dist_rank": 4
+  },
+  {
+    "qid": "2hop__596188_297986",
+    "hop": 1,
+    "base_rank": 1,
+    "dist_rank": 1
+  },
+  {
+    "qid": "2hop__788087_150107",
+    "hop": 0,
+    "base_rank": 5,
+    "dist_rank": 2
+  },
+  {
+    "qid": "4hop2__161602_426860_88460_20988",
+    "hop": 2,
+    "base_rank": null,
+    "dist_rank": null
+  },
+  {
+    "qid": "3hop1__622497_160088_49779",
+    "hop": 2,
+    "base_rank": null,
+    "dist_rank": null
+  },
+  {
+    "qid": "2hop__13539_13493",
+    "hop": 1,
+    "base_rank": 3,
+    "dist_rank": 2
+  },
+  {
+    "qid": "3hop1__404541_629431_124169",
+    "hop": 1,
+    "base_rank": 1,
+    "dist_rank": 1
+  }
+]

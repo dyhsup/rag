@@ -1,0 +1,11 @@
+{
+  "unique": 36929,
+  "kinds": {
+    "easy_neg": 11238,
+    "easy_pos": 3186,
+    "hard_pos": 4263,
+    "hard_neg": 18242
+  },
+  "agreement": 0.698962874705516,
+  "conf_wrong": 8411
+}
