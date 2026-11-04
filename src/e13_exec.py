@@ -20,6 +20,7 @@ from .ce_client import CERemote
 from .e3_binding import em, f1
 from .e4_pipeline import READ, fmt, topk
 from .llm import LLM
+from .data import load_questions
 from .musique import load
 from .retriever import QuestionIndex
 
@@ -110,7 +111,7 @@ def execute_once(q, hops, index, llm, ce, mode, alt=None):
         cands = []
         try:
             prompt = (READ_CTX.format(q0=q["question"], q=text, ps=fmt(ps))
-                      if mode in ("ctxread", "ctxlast") else READ.format(q=text, ps=fmt(ps)))
+                      if mode in ("ctxread", "ctxlast", "select") else READ.format(q=text, ps=fmt(ps)))
             cands.append(llm.chat([{"role": "user", "content": prompt}],
                                   max_tokens=32).strip().split("\n")[0])
         except Exception:
@@ -123,7 +124,7 @@ def execute_once(q, hops, index, llm, ce, mode, alt=None):
                 except Exception:
                     cands.append("")
 
-        if mode in ("base", "consensus", "ctxread", "ctxlast"):
+        if mode in ("base", "consensus", "ctxread", "ctxlast", "select"):
             if mode == "consensus" and len(cands) >= 3:
                 cnt = {}
                 for j, a in enumerate(cands):
@@ -181,6 +182,29 @@ def solve(q, hops, index, llm, ce, mode):
             uniq.append(p)
     if mode == "ctxlast" and binds and binds[-1] and "cannot" not in binds[-1].lower() and "not contain" not in binds[-1].lower():
         final = binds[-1]
+    elif mode == "select":
+        last = binds[-1] if binds else ""
+        try:
+            synth = llm.chat([{"role": "user", "content": READ.format(q=q["question"], ps=fmt(uniq[:8]))}],
+                             max_tokens=32).strip().split("\n")[0]
+        except Exception:
+            synth = ""
+        if not last:
+            final = synth
+        elif norm(last) == norm(synth) or not synth:
+            final = last
+        else:
+            swap = sum(ord(c) for c in q["qid"]) % 2 == 1
+            a, b = (synth, last) if swap else (last, synth)
+            try:
+                pick = llm.chat([{"role": "user", "content":
+                    f"Question: {q['question']}\nAnswer A: {a}\nAnswer B: {b}\n"
+                    "Which answer is correct? Reply with exactly one letter: A or B.\nAnswer:"}],
+                    max_tokens=8).strip().upper()
+            except Exception:
+                pick = "A"
+            chosen = b if "B" in pick[:3] else a
+            final = chosen
     else:
         try:
             final = llm.chat([{"role": "user", "content": READ.format(q=q["question"], ps=fmt(uniq[:8]))}],
@@ -191,7 +215,8 @@ def solve(q, hops, index, llm, ce, mode):
 
 
 def run(n=200, workers=8, modes=("base", "gate", "rollback"), data="musique200.jsonl"):
-    qs = load(os.path.join(ROOT, "data", "raw", data))[:n]
+    path = os.path.join(ROOT, "data", "raw", data)
+    qs = (load_questions(path) if data.startswith("hotpot") else load(path))[:n]
     docs = []
     for q in qs:
         for d in q["docs"]:
