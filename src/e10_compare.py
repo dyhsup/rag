@@ -82,7 +82,7 @@ def split_qids():
     return set(qids[n:])
 
 
-def main(n=2417, topn=20, workers=12):
+def main(n=2417, topn=20, workers=12, extra=()):
     te = split_qids()
     qs_all = load(os.path.join(ROOT, "data", "raw", "musique2417.jsonl"))[:n]
     corpus, meta, gold, _ = build(qs_all)
@@ -148,7 +148,8 @@ def main(n=2417, topn=20, workers=12):
             if k % 1000 == 0 or k == len(jobs):
                 print(f"[cmp] llm {k}/{len(jobs)} calls={llm.calls}", flush=True)
 
-    names = ["dense", "bm25", "base_ce", "distilled", "llm"]
+    names = ["dense", "bm25", "base_ce", "distilled", "llm"] + [f"remote_{p}" for p in extra]
+    remote = {p: CERemote(f"http://10.52.100.210:{p}") for p in extra}
     hits3 = {x: [] for x in names}
     hits10 = {x: [] for x in names}
     for ci, c in enumerate(cases):
@@ -157,6 +158,8 @@ def main(n=2417, topn=20, workers=12):
         sd = score_ce(dist, tokd, [(c["text"], t[:1200]) for t in texts])
         sc = {"dense": c["dense"], "bm25": [bm25(c["text"], t, idf, avgdl, k1, b) for t in texts],
               "base_ce": sb, "distilled": sd, "llm": llm_scores[ci]}
+        for p in extra:
+            sc[f"remote_{p}"] = remote[p].rerank(c["text"], texts)
         for name in names:
             order = sorted(range(len(texts)), key=lambda j: -sc[name][j])
             hits3[name].append(int(any(c["top"][j] in c["ids"] for j in order[:3])))
@@ -169,7 +172,7 @@ def main(n=2417, topn=20, workers=12):
             "closure@3": {"mean": ev.mean(hits3[name]), "ci": ev.bootstrap_ci(hits3[name])},
             "closure@10": {"mean": ev.mean(hits10[name]), "ci": ev.bootstrap_ci(hits10[name])},
         }
-    for name in ["bm25", "base_ce", "distilled", "llm"]:
+    for name in ["bm25", "base_ce", "distilled", "llm"] + [f"remote_{p}" for p in extra]:
         out["scores"][name]["delta@3_vs_base"] = ev.paired_bootstrap(hits3[name], hits3["base_ce"])
         out["scores"][name]["delta@3_vs_dense"] = ev.paired_bootstrap(hits3[name], hits3["dense"])
 
@@ -183,5 +186,7 @@ if __name__ == "__main__":
     ap.add_argument("--n", type=int, default=2417)
     ap.add_argument("--topn", type=int, default=20)
     ap.add_argument("--workers", type=int, default=12)
+    ap.add_argument("--extra", default="", help="comma separated remote ports")
     a = ap.parse_args()
-    main(a.n, a.topn, a.workers)
+    extra = tuple(int(x) for x in a.extra.split(",") if x.strip())
+    main(a.n, a.topn, a.workers, extra)
