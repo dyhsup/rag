@@ -13,8 +13,8 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 RES = os.path.join(ROOT, "results")
 
 
-def main(n=400, workers=10):
-    qs = load(os.path.join(ROOT, "data", "raw", "musique400.jsonl"))[:n]
+def main(n=400, workers=10, data="musique400.jsonl"):
+    qs = load(os.path.join(ROOT, "data", "raw", data))[:n]
     docs = []
     for q in qs:
         for d in q["docs"]:
@@ -23,7 +23,7 @@ def main(n=400, workers=10):
     index = QuestionIndex({"qid": "pool", "docs": docs})
     llm = LLM(os.path.join(ROOT, "cache", "llm.sqlite"))
     ce = CERemote()
-    path = os.path.join(RES, "e4_musique400_ircot.jsonl")
+    path = os.path.join(RES, f"e4_{data.replace(chr(46)+'jsonl','')}_ircot.jsonl")
     done = set()
     if os.path.exists(path):
         for line in open(path, encoding="utf-8"):
@@ -48,4 +48,9 @@ def main(n=400, workers=10):
 
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--n", type=int, default=400)
+    ap.add_argument("--data", default="musique400.jsonl")
+    a = ap.parse_args()
+    main(a.n, 10, a.data)

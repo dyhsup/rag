@@ -154,7 +154,7 @@ $$\mathrm{cov}(S)\le \underbrace{\frac{|\{i:\exists d\in C,\ \mathrm{ground}(r_i
 
 ## 5 实验设置
 
-**数据。** MuSiQue validation（200 题，逐跳标签）、HotpotQA distractor（200 题）。chunk 级协议：40-token 滑窗、stride 20。
+**数据。** MuSiQue validation（200 / 400 题，逐跳标签）、2WikiMultihopQA dev（200 题，由 `evidences` 三元组还原逐跳）、HotpotQA distractor（200 题）。chunk 级协议：40-token 滑窗、stride 20。
 
 **基线。** Vanilla RAG、IRCoT、Self-Ask；检索器 BM25 与 MiniLM；读者 qwen3.6-27b（temperature 0）。
 
@@ -191,7 +191,17 @@ $$\mathrm{cov}(S)\le \underbrace{\frac{|\{i:\exists d\in C,\ \mathrm{ground}(r_i
 | 2 | 0.673 | 0.554 | 0.921 | 0.891 |
 | 3 | 0.538 | 0.256 | 0.923 | 0.897 |
 
-### 6.3 第二数据集（HotpotQA）
+### 6.3 其他数据集
+
+**2WikiMultihopQA（200 题）**
+
+| 方法 | EM | IRCoT | ΔEM |
+|---|---|---|---|
+| 全部 | **0.605** | 0.535 | **+0.070 [+0.010,+0.125]** |
+| 2 跳（n=116） | 0.474 | 0.397 | +0.078 [+0.009,+0.138] |
+| 4 跳（n=53） | 0.755 | 0.660 | +0.094 [−0.038,+0.226] |
+
+**HotpotQA（200 题）**
 
 | 方法 | EM | F1 |
 |---|---|---|
@@ -283,7 +293,7 @@ LLM 在难例上低于监督式 CE；强制二选一时仅 71% 选对。**用 LL
 
 1. **端到端增益**：MuSiQue 200 题 +9.5 EM，400 题同池 +18.0 EM；HotpotQA 持平。
 2. **门控与回滚是负结果**：表面信号无法检测语义漂移；固定终止策略在 comparison 题上失败，需要决策层。
-3. **数据**：两个英文 Wikipedia 数据集；2Wiki 与领域语料待补。
+3. **数据**：三个英文 Wikipedia 数据集（MuSiQue / 2Wiki / HotpotQA）；领域与跨语言语料待补。
 4. **理论**：命题 1/2 为草图，缺少带参数的界与证明。
 5. **标签**：答案字符串匹配与教师判定一致率约 70%。
 
