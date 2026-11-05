@@ -1,0 +1,2686 @@
+{
+  "summary": {
+    "n": 100,
+    "same_plan_rate": 0.42,
+    "picked_B": 0.32,
+    "A_cov": 0.5258333333333333,
+    "A_EM": 0.21,
+    "B_cov": 0.5133333333333332,
+    "B_EM": 0.22
+  },
+  "records": [
+    {
+      "qid": "2hop__44815_494136",
+      "gold": "Meg Ryan",
+      "plans": {
+        "A": [
+          "Who is the actor that played Ethan in the movie A Dog's Purpose?",
+          "Who is the spouse of #1?"
+        ],
+        "B": [
+          "Who is the actor that plays Ethan in A Dog's Purpose?",
+          "Who is the spouse of #1?"
+        ]
+      },
+      "scores": {
+        "A": -1.9106585383415222,
+        "B": -1.4914931058883667
+      },
+      "pick": "B",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__640262_122868",
+      "gold": "University of British Columbia",
+      "plans": {
+        "A": [
+          "Who is the author of the book '1967: The Last Good Year'?",
+          "What university did #1 attend?"
+        ],
+        "B": [
+          "Who is the author of 1967: The Last Good Year?",
+          "What university did #1 attend?"
+        ]
+      },
+      "scores": {
+        "A": 1.30778169631958,
+        "B": 1.5673129558563232
+      },
+      "pick": "B",
+      "A_cov": 1.0,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 1.0,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__370564_71701",
+      "gold": "November 5",
+      "plans": {
+        "A": [
+          "What is the current administrative territorial entity (city) where the Century Lotus Stadium is located?",
+          "In what year did the Japanese occupy #1 and the rest of Guangdong province?"
+        ],
+        "B": [
+          "What is the current administrative territorial entity of the Century Lotus Stadium?",
+          "What year did the Japanese occupy #1 and the rest of Guangdong province?"
+        ]
+      },
+      "scores": {
+        "A": 5.211525917053223,
+        "B": 4.695409536361694
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 1.0,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__6827_79845",
+      "gold": "15,900",
+      "plans": {
+        "A": [
+          "Which bank bought FleetBoston Financial?",
+          "How many ATMs does #1 have?"
+        ],
+        "B": [
+          "Which bank bought FleetBoston Financial?",
+          "How many ATMs does #1 have?"
+        ]
+      },
+      "scores": {
+        "A": 2.4450162649154663
+      },
+      "pick": "A",
+      "A_cov": 0.0,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.0,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "3hop2__90098_156850_10557",
+      "gold": "Medieval Latin",
+      "plans": {
+        "A": [
+          "Who was the spouse of Fastrada?",
+          "What era or time period is associated with #1?",
+          "What is the origin language of the last name Sylvester?",
+          "What was the form of #3 used in the era of #2 later known as?"
+        ],
+        "B": [
+          "Who was the spouse of Fastrada?",
+          "What era is associated with #1?",
+          "What is the origin language of the last name Sylvester?",
+          "What was the form of #3 used in #2 later known as?"
+        ]
+      },
+      "scores": {
+        "A": 0.4437970519065857,
+        "B": 0.45324498414993286
+      },
+      "pick": "B",
+      "A_cov": 0.3333333333333333,
+      "A_em": 0.0,
+      "A_f1": 0.6666666666666666,
+      "B_cov": 0.3333333333333333,
+      "B_em": 0.0,
+      "B_f1": 0.6666666666666666,
+      "same": 0
+    },
+    {
+      "qid": "2hop__488811_30110",
+      "gold": "expelled by the Soviet Union",
+      "plans": {
+        "A": [
+          "Where was Erich Zakowski born?",
+          "What happened to the Curonians who lived in #1?"
+        ],
+        "B": [
+          "Where was Erich Zakowski born?",
+          "What happened to the Curonians who lived in #1?"
+        ]
+      },
+      "scores": {
+        "A": 4.106578230857849
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 0.0,
+      "A_f1": 0.32,
+      "B_cov": 1.0,
+      "B_em": 0.0,
+      "B_f1": 0.32,
+      "same": 1
+    },
+    {
+      "qid": "2hop__17827_54024",
+      "gold": "King James I of England",
+      "plans": {
+        "A": [
+          "Which king commissioned a bible translation?",
+          "Did #1 sell part of the Crown Freehold?"
+        ],
+        "B": [
+          "Which king commissioned a bible translation?",
+          "Did #1 sell part of the Crown Freehold?"
+        ]
+      },
+      "scores": {
+        "A": 2.457588165998459
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 0.0,
+      "A_f1": 0.5714285714285715,
+      "B_cov": 1.0,
+      "B_em": 0.0,
+      "B_f1": 0.5714285714285715,
+      "same": 1
+    },
+    {
+      "qid": "2hop__752214_639679",
+      "gold": "Clio Goldsmith",
+      "plans": {
+        "A": [
+          "Who is the author of Queen of the Elephants?",
+          "Who is the spouse of #1?"
+        ],
+        "B": [
+          "Who is the author of Queen of the Elephants?",
+          "Who is the spouse of #1?"
+        ]
+      },
+      "scores": {
+        "A": 2.020266056060791
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__810884_22402",
+      "gold": "nearly 25,000",
+      "plans": {
+        "A": [
+          "Which university was Edith Humphrey educated at?",
+          "How many students attend #1?"
+        ],
+        "B": [
+          "Where was Edith Humphrey educated?",
+          "How many students attend #1?"
+        ]
+      },
+      "scores": {
+        "A": 1.1198521852493286,
+        "B": 1.2428075075149536
+      },
+      "pick": "B",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.0,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "4hop1__341777_508773_85832_745702",
+      "gold": "Sebastian Cabot",
+      "plans": {
+        "A": [
+          "Where was Eduardo Cuervo born?",
+          "Which continent is #1 located in?",
+          "Who is the Italian navigator who sailed for England and explored the eastern coast of #2?",
+          "Who was the child of #3?"
+        ],
+        "B": [
+          "Where was Eduardo Cuervo born?",
+          "Which continent contains the country where Eduardo Cuervo was born?",
+          "Who was the Italian navigator who sailed for England and explored the eastern coast of #2?",
+          "Who was the child of #3?"
+        ]
+      },
+      "scores": {
+        "A": 0.06408815644681454,
+        "B": 1.4712997451424599
+      },
+      "pick": "B",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.5,
+      "B_cov": 0.25,
+      "B_em": 0.0,
+      "B_f1": 0.5,
+      "same": 0
+    },
+    {
+      "qid": "3hop2__132957_222979_40768",
+      "gold": "1981",
+      "plans": {
+        "A": [
+          "Who is the parent company of Acura and Scion?",
+          "When did #1 open US assembly plants?"
+        ],
+        "B": [
+          "When did Nissan open US assembly plants?"
+        ]
+      },
+      "scores": {
+        "A": -0.09970005881041288,
+        "B": 1.9007368087768555
+      },
+      "pick": "B",
+      "A_cov": 0.0,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.0,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__62311_62279",
+      "gold": "10 July -- 31 October 1940",
+      "plans": {
+        "A": [
+          "Which country did the U.S. fight during the American Revolution?",
+          "When did Germany launch an air attack on #1?"
+        ],
+        "B": [
+          "Which country did the U.S. fight during the American Revolution?",
+          "When did Germany launch an air attack on #1?"
+        ]
+      },
+      "scores": {
+        "A": 2.4004755914211273
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "3hop1__365934_87694_124169",
+      "gold": "1952",
+      "plans": {
+        "A": [
+          "What saint is Mantua Cathedral dedicated to?",
+          "What basilica is named after #1?",
+          "In which city is #2 located?",
+          "What date did the Governor of #3 end?"
+        ],
+        "B": [
+          "What saint is Mantua Cathedral dedicated to?",
+          "What basilica is named after #1?",
+          "In which city is #2 located?",
+          "Who was the Governor of #3?"
+        ]
+      },
+      "scores": {
+        "A": -1.231544017791748,
+        "B": -0.7980349063873291
+      },
+      "pick": "B",
+      "A_cov": 0.6666666666666666,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.6666666666666666,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__409166_152023",
+      "gold": "Kicking Mule Records",
+      "plans": {
+        "A": [
+          "Who is the performer of the song 'Sanctuary'?",
+          "What record label is #1 signed to?"
+        ],
+        "B": [
+          "Who is the performer of the song \"Sanctuary\"?",
+          "What record label is #1 signed to?"
+        ]
+      },
+      "scores": {
+        "A": -1.1661186218261719,
+        "B": -1.1905417442321777
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "3hop1__857_846_7821",
+      "gold": "140 mi",
+      "plans": {
+        "A": [
+          "Who was the person to whom the edict addressed to the Yongle emperor was sent?",
+          "In which city did the Yongle emperor greet #1?",
+          "How many miles of highways are in #2?"
+        ],
+        "B": [
+          "To whom was the edict addressed that the Yongle emperor greeted?",
+          "In which city did the Yongle emperor greet #1?",
+          "How many miles of highways are in #2?"
+        ]
+      },
+      "scores": {
+        "A": -1.0421468565861385,
+        "B": -0.5704238414764404
+      },
+      "pick": "B",
+      "A_cov": 0.3333333333333333,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.3333333333333333,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "3hop1__19768_19788_10117",
+      "gold": "1,400 years",
+      "plans": {
+        "A": [
+          "What is the region having the second largest rain-forest in the world?",
+          "What religion is widely practiced in #1?",
+          "How long ago did #2 arrive in Zhejiang?"
+        ],
+        "B": [
+          "What is the region having the second largest rain-forest in the world?",
+          "What religion is widely practiced in #1?",
+          "How long ago did #2 arrive in Zhejiang?"
+        ]
+      },
+      "scores": {
+        "A": 0.8990747133890787
+      },
+      "pick": "A",
+      "A_cov": 0.3333333333333333,
+      "A_em": 0.0,
+      "A_f1": 0.28571428571428575,
+      "B_cov": 0.3333333333333333,
+      "B_em": 0.0,
+      "B_f1": 0.28571428571428575,
+      "same": 1
+    },
+    {
+      "qid": "2hop__703767_37168",
+      "gold": "551-600",
+      "plans": {
+        "A": [
+          "Who is the employer of Hasan Hanafi?",
+          "Where does #1 rank according to QS World University Rankings?"
+        ],
+        "B": [
+          "Who is the employer of Hasan Hanafi?",
+          "What is the QS World University Rankings rank of #1?"
+        ]
+      },
+      "scores": {
+        "A": 0.13526427745819092,
+        "B": -0.10040545463562012
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__56851_343058",
+      "gold": "Adrian Edmondson",
+      "plans": {
+        "A": [
+          "Who played the fairy god mother in Shrek 2?",
+          "Who is the spouse of #1?"
+        ],
+        "B": [
+          "Who played the fairy god mother in Shrek 2?",
+          "Who is the spouse of #1?"
+        ]
+      },
+      "scores": {
+        "A": -0.35833436250686646
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "3hop2__30152_105395_20999",
+      "gold": "The dynasty regrouped and defeated the Portuguese",
+      "plans": {
+        "A": [
+          "From which empire or group did the Somali Muslim Ajuran Empire make coins to proclaim independence?",
+          "In which country is Star Cola produced?",
+          "How were the people identified in #1 expelled from the country identified in #2?"
+        ],
+        "B": [
+          "From which empire did the Ajuran Empire proclaim independence by making coins?",
+          "In which country is Star Cola produced?",
+          "How were the people of #1 expelled from #2?"
+        ]
+      },
+      "scores": {
+        "A": 1.6866568724314372,
+        "B": 0.9141125679016113
+      },
+      "pick": "A",
+      "A_cov": 0.6666666666666666,
+      "A_em": 0.0,
+      "A_f1": 0.33333333333333337,
+      "B_cov": 0.6666666666666666,
+      "B_em": 0.0,
+      "B_f1": 0.33333333333333337,
+      "same": 0
+    },
+    {
+      "qid": "2hop__42747_83837",
+      "gold": "Karen Fairchild",
+      "plans": {
+        "A": [
+          "Who is the singer of the song Light It Up?",
+          "Who sings Home Alone Tonight with #1?"
+        ],
+        "B": [
+          "Who is the singer of Light It Up?",
+          "Who sings Home Alone Tonight with #1?"
+        ]
+      },
+      "scores": {
+        "A": 5.845238447189331,
+        "B": 5.540105581283569
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 1.0,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__511176_22458",
+      "gold": "International Federation of Association Football",
+      "plans": {
+        "A": [
+          "What organization is the Danish Football Union part of?",
+          "What does the acronym of #1 stand for?"
+        ],
+        "B": [
+          "What organization is the Danish Football Union part of?",
+          "What does the acronym of #1 stand for?"
+        ]
+      },
+      "scores": {
+        "A": -3.687480077147484
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 1.0,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__83800_747874",
+      "gold": "Jamie Murray",
+      "plans": {
+        "A": [
+          "Who won the men's Wimbledon championship in 2016?",
+          "Who is the sibling of #1?"
+        ],
+        "B": [
+          "Who won the men's Wimbledon championship in 2016?",
+          "Who is the sibling of #1?"
+        ]
+      },
+      "scores": {
+        "A": 0.11030316352844238
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 0.5,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__83257_19033",
+      "gold": "Great American Bash",
+      "plans": {
+        "A": [
+          "Who is the inventor of the Money in the Bank ladder match?",
+          "Where did #1 win in 2008?"
+        ],
+        "B": [
+          "Who invented the Money in the Bank ladder match?",
+          "Where did #1 win in 2008?"
+        ]
+      },
+      "scores": {
+        "A": 0.4454435110092163,
+        "B": 0.901673436164856
+      },
+      "pick": "B",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__55966_162341",
+      "gold": "nominated for an Academy Award for Best Supporting Actor",
+      "plans": {
+        "A": [
+          "Who played the game maker in The Hunger Games?",
+          "What kind of recognition did #1 receive?"
+        ],
+        "B": [
+          "Who played the game maker in The Hunger Games?",
+          "What kind of recognition did #1 receive?"
+        ]
+      },
+      "scores": {
+        "A": -5.411471128463745
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 0.5,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__754753_57816",
+      "gold": "100",
+      "plans": {
+        "A": [
+          "Who is Carlos Alvarez's employer?",
+          "What is the U.S. News ranking of the law school at #1?"
+        ],
+        "B": [
+          "Who is Carlos Alvarez's employer?",
+          "What is the U.S. News ranking of the law school at #1?"
+        ]
+      },
+      "scores": {
+        "A": 3.6704009771347046
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 1.0,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 1
+    },
+    {
+      "qid": "3hop1__127837_157828_239539",
+      "gold": "Pristina",
+      "plans": {
+        "A": [
+          "What language is Kuhinjica in?",
+          "Which country has #1 as a co-official language?",
+          "What is the name of the Radio Television of #2?",
+          "Where is the headquarters of #3?"
+        ],
+        "B": [
+          "What language is spoken in Kuhinjica?",
+          "Which country has #1 as a co-official language?",
+          "What is the name of the Radio Television of #2?",
+          "Where is the headquarters of #3?"
+        ]
+      },
+      "scores": {
+        "A": -2.2657435536384583,
+        "B": -2.6091074347496033
+      },
+      "pick": "A",
+      "A_cov": 0.3333333333333333,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.3333333333333333,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "3hop1__102461_24918_24991",
+      "gold": "Soviet flag",
+      "plans": {
+        "A": [
+          "What is the birth country of Andrey Dashkov?",
+          "Which Soviet President visited #1 while protests were taking place?",
+          "What went down after #2 departed from the Kremlin?"
+        ],
+        "B": [
+          "What is the birth country of Andrey Dashkov?",
+          "Which Soviet President visited #1 while protests were taking place?",
+          "What went down after #2 departed from the Kremlin?"
+        ]
+      },
+      "scores": {
+        "A": 1.4693294366200764
+      },
+      "pick": "A",
+      "A_cov": 0.6666666666666666,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.6666666666666666,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__612719_6455",
+      "gold": "Firefox",
+      "plans": {
+        "A": [
+          "Who owns Mozilla Messaging?",
+          "What browser was created by #1?"
+        ],
+        "B": [
+          "What group owns Mozilla Messaging?",
+          "What browser was created by #1?"
+        ]
+      },
+      "scores": {
+        "A": 3.498794302344322,
+        "B": 3.5809101909399033
+      },
+      "pick": "B",
+      "A_cov": 0.5,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 0.5,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__30905_189318",
+      "gold": "National War College",
+      "plans": {
+        "A": [
+          "Who sponsored the resolution to reopen trade with Vietnam along with John Kerry?",
+          "Where did #1 go to college?"
+        ],
+        "B": [
+          "Who sponsored the resolution to reopen trade with Vietnam along with Kerry?",
+          "Where did #1 go to college?"
+        ]
+      },
+      "scores": {
+        "A": 0.5149898529052734,
+        "B": 0.5261633396148682
+      },
+      "pick": "B",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__776377_857193",
+      "gold": "Delaware River",
+      "plans": {
+        "A": [
+          "What body of water is Bartram's Covered Bridge located on?",
+          "What is the mouth of the watercourse for #1?"
+        ],
+        "B": [
+          "What body of water is Bartram's Covered Bridge located on?",
+          "What is the mouth of watercourse for #1?"
+        ]
+      },
+      "scores": {
+        "A": 0.1909348964691162,
+        "B": -0.013356208801269531
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.5,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.5,
+      "same": 0
+    },
+    {
+      "qid": "2hop__411091_625230",
+      "gold": "Hancock County",
+      "plans": {
+        "A": [
+          "Where was Mark Dismore born?",
+          "In which county is #1 located?"
+        ],
+        "B": [
+          "Where was Mark Dismore born?",
+          "In which county is #1 located?"
+        ]
+      },
+      "scores": {
+        "A": 1.1119049787521362
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "4hop2__160585_14670_8987_8529",
+      "gold": "1943–1992",
+      "plans": {
+        "A": [
+          "What is Hana Mandlikova's birth country?",
+          "Which country's military branch, containing the Air Defense Artillery in the US, was unprepared for the invasion of #1?",
+          "When was the word 'Slavs' used in the national anthem of #2?"
+        ],
+        "B": [
+          "What country is Hana Mandlikova's birth country?",
+          "Which country's military branch, containing the Air Defense Artillery in the US, was unprepared for the invasion of #1?",
+          "When was the word 'Slavs' used in the national anthem of #2?"
+        ]
+      },
+      "scores": {
+        "A": 2.3168848355611167,
+        "B": 2.335942586263021
+      },
+      "pick": "B",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.25,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "3hop1__28404_160713_77246",
+      "gold": "the country of India",
+      "plans": {
+        "A": [
+          "Which country disavowed the Taliban?",
+          "When was #1 created?",
+          "What was the majority religion in the region that became India at the time #1 was created?",
+          "What is the meaning of the word #3 in an Arabic dictionary?"
+        ],
+        "B": [
+          "What country disavowed the Taliban?",
+          "What country was created when #1 was created?",
+          "What is the majority religion in #2?",
+          "What is the meaning of the word #3 in the Arabic dictionary?"
+        ]
+      },
+      "scores": {
+        "A": -1.4648786187171936,
+        "B": -2.556195020675659
+      },
+      "pick": "A",
+      "A_cov": 0.6666666666666666,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.3333333333333333,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__8496_21567",
+      "gold": "John Kukuzelis",
+      "plans": {
+        "A": [
+          "In which place is there no evidence of a Slavic settlement before c. 600 AD?",
+          "Who introduced a system of musical notation used during the 14th century in #1?"
+        ],
+        "B": [
+          "In which place is there no evidence of a Slavic settlement before c. 600 AD?",
+          "Who introduced a system of musical notation used during the 14th century in #1?"
+        ]
+      },
+      "scores": {
+        "A": 4.1847227811813354
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 1.0,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__70338_36240",
+      "gold": "Genesis 3:15",
+      "plans": {
+        "A": [
+          "What is the source document or book that contains the quote \"by the skin of your teeth\"?",
+          "What specific part (e.g., book, chapter, verse) of #1 is referenced in relation to Mary?"
+        ],
+        "B": [
+          "What book contains the quote \"by the skin of your teeth\"?",
+          "What specific part of #1 contains the quote \"by the skin of your teeth\"?"
+        ]
+      },
+      "scores": {
+        "A": 1.8247879147529602,
+        "B": 3.205743193626404
+      },
+      "pick": "B",
+      "A_cov": 1.0,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 1.0,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__275891_55984",
+      "gold": "Phil Hanseroth",
+      "plans": {
+        "A": [
+          "Who is the performer of Rhapsody Originals?",
+          "Who wrote the song The Story that is sung by #1?"
+        ],
+        "B": [
+          "Who is the performer of Rhapsody Originals?",
+          "Who wrote the song The Story that is sung by #1?"
+        ]
+      },
+      "scores": {
+        "A": 2.5008968114852905
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 1.0,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 1
+    },
+    {
+      "qid": "3hop1__136129_87694_124169",
+      "gold": "1952",
+      "plans": {
+        "A": [
+          "What saint is Mantua Cathedral dedicated to?",
+          "What is the name of the basilica named after #1?",
+          "In which city is #2 located?",
+          "Who was the Governor of #3?"
+        ],
+        "B": [
+          "What saint is Mantua Cathedral dedicated to?",
+          "What basilica is named after #1?",
+          "In which city is #2 located?",
+          "Who was the Governor of #3?"
+        ]
+      },
+      "scores": {
+        "A": -3.7399994134902954,
+        "B": -3.930233359336853
+      },
+      "pick": "A",
+      "A_cov": 0.3333333333333333,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.0,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "4hop3__373866_5189_38229_86687",
+      "gold": "May 1990",
+      "plans": {
+        "A": [
+          "What organization was the People's Socialist Republic of Albania a member of that was controlled by one country?",
+          "Which country controlled #1?",
+          "When did #2 agree to a unified Germany inside of the organization Eisenhower would not discuss during the campaign?"
+        ],
+        "B": [
+          "Which organization of nations was the People's Socialist Republic of Albania a member of that was controlled by one country?",
+          "Which country controlled #1?",
+          "Which organization did Dwight D. Eisenhower refuse to discuss during his campaign?",
+          "When did #2 agree to a unified Germany inside of #3?"
+        ]
+      },
+      "scores": {
+        "A": -0.2747796873251597,
+        "B": 0.027022823691368103
+      },
+      "pick": "B",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.5,
+      "B_cov": 0.25,
+      "B_em": 0.0,
+      "B_f1": 0.5,
+      "same": 0
+    },
+    {
+      "qid": "2hop__455158_247871",
+      "gold": "Waseca County",
+      "plans": {
+        "A": [
+          "What is the full name or location of NRHEG High School?",
+          "What county is #1 located in?"
+        ],
+        "B": [
+          "What is the full name of NRHEG High School?",
+          "What county is #1 located in?"
+        ]
+      },
+      "scores": {
+        "A": 1.0374770164489746,
+        "B": 0.022545337677001953
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "3hop1__131783_131926_13165",
+      "gold": "Treaty of Paris",
+      "plans": {
+        "A": [
+          "What is the location of the Minikahda Club?",
+          "What body of water is located at #1?",
+          "What treaty ceded territory to the US extending west to #2?"
+        ],
+        "B": [
+          "What body of water is located at the Minikahda Club?",
+          "What treaty ceded territory to the US extending west to #1?"
+        ]
+      },
+      "scores": {
+        "A": 2.2354507048924765,
+        "B": 2.091025620698929
+      },
+      "pick": "A",
+      "A_cov": 0.6666666666666666,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 0.3333333333333333,
+      "B_em": 0.0,
+      "B_f1": 0.8571428571428571,
+      "same": 0
+    },
+    {
+      "qid": "2hop__123214_22402",
+      "gold": "nearly 25,000",
+      "plans": {
+        "A": [
+          "Which university is Daniel Thürer associated with?",
+          "How many students attend #1?"
+        ],
+        "B": [
+          "Which university is Daniel Thürer associated with?",
+          "How many students attend #1?"
+        ]
+      },
+      "scores": {
+        "A": 0.8404452800750732
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "3hop1__358853_339990_15538",
+      "gold": "1984",
+      "plans": {
+        "A": [
+          "In which county is Raven Creek located?",
+          "In which state is #1 located?",
+          "When did #2 reinstate the death penalty?"
+        ],
+        "B": [
+          "In which county is Raven Creek located?",
+          "In which state is #1 located?",
+          "When did #2 reinstate the death penalty?"
+        ]
+      },
+      "scores": {
+        "A": 2.572850227355957
+      },
+      "pick": "A",
+      "A_cov": 0.6666666666666666,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.6666666666666666,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__552546_70131",
+      "gold": "consisting largely of World War I veterans",
+      "plans": {
+        "A": [
+          "In which country is the Free State of Mecklenburg-Schwerin located?",
+          "Who constituted the free corps in #1?"
+        ],
+        "B": [
+          "In which country is the Free State of Mecklenburg-Schwerin located?",
+          "Who constituted the free corps in #1?"
+        ]
+      },
+      "scores": {
+        "A": 2.0710697174072266
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 0.0,
+      "A_f1": 0.7272727272727273,
+      "B_cov": 1.0,
+      "B_em": 0.0,
+      "B_f1": 0.7272727272727273,
+      "same": 1
+    },
+    {
+      "qid": "2hop__67956_463572",
+      "gold": "MGM Records",
+      "plans": {
+        "A": [
+          "Who sang the song 'You Belong to Me'?",
+          "What record label does #1 belong to?"
+        ],
+        "B": [
+          "Who sang the song You Belong to Me?",
+          "What record label is #1 signed to?"
+        ]
+      },
+      "scores": {
+        "A": -0.8536287546157837,
+        "B": -0.8965033292770386
+      },
+      "pick": "A",
+      "A_cov": 0.0,
+      "A_em": 0.0,
+      "A_f1": 0.5,
+      "B_cov": 0.0,
+      "B_em": 0.0,
+      "B_f1": 0.5,
+      "same": 0
+    },
+    {
+      "qid": "2hop__418360_67370",
+      "gold": "January 19, 2018",
+      "plans": {
+        "A": [
+          "Who is the author of the book 'The New New Rules'?",
+          "When does the show 'Real Time with #1' start again in 2018?"
+        ],
+        "B": [
+          "Who is the author of The New New Rules?",
+          "When does Real Time with #1 start again in 2018?"
+        ]
+      },
+      "scores": {
+        "A": 3.335921287536621,
+        "B": 3.1139681339263916
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 0.0,
+      "A_f1": 0.6666666666666666,
+      "B_cov": 1.0,
+      "B_em": 0.0,
+      "B_f1": 0.6666666666666666,
+      "same": 0
+    },
+    {
+      "qid": "2hop__73921_807969",
+      "gold": "Egypt national football team",
+      "plans": {
+        "A": [
+          "Who is the most recent BBC Footballer of the Year?",
+          "Which team is #1 a member of?"
+        ],
+        "B": [
+          "Who won the BBC Footballer of the Year award?",
+          "Which team is #1 a member of?"
+        ]
+      },
+      "scores": {
+        "A": 0.7173011004924774,
+        "B": 0.926394909620285
+      },
+      "pick": "B",
+      "A_cov": 0.0,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.0,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "3hop1__139787_88110_77129",
+      "gold": "Windows 8",
+      "plans": {
+        "A": [
+          "What network broadcasts the show Buchanan & Press?",
+          "What company do the letters MS stand for in the context of the network #1?",
+          "What was the first operating system to support Hyper-V from the company #2?"
+        ],
+        "B": [
+          "What network broadcasts Buchanan & Press?",
+          "What company do the letters MS stand for in the context of #1?",
+          "What was the first OS to support Hyper-V from #2?"
+        ]
+      },
+      "scores": {
+        "A": 1.8684008121490479,
+        "B": 0.6883854766686758
+      },
+      "pick": "A",
+      "A_cov": 0.6666666666666666,
+      "A_em": 0.0,
+      "A_f1": 0.4,
+      "B_cov": 0.6666666666666666,
+      "B_em": 0.0,
+      "B_f1": 0.4,
+      "same": 0
+    },
+    {
+      "qid": "2hop__141456_6455",
+      "gold": "Firefox",
+      "plans": {
+        "A": [
+          "What company is Mozilla Messaging a part of?",
+          "What was the resulting browser for #1?"
+        ],
+        "B": [
+          "What company is Mozilla Messaging a part of?",
+          "What browser was developed by #1?"
+        ]
+      },
+      "scores": {
+        "A": 2.547683835029602,
+        "B": 3.4229367934167385
+      },
+      "pick": "B",
+      "A_cov": 0.5,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 0.5,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 0
+    },
+    {
+      "qid": "3hop2__326964_7855_7713",
+      "gold": "about 400 years",
+      "plans": {
+        "A": [
+          "Where is the headquarters of Yaxing Coach located?",
+          "What is the capital city of #1?",
+          "How long has #2 been the capital city of #1?"
+        ],
+        "B": [
+          "Where is the headquarters of Yaxing Coach located?",
+          "What is the capital city of #1?",
+          "How long has #2 been the capital city of #1?"
+        ]
+      },
+      "scores": {
+        "A": 0.315334531168143
+      },
+      "pick": "A",
+      "A_cov": 0.3333333333333333,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.3333333333333333,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "4hop1__436202_765799_282674_759393",
+      "gold": "Green Bay",
+      "plans": {
+        "A": [
+          "In which county was J. P. Hayes born?",
+          "What counties share a border with #1?",
+          "What is the seat of the county identified in the previous step?"
+        ],
+        "B": [
+          "In which county was J. P. Hayes born?",
+          "What is a county that shares a border with #1?",
+          "What is the seat of #2?"
+        ]
+      },
+      "scores": {
+        "A": -2.770312945048014,
+        "B": -1.9759198824564617
+      },
+      "pick": "B",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.25,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "3hop1__389069_132457_47686",
+      "gold": "Toronto Coach Terminal",
+      "plans": {
+        "A": [
+          "Who performed the song Sleep Is the Enemy?",
+          "In which city was the band #1 formed?",
+          "Where do greyhound buses depart from in #2?"
+        ],
+        "B": [
+          "Who performed the song Sleep Is the Enemy?",
+          "In which city was #1 formed?",
+          "Where do greyhound buses depart from in #2?"
+        ]
+      },
+      "scores": {
+        "A": -0.21289304892222086,
+        "B": -0.48545952637990314
+      },
+      "pick": "A",
+      "A_cov": 0.3333333333333333,
+      "A_em": 0.0,
+      "A_f1": 0.28571428571428575,
+      "B_cov": 0.3333333333333333,
+      "B_em": 0.0,
+      "B_f1": 0.28571428571428575,
+      "same": 0
+    },
+    {
+      "qid": "2hop__90773_715759",
+      "gold": "Manhattan Project",
+      "plans": {
+        "A": [
+          "Who was the inventor of the atomic bomb trigger?",
+          "What was #1 a participant in?"
+        ],
+        "B": [
+          "Who was the inventor of the atomic bomb trigger?",
+          "What was #1 a participant in?"
+        ]
+      },
+      "scores": {
+        "A": -0.8579719811677933
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 0.5,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__135652_669373",
+      "gold": "Charles University",
+      "plans": {
+        "A": [
+          "Who is the physicist after whom the Mach number is named?",
+          "Who is the employer of #1?"
+        ],
+        "B": [
+          "Who is the physicist after whom the Mach number is named?",
+          "Who was the employer of #1?"
+        ]
+      },
+      "scores": {
+        "A": 0.30190253257751465,
+        "B": 0.4794344902038574
+      },
+      "pick": "B",
+      "A_cov": 1.0,
+      "A_em": 0.0,
+      "A_f1": 0.6666666666666666,
+      "B_cov": 1.0,
+      "B_em": 0.0,
+      "B_f1": 0.6666666666666666,
+      "same": 0
+    },
+    {
+      "qid": "2hop__6736_6733",
+      "gold": "Eastern block",
+      "plans": {
+        "A": [
+          "Where are the most speakers of the language found?",
+          "To what division does #1 belong?"
+        ],
+        "B": [
+          "What language has the most speakers?",
+          "In which place are the most speakers of #1 found?",
+          "To what division does #2 belong?"
+        ]
+      },
+      "scores": {
+        "A": -1.9476403594017029,
+        "B": -1.7134818236033122
+      },
+      "pick": "B",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "4hop1__58323_375563_161848_83118",
+      "gold": "the first Sunday in April",
+      "plans": {
+        "A": [
+          "Who is the author of The Book Thief?",
+          "What country is #1 from?",
+          "What country is near #2?",
+          "When does daylight savings end in #3?"
+        ],
+        "B": [
+          "Who is the author of The Book Thief?",
+          "What country is #1 from?",
+          "What country is near #2?",
+          "When does daylight savings end in #3?"
+        ]
+      },
+      "scores": {
+        "A": -0.09400784969329834
+      },
+      "pick": "A",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.25,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "4hop3__524186_219173_862998_72134",
+      "gold": "1839",
+      "plans": {
+        "A": [
+          "Who is the screenwriter of the film The Poor Boob?",
+          "In which state was #1 born?",
+          "Where is Hillcrest High School located?",
+          "When did #3 become the capital of #2?"
+        ],
+        "B": [
+          "Who is the screenwriter of The Poor Boob?",
+          "In which state was #1 born?",
+          "Where is Hillcrest High School located?",
+          "When did #3 become the capital of #2?"
+        ]
+      },
+      "scores": {
+        "A": 0.6769706010818481,
+        "B": 0.5867176055908203
+      },
+      "pick": "A",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.25,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "3hop1__354480_834494_34109",
+      "gold": "KUAT-TV 6",
+      "plans": {
+        "A": [
+          "What is the location of Eric Marcus Municipal Airport?",
+          "What is the administrative territorial entity that contains #1?"
+        ],
+        "B": [
+          "What is the location of Eric Marcus Municipal Airport?",
+          "What is the administrative territorial entity that contains #1?"
+        ]
+      },
+      "scores": {
+        "A": 2.567642092704773
+      },
+      "pick": "A",
+      "A_cov": 0.3333333333333333,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.3333333333333333,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__354635_174222",
+      "gold": "Time Warner Cable",
+      "plans": {
+        "A": [
+          "Who was the owner of Empire Sports Network?",
+          "What company succeeded #1?"
+        ],
+        "B": [
+          "Who owned Empire Sports Network?",
+          "What company succeeded #1?"
+        ]
+      },
+      "scores": {
+        "A": 0.918487548828125,
+        "B": 1.2844727039337158
+      },
+      "pick": "B",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "4hop3__678814_466199_695123_72134",
+      "gold": "1839",
+      "plans": {
+        "A": [
+          "In which town is the radio station WIZE licensed?",
+          "In which state is Stoney Creek Township located?",
+          "When did #1 become the capital of #2?"
+        ],
+        "B": [
+          "What town is the radio station WIZE licensed in?",
+          "In which state is Stoney Creek Township located?",
+          "When did #1 become the capital of #2?"
+        ]
+      },
+      "scores": {
+        "A": 3.112588882446289,
+        "B": 3.155994415283203
+      },
+      "pick": "B",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.25,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__83405_158262",
+      "gold": "1848",
+      "plans": {
+        "A": [
+          "Who was the president of the Confederate States of America?",
+          "When did #1 end his fight in the Mexican-American war?"
+        ],
+        "B": [
+          "Who was the president of the Confederate States of America?",
+          "When did #1 end his fight in the Mexican-American war?"
+        ]
+      },
+      "scores": {
+        "A": -0.8885443657636642
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 0.5,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__60001_512508",
+      "gold": "Manhattan Project",
+      "plans": {
+        "A": [
+          "Who discovered that all atoms of an element have the same number of protons?",
+          "What did #1 participate in?"
+        ],
+        "B": [
+          "Who discovered that all atoms of an element have the same number of protons?",
+          "What did #1 participate in?"
+        ]
+      },
+      "scores": {
+        "A": 0.3408935070037842
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__403712_793210",
+      "gold": "Sir Francis Baring, 1st Baronet",
+      "plans": {
+        "A": [
+          "Who is the father of Edward Baring, 1st Baron Revelstoke?",
+          "Who is the father of #1?"
+        ],
+        "B": [
+          "Who is the father of Edward Baring, 1st Baron Revelstoke?",
+          "Who is the father of #1?"
+        ]
+      },
+      "scores": {
+        "A": -1.0742021799087524
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.20000000000000004,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.20000000000000004,
+      "same": 1
+    },
+    {
+      "qid": "3hop1__409517_547811_80702",
+      "gold": "Rialto Bridge",
+      "plans": {
+        "A": [
+          "Who composed the opera Scanderbeg?",
+          "What is the birth city of #1?",
+          "What is the name of the famous bridge in #2?"
+        ],
+        "B": [
+          "Who composed the opera Scanderbeg?",
+          "What is the birth city of #1?",
+          "What is the name of the famous bridge in #2?"
+        ]
+      },
+      "scores": {
+        "A": 1.1239240964253743
+      },
+      "pick": "A",
+      "A_cov": 0.6666666666666666,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 0.6666666666666666,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 1
+    },
+    {
+      "qid": "4hop1__433767_32392_823060_610794",
+      "gold": "Richland County",
+      "plans": {
+        "A": [
+          "Where was Mike Dow born?",
+          "What is the capital of the state where Mike Dow was born?",
+          "What city shares a border with #2?",
+          "In what county is #3 located?"
+        ],
+        "B": [
+          "In what state was Mike Dow born?",
+          "What is the capital of #1?",
+          "What city shares a border with #2?",
+          "In what county is #3 located?"
+        ]
+      },
+      "scores": {
+        "A": 2.4140077233314514,
+        "B": 0.3458234667778015
+      },
+      "pick": "A",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.5,
+      "B_cov": 0.25,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 0
+    },
+    {
+      "qid": "4hop2__567956_39078_8987_8974",
+      "gold": "Alfredo Stroessner's Paraguay",
+      "plans": {
+        "A": [
+          "Which country invaded another country and experienced normalization due to an unprepared military branch?",
+          "Which country was invaded by #1?",
+          "Where did #2 have an embassy, being the only communist country to do so?"
+        ],
+        "B": [
+          "Which country invaded another country where normalization occurred because the military branch was unprepared?",
+          "Where did #1 have an embassy as the only communist country?"
+        ]
+      },
+      "scores": {
+        "A": -0.08884851137797038,
+        "B": 1.3080521821975708
+      },
+      "pick": "B",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__689472_52835",
+      "gold": "John D. Loudermilk",
+      "plans": {
+        "A": [
+          "Who is the performer of the song 'Feelin' the Same Way'?",
+          "Who wrote the song 'Turn Me On' performed by #1?"
+        ],
+        "B": [
+          "Who performs the song Feelin' the Same Way?",
+          "Who wrote the song Turn Me On performed by #1?"
+        ]
+      },
+      "scores": {
+        "A": 2.366952657699585,
+        "B": 2.587970733642578
+      },
+      "pick": "B",
+      "A_cov": 1.0,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 1.0,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__820739_250752",
+      "gold": "Glen Morgan",
+      "plans": {
+        "A": [
+          "Who is the screenwriter of War of the Coprophages?",
+          "Who is the sibling of #1?"
+        ],
+        "B": [
+          "Who is the screenwriter of War of the Coprophages?",
+          "Who is the sibling of #1?"
+        ]
+      },
+      "scores": {
+        "A": -0.5513613224029541
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__21104_16254",
+      "gold": "92 percent",
+      "plans": {
+        "A": [
+          "What group of Jews represents at least 70% of Jews worldwide?",
+          "By 1931, what percentage of the world's Jews were #1?"
+        ],
+        "B": [
+          "What group of Jews represents at least 70% of Jews worldwide?",
+          "By 1931, what percentage of the world's Jews were #1?"
+        ]
+      },
+      "scores": {
+        "A": 4.161084055900574
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 1.0,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 1
+    },
+    {
+      "qid": "4hop1__726391_153080_33952_34053",
+      "gold": "1905",
+      "plans": {
+        "A": [
+          "Who is the performer of the song 'Oh Yeah'?",
+          "What state is #1 from?",
+          "What is the second largest city in #2?",
+          "What was the wettest year in #3?"
+        ],
+        "B": [
+          "Who is the performer of the song Oh Yeah?",
+          "What state is #1 from?",
+          "What is the second largest city in #2?",
+          "What was the wettest year in #3?"
+        ]
+      },
+      "scores": {
+        "A": -1.533949851989746,
+        "B": -1.2741975784301758
+      },
+      "pick": "B",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.25,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__374767_152023",
+      "gold": "Kicking Mule Records",
+      "plans": {
+        "A": [
+          "Who is the performer of One Night in America?",
+          "What label is responsible for #1?"
+        ],
+        "B": [
+          "Who is the performer of One Night in America?",
+          "What label is responsible for #1?"
+        ]
+      },
+      "scores": {
+        "A": 0.5196304321289062
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "4hop3__426860_88460_30152_20999",
+      "gold": "The dynasty regrouped and defeated the Portuguese",
+      "plans": {
+        "A": [
+          "From which empire or entity did the Somali Muslim Ajuran Empire declare independence?",
+          "In which country is That Dam located?",
+          "How were the people identified in #1 expelled from the natural boundary between Thailand and the country identified in #2?"
+        ],
+        "B": [
+          "From which empire did the Somali Muslim Ajuran Empire declare independence?",
+          "In which country is That Dam located?",
+          "What is the natural boundary between Thailand and #2?",
+          "How were the people of #1 expelled from #3?"
+        ]
+      },
+      "scores": {
+        "A": 2.080716053644816,
+        "B": 0.9873655850533396
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "3hop1__79462_91850_685675",
+      "gold": "New York Yankees",
+      "plans": {
+        "A": [
+          "Where will the American League Wild Card game be played?",
+          "Who hit the first home run at #1?",
+          "What team is #2 a member of?"
+        ],
+        "B": [
+          "Where will the American League Wild Card game be played?",
+          "Who hit the first home run at #1?",
+          "What team is #2 a member of?"
+        ]
+      },
+      "scores": {
+        "A": -0.4497705300649007
+      },
+      "pick": "A",
+      "A_cov": 0.3333333333333333,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 0.3333333333333333,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__289517_139339",
+      "gold": "Academy Award for Best Live Action Short Film",
+      "plans": {
+        "A": [
+          "Who was a cast member in the movie After Hours?",
+          "What was #1 nominated for?"
+        ],
+        "B": [
+          "Who was a cast member in the film After Hours?",
+          "What was #1 nominated for?"
+        ]
+      },
+      "scores": {
+        "A": 1.2427012920379639,
+        "B": 1.3016278743743896
+      },
+      "pick": "B",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.08333333333333333,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.08333333333333333,
+      "same": 0
+    },
+    {
+      "qid": "4hop1__129721_32392_823060_610794",
+      "gold": "Richland County",
+      "plans": {
+        "A": [
+          "In which state is Zubly Cemetery located?",
+          "What is the state capital of #1?",
+          "What city shares a border with #2?",
+          "What county is #3 located in?"
+        ],
+        "B": [
+          "In which state is Zubly Cemetery located?",
+          "What is the state capital of #1?",
+          "What city shares a border with #2?",
+          "In which county is #3 located?"
+        ]
+      },
+      "scores": {
+        "A": 0.22288736701011658,
+        "B": 0.41680218279361725
+      },
+      "pick": "B",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.5,
+      "B_cov": 0.25,
+      "B_em": 0.0,
+      "B_f1": 0.5,
+      "same": 0
+    },
+    {
+      "qid": "2hop__142842_68489",
+      "gold": "Snapper Foster",
+      "plans": {
+        "A": [
+          "Who performed the song Night Rocker?",
+          "What character did #1 play on Young and the Restless?"
+        ],
+        "B": [
+          "Who performed the song Night Rocker?",
+          "What role did #1 play on Young and Restless?"
+        ]
+      },
+      "scores": {
+        "A": 0.5166887044906616,
+        "B": 0.12413549423217773
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__80546_75184",
+      "gold": "Claudia Wells",
+      "plans": {
+        "A": [
+          "Who played Marlene McFly in Back to the Future?",
+          "Who is the girlfriend of #1?"
+        ],
+        "B": [
+          "Who played Marlene McFly in Back to the Future?",
+          "Who was the girlfriend of #1?"
+        ]
+      },
+      "scores": {
+        "A": -0.18015003204345703,
+        "B": -0.3007608652114868
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__323534_810083",
+      "gold": "Scranton",
+      "plans": {
+        "A": [
+          "Who is the author of Marcinkus?",
+          "Where was #1 born?"
+        ],
+        "B": [
+          "Who is the author of Marcinkus?",
+          "Where was #1 born?"
+        ]
+      },
+      "scores": {
+        "A": 0.6802785396575928
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__829474_123956",
+      "gold": "15 February 1942",
+      "plans": {
+        "A": [
+          "Where was Muhammad Shobran born?",
+          "On what date was the battle that took place in #1?"
+        ],
+        "B": [
+          "Where was Muhammad Shobran born?",
+          "On what date was the battle that took place in #1?"
+        ]
+      },
+      "scores": {
+        "A": 2.284152865409851
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "4hop1__94201_642284_131926_90707",
+      "gold": "at the city of Cairo, Illinois",
+      "plans": {
+        "A": [
+          "Who designed the Southeast Library?",
+          "Where did #1 die?",
+          "What river is located by #2?",
+          "Where do #3 and the Ohio River meet?"
+        ],
+        "B": [
+          "Who designed the Southeast Library?",
+          "Where did #1 die?",
+          "What river is by #2?",
+          "Where do #3 and the Ohio River meet?"
+        ]
+      },
+      "scores": {
+        "A": -0.2596190720796585,
+        "B": -0.3387151509523392
+      },
+      "pick": "A",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.25,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "4hop1__629520_49925_13759_736921",
+      "gold": "Saxony-Anhalt",
+      "plans": {
+        "A": [
+          "Who wanted to reform the religion of Victor Razafimahatratra?",
+          "In which district was a sermon on Marian devotion preached by #1?",
+          "In what region of Germany is #2 located?"
+        ],
+        "B": [
+          "Who wanted to reform the religion of Victor Razafimahatratra?",
+          "In which district was a sermon on Marian devotion preached by #1?",
+          "In what region of Germany is #2 located?"
+        ]
+      },
+      "scores": {
+        "A": -2.959253261486689
+      },
+      "pick": "A",
+      "A_cov": 0.0,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.0,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "3hop1__540585_568433_47686",
+      "gold": "Toronto Coach Terminal",
+      "plans": {
+        "A": [
+          "What is the production company of Miss Spider's Sunny Patch Kids?",
+          "Where is the headquarters of #1 located?",
+          "Where do greyhound buses leave from in #2?"
+        ],
+        "B": [
+          "What is the production company of Miss Spider's Sunny Patch Kids?",
+          "Where is the headquarters of #1 located?",
+          "Where do greyhound buses leave from in #2?"
+        ]
+      },
+      "scores": {
+        "A": 1.4093869129816692
+      },
+      "pick": "A",
+      "A_cov": 0.3333333333333333,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.3333333333333333,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__56307_604644",
+      "gold": "429 Records",
+      "plans": {
+        "A": [
+          "Who is the singer of the song 'Hey Now, You're A Rockstar'?",
+          "What is the record label of #1?"
+        ],
+        "B": [
+          "Who is the singer of the song Hey Now, You're A Rockstar?",
+          "What is the record label of #1?"
+        ]
+      },
+      "scores": {
+        "A": -3.9850733280181885,
+        "B": -3.9588788747787476
+      },
+      "pick": "B",
+      "A_cov": 0.0,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.0,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__507528_139339",
+      "gold": "Academy Award for Best Live Action Short Film",
+      "plans": {
+        "A": [
+          "What award was the film 'Lisa Picard is Famous' nominated for?",
+          "Who was the director of the film 'Lisa Picard is Famous'?"
+        ],
+        "B": [
+          "Who directed the film Lisa Picard is Famous?",
+          "What was #1 nominated for?"
+        ]
+      },
+      "scores": {
+        "A": 4.30959165096283,
+        "B": 1.868715524673462
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.07999999999999999,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.07999999999999999,
+      "same": 0
+    },
+    {
+      "qid": "2hop__44259_747874",
+      "gold": "Jamie Murray",
+      "plans": {
+        "A": [
+          "Who won the 2012 U.S. Open Men's Singles final?",
+          "Who is the sibling of #1?"
+        ],
+        "B": [
+          "Who won the 2012 U.S. Open Men's Singles final?",
+          "Who is the sibling of #1?"
+        ]
+      },
+      "scores": {
+        "A": 0.08800244331359863
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 1.0,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__428940_135373",
+      "gold": "Vitus Bering",
+      "plans": {
+        "A": [
+          "What body of water is Partridge Lake part of?",
+          "After what is #1 named?"
+        ],
+        "B": [
+          "What body of water is Partridge Lake part of?",
+          "After what is #1 named?"
+        ]
+      },
+      "scores": {
+        "A": 0.5931401252746582
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.5,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.5,
+      "same": 1
+    },
+    {
+      "qid": "3hop1__147225_30587_83479",
+      "gold": "to stem the flow of merchant shipping that enabled Britain to keep fighting",
+      "plans": {
+        "A": [
+          "In which city did Herbert Saffir die?",
+          "What ocean is adjacent to #1?",
+          "What was Germany's goal in the Battle of #2?"
+        ],
+        "B": [
+          "In which city did Herbert Saffir die?",
+          "Which ocean is adjacent to #1?",
+          "What was Germany's goal in the Battle of #2?"
+        ]
+      },
+      "scores": {
+        "A": 0.5957343578338623,
+        "B": 0.6099809805552164
+      },
+      "pick": "B",
+      "A_cov": 0.6666666666666666,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 0.6666666666666666,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 0
+    },
+    {
+      "qid": "2hop__642686_7292",
+      "gold": "George Benson",
+      "plans": {
+        "A": [
+          "Who is the performer of the song Hello Tomorrow?",
+          "What artist was featured on Smooth Jazz Stations along with Kenny G and #1?"
+        ],
+        "B": [
+          "Who performed the song Hello Tomorrow?",
+          "What artist was featured on Smooth Jazz Stations along with Kenny G and #1?"
+        ]
+      },
+      "scores": {
+        "A": 4.566080093383789,
+        "B": 3.9145783185958862
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 1.0,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 0
+    },
+    {
+      "qid": "3hop1__107540_720914_27537",
+      "gold": "for the conclave in Rome",
+      "plans": {
+        "A": [
+          "Who is the maker of The Gozzi Altarpiece?",
+          "Where did #1 die?",
+          "Why did Roncalli leave #2?"
+        ],
+        "B": [
+          "Who is the maker of The Gozzi Altarpiece?",
+          "Where did #1 die?",
+          "Why did Roncalli leave #2?"
+        ]
+      },
+      "scores": {
+        "A": 1.0824186503887177
+      },
+      "pick": "A",
+      "A_cov": 0.6666666666666666,
+      "A_em": 0.0,
+      "A_f1": 0.07692307692307693,
+      "B_cov": 0.6666666666666666,
+      "B_em": 0.0,
+      "B_f1": 0.07692307692307693,
+      "same": 1
+    },
+    {
+      "qid": "3hop1__161433_33952_33939",
+      "gold": "7,531",
+      "plans": {
+        "A": [
+          "What state does the cross-border transactions committee focus on?",
+          "What was the second largest city in #1 in 1900?",
+          "What was the population of #2 in 1900?"
+        ],
+        "B": [
+          "What state does the cross-border transactions committee focus on?",
+          "What was the second largest city in #1 in 1900?",
+          "What was the population of #2 in 1900?"
+        ]
+      },
+      "scores": {
+        "A": -2.224612514177958
+      },
+      "pick": "A",
+      "A_cov": 0.3333333333333333,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.3333333333333333,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__71871_494136",
+      "gold": "Meg Ryan",
+      "plans": {
+        "A": [
+          "Who is the actor playing Bart's father in the movie I Can Only Imagine?",
+          "Who is the spouse of #1?"
+        ],
+        "B": [
+          "Who plays Bart's father in the movie I Can Only Imagine?",
+          "Who is the spouse of #1?"
+        ]
+      },
+      "scores": {
+        "A": 0.6664115190505981,
+        "B": 0.728645920753479
+      },
+      "pick": "B",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "4hop1__310029_153080_33897_81096",
+      "gold": "Mario Andretti",
+      "plans": {
+        "A": [
+          "Who is the performer of Jazz Portraits: Mingus in Wonderland?",
+          "What state is #1 from?",
+          "What is the largest populated city in #2?",
+          "Who won the Indy car race in #3?"
+        ],
+        "B": [
+          "Who is the performer of Jazz Portraits: Mingus in Wonderland?",
+          "What state is #1 from?",
+          "What is the largest populated city in #2?",
+          "Who won the Indy car race in #3?"
+        ]
+      },
+      "scores": {
+        "A": -1.4980071187019348
+      },
+      "pick": "A",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.25,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__620853_22458",
+      "gold": "International Federation of Association Football",
+      "plans": {
+        "A": [
+          "What organization does the Haiti national football team belong to?",
+          "What does the name of #1 stand for?"
+        ],
+        "B": [
+          "What organization does the Haiti national football team belong to?",
+          "What does the name of #1 stand for?"
+        ]
+      },
+      "scores": {
+        "A": -3.210350424051285
+      },
+      "pick": "A",
+      "A_cov": 1.0,
+      "A_em": 1.0,
+      "A_f1": 1.0,
+      "B_cov": 1.0,
+      "B_em": 1.0,
+      "B_f1": 1.0,
+      "same": 1
+    },
+    {
+      "qid": "2hop__865828_377862",
+      "gold": "Sucha Beskidzka",
+      "plans": {
+        "A": [
+          "Which county is Gmina Jordanow located in?",
+          "Which city is located in #1?"
+        ],
+        "B": [
+          "What county is Gmina Jordanow in?",
+          "Which city is in #1?"
+        ]
+      },
+      "scores": {
+        "A": 1.912522554397583,
+        "B": 1.817119836807251
+      },
+      "pick": "A",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "4hop3__630723_88460_30152_20999",
+      "gold": "The dynasty regrouped and defeated the Portuguese",
+      "plans": {
+        "A": [
+          "Who is Phommathat and what is his country of citizenship?",
+          "What is the natural boundary between Thailand and #1?",
+          "Which people were expelled from #2 by the Somali Muslim Ajuran Empire as a proclamation of independence involving new coins?"
+        ],
+        "B": [
+          "What country is Phommathat's country of citizenship?",
+          "What is the natural boundary between Thailand and #1?",
+          "From which people were new coins a proclamation of independence by the Somali Muslim Ajuran Empire?",
+          "How were people from #3 expelled from #2?"
+        ]
+      },
+      "scores": {
+        "A": 1.4414810041586559,
+        "B": -0.0681350827217102
+      },
+      "pick": "A",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.25,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "4hop3__719125_132409_371500_35031",
+      "gold": "third-largest",
+      "plans": {
+        "A": [
+          "Where is Veoh's headquarters located?",
+          "In which state were the performers of the band Scars formed?",
+          "What are the top five largest urban areas in #2?",
+          "Where does #1 rank among the top five largest urban areas of #3?"
+        ],
+        "B": [
+          "Where is Veoh's headquarters located?",
+          "In which state were the performers of the band Scars formed?",
+          "What is the rank of #1 among the top five largest urban areas of #2?"
+        ]
+      },
+      "scores": {
+        "A": -1.0082647800445557,
+        "B": -0.801005999247233
+      },
+      "pick": "B",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 0
+    },
+    {
+      "qid": "4hop1__105688_17130_70784_79935",
+      "gold": "1930",
+      "plans": {
+        "A": [
+          "Where is Eyal Golan located?",
+          "What region lies to the north of #1 and the Persian Gulf?",
+          "When was #2 created?"
+        ],
+        "B": [
+          "Where is Eyal Golan located?",
+          "What region lies to the north of #1 and the Persian Gulf?",
+          "When was #2 created?"
+        ]
+      },
+      "scores": {
+        "A": -1.357500473658244
+      },
+      "pick": "A",
+      "A_cov": 0.25,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.25,
+      "B_em": 0.0,
+      "B_f1": 0.0,
+      "same": 1
+    },
+    {
+      "qid": "3hop1__376309_160713_77246",
+      "gold": "the country of India",
+      "plans": {
+        "A": [
+          "What country was created when Garlat's country was created?",
+          "What area of British India became India when #1 was created?",
+          "What is the majority religion in #2?",
+          "What is the Arabic word for #3?"
+        ],
+        "B": [
+          "What country was created when Garlat's country was created?",
+          "What area of British India became India when #1 was created?",
+          "What is the majority religion in #2?",
+          "What is the Arabic word for #3?"
+        ]
+      },
+      "scores": {
+        "A": -2.6570160388946533
+      },
+      "pick": "A",
+      "A_cov": 0.6666666666666666,
+      "A_em": 0.0,
+      "A_f1": 0.3333333333333333,
+      "B_cov": 0.6666666666666666,
+      "B_em": 0.0,
+      "B_f1": 0.3333333333333333,
+      "same": 1
+    },
+    {
+      "qid": "4hop1__525129_315334_131926_87157",
+      "gold": "rises in northern Minnesota and meanders slowly southwards",
+      "plans": {
+        "A": [
+          "Who is the performer of the album 'Lots More Blues, Rags and Hollers'?",
+          "In which city was #1 formed?",
+          "What is the name of the river that flows by #2?",
+          "What is the direction of flow of #3?"
+        ],
+        "B": [
+          "Where was the performer of Lots More Blues, Rags and Hollers formed?",
+          "What river flows by #1?",
+          "What is the direction of flow of #2?"
+        ]
+      },
+      "scores": {
+        "A": -1.4537678956985474,
+        "B": -1.1649493376413982
+      },
+      "pick": "B",
+      "A_cov": 0.5,
+      "A_em": 0.0,
+      "A_f1": 0.0,
+      "B_cov": 0.5,
+      "B_em": 0.0,
+      "B_f1": 0.2222222222222222,
+      "same": 0
+    },
+    {
+      "qid": "3hop1__140554_2053_52946",
+      "gold": "February 7, 2018",
+      "plans": {
+        "A": [
+          "Which network hosts Westinghouse Playhouse?",
+          "Which major broadcaster based in NY is distinct from ABC and #1?",
+          "When is Celebrity Big Brother coming to #2?"
+        ],
+        "B": [
+          "What network hosts Westinghouse Playhouse?",
+          "What is the other major broadcaster based in NY along with ABC and #1?",
+          "When is Celebrity Big Brother coming to #2?"
+        ]
+      },
+      "scores": {
+        "A": 4.154637336730957,
+        "B": 4.707979599634807
+      },
+      "pick": "B",
+      "A_cov": 0.6666666666666666,
+      "A_em": 0.0,
+      "A_f1": 0.4,
+      "B_cov": 0.6666666666666666,
+      "B_em": 0.0,
+      "B_f1": 0.4,
+      "same": 0
+    },
+    {
+      "qid": "3hop1__347858_503371_21711",
+      "gold": "built in the 15th century",
+      "plans": {
+        "A": [
+          "Where is Castiliscar located?",
+          "Where did Martin of #1 die?",
+          "When was the Palau de la Generalitat constructed in #2?"
+        ],
+        "B": [
+          "In which country is Castiliscar located?",
+          "Where did Martin of #1 die?",
+          "When was the Palau de la Generalitat constructed in #2?"
+        ]
+      },
+      "scores": {
+        "A": 2.1877805391947427,
+        "B": 2.050607522328695
+      },
+      "pick": "A",
+      "A_cov": 0.6666666666666666,
+      "A_em": 0.0,
+      "A_f1": 0.3333333333333333,
+      "B_cov": 0.6666666666666666,
+      "B_em": 0.0,
+      "B_f1": 0.3333333333333333,
+      "same": 0
+    }
+  ]
+}

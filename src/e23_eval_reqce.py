@@ -56,6 +56,34 @@ def select(mode, rerank, reqs, docs, k):
             rest = [i for i in range(len(docs)) if i not in sel]
             sel.append(max(rest, key=lambda i: s[i]))
         return sel
+    if mode in ("maxmin", "softmin"):
+        # Conjunctive matching: a set is good only if *every* requirement is
+        # matched by some passage, so select by maximising the worst-covered
+        # requirement instead of the sum (global) or the per-requirement max (seq).
+        norm = []
+        for p in per:
+            mu = sum(p) / len(p)
+            sd = (sum((v - mu) ** 2 for v in p) / len(p)) ** 0.5 or 1.0
+            norm.append([(v - mu) / sd for v in p])
+        cur = [min(n) for n in norm]
+        sel = []
+        while len(sel) < k:
+            rest = [i for i in range(len(docs)) if i not in sel]
+            best_i, best_v = None, -1e9
+            for i in rest:
+                if mode == "maxmin":
+                    v = min(max(cur[j], norm[j][i]) for j in range(len(norm)))
+                else:
+                    gains = [max(0.0, norm[j][i] - cur[j]) for j in range(len(norm))]
+                    v = min(gains) + 0.1 * sum(gains)
+                if v > best_v:
+                    best_v, best_i = v, i
+            if best_i is None:
+                break
+            sel.append(best_i)
+            for j in range(len(norm)):
+                cur[j] = max(cur[j], norm[j][best_i])
+        return sel
     if mode == "cover":
         # submodular requirement coverage: greedily maximise the gain in
         # requirement coverage, normalised per requirement so that scores from
