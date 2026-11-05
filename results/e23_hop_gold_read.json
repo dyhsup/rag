@@ -3,15 +3,15 @@
     "n": 100,
     "k": 2,
     "plan": "gold",
-    "model": "dist/reqce/model_hop",
-    "whole_cov": 0.4866666666666667,
-    "whole_any": 0.87,
-    "whole_EM": 0.26,
-    "whole_F1": 0.368813492063492,
-    "seq_cov": 0.7308333333333334,
+    "model": "/root/reqce/model_hop",
+    "whole_cov": 0.5091666666666668,
+    "whole_any": 0.89,
+    "whole_EM": 0.25,
+    "whole_F1": 0.34775793650793646,
+    "seq_cov": 0.7375000000000003,
     "seq_any": 0.99,
     "seq_EM": 0.35,
-    "seq_F1": 0.4397299145299145
+    "seq_F1": 0.4562975135975136
   },
   "records": [
     {
@@ -22,11 +22,11 @@
         "Dennis Quaid   spouse"
       ],
       "gold": "Meg Ryan",
-      "whole_cov": 0.0,
-      "whole_any": 0,
+      "whole_cov": 0.5,
+      "whole_any": 1,
       "whole_sel": [
         12,
-        3
+        0
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -34,7 +34,7 @@
       "seq_any": 1,
       "seq_sel": [
         12,
-        0
+        10
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -47,14 +47,14 @@
         "What is the university where Pierre Berton went?"
       ],
       "gold": "University of British Columbia",
-      "whole_cov": 0.5,
+      "whole_cov": 1.0,
       "whole_any": 1,
       "whole_sel": [
         0,
-        6
+        2
       ],
-      "whole_em": 0.0,
-      "whole_f1": 0.125,
+      "whole_em": 1.0,
+      "whole_f1": 1.0,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -75,8 +75,8 @@
       "whole_cov": 1.0,
       "whole_any": 1,
       "whole_sel": [
-        0,
-        18
+        18,
+        0
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -176,8 +176,8 @@
       "whole_cov": 1.0,
       "whole_any": 1,
       "whole_sel": [
-        12,
-        0
+        0,
+        12
       ],
       "whole_em": 0.0,
       "whole_f1": 0.5714285714285715,
@@ -250,10 +250,10 @@
         "John Cabot   child"
       ],
       "gold": "Sebastian Cabot",
-      "whole_cov": 0.25,
-      "whole_any": 1,
+      "whole_cov": 0.0,
+      "whole_any": 0,
       "whole_sel": [
-        4,
+        1,
         6
       ],
       "whole_em": 0.0,
@@ -279,8 +279,8 @@
       "whole_cov": 0.3333333333333333,
       "whole_any": 1,
       "whole_sel": [
-        6,
-        13
+        13,
+        6
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -407,8 +407,8 @@
       "whole_cov": 0.3333333333333333,
       "whole_any": 1,
       "whole_sel": [
-        15,
-        19
+        19,
+        15
       ],
       "whole_em": 0.0,
       "whole_f1": 0.8571428571428571,
@@ -462,11 +462,11 @@
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
-      "seq_cov": 1.0,
+      "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
         6,
-        8
+        2
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -480,14 +480,14 @@
         "How were the the Portuguese expelled from Myanmar ?"
       ],
       "gold": "The dynasty regrouped and defeated the Portuguese",
-      "whole_cov": 0.3333333333333333,
+      "whole_cov": 0.6666666666666666,
       "whole_any": 1,
       "whole_sel": [
         6,
-        7
+        16
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.22222222222222224,
+      "whole_f1": 0.33333333333333337,
       "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
@@ -617,10 +617,10 @@
       "seq_any": 1,
       "seq_sel": [
         16,
-        2
+        14
       ],
-      "seq_em": 0.0,
-      "seq_f1": 0.15384615384615385
+      "seq_em": 1.0,
+      "seq_f1": 1.0
     },
     {
       "qid": "2hop__754753_57816",
@@ -630,14 +630,14 @@
         "Florida International University law school ranking us news"
       ],
       "gold": "100",
-      "whole_cov": 1.0,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         8,
-        3
+        7
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.0,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -686,7 +686,7 @@
       "whole_any": 1,
       "whole_sel": [
         6,
-        0
+        19
       ],
       "whole_em": 1.0,
       "whole_f1": 1.0,
@@ -707,14 +707,14 @@
         "What was the resulting browser for Mozilla Foundation ?"
       ],
       "gold": "Firefox",
-      "whole_cov": 1.0,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         1,
-        19
+        5
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.5,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -736,10 +736,10 @@
       "whole_any": 1,
       "whole_sel": [
         13,
-        14
+        10
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.0,
+      "whole_f1": 0.125,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -761,10 +761,10 @@
       "whole_any": 1,
       "whole_sel": [
         18,
-        12
+        1
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.5,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -786,7 +786,7 @@
       "whole_any": 1,
       "whole_sel": [
         13,
-        1
+        9
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -812,8 +812,8 @@
       "whole_cov": 0.25,
       "whole_any": 1,
       "whole_sel": [
-        12,
-        2
+        2,
+        13
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -835,19 +835,19 @@
         "what is the meaning of Hindu in arabic dictionary"
       ],
       "gold": "the country of India",
-      "whole_cov": 0.0,
-      "whole_any": 0,
+      "whole_cov": 0.6666666666666666,
+      "whole_any": 1,
       "whole_sel": [
-        10,
-        0
+        4,
+        9
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
-      "seq_cov": 0.3333333333333333,
+      "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
         9,
-        6
+        4
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -1098,14 +1098,14 @@
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
-      "seq_cov": 0.5,
+      "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
         5,
-        13
+        4
       ],
       "seq_em": 0.0,
-      "seq_f1": 0.0
+      "seq_f1": 0.7272727272727273
     },
     {
       "qid": "2hop__67956_463572",
@@ -1242,14 +1242,14 @@
         "How long had Nanjing been the capital city of Yangzhou ?"
       ],
       "gold": "about 400 years",
-      "whole_cov": 0.3333333333333333,
+      "whole_cov": 0.6666666666666666,
       "whole_any": 1,
       "whole_sel": [
         9,
-        12
+        16
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.4,
+      "whole_f1": 0.0,
       "seq_cov": 0.3333333333333333,
       "seq_any": 1,
       "seq_sel": [
@@ -1269,14 +1269,14 @@
         "Brown County   capital"
       ],
       "gold": "Green Bay",
-      "whole_cov": 0.5,
+      "whole_cov": 0.25,
       "whole_any": 1,
       "whole_sel": [
         3,
-        19
+        10
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.0,
       "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
@@ -1324,10 +1324,10 @@
       "whole_any": 1,
       "whole_sel": [
         10,
-        8
+        0
       ],
-      "whole_em": 0.0,
-      "whole_f1": 0.5,
+      "whole_em": 1.0,
+      "whole_f1": 1.0,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -1397,22 +1397,22 @@
         "when does daylight saving end in New Zealand"
       ],
       "gold": "the first Sunday in April",
-      "whole_cov": 0.0,
-      "whole_any": 0,
+      "whole_cov": 0.25,
+      "whole_any": 1,
       "whole_sel": [
-        14,
-        16
+        5,
+        8
       ],
-      "whole_em": 0.0,
-      "whole_f1": 0.6666666666666665,
+      "whole_em": 1.0,
+      "whole_f1": 1.0,
       "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
         11,
         3
       ],
-      "seq_em": 1.0,
-      "seq_f1": 1.0
+      "seq_em": 0.0,
+      "seq_f1": 0.75
     },
     {
       "qid": "4hop3__524186_219173_862998_72134",
@@ -1427,8 +1427,8 @@
       "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
-        0,
-        8
+        8,
+        0
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1479,7 +1479,7 @@
       "whole_any": 1,
       "whole_sel": [
         2,
-        15
+        11
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1514,7 +1514,7 @@
       "seq_any": 1,
       "seq_sel": [
         11,
-        18
+        19
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -1531,7 +1531,7 @@
       "whole_any": 0,
       "whole_sel": [
         8,
-        15
+        9
       ],
       "whole_em": 1.0,
       "whole_f1": 1.0,
@@ -1607,10 +1607,10 @@
       "whole_any": 1,
       "whole_sel": [
         8,
-        18
+        6
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.4,
+      "whole_f1": 0.0,
       "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
@@ -1657,11 +1657,11 @@
         "Yugoslavia was the only communist country to have an embassy where?"
       ],
       "gold": "Alfredo Stroessner's Paraguay",
-      "whole_cov": 0.25,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         17,
-        1
+        15
       ],
       "whole_em": 1.0,
       "whole_f1": 1.0,
@@ -1711,7 +1711,7 @@
       "whole_any": 1,
       "whole_sel": [
         14,
-        18
+        19
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1811,11 +1811,11 @@
         "How were the the Portuguese expelled from Myanmar ?"
       ],
       "gold": "The dynasty regrouped and defeated the Portuguese",
-      "whole_cov": 0.25,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         14,
-        11
+        8
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1893,7 +1893,7 @@
       "whole_any": 1,
       "whole_sel": [
         4,
-        12
+        15
       ],
       "whole_em": 0.0,
       "whole_f1": 0.5,
@@ -1918,7 +1918,7 @@
       "whole_any": 1,
       "whole_sel": [
         13,
-        16
+        14
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1968,7 +1968,7 @@
       "whole_any": 1,
       "whole_sel": [
         0,
-        2
+        6
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -2072,8 +2072,8 @@
       "whole_cov": 0.0,
       "whole_any": 0,
       "whole_sel": [
-        6,
-        9
+        9,
+        6
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -2081,7 +2081,7 @@
       "seq_any": 1,
       "seq_sel": [
         3,
-        6
+        5
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -2195,14 +2195,14 @@
         "what was germany's main goal in the battle of the Atlantic"
       ],
       "gold": "to stem the flow of merchant shipping that enabled Britain to keep fighting",
-      "whole_cov": 0.3333333333333333,
+      "whole_cov": 0.6666666666666666,
       "whole_any": 1,
       "whole_sel": [
-        4,
-        5
+        9,
+        4
       ],
-      "whole_em": 0.0,
-      "whole_f1": 0.0,
+      "whole_em": 1.0,
+      "whole_f1": 1.0,
       "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
@@ -2275,11 +2275,11 @@
       "whole_cov": 0.3333333333333333,
       "whole_any": 1,
       "whole_sel": [
-        15,
+        17,
         19
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.0,
       "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
@@ -2301,7 +2301,7 @@
       "whole_any": 1,
       "whole_sel": [
         1,
-        18
+        0
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -2459,7 +2459,7 @@
       "whole_any": 1,
       "whole_sel": [
         0,
-        12
+        4
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -2484,19 +2484,19 @@
       "whole_cov": 0.3333333333333333,
       "whole_any": 1,
       "whole_sel": [
-        12,
-        11
+        14,
+        18
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.25,
-      "seq_cov": 0.3333333333333333,
+      "whole_f1": 0.0,
+      "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
         12,
-        15
+        14
       ],
       "seq_em": 0.0,
-      "seq_f1": 0.0
+      "seq_f1": 0.3333333333333333
     },
     {
       "qid": "4hop1__525129_315334_131926_87157",
@@ -2560,11 +2560,11 @@
         "When was the Palau de la Generalitat in Barcelona constructed?"
       ],
       "gold": "built in the 15th century",
-      "whole_cov": 0.3333333333333333,
+      "whole_cov": 0.6666666666666666,
       "whole_any": 1,
       "whole_sel": [
         1,
-        7
+        12
       ],
       "whole_em": 0.0,
       "whole_f1": 0.6666666666666666,

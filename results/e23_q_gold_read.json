@@ -3,15 +3,15 @@
     "n": 100,
     "k": 2,
     "plan": "gold",
-    "model": "dist/reqce/model_q",
-    "whole_cov": 0.5308333333333334,
-    "whole_any": 0.92,
-    "whole_EM": 0.25,
-    "whole_F1": 0.35339201321554264,
-    "seq_cov": 0.7125,
-    "seq_any": 0.99,
-    "seq_EM": 0.33,
-    "seq_F1": 0.42639658119658114
+    "model": "/root/reqce/model_q",
+    "whole_cov": 0.6083333333333332,
+    "whole_any": 0.97,
+    "whole_EM": 0.23,
+    "whole_F1": 0.3331533074768368,
+    "seq_cov": 0.6841666666666667,
+    "seq_any": 0.98,
+    "seq_EM": 0.35,
+    "seq_F1": 0.4435882783882784
   },
   "records": [
     {
@@ -22,19 +22,19 @@
         "Dennis Quaid   spouse"
       ],
       "gold": "Meg Ryan",
-      "whole_cov": 0.0,
-      "whole_any": 0,
+      "whole_cov": 0.5,
+      "whole_any": 1,
       "whole_sel": [
-        12,
-        8
+        10,
+        12
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
-      "seq_cov": 0.5,
-      "seq_any": 1,
+      "seq_cov": 0.0,
+      "seq_any": 0,
       "seq_sel": [
         12,
-        0
+        17
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -173,11 +173,11 @@
         "who is king James I who translated the bible"
       ],
       "gold": "King James I of England",
-      "whole_cov": 1.0,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         12,
-        0
+        17
       ],
       "whole_em": 0.0,
       "whole_f1": 0.5714285714285715,
@@ -198,19 +198,19 @@
         "Mark Shand   spouse"
       ],
       "gold": "Clio Goldsmith",
-      "whole_cov": 0.5,
+      "whole_cov": 1.0,
       "whole_any": 1,
       "whole_sel": [
         6,
-        3
+        13
       ],
-      "whole_em": 0.0,
-      "whole_f1": 0.0,
+      "whole_em": 1.0,
+      "whole_f1": 1.0,
       "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
         6,
-        1
+        9
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -304,8 +304,8 @@
       "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
-        5,
-        7
+        7,
+        5
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -378,11 +378,11 @@
         "How many miles of highways are in Nanjing ?"
       ],
       "gold": "140 mi",
-      "whole_cov": 0.0,
-      "whole_any": 0,
+      "whole_cov": 0.6666666666666666,
+      "whole_any": 1,
       "whole_sel": [
-        3,
-        7
+        15,
+        9
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -408,18 +408,18 @@
       "whole_any": 1,
       "whole_sel": [
         19,
-        15
+        7
       ],
       "whole_em": 0.0,
       "whole_f1": 0.8571428571428571,
       "seq_cov": 0.3333333333333333,
       "seq_any": 1,
       "seq_sel": [
-        14,
+        2,
         3
       ],
-      "seq_em": 0.0,
-      "seq_f1": 0.6666666666666666
+      "seq_em": 1.0,
+      "seq_f1": 1.0
     },
     {
       "qid": "2hop__703767_37168",
@@ -429,14 +429,14 @@
         "According to QS World University Rankings where does Cairo University rank?"
       ],
       "gold": "551-600",
-      "whole_cov": 0.5,
+      "whole_cov": 1.0,
       "whole_any": 1,
       "whole_sel": [
         4,
-        9
+        8
       ],
-      "whole_em": 0.0,
-      "whole_f1": 0.0,
+      "whole_em": 1.0,
+      "whole_f1": 1.0,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -458,7 +458,7 @@
       "whole_any": 1,
       "whole_sel": [
         6,
-        5
+        2
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -487,7 +487,7 @@
         6
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.06666666666666667,
+      "whole_f1": 0.28571428571428575,
       "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
@@ -530,14 +530,14 @@
         "What does FIFA stand for?"
       ],
       "gold": "International Federation of Association Football",
-      "whole_cov": 1.0,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         10,
-        8
+        11
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.4000000000000001,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -555,11 +555,11 @@
         "Andy Murray   sibling"
       ],
       "gold": "Jamie Murray",
-      "whole_cov": 0.5,
+      "whole_cov": 1.0,
       "whole_any": 1,
       "whole_sel": [
-        15,
-        8
+        8,
+        16
       ],
       "whole_em": 1.0,
       "whole_f1": 1.0,
@@ -605,22 +605,22 @@
         "Philip Seymour Hoffman received what recognition?"
       ],
       "gold": "nominated for an Academy Award for Best Supporting Actor",
-      "whole_cov": 0.0,
-      "whole_any": 0,
+      "whole_cov": 0.5,
+      "whole_any": 1,
       "whole_sel": [
-        16,
-        4
+        14,
+        16
       ],
-      "whole_em": 0.0,
-      "whole_f1": 0.0,
-      "seq_cov": 0.5,
+      "whole_em": 1.0,
+      "whole_f1": 1.0,
+      "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
-        16,
+        14,
         2
       ],
-      "seq_em": 0.0,
-      "seq_f1": 0.15384615384615385
+      "seq_em": 1.0,
+      "seq_f1": 1.0
     },
     {
       "qid": "2hop__754753_57816",
@@ -630,14 +630,14 @@
         "Florida International University law school ranking us news"
       ],
       "gold": "100",
-      "whole_cov": 1.0,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         8,
-        3
+        7
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.0,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -711,10 +711,10 @@
       "whole_any": 1,
       "whole_sel": [
         1,
-        5
+        14
       ],
-      "whole_em": 0.0,
-      "whole_f1": 0.5,
+      "whole_em": 1.0,
+      "whole_f1": 1.0,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -735,8 +735,8 @@
       "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
-        14,
-        13
+        13,
+        14
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -761,10 +761,10 @@
       "whole_any": 1,
       "whole_sel": [
         18,
-        12
+        7
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.0,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -786,7 +786,7 @@
       "whole_any": 1,
       "whole_sel": [
         13,
-        17
+        1
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -838,16 +838,16 @@
       "whole_cov": 0.3333333333333333,
       "whole_any": 1,
       "whole_sel": [
-        0,
-        16
+        4,
+        14
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.28571428571428575,
+      "whole_f1": 0.0,
       "seq_cov": 0.3333333333333333,
       "seq_any": 1,
       "seq_sel": [
-        9,
-        6
+        10,
+        4
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -863,8 +863,8 @@
       "whole_cov": 1.0,
       "whole_any": 1,
       "whole_sel": [
-        5,
-        19
+        19,
+        5
       ],
       "whole_em": 1.0,
       "whole_f1": 1.0,
@@ -910,14 +910,14 @@
         "who wrote the song the story sung by Brandi Carlile"
       ],
       "gold": "Phil Hanseroth",
-      "whole_cov": 1.0,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         14,
-        0
+        18
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.0,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -966,8 +966,8 @@
       "whole_cov": 0.0,
       "whole_any": 0,
       "whole_sel": [
-        18,
-        15
+        15,
+        16
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1014,22 +1014,22 @@
         "What treaty ceded territory to the US extending west to Mississippi River ?"
       ],
       "gold": "Treaty of Paris",
-      "whole_cov": 0.3333333333333333,
+      "whole_cov": 0.6666666666666666,
       "whole_any": 1,
       "whole_sel": [
         9,
-        8
+        17
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.8571428571428571,
-      "seq_cov": 0.6666666666666666,
+      "whole_f1": 0.5714285714285715,
+      "seq_cov": 0.3333333333333333,
       "seq_any": 1,
       "seq_sel": [
         9,
-        17
+        0
       ],
       "seq_em": 0.0,
-      "seq_f1": 0.5714285714285715
+      "seq_f1": 0.4
     },
     {
       "qid": "2hop__123214_22402",
@@ -1069,15 +1069,15 @@
       "whole_any": 1,
       "whole_sel": [
         10,
-        14
+        16
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.0,
       "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
-        10,
-        16
+        16,
+        10
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -1102,7 +1102,7 @@
       "seq_any": 1,
       "seq_sel": [
         5,
-        13
+        1
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -1115,11 +1115,11 @@
         "Joni James   record label"
       ],
       "gold": "MGM Records",
-      "whole_cov": 0.0,
-      "whole_any": 0,
+      "whole_cov": 0.5,
+      "whole_any": 1,
       "whole_sel": [
         5,
-        13
+        16
       ],
       "whole_em": 0.0,
       "whole_f1": 0.5,
@@ -1224,10 +1224,10 @@
       ],
       "whole_em": 0.0,
       "whole_f1": 0.5,
-      "seq_cov": 1.0,
+      "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
-        9,
+        11,
         14
       ],
       "seq_em": 1.0,
@@ -1246,7 +1246,7 @@
       "whole_any": 1,
       "whole_sel": [
         9,
-        16
+        8
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1281,10 +1281,10 @@
       "seq_any": 1,
       "seq_sel": [
         3,
-        18
+        19
       ],
-      "seq_em": 0.0,
-      "seq_f1": 0.0
+      "seq_em": 1.0,
+      "seq_f1": 1.0
     },
     {
       "qid": "3hop1__389069_132457_47686",
@@ -1295,11 +1295,11 @@
         "where do greyhound buses leave from in Toronto"
       ],
       "gold": "Toronto Coach Terminal",
-      "whole_cov": 0.3333333333333333,
+      "whole_cov": 0.6666666666666666,
       "whole_any": 1,
       "whole_sel": [
-        8,
-        18
+        7,
+        8
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1349,7 +1349,7 @@
       "whole_any": 1,
       "whole_sel": [
         4,
-        17
+        2
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1370,22 +1370,22 @@
         "To what division does Central Catalan belong?"
       ],
       "gold": "Eastern block",
-      "whole_cov": 1.0,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
-        11,
-        12
+        12,
+        6
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.0,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
-        11,
-        12
+        12,
+        11
       ],
-      "seq_em": 1.0,
-      "seq_f1": 1.0
+      "seq_em": 0.0,
+      "seq_f1": 0.0
     },
     {
       "qid": "4hop1__58323_375563_161848_83118",
@@ -1397,22 +1397,22 @@
         "when does daylight saving end in New Zealand"
       ],
       "gold": "the first Sunday in April",
-      "whole_cov": 0.25,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
-        11,
-        13
+        3,
+        11
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.5,
+      "whole_f1": 0.75,
       "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
         11,
         3
       ],
-      "seq_em": 1.0,
-      "seq_f1": 1.0
+      "seq_em": 0.0,
+      "seq_f1": 0.75
     },
     {
       "qid": "4hop3__524186_219173_862998_72134",
@@ -1450,11 +1450,11 @@
         "What is Tucson 's PBS station?"
       ],
       "gold": "KUAT-TV 6",
-      "whole_cov": 0.3333333333333333,
+      "whole_cov": 0.6666666666666666,
       "whole_any": 1,
       "whole_sel": [
         15,
-        3
+        16
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1483,14 +1483,14 @@
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
-      "seq_cov": 1.0,
+      "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
         2,
-        16
+        15
       ],
       "seq_em": 0.0,
-      "seq_f1": 0.4
+      "seq_f1": 0.0
     },
     {
       "qid": "4hop3__678814_466199_695123_72134",
@@ -1505,8 +1505,8 @@
       "whole_cov": 0.25,
       "whole_any": 1,
       "whole_sel": [
-        11,
-        18
+        18,
+        11
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1514,7 +1514,7 @@
       "seq_any": 1,
       "seq_sel": [
         11,
-        18
+        15
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -1527,22 +1527,22 @@
         "When did Jefferson Davis end his fight in the Mexican-American war?"
       ],
       "gold": "1848",
-      "whole_cov": 0.0,
-      "whole_any": 0,
+      "whole_cov": 0.5,
+      "whole_any": 1,
       "whole_sel": [
-        8,
+        1,
         15
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.0,
       "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
         3,
-        1
+        6
       ],
-      "seq_em": 0.0,
-      "seq_f1": 0.0
+      "seq_em": 1.0,
+      "seq_f1": 1.0
     },
     {
       "qid": "2hop__60001_512508",
@@ -1555,11 +1555,11 @@
       "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
-        8,
-        11
+        7,
+        18
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.0,
+      "whole_f1": 0.4,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -1603,19 +1603,19 @@
         "what is the name of the famous bridge in Venice"
       ],
       "gold": "Rialto Bridge",
-      "whole_cov": 0.3333333333333333,
+      "whole_cov": 0.6666666666666666,
       "whole_any": 1,
       "whole_sel": [
-        8,
-        18
+        15,
+        8
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.4,
+      "whole_f1": 0.0,
       "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
         8,
-        15
+        14
       ],
       "seq_em": 1.0,
       "seq_f1": 1.0
@@ -1630,11 +1630,11 @@
         "Forest Acres   located in the administrative territorial entity"
       ],
       "gold": "Richland County",
-      "whole_cov": 0.25,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         18,
-        2
+        8
       ],
       "whole_em": 0.0,
       "whole_f1": 0.5,
@@ -1661,7 +1661,7 @@
       "whole_any": 1,
       "whole_sel": [
         17,
-        1
+        16
       ],
       "whole_em": 1.0,
       "whole_f1": 1.0,
@@ -1682,14 +1682,14 @@
         "who wrote turn me on by Norah Jones"
       ],
       "gold": "John D. Loudermilk",
-      "whole_cov": 1.0,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         17,
-        8
+        9
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.0,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -1707,14 +1707,14 @@
         "Darin Morgan   sibling"
       ],
       "gold": "Glen Morgan",
-      "whole_cov": 0.5,
+      "whole_cov": 1.0,
       "whole_any": 1,
       "whole_sel": [
         14,
-        7
+        16
       ],
-      "whole_em": 0.0,
-      "whole_f1": 0.0,
+      "whole_em": 1.0,
+      "whole_f1": 1.0,
       "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
@@ -1762,8 +1762,8 @@
       "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
-        1,
-        19
+        19,
+        1
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1784,19 +1784,19 @@
         "What label was responsible for Charlie Musselwhite ?"
       ],
       "gold": "Kicking Mule Records",
-      "whole_cov": 0.5,
+      "whole_cov": 1.0,
       "whole_any": 1,
       "whole_sel": [
         8,
-        9
+        14
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
-      "seq_cov": 1.0,
+      "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
         8,
-        14
+        7
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -1811,11 +1811,11 @@
         "How were the the Portuguese expelled from Myanmar ?"
       ],
       "gold": "The dynasty regrouped and defeated the Portuguese",
-      "whole_cov": 0.25,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         8,
-        18
+        16
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1837,14 +1837,14 @@
         "Jorge Posada   member of sports team"
       ],
       "gold": "New York Yankees",
-      "whole_cov": 0.3333333333333333,
+      "whole_cov": 0.6666666666666666,
       "whole_any": 1,
       "whole_sel": [
         18,
-        16
+        4
       ],
-      "whole_em": 0.0,
-      "whole_f1": 0.0,
+      "whole_em": 1.0,
+      "whole_f1": 1.0,
       "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
@@ -1889,11 +1889,11 @@
         "Forest Acres   located in the administrative territorial entity"
       ],
       "gold": "Richland County",
-      "whole_cov": 0.25,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         4,
-        5
+        17
       ],
       "whole_em": 1.0,
       "whole_f1": 1.0,
@@ -1918,7 +1918,7 @@
       "whole_any": 1,
       "whole_sel": [
         13,
-        7
+        18
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1939,11 +1939,11 @@
         "who played Michael J. Fox girlfriend in back to the future"
       ],
       "gold": "Claudia Wells",
-      "whole_cov": 0.5,
-      "whole_any": 1,
+      "whole_cov": 0.0,
+      "whole_any": 0,
       "whole_sel": [
-        11,
-        14
+        6,
+        15
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -1964,14 +1964,14 @@
         "Tom Flannery   place of birth"
       ],
       "gold": "Scranton",
-      "whole_cov": 0.5,
+      "whole_cov": 1.0,
       "whole_any": 1,
       "whole_sel": [
         0,
-        4
+        17
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.0,
+      "whole_f1": 0.4,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -1989,14 +1989,14 @@
         "On what date did Battle of Palembang end?"
       ],
       "gold": "15 February 1942",
-      "whole_cov": 0.5,
+      "whole_cov": 1.0,
       "whole_any": 1,
       "whole_sel": [
         6,
-        17
+        19
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.0,
+      "whole_f1": 0.8571428571428571,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -2019,15 +2019,15 @@
       "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
-        17,
-        3
+        16,
+        8
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.888888888888889,
+      "whole_f1": 0.0,
       "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
-        17,
+        8,
         16
       ],
       "seq_em": 0.0,
@@ -2046,8 +2046,8 @@
       "whole_cov": 0.25,
       "whole_any": 1,
       "whole_sel": [
-        9,
-        12
+        12,
+        9
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -2069,19 +2069,19 @@
         "where do greyhound buses leave from in Toronto"
       ],
       "gold": "Toronto Coach Terminal",
-      "whole_cov": 0.3333333333333333,
+      "whole_cov": 0.6666666666666666,
       "whole_any": 1,
       "whole_sel": [
         3,
-        9
+        0
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.5,
-      "seq_cov": 0.3333333333333333,
+      "whole_f1": 0.0,
+      "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
         3,
-        6
+        0
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -2094,14 +2094,14 @@
         "Smash Mouth   record label"
       ],
       "gold": "429 Records",
-      "whole_cov": 0.0,
-      "whole_any": 0,
+      "whole_cov": 0.5,
+      "whole_any": 1,
       "whole_sel": [
-        11,
-        5
+        9,
+        18
       ],
-      "whole_em": 0.0,
-      "whole_f1": 0.0,
+      "whole_em": 1.0,
+      "whole_f1": 1.0,
       "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
@@ -2169,14 +2169,14 @@
         "What is Bering Sea named after?"
       ],
       "gold": "Vitus Bering",
-      "whole_cov": 0.5,
+      "whole_cov": 1.0,
       "whole_any": 1,
       "whole_sel": [
         11,
-        13
+        0
       ],
-      "whole_em": 0.0,
-      "whole_f1": 0.5,
+      "whole_em": 1.0,
+      "whole_f1": 1.0,
       "seq_cov": 1.0,
       "seq_any": 1,
       "seq_sel": [
@@ -2203,14 +2203,14 @@
       ],
       "whole_em": 0.0,
       "whole_f1": 0.23529411764705882,
-      "seq_cov": 0.6666666666666666,
+      "seq_cov": 0.3333333333333333,
       "seq_any": 1,
       "seq_sel": [
         4,
-        7
+        17
       ],
       "seq_em": 0.0,
-      "seq_f1": 0.2222222222222222
+      "seq_f1": 0.25
     },
     {
       "qid": "2hop__642686_7292",
@@ -2249,11 +2249,11 @@
       "whole_cov": 0.6666666666666666,
       "whole_any": 1,
       "whole_sel": [
-        18,
-        8
+        15,
+        18
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.07692307692307693,
       "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
@@ -2280,10 +2280,10 @@
       ],
       "whole_em": 1.0,
       "whole_f1": 1.0,
-      "seq_cov": 0.6666666666666666,
+      "seq_cov": 0.3333333333333333,
       "seq_any": 1,
       "seq_sel": [
-        17,
+        1,
         8
       ],
       "seq_em": 0.0,
@@ -2301,15 +2301,15 @@
       "whole_any": 1,
       "whole_sel": [
         1,
-        16
+        18
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
-      "seq_cov": 1.0,
+      "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
         1,
-        3
+        7
       ],
       "seq_em": 0.0,
       "seq_f1": 0.0
@@ -2357,10 +2357,10 @@
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
-      "seq_cov": 1.0,
+      "seq_cov": 0.5,
       "seq_any": 1,
       "seq_sel": [
-        12,
+        15,
         8
       ],
       "seq_em": 1.0,
@@ -2401,11 +2401,11 @@
         "How were the the Portuguese expelled from Myanmar ?"
       ],
       "gold": "The dynasty regrouped and defeated the Portuguese",
-      "whole_cov": 0.25,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         2,
-        3
+        13
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -2432,7 +2432,7 @@
       "whole_any": 1,
       "whole_sel": [
         2,
-        4
+        0
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -2455,11 +2455,11 @@
         "when was Kingdom of Saudi Arabia created"
       ],
       "gold": "1930",
-      "whole_cov": 0.25,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         0,
-        12
+        16
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -2481,22 +2481,22 @@
         "what is the meaning of Hindu in arabic dictionary"
       ],
       "gold": "the country of India",
-      "whole_cov": 0.3333333333333333,
+      "whole_cov": 0.6666666666666666,
       "whole_any": 1,
       "whole_sel": [
         12,
-        13
+        14
       ],
       "whole_em": 0.0,
-      "whole_f1": 0.0,
-      "seq_cov": 0.3333333333333333,
+      "whole_f1": 0.3333333333333333,
+      "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
         12,
-        15
+        14
       ],
       "seq_em": 0.0,
-      "seq_f1": 0.0
+      "seq_f1": 0.3333333333333333
     },
     {
       "qid": "4hop1__525129_315334_131926_87157",
@@ -2508,11 +2508,11 @@
         "what is the direction of flow of Mississippi River"
       ],
       "gold": "rises in northern Minnesota and meanders slowly southwards",
-      "whole_cov": 0.25,
+      "whole_cov": 0.5,
       "whole_any": 1,
       "whole_sel": [
         16,
-        18
+        13
       ],
       "whole_em": 0.0,
       "whole_f1": 0.0,
@@ -2537,11 +2537,11 @@
       "whole_cov": 0.6666666666666666,
       "whole_any": 1,
       "whole_sel": [
-        15,
-        16
+        3,
+        15
       ],
-      "whole_em": 1.0,
-      "whole_f1": 1.0,
+      "whole_em": 0.0,
+      "whole_f1": 0.4,
       "seq_cov": 0.6666666666666666,
       "seq_any": 1,
       "seq_sel": [
