@@ -208,7 +208,19 @@ $$\mathrm{cov}(S)\le \underbrace{\frac{|\{i:\exists d\in C,\ \mathrm{ground}(r_i
 
 **合并结论**：单跳的收益来自**读者协议**，不是程序执行；程序执行在多跳上有效。两者可以共存：单跳走"单需求 + cot 读者"，多跳走完整执行。
 
-### 6.5 消融
+### 6.5 分层分析：增益不随依赖结构普适出现
+
+| 数据集/类型 | n | RBG | IRCoT+CE | Δ |
+|---|---|---|---|---|
+| 2Wiki compositional | 82 | 0.439 | 0.427 | +0.012（ns） |
+| 2Wiki bridge_comparison | 52 | 0.788 | 0.788 | 0.000 |
+| 2Wiki comparison | 34 | 0.882 | 0.912 | −0.029（ns） |
+| HotpotQA bridge | 158 | 0.646 | 0.627 | +0.019（ns） |
+| HotpotQA comparison | 42 | 0.810 | 0.810 | 0.000 |
+
+即使在与 MuSiQue 最接近的子集上也没有显著增益。**因此本文不主张"程序执行普适有效"**；MuSiQue 的结果应理解为该数据集结构下的有效性证据。
+
+### 6.6 消融
 
 **2×2（MuSiQue 200）**
 

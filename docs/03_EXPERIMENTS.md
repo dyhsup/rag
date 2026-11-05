@@ -608,3 +608,28 @@ embedding 走 8833 的 `/embed`，rerank 走各数据集 CE：
 | 多跳 | HotpotQA | 0.680 | 0.665 | +0.015 |
 
 **MuSiQue 400 最终确认（混合检索 + CoT 读者）**：0.435 vs IRCoT+CE 0.302，`+0.133 [+0.087,+0.175]`，显著。
+
+### 18.15 comparison 汇合算子（负结果）
+
+把 comparison 题改成"并行两跳 + 汇合比较"：
+
+| 数据集/类型 | n | 汇合 | 标准 CoT | Δ |
+|---|---|---|---|---|
+| 2Wiki bridge_comparison | 52 | 0.481 | 0.788 | **−0.308** |
+| 2Wiki comparison | 34 | 0.824 | 0.882 | −0.059 |
+| HotpotQA comparison | 42 | 0.833 | 0.810 | +0.024 [+0.000,+0.071] |
+
+**结论**：comparison 汇合只在 HotpotQA comparison 上有边缘正收益；2Wiki 的 bridge_comparison 需要"先绑定桥实体再比较"，并行汇合忽略了依赖，损失 30 点。该机制不纳入方法。
+
+### 18.16 按依赖结构分层：假设不成立
+
+| 数据集/类型 | n | RBG | IRCoT+CE | Δ |
+|---|---|---|---|---|
+| 2Wiki compositional | 82 | 0.439 | 0.427 | +0.012 [−0.024,+0.061] |
+| 2Wiki bridge_comparison | 52 | 0.788 | 0.788 | 0.000 |
+| 2Wiki comparison | 34 | 0.882 | 0.912 | −0.029 [−0.088,+0.000] |
+| 2Wiki inference | 32 | 0.531 | 0.500 | +0.031 [−0.094,+0.156] |
+| HotpotQA bridge | 158 | 0.646 | 0.627 | +0.019 [−0.038,+0.076] |
+| HotpotQA comparison | 42 | 0.810 | 0.810 | 0.000 |
+
+**结论**：即使在与 MuSiQue 最接近的 compositional/bridge 子集上，2Wiki 与 HotpotQA 也没有显著增益。因此"增益随依赖深度增长"不是普适规律，MuSiQue 的结果更像该数据集特有的结构效应（2–4 跳、3999 段池、hop 查询更自然）。
