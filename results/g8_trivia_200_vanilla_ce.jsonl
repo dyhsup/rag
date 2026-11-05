@@ -1,0 +1,200 @@
+{"qid": "trivia0", "pred": "husband", "gold": "HUSBAND", "em": 1.0, "f1": 1.0}
+{"qid": "trivia4", "pred": "tax collector", "gold": "Tax Collector", "em": 1.0, "f1": 1.0}
+{"qid": "trivia8", "pred": "Samuel", "gold": "Samuel", "em": 1.0, "f1": 1.0}
+{"qid": "trivia7", "pred": "three pairs of jointed legs", "gold": "6", "em": 0.0, "f1": 0.0}
+{"qid": "trivia11", "pred": "Duff Beer", "gold": "Duff", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia10", "pred": "bats", "gold": "Bat", "em": 0.0, "f1": 0.0}
+{"qid": "trivia5", "pred": "The provided passages do not contain information about National Flag Day in Estonia.", "gold": "June", "em": 0.0, "f1": 0.0}
+{"qid": "trivia1", "pred": "green", "gold": "Green", "em": 1.0, "f1": 1.0}
+{"qid": "trivia9", "pred": "Shinto", "gold": "Shinto", "em": 1.0, "f1": 1.0}
+{"qid": "trivia13", "pred": "Jane Horrocks", "gold": "Jane Horrocks", "em": 1.0, "f1": 1.0}
+{"qid": "trivia3", "pred": "Irish whiskey", "gold": "Whiskey", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia6", "pred": "Anwar Sadat", "gold": "Anwar Sadat", "em": 1.0, "f1": 1.0}
+{"qid": "trivia12", "pred": "Bustopher Jones", "gold": "BUSTOPHER JONES", "em": 1.0, "f1": 1.0}
+{"qid": "trivia2", "pred": "The provided passages do not contain the answer to the question.", "gold": "Shrub", "em": 0.0, "f1": 0.0}
+{"qid": "trivia17", "pred": "Rodrigo", "gold": "Rodrigo Borgia", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia16", "pred": "solar", "gold": "Solar power", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia15", "pred": "28", "gold": "28", "em": 1.0, "f1": 1.0}
+{"qid": "trivia18", "pred": "green", "gold": "Green", "em": 1.0, "f1": 1.0}
+{"qid": "trivia21", "pred": "charm", "gold": "A CHARM", "em": 1.0, "f1": 1.0}
+{"qid": "trivia22", "pred": "gunwale", "gold": "Gunwale", "em": 1.0, "f1": 1.0}
+{"qid": "trivia19", "pred": "Olympic bronze medals", "gold": "Olympic Bronze Medals", "em": 1.0, "f1": 1.0}
+{"qid": "trivia28", "pred": "skull", "gold": "Skull", "em": 1.0, "f1": 1.0}
+{"qid": "trivia14", "pred": "Houyhnhnms", "gold": "HOUYHNHNMS", "em": 1.0, "f1": 1.0}
+{"qid": "trivia23", "pred": "canoeing", "gold": "Canoeing", "em": 1.0, "f1": 1.0}
+{"qid": "trivia20", "pred": "celibacy", "gold": "Celibacy", "em": 1.0, "f1": 1.0}
+{"qid": "trivia30", "pred": "The Mallard Train", "gold": "Mallard", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia24", "pred": "Tina Turner", "gold": "Tina Turner", "em": 1.0, "f1": 1.0}
+{"qid": "trivia26", "pred": "Scotland", "gold": "Scotland", "em": 1.0, "f1": 1.0}
+{"qid": "trivia25", "pred": "River Wyre", "gold": "Wyre", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia27", "pred": "Andres Iniesta", "gold": "(Andres) INIESTA", "em": 1.0, "f1": 1.0}
+{"qid": "trivia29", "pred": "13", "gold": "13", "em": 1.0, "f1": 1.0}
+{"qid": "trivia33", "pred": "antelope", "gold": "Antelope", "em": 1.0, "f1": 1.0}
+{"qid": "trivia37", "pred": "Lauren Bacall", "gold": "Lauren Bacall", "em": 1.0, "f1": 1.0}
+{"qid": "trivia35", "pred": "Boise", "gold": "Boise", "em": 1.0, "f1": 1.0}
+{"qid": "trivia38", "pred": "Richard Dawson", "gold": "Richard Dawson", "em": 1.0, "f1": 1.0}
+{"qid": "trivia31", "pred": "22", "gold": "22", "em": 1.0, "f1": 1.0}
+{"qid": "trivia36", "pred": "Boat", "gold": "Boat", "em": 1.0, "f1": 1.0}
+{"qid": "trivia34", "pred": "South Africa", "gold": "South Africa", "em": 1.0, "f1": 1.0}
+{"qid": "trivia41", "pred": "Jasper Conran", "gold": "Jasper", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia39", "pred": "Mr. Brainwash", "gold": "Mr Brainwash", "em": 1.0, "f1": 1.0}
+{"qid": "trivia40", "pred": "Catherine Parr", "gold": "Catherine Parr", "em": 1.0, "f1": 1.0}
+{"qid": "trivia42", "pred": "Bats", "gold": "Bats", "em": 1.0, "f1": 1.0}
+{"qid": "trivia44", "pred": "basketball", "gold": "A: Basketball", "em": 1.0, "f1": 1.0}
+{"qid": "trivia47", "pred": "Dave Lamb", "gold": "Dave Lamb", "em": 1.0, "f1": 1.0}
+{"qid": "trivia50", "pred": "James II", "gold": "James II", "em": 1.0, "f1": 1.0}
+{"qid": "trivia51", "pred": "Abraham Lincoln", "gold": "ABRAHAM LINCOLN", "em": 1.0, "f1": 1.0}
+{"qid": "trivia32", "pred": "The provided passages do not contain the answer to the question. Passage [1] mentions that King John \"is said to have lost\" something but cuts off before", "gold": "The Wash", "em": 0.0, "f1": 0.0}
+{"qid": "trivia52", "pred": "Gobi desert", "gold": "The Gobi Desert", "em": 1.0, "f1": 1.0}
+{"qid": "trivia43", "pred": "Tipping Point", "gold": "Tipping Point", "em": 1.0, "f1": 1.0}
+{"qid": "trivia49", "pred": "secretary", "gold": "Secretary", "em": 1.0, "f1": 1.0}
+{"qid": "trivia48", "pred": "oxalic acid", "gold": "OXALIC", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia46", "pred": "Surrey", "gold": "Surrey", "em": 1.0, "f1": 1.0}
+{"qid": "trivia45", "pred": "The provided passages do not contain the answer to the question.", "gold": "James Cameron", "em": 0.0, "f1": 0.0}
+{"qid": "trivia53", "pred": "The provided passages do not contain the answer to the question.", "gold": "Margaret", "em": 0.0, "f1": 0.0}
+{"qid": "trivia54", "pred": "cow", "gold": "Cow", "em": 1.0, "f1": 1.0}
+{"qid": "trivia57", "pred": "spleen", "gold": "Spleen", "em": 1.0, "f1": 1.0}
+{"qid": "trivia58", "pred": "Angola", "gold": "Angola", "em": 1.0, "f1": 1.0}
+{"qid": "trivia60", "pred": "Istanbul", "gold": "Istanbul", "em": 1.0, "f1": 1.0}
+{"qid": "trivia55", "pred": "Humpback Whale", "gold": "The Humpback", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia61", "pred": "Pluto", "gold": "PLUTO", "em": 1.0, "f1": 1.0}
+{"qid": "trivia56", "pred": "Mel Brooks", "gold": "Mel Brooks", "em": 1.0, "f1": 1.0}
+{"qid": "trivia59", "pred": "Monotremata", "gold": "Monotremes", "em": 0.0, "f1": 0.0}
+{"qid": "trivia63", "pred": "vinegar", "gold": "Vinegar", "em": 1.0, "f1": 1.0}
+{"qid": "trivia62", "pred": "George Clooney", "gold": "George Clooney", "em": 1.0, "f1": 1.0}
+{"qid": "trivia65", "pred": "The Mosquito Coast", "gold": "The Mosquito Coast", "em": 1.0, "f1": 1.0}
+{"qid": "trivia64", "pred": "Ireland", "gold": "Ireland", "em": 1.0, "f1": 1.0}
+{"qid": "trivia69", "pred": "actor Phil Daniels", "gold": "PHIL DANIELS", "em": 0.0, "f1": 0.8}
+{"qid": "trivia71", "pred": "Julian", "gold": "JULIAN", "em": 1.0, "f1": 1.0}
+{"qid": "trivia73", "pred": "James Blunt", "gold": "James Blunt", "em": 1.0, "f1": 1.0}
+{"qid": "trivia68", "pred": "architect", "gold": "Architect", "em": 1.0, "f1": 1.0}
+{"qid": "trivia70", "pred": "Rebecca Adlington", "gold": "Rebecca Adlington", "em": 1.0, "f1": 1.0}
+{"qid": "trivia66", "pred": "Pink Floyd", "gold": "Pink Floyd", "em": 1.0, "f1": 1.0}
+{"qid": "trivia72", "pred": "shoji screen", "gold": "Shoji", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia67", "pred": "Dick Van Dyke", "gold": "Dick Van Dyke", "em": 1.0, "f1": 1.0}
+{"qid": "trivia74", "pred": "US $", "gold": "Paul GAUGUIN", "em": 0.0, "f1": 0.0}
+{"qid": "trivia75", "pred": "Zambia", "gold": "Zambia", "em": 1.0, "f1": 1.0}
+{"qid": "trivia77", "pred": "25", "gold": "25", "em": 1.0, "f1": 1.0}
+{"qid": "trivia81", "pred": "Tarzan", "gold": "TARZAN", "em": 1.0, "f1": 1.0}
+{"qid": "trivia80", "pred": "squash", "gold": "Squash", "em": 1.0, "f1": 1.0}
+{"qid": "trivia85", "pred": "Panama Canal", "gold": "Panama Canal", "em": 1.0, "f1": 1.0}
+{"qid": "trivia84", "pred": "Plimsoll line", "gold": "Plimsoll line", "em": 1.0, "f1": 1.0}
+{"qid": "trivia78", "pred": "Ireland", "gold": "Ireland", "em": 1.0, "f1": 1.0}
+{"qid": "trivia76", "pred": "21", "gold": "Twenty One", "em": 0.0, "f1": 0.0}
+{"qid": "trivia79", "pred": "Emilia", "gold": "EMILIA", "em": 1.0, "f1": 1.0}
+{"qid": "trivia82", "pred": "When Harry Met Sally", "gold": "When Harry Met Sally", "em": 1.0, "f1": 1.0}
+{"qid": "trivia83", "pred": "The Moody Blues", "gold": "Moody Blues", "em": 1.0, "f1": 1.0}
+{"qid": "trivia88", "pred": "pianoforte", "gold": "Pianoforte", "em": 1.0, "f1": 1.0}
+{"qid": "trivia92", "pred": "William Butler Yeats", "gold": "William Butler Yeats", "em": 1.0, "f1": 1.0}
+{"qid": "trivia86", "pred": "Harry Redknapp", "gold": "Harry Redknapp", "em": 1.0, "f1": 1.0}
+{"qid": "trivia87", "pred": "The Hague", "gold": "The Hague", "em": 1.0, "f1": 1.0}
+{"qid": "trivia93", "pred": "Top Cat", "gold": "Top Cat", "em": 1.0, "f1": 1.0}
+{"qid": "trivia96", "pred": "gold", "gold": "Gold", "em": 1.0, "f1": 1.0}
+{"qid": "trivia94", "pred": "Battle of Agincourt", "gold": "AGINCOURT", "em": 0.0, "f1": 0.5}
+{"qid": "trivia98", "pred": "Surrey", "gold": "YORKSHIRE", "em": 0.0, "f1": 0.0}
+{"qid": "trivia90", "pred": "Jennifer Aniston", "gold": "Jennifer Aniston", "em": 1.0, "f1": 1.0}
+{"qid": "trivia99", "pred": "Libra", "gold": "Libra", "em": 1.0, "f1": 1.0}
+{"qid": "trivia102", "pred": "Nick Hancock", "gold": "Nick Hancock", "em": 1.0, "f1": 1.0}
+{"qid": "trivia105", "pred": "Mini Cooper", "gold": "Mini 1000", "em": 0.0, "f1": 0.5}
+{"qid": "trivia106", "pred": "The Third Crusade", "gold": "Third crusade", "em": 1.0, "f1": 1.0}
+{"qid": "trivia95", "pred": "Jennifer Lopez", "gold": "Jennifer Lopez", "em": 1.0, "f1": 1.0}
+{"qid": "trivia89", "pred": "rennet", "gold": "Rennet.", "em": 1.0, "f1": 1.0}
+{"qid": "trivia101", "pred": "animals", "gold": "Animals", "em": 1.0, "f1": 1.0}
+{"qid": "trivia91", "pred": "Vitamin C", "gold": "VITAMIN C", "em": 1.0, "f1": 1.0}
+{"qid": "trivia107", "pred": "Happy Birthday to You", "gold": "Happy Birthday", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia110", "pred": "Florence", "gold": "Florence", "em": 1.0, "f1": 1.0}
+{"qid": "trivia113", "pred": "Nixon", "gold": "Nixon", "em": 1.0, "f1": 1.0}
+{"qid": "trivia114", "pred": "Riddick Bowe", "gold": "Riddick Bowe", "em": 1.0, "f1": 1.0}
+{"qid": "trivia100", "pred": "grandson", "gold": "Great-grandson", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia104", "pred": "Scotland", "gold": "Scotland", "em": 1.0, "f1": 1.0}
+{"qid": "trivia116", "pred": "Glenn Close", "gold": "Glenn Close", "em": 1.0, "f1": 1.0}
+{"qid": "trivia119", "pred": "bird", "gold": "Bird", "em": 1.0, "f1": 1.0}
+{"qid": "trivia120", "pred": "Francisco de Goya", "gold": "Francisco Goya", "em": 0.0, "f1": 0.8}
+{"qid": "trivia108", "pred": "United States", "gold": "USA", "em": 0.0, "f1": 0.0}
+{"qid": "trivia103", "pred": "King Edward III", "gold": "Edward III", "em": 0.0, "f1": 0.8}
+{"qid": "trivia109", "pred": "Ash", "gold": "ASH", "em": 1.0, "f1": 1.0}
+{"qid": "trivia123", "pred": "red", "gold": "Red", "em": 1.0, "f1": 1.0}
+{"qid": "trivia124", "pred": "his discovery of the law of the photoelectric effect", "gold": "The photoelectric effect", "em": 0.0, "f1": 0.4444444444444445}
+{"qid": "trivia125", "pred": "eye", "gold": "Eye", "em": 1.0, "f1": 1.0}
+{"qid": "trivia127", "pred": "Hayes", "gold": "HAYES", "em": 1.0, "f1": 1.0}
+{"qid": "trivia115", "pred": "heartburn", "gold": "Heartburn", "em": 1.0, "f1": 1.0}
+{"qid": "trivia97", "pred": "Aidan of Lindisfarne", "gold": "ST AIDAN", "em": 0.0, "f1": 0.4}
+{"qid": "trivia130", "pred": "James Jones", "gold": "James Jones", "em": 1.0, "f1": 1.0}
+{"qid": "trivia129", "pred": "Backgammon", "gold": "Backgammon", "em": 1.0, "f1": 1.0}
+{"qid": "trivia132", "pred": "Stanley Baldwin", "gold": "Stanley Baldwin", "em": 1.0, "f1": 1.0}
+{"qid": "trivia121", "pred": "Scottish", "gold": "Scottish", "em": 1.0, "f1": 1.0}
+{"qid": "trivia118", "pred": "Grail", "gold": "Grail", "em": 1.0, "f1": 1.0}
+{"qid": "trivia112", "pred": "Evander Holyfield", "gold": "Evander Holyfield", "em": 1.0, "f1": 1.0}
+{"qid": "trivia111", "pred": "Mutiny on the Bounty", "gold": "Mutiny On The Bounty", "em": 1.0, "f1": 1.0}
+{"qid": "trivia126", "pred": "John", "gold": "GOSPEL OF ST JOHN", "em": 0.0, "f1": 0.4}
+{"qid": "trivia117", "pred": "McDonald's", "gold": "McDonalds", "em": 0.0, "f1": 0.0}
+{"qid": "trivia134", "pred": "Scarface", "gold": "Scarface", "em": 1.0, "f1": 1.0}
+{"qid": "trivia135", "pred": "Hobart", "gold": "Hobart", "em": 1.0, "f1": 1.0}
+{"qid": "trivia136", "pred": "Daphne Fowler", "gold": "DAPHNE Fowler", "em": 1.0, "f1": 1.0}
+{"qid": "trivia137", "pred": "Gisele Bundchen", "gold": "Gisele Bundchen", "em": 1.0, "f1": 1.0}
+{"qid": "trivia141", "pred": "King Edward III", "gold": "King Edward III", "em": 1.0, "f1": 1.0}
+{"qid": "trivia144", "pred": "Shirley", "gold": "Shirley", "em": 1.0, "f1": 1.0}
+{"qid": "trivia145", "pred": "Graphite", "gold": "Time", "em": 0.0, "f1": 0.0}
+{"qid": "trivia128", "pred": "Dover", "gold": "Dover", "em": 1.0, "f1": 1.0}
+{"qid": "trivia122", "pred": "turkeys", "gold": "Turkey", "em": 0.0, "f1": 0.0}
+{"qid": "trivia147", "pred": "between 1768 and 1771", "gold": "1768", "em": 0.0, "f1": 0.4}
+{"qid": "trivia149", "pred": "golf club", "gold": "Golf", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia131", "pred": "Richard Marx", "gold": "Richard Marx", "em": 1.0, "f1": 1.0}
+{"qid": "trivia133", "pred": "Dip", "gold": "Dip", "em": 1.0, "f1": 1.0}
+{"qid": "trivia146", "pred": "Japan", "gold": "Japan", "em": 1.0, "f1": 1.0}
+{"qid": "trivia151", "pred": "Whisky Galore", "gold": "Whisky Galore", "em": 1.0, "f1": 1.0}
+{"qid": "trivia153", "pred": "Newbury racecourse", "gold": "Newbury", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia155", "pred": "xenophobia", "gold": "XENOPHOBIA", "em": 1.0, "f1": 1.0}
+{"qid": "trivia138", "pred": "a vein", "gold": "Veins", "em": 0.0, "f1": 0.0}
+{"qid": "trivia139", "pred": "Poseidon", "gold": "Poseidon", "em": 1.0, "f1": 1.0}
+{"qid": "trivia140", "pred": "Milan", "gold": "Milan", "em": 1.0, "f1": 1.0}
+{"qid": "trivia142", "pred": "MI5", "gold": "MI5", "em": 1.0, "f1": 1.0}
+{"qid": "trivia143", "pred": "Warwickshire", "gold": "Warwickshire", "em": 1.0, "f1": 1.0}
+{"qid": "trivia161", "pred": "transgender", "gold": "TRANSGENDER", "em": 1.0, "f1": 1.0}
+{"qid": "trivia158", "pred": "Ireland", "gold": "Ireland", "em": 1.0, "f1": 1.0}
+{"qid": "trivia157", "pred": "The provided passages do not contain information about Intel Corporation's processor brandname.", "gold": "Core", "em": 0.0, "f1": 0.0}
+{"qid": "trivia163", "pred": "fontanelle", "gold": "FONTANELLE", "em": 1.0, "f1": 1.0}
+{"qid": "trivia165", "pred": "Royal Purple", "gold": "Purple", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia148", "pred": "Iceland", "gold": "Iceland", "em": 1.0, "f1": 1.0}
+{"qid": "trivia167", "pred": "small little rings", "gold": "Rings", "em": 0.0, "f1": 0.5}
+{"qid": "trivia159", "pred": "8", "gold": "10", "em": 0.0, "f1": 0.0}
+{"qid": "trivia160", "pred": "April", "gold": "April", "em": 1.0, "f1": 1.0}
+{"qid": "trivia169", "pred": "Arthur Hailey", "gold": "Arthur Hailey", "em": 1.0, "f1": 1.0}
+{"qid": "trivia171", "pred": "Datsun", "gold": "DATSUN", "em": 1.0, "f1": 1.0}
+{"qid": "trivia166", "pred": "Tara", "gold": "TARA", "em": 1.0, "f1": 1.0}
+{"qid": "trivia152", "pred": "Mansfield Park", "gold": "MANSFIELD PARK", "em": 1.0, "f1": 1.0}
+{"qid": "trivia150", "pred": "third-largest island in the world", "gold": "Island", "em": 0.0, "f1": 0.33333333333333337}
+{"qid": "trivia156", "pred": "1879", "gold": "1879", "em": 1.0, "f1": 1.0}
+{"qid": "trivia164", "pred": "Tap shoes", "gold": "Tap shoe", "em": 0.0, "f1": 0.5}
+{"qid": "trivia154", "pred": "tiddlywinks", "gold": "Tiddlywinks", "em": 1.0, "f1": 1.0}
+{"qid": "trivia178", "pred": "Fred and Rosemary West", "gold": "FRED WEST", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia173", "pred": "dog", "gold": "Dog", "em": 1.0, "f1": 1.0}
+{"qid": "trivia176", "pred": "Bologna, Italy", "gold": "Bologna, Italy", "em": 1.0, "f1": 1.0}
+{"qid": "trivia175", "pred": "John Le Carré", "gold": "John Le Carré", "em": 1.0, "f1": 1.0}
+{"qid": "trivia180", "pred": "Airport (1970)", "gold": "Armageddon", "em": 0.0, "f1": 0.0}
+{"qid": "trivia181", "pred": "Team America: World Police", "gold": "Team America: World Police.", "em": 1.0, "f1": 1.0}
+{"qid": "trivia184", "pred": "haiku", "gold": "Haiku", "em": 1.0, "f1": 1.0}
+{"qid": "trivia162", "pred": "Jupiter Mining Corporation", "gold": "The Jupiter Mining Corporation", "em": 1.0, "f1": 1.0}
+{"qid": "trivia168", "pred": "Vermont", "gold": "Vermont", "em": 1.0, "f1": 1.0}
+{"qid": "trivia172", "pred": "Canada", "gold": "Canada", "em": 1.0, "f1": 1.0}
+{"qid": "trivia186", "pred": "Michael Caine", "gold": "Michael Caine", "em": 1.0, "f1": 1.0}
+{"qid": "trivia187", "pred": "sashimi", "gold": "Sashimi", "em": 1.0, "f1": 1.0}
+{"qid": "trivia190", "pred": "Omaha", "gold": "OMAHA", "em": 1.0, "f1": 1.0}
+{"qid": "trivia182", "pred": "carbon", "gold": "Carbon", "em": 1.0, "f1": 1.0}
+{"qid": "trivia192", "pred": "United States Declaration of Independence", "gold": "United States Declaration of Independence", "em": 1.0, "f1": 1.0}
+{"qid": "trivia170", "pred": "An Indian clay oven", "gold": "AN OVEN", "em": 0.0, "f1": 0.5}
+{"qid": "trivia179", "pred": "Henkel", "gold": "Henkel", "em": 1.0, "f1": 1.0}
+{"qid": "trivia185", "pred": "Everton", "gold": "Everton", "em": 1.0, "f1": 1.0}
+{"qid": "trivia183", "pred": "Idlewild Airport", "gold": "Idlewild Airport", "em": 1.0, "f1": 1.0}
+{"qid": "trivia174", "pred": "Mansion House", "gold": "MANSION HOUSE", "em": 1.0, "f1": 1.0}
+{"qid": "trivia191", "pred": "Auton", "gold": "Autons", "em": 0.0, "f1": 0.0}
+{"qid": "trivia189", "pred": "socialism", "gold": "Nationalization", "em": 0.0, "f1": 0.0}
+{"qid": "trivia188", "pred": "Costa Brava", "gold": "Costa Brava", "em": 1.0, "f1": 1.0}
+{"qid": "trivia194", "pred": "Mercia", "gold": "MERCIA", "em": 1.0, "f1": 1.0}
+{"qid": "trivia197", "pred": "K", "gold": "K", "em": 1.0, "f1": 1.0}
+{"qid": "trivia198", "pred": "Space: 1999", "gold": "Space 1999", "em": 1.0, "f1": 1.0}
+{"qid": "trivia193", "pred": "Charles Dickens", "gold": "Charles Dickens", "em": 1.0, "f1": 1.0}
+{"qid": "trivia199", "pred": "Japan", "gold": "Japan", "em": 1.0, "f1": 1.0}
+{"qid": "trivia195", "pred": "red", "gold": "Red", "em": 1.0, "f1": 1.0}
+{"qid": "trivia177", "pred": "The Wicker Man (1973 film)", "gold": "The Wicker Man", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "trivia196", "pred": "Ornithology", "gold": "Ornithology", "em": 1.0, "f1": 1.0}

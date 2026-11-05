@@ -1,0 +1,78 @@
+{"qid": "2hop__752214_639679", "pred": "Parbati Barua", "gold": "Clio Goldsmith", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__44815_494136", "pred": "The provided passages do not contain information about the spouse of the actor who played Ethan in A Dog's Purpose.", "gold": "Meg Ryan", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__640262_122868", "pred": "University of Florence", "gold": "University of British Columbia", "em": 0.0, "f1": 0.5714285714285715}
+{"qid": "2hop__370564_71701", "pred": "1938", "gold": "November 5", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__17827_54024", "pred": "James I", "gold": "King James I of England", "em": 0.0, "f1": 0.5714285714285715}
+{"qid": "3hop2__90098_156850_10557", "pred": "Classical Latin", "gold": "Medieval Latin", "em": 0.0, "f1": 0.5}
+{"qid": "2hop__6827_79845", "pred": "15,900", "gold": "15,900", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__62311_62279", "pred": "16 December 1944", "gold": "10 July -- 31 October 1940", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__365934_87694_124169", "pred": "10 September 1950", "gold": "1952", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__810884_22402", "pred": "more than 4500", "gold": "nearly 25,000", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__56851_343058", "pred": "David Saunders", "gold": "Adrian Edmondson", "em": 0.0, "f1": 0.0}
+{"qid": "3hop2__30152_105395_20999", "pred": "The provided passages do not contain information about Star Cola or how people were expelled from the country where it is produced.", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__19768_19788_10117", "pred": "1,400 years ago", "gold": "1,400 years", "em": 0.0, "f1": 0.8571428571428571}
+{"qid": "2hop__42747_83837", "pred": "Karen Fairchild", "gold": "Karen Fairchild", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__511176_22458", "pred": "Danish Football Association", "gold": "International Federation of Association Football", "em": 0.0, "f1": 0.5}
+{"qid": "2hop__83800_747874", "pred": "The provided passages do not contain information about the 2016 Wimbledon Men's Singles champion or their sibling. Passage [1] discusses Roger Federer's", "gold": "Jamie Murray", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__83257_19033", "pred": "WrestleMania 21", "gold": "Great American Bash", "em": 0.0, "f1": 0.0}
+{"qid": "4hop1__341777_508773_85832_745702", "pred": "Sebastian Cabot", "gold": "Sebastian Cabot", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__409166_152023", "pred": "Real World", "gold": "Kicking Mule Records", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__55966_162341", "pred": "positive reception from critics", "gold": "nominated for an Academy Award for Best Supporting Actor", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__703767_37168", "pred": "551-600", "gold": "551-600", "em": 1.0, "f1": 1.0}
+{"qid": "3hop2__132957_222979_40768", "pred": "A decade after the 1973 oil crisis", "gold": "1981", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__857_846_7821", "pred": "The provided passages do not contain information about the number of miles of highways in Nanjing.", "gold": "140 mi", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__754753_57816", "pred": "100", "gold": "100", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__127837_157828_239539", "pred": "The provided passages do not contain information about Kuhinjica, the language it is in, or the headquarters of any Radio Television organization. Therefore, the question cannot", "gold": "Pristina", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__488811_30110", "pred": "While many fled from the Red Army during the evacuation of East Prussia, Curonians that remained behind were subsequently expelled by the Soviet Union.", "gold": "expelled by the Soviet Union", "em": 0.0, "f1": 0.32}
+{"qid": "2hop__612719_6455", "pred": "Firefox", "gold": "Firefox", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__30905_189318", "pred": "Yale University", "gold": "National War College", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__776377_857193", "pred": "Schuylkill River", "gold": "Delaware River", "em": 0.0, "f1": 0.5}
+{"qid": "3hop1__102461_24918_24991", "pred": "the Soviet flag", "gold": "Soviet flag", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__411091_625230", "pred": "Greenfield, Indiana", "gold": "Hancock County", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__455158_247871", "pred": "Waseca County", "gold": "Waseca County", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__8496_21567", "pred": "John Kukuzelis", "gold": "John Kukuzelis", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__70338_36240", "pred": "Job 19: 20", "gold": "Genesis 3:15", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__28404_160713_77246", "pred": "a large body of water", "gold": "the country of India", "em": 0.0, "f1": 0.28571428571428575}
+{"qid": "2hop__552546_70131", "pred": "Nazi Party", "gold": "consisting largely of World War I veterans", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__418360_67370", "pred": "February 11, 2018", "gold": "January 19, 2018", "em": 0.0, "f1": 0.3333333333333333}
+{"qid": "3hop1__131783_131926_13165", "pred": "Treaty of Paris", "gold": "Treaty of Paris", "em": 1.0, "f1": 1.0}
+{"qid": "4hop3__373866_5189_38229_86687", "pred": "August 1968", "gold": "May 1990", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__73921_807969", "pred": "Mohamed Salah", "gold": "Egypt national football team", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__123214_22402", "pred": "The provided passages do not contain information about the number of students attending the University of Zurich.", "gold": "nearly 25,000", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__141456_6455", "pred": "Firefox", "gold": "Firefox", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__139787_88110_77129", "pred": "Windows 8", "gold": "Windows 8", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__389069_132457_47686", "pred": "1001 Filbert Street in Center City Philadelphia", "gold": "Toronto Coach Terminal", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__90773_715759", "pred": "the Manhattan Project", "gold": "Manhattan Project", "em": 1.0, "f1": 1.0}
+{"qid": "3hop2__326964_7855_7713", "pred": "not mentioned", "gold": "about 400 years", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__275891_55984", "pred": "Brandi Carlile", "gold": "Phil Hanseroth", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__6736_6733", "pred": "Somalia", "gold": "Eastern block", "em": 0.0, "f1": 0.0}
+{"qid": "4hop3__524186_219173_862998_72134", "pred": "1821", "gold": "1839", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__354480_834494_34109", "pred": "Pima County", "gold": "KUAT-TV 6", "em": 0.0, "f1": 0.0}
+{"qid": "4hop3__678814_466199_695123_72134", "pred": "1812", "gold": "1839", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__83405_158262", "pred": "1848", "gold": "1848", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__136129_87694_124169", "pred": "251 AD", "gold": "1952", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__67956_463572", "pred": "Epic Records", "gold": "MGM Records", "em": 0.0, "f1": 0.5}
+{"qid": "3hop1__358853_339990_15538", "pred": "1984", "gold": "1984", "em": 1.0, "f1": 1.0}
+{"qid": "4hop1__436202_765799_282674_759393", "pred": "Pécs", "gold": "Green Bay", "em": 0.0, "f1": 0.0}
+{"qid": "4hop1__58323_375563_161848_83118", "pred": "last Sunday of October", "gold": "the first Sunday in April", "em": 0.0, "f1": 0.25}
+{"qid": "2hop__354635_174222", "pred": "The Walt Disney Company", "gold": "Time Warner Cable", "em": 0.0, "f1": 0.0}
+{"qid": "4hop2__160585_14670_8987_8529", "pred": "The provided passages do not contain the answer to the question.", "gold": "1943–1992", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__60001_512508", "pred": "killed in action at Gallipoli", "gold": "Manhattan Project", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__403712_793210", "pred": "Henry Baring", "gold": "Sir Francis Baring, 1st Baronet", "em": 0.0, "f1": 0.28571428571428575}
+{"qid": "2hop__135652_669373", "pred": "The provided passages do not contain information about the employer of Ernst Mach.", "gold": "Charles University", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__820739_250752", "pred": "Darin Morgan", "gold": "Glen Morgan", "em": 0.0, "f1": 0.5}
+{"qid": "3hop1__409517_547811_80702", "pred": "Rialto Bridge", "gold": "Rialto Bridge", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__21104_16254", "pred": "92 percent", "gold": "92 percent", "em": 1.0, "f1": 1.0}
+{"qid": "4hop3__426860_88460_30152_20999", "pred": "The provided passages do not contain information about That Dam, Thailand, or the expulsion of people from a natural boundary. Therefore, the question cannot be answered using only", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__689472_52835", "pred": "Lee Alexander", "gold": "John D. Loudermilk", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__80546_75184", "pred": "Michael J. Fox", "gold": "Claudia Wells", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__374767_152023", "pred": "Telarc", "gold": "Kicking Mule Records", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__323534_810083", "pred": "American", "gold": "Scranton", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__289517_139339", "pred": "an Academy Award for Best Live Action Short Film", "gold": "Academy Award for Best Live Action Short Film", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__829474_123956", "pred": "Saturday, 22 December 624", "gold": "15 February 1942", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__79462_91850_685675", "pred": "Yankees", "gold": "New York Yankees", "em": 0.0, "f1": 0.5}
+{"qid": "4hop1__433767_32392_823060_610794", "pred": "Crawford County", "gold": "Richland County", "em": 0.0, "f1": 0.5}
+{"qid": "4hop1__129721_32392_823060_610794", "pred": "Aiken County", "gold": "Richland County", "em": 0.0, "f1": 0.5}
+{"qid": "4hop1__726391_153080_33952_34053", "pred": "The provided passages do not contain information about the wettest year in the second largest city of Texas.", "gold": "1905", "em": 0.0, "f1": 0.0}
+{"qid": "4hop2__567956_39078_8987_8974", "pred": "Alfredo Stroessner's Paraguay", "gold": "Alfredo Stroessner's Paraguay", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__142842_68489", "pred": "The provided passages do not contain the answer to the question. Passage [1] identifies David Hasselhoff as the performer of *Night Rocker*, but Pass", "gold": "Snapper Foster", "em": 0.0, "f1": 0.0}

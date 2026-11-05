@@ -500,3 +500,29 @@ HyDE 只比 vanilla 高 3 个点，远低于 IRCoT 与 RBG，和 E2a 的检索�
 - MuSiQue（多跳）：Router 0.440，`− IRCoT = +0.110 [+0.055,+0.165]`，且 ≥ 固定多跳路径 0.425。
 
 **结论**：类型化路由让方法兼容单跳（持平 vanilla），同时不损失多跳收益。Qasper 数据源（HF 仓库无数据文件、官方 S3 返回 301/403）不可达，未跑。
+
+### 18.10 reranker 对齐对照（回应"CE 未在目标数据集训练"的质疑）
+
+此前的对比中 RBG 使用 CE reranker，而 vanilla/IRCoT 只用 BM25，存在混淆。本组实验给所有方法同一个零样本 CE（`ms-marco-MiniLM-L-6-v2`），BM25 top-50 → CE top-5。
+
+**MuSiQue 200**
+
+| 方法 | EM |
+|---|---|
+| Vanilla + CE | 0.265 |
+| IRCoT + CE | 0.365 |
+| **RBG-Exec** | **0.425** |
+
+`RBG − IRCoT(+CE) = +0.060 [+0.010,+0.110]`（显著）。CE 使 IRCoT 提升 +0.035；流水线仍贡献 +0.060。
+
+**TriviaQA 200（单跳）**
+
+| 方法 | EM |
+|---|---|
+| Vanilla + CE | 0.745 |
+| IRCoT + CE | 0.760 |
+| RBG + Router | 0.740 |
+
+`Router − IRCoT(+CE) = −0.020 [−0.055,+0.015]`（不显著）。
+
+**结论**：reranker 是部分增益来源（多跳上约 1/3），但不是全部；对齐后 RBG 仍显著优于 IRCoT。局限：CE 是零样本 MS MARCO，未在各数据集上重训；每数据集训练 CE 是下一步。

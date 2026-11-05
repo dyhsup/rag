@@ -183,6 +183,18 @@ $$\mathrm{cov}(S)\le \underbrace{\frac{|\{i:\exists d\in C,\ \mathrm{ground}(r_i
 
 ### 6.1 主结果（MuSiQue，200 题）
 
+**公平对照：所有方法使用同一个 reranker**（BM25 top-50 → 同一 CE top-5）。
+
+| 方法 | EM |
+|---|---|
+| Vanilla + CE | 0.265 |
+| IRCoT + CE | 0.365 |
+| **RBG-Exec** | **0.425** |
+
+`RBG − IRCoT(+CE) = +0.060 [+0.010,+0.110]`，显著。CE 解释了约 3.5 点（IRCoT 0.330→0.365），流水线贡献 6.0 点。
+
+**不做 reranker 对齐的版本**（RBG 用 CE，基线只用 BM25）：
+
 | 方法 | EM | F1 |
 |---|---|---|
 | Vanilla | 0.175 | 0.281 |
@@ -293,9 +305,11 @@ $$\mathrm{cov}(S)\le \underbrace{\frac{|\{i:\exists d\in C,\ \mathrm{ground}(r_i
 |---|---|---|
 | Vanilla | 0.745 | 0.830 |
 | IRCoT | 0.755 | 0.843 |
+| Vanilla + CE | 0.745 | — |
+| IRCoT + CE | 0.760 | — |
 | **RBG + Router** | **0.740** | 0.829 |
 
-`Router − Vanilla = −0.005 [−0.015,+0.000]`；路由只把 23/200 判为多跳。
+`Router − IRCoT(+CE) = −0.020 [−0.055,+0.015]`（不显著）；路由只把 23/200 判为多跳。CE 在该池上无增益。
 
 **QuALITY（长文档 MCQ，200 题）**：选项多为释义，无法可靠标注证据段；只报 MCQ 准确率 **0.590 EM / 0.690 F1**，路由将其判为单跳并走 vanilla。
 
