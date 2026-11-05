@@ -20,6 +20,7 @@ class CERemote:
         self.dataset = os.environ.get("CE_DATASET", "musique")
         if self.dataset_url:
             self.url = self.dataset_url.rstrip("/")
+        self.embed_url = (os.environ.get("CE_EMBED_URL") or self.url).rstrip("/")
         self.local_path = os.environ.get("CE_LOCAL_PATH")
         if self.local_path:
             import torch
@@ -94,6 +95,11 @@ class CERemote:
     def embed(self, texts):
         out = []
         for i in range(0, len(texts), self.chunk):
-            data = self._post("/embed", {"texts": texts[i:i + self.chunk], "normalize": True})
+            r = requests.post(f"{self.embed_url}/embed",
+                              json={"texts": texts[i:i + self.chunk], "normalize": True},
+                              timeout=self.timeout, proxies={})
+            if r.status_code != 200:
+                raise RuntimeError(f"/embed HTTP {r.status_code}: {r.text[:120]}")
+            data = r.json()
             out.extend(data["embeddings"])
         return np.asarray(out, dtype=np.float32)
