@@ -12,6 +12,7 @@ $$\text{gap 消除率}=\underbrace{\text{候选可达性}}_{\text{绑定/第一�
 
 | 文档 | 内容 |
 |---|---|
+| [`docs/PAPER.md`](docs/PAPER.md) | **论文（中文全文）**：检索不是重排——查询程序执行与证据覆盖 |
 | [`docs/01_PROCESS.md`](docs/01_PROCESS.md) | **过程记录**：按时间顺序的全部实验、决策、18 个 bug 与修复、被推翻的结论 |
 | [`docs/02_PROJECT.md`](docs/02_PROJECT.md) | **项目文档**：背景、形式化、方法（PAG）、全部参数、目录与运行 |
 | [`docs/03_EXPERIMENTS.md`](docs/03_EXPERIMENTS.md) | **实验文档**：假设、E0–E11 结果、消融、失败分析、有效性威胁 |
