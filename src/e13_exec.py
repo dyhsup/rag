@@ -119,6 +119,9 @@ def deps_of(text):
     return [int(x) for x in re.findall(r"#(\d+)", text)]
 
 
+QSLOT = os.environ.get("E13_QSLOT", "req")
+
+
 def execute_once(q, hops, index, llm, ce, mode, alt=None):
     alt = alt or {}
     binds = [None] * len(hops)
@@ -128,9 +131,12 @@ def execute_once(q, hops, index, llm, ce, mode, alt=None):
         text = render(hop["query"], binds)
         if mode != "base" and any(d - 1 < h and binds[d - 1] is None for d in deps):
             text = (text + " " + q["question"]).strip()
-        cand, _ = topk(index, text, 50)
+        # E13_QSLOT=question keeps the same plan and reader but scores evidence
+        # against the full question (the standard RAG reranking query slot).
+        qslot = text if QSLOT != "question" else q["question"]
+        cand, _ = topk(index, qslot, 50)
         try:
-            scores = ce.rerank(text, cand)
+            scores = ce.rerank(qslot, cand)
         except Exception:
             scores = [0.0] * len(cand)
         order = sorted(range(len(cand)), key=lambda i: -scores[i])[:3]

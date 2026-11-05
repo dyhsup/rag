@@ -1,0 +1,1410 @@
+{
+  "summary": {
+    "n": 100,
+    "k": 2,
+    "cmu_recall": 0.39750000000000013,
+    "ce_recall": 0.45416666666666666
+  },
+  "records": [
+    {
+      "qid": "2hop__44815_494136",
+      "gold": "Meg Ryan",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        12,
+        7
+      ],
+      "ce_sel": [
+        12,
+        3
+      ]
+    },
+    {
+      "qid": "2hop__640262_122868",
+      "gold": "University of British Columbia",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        0,
+        3
+      ],
+      "ce_sel": [
+        0,
+        15
+      ]
+    },
+    {
+      "qid": "2hop__370564_71701",
+      "gold": "November 5",
+      "cmu_recall": 0.5,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        18,
+        8
+      ],
+      "ce_sel": [
+        18,
+        0
+      ]
+    },
+    {
+      "qid": "2hop__6827_79845",
+      "gold": "15,900",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        19,
+        15
+      ],
+      "ce_sel": [
+        19,
+        0
+      ]
+    },
+    {
+      "qid": "3hop2__90098_156850_10557",
+      "gold": "Medieval Latin",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.6666666666666666,
+      "cmu_sel": [
+        3,
+        10
+      ],
+      "ce_sel": [
+        3,
+        15
+      ]
+    },
+    {
+      "qid": "2hop__488811_30110",
+      "gold": "expelled by the Soviet Union",
+      "cmu_recall": 0.5,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        3,
+        11
+      ],
+      "ce_sel": [
+        3,
+        18
+      ]
+    },
+    {
+      "qid": "2hop__17827_54024",
+      "gold": "King James I of England",
+      "cmu_recall": 0.5,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        12,
+        17
+      ],
+      "ce_sel": [
+        12,
+        0
+      ]
+    },
+    {
+      "qid": "2hop__752214_639679",
+      "gold": "Clio Goldsmith",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        6,
+        8
+      ],
+      "ce_sel": [
+        6,
+        3
+      ]
+    },
+    {
+      "qid": "2hop__810884_22402",
+      "gold": "nearly 25,000",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        3,
+        12
+      ],
+      "ce_sel": [
+        3,
+        2
+      ]
+    },
+    {
+      "qid": "4hop1__341777_508773_85832_745702",
+      "gold": "Sebastian Cabot",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        1,
+        9
+      ],
+      "ce_sel": [
+        14,
+        18
+      ]
+    },
+    {
+      "qid": "3hop2__132957_222979_40768",
+      "gold": "1981",
+      "cmu_recall": 0.6666666666666666,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        6,
+        1
+      ],
+      "ce_sel": [
+        13,
+        19
+      ]
+    },
+    {
+      "qid": "2hop__62311_62279",
+      "gold": "10 July -- 31 October 1940",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        5,
+        16
+      ],
+      "ce_sel": [
+        0,
+        5
+      ]
+    },
+    {
+      "qid": "3hop1__365934_87694_124169",
+      "gold": "1952",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        16,
+        5
+      ],
+      "ce_sel": [
+        16,
+        5
+      ]
+    },
+    {
+      "qid": "2hop__409166_152023",
+      "gold": "Kicking Mule Records",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        6,
+        18
+      ],
+      "ce_sel": [
+        6,
+        18
+      ]
+    },
+    {
+      "qid": "3hop1__857_846_7821",
+      "gold": "140 mi",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        5,
+        14
+      ],
+      "ce_sel": [
+        2,
+        17
+      ]
+    },
+    {
+      "qid": "3hop1__19768_19788_10117",
+      "gold": "1,400 years",
+      "cmu_recall": 0.6666666666666666,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        19,
+        3
+      ],
+      "ce_sel": [
+        16,
+        19
+      ]
+    },
+    {
+      "qid": "2hop__703767_37168",
+      "gold": "551-600",
+      "cmu_recall": 1.0,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        8,
+        4
+      ],
+      "ce_sel": [
+        4,
+        9
+      ]
+    },
+    {
+      "qid": "2hop__56851_343058",
+      "gold": "Adrian Edmondson",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        6,
+        3
+      ],
+      "ce_sel": [
+        6,
+        16
+      ]
+    },
+    {
+      "qid": "3hop2__30152_105395_20999",
+      "gold": "The dynasty regrouped and defeated the Portuguese",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        3,
+        1
+      ],
+      "ce_sel": [
+        10,
+        6
+      ]
+    },
+    {
+      "qid": "2hop__42747_83837",
+      "gold": "Karen Fairchild",
+      "cmu_recall": 0.5,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        19,
+        6
+      ],
+      "ce_sel": [
+        19,
+        9
+      ]
+    },
+    {
+      "qid": "2hop__511176_22458",
+      "gold": "International Federation of Association Football",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        10,
+        11
+      ],
+      "ce_sel": [
+        10,
+        2
+      ]
+    },
+    {
+      "qid": "2hop__83800_747874",
+      "gold": "Jamie Murray",
+      "cmu_recall": 0.0,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        5,
+        2
+      ],
+      "ce_sel": [
+        8,
+        16
+      ]
+    },
+    {
+      "qid": "2hop__83257_19033",
+      "gold": "Great American Bash",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        0,
+        16
+      ],
+      "ce_sel": [
+        0,
+        15
+      ]
+    },
+    {
+      "qid": "2hop__55966_162341",
+      "gold": "nominated for an Academy Award for Best Supporting Actor",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        16,
+        4
+      ],
+      "ce_sel": [
+        16,
+        3
+      ]
+    },
+    {
+      "qid": "2hop__754753_57816",
+      "gold": "100",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        3,
+        7
+      ],
+      "ce_sel": [
+        8,
+        7
+      ]
+    },
+    {
+      "qid": "3hop1__127837_157828_239539",
+      "gold": "Pristina",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        9,
+        2
+      ],
+      "ce_sel": [
+        5,
+        16
+      ]
+    },
+    {
+      "qid": "3hop1__102461_24918_24991",
+      "gold": "Soviet flag",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        6,
+        16
+      ],
+      "ce_sel": [
+        9,
+        6
+      ]
+    },
+    {
+      "qid": "2hop__612719_6455",
+      "gold": "Firefox",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        1,
+        5
+      ],
+      "ce_sel": [
+        17,
+        19
+      ]
+    },
+    {
+      "qid": "2hop__30905_189318",
+      "gold": "National War College",
+      "cmu_recall": 0.5,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        13,
+        14
+      ],
+      "ce_sel": [
+        13,
+        8
+      ]
+    },
+    {
+      "qid": "2hop__776377_857193",
+      "gold": "Delaware River",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        18,
+        16
+      ],
+      "ce_sel": [
+        18,
+        14
+      ]
+    },
+    {
+      "qid": "2hop__411091_625230",
+      "gold": "Hancock County",
+      "cmu_recall": 1.0,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        13,
+        10
+      ],
+      "ce_sel": [
+        13,
+        1
+      ]
+    },
+    {
+      "qid": "4hop2__160585_14670_8987_8529",
+      "gold": "1943–1992",
+      "cmu_recall": 0.25,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        10,
+        12
+      ],
+      "ce_sel": [
+        2,
+        16
+      ]
+    },
+    {
+      "qid": "3hop1__28404_160713_77246",
+      "gold": "the country of India",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        16,
+        14
+      ],
+      "ce_sel": [
+        13,
+        19
+      ]
+    },
+    {
+      "qid": "2hop__8496_21567",
+      "gold": "John Kukuzelis",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        19,
+        10
+      ],
+      "ce_sel": [
+        19,
+        13
+      ]
+    },
+    {
+      "qid": "2hop__70338_36240",
+      "gold": "Genesis 3:15",
+      "cmu_recall": 0.5,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        7,
+        17
+      ],
+      "ce_sel": [
+        7,
+        12
+      ]
+    },
+    {
+      "qid": "2hop__275891_55984",
+      "gold": "Phil Hanseroth",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        14,
+        3
+      ],
+      "ce_sel": [
+        18,
+        14
+      ]
+    },
+    {
+      "qid": "3hop1__136129_87694_124169",
+      "gold": "1952",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        2,
+        17
+      ],
+      "ce_sel": [
+        2,
+        12
+      ]
+    },
+    {
+      "qid": "4hop3__373866_5189_38229_86687",
+      "gold": "May 1990",
+      "cmu_recall": 0.25,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        18,
+        12
+      ],
+      "ce_sel": [
+        14,
+        4
+      ]
+    },
+    {
+      "qid": "2hop__455158_247871",
+      "gold": "Waseca County",
+      "cmu_recall": 1.0,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        16,
+        19
+      ],
+      "ce_sel": [
+        16,
+        19
+      ]
+    },
+    {
+      "qid": "3hop1__131783_131926_13165",
+      "gold": "Treaty of Paris",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        5,
+        8
+      ],
+      "ce_sel": [
+        9,
+        1
+      ]
+    },
+    {
+      "qid": "2hop__123214_22402",
+      "gold": "nearly 25,000",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        0,
+        8
+      ],
+      "ce_sel": [
+        0,
+        8
+      ]
+    },
+    {
+      "qid": "3hop1__358853_339990_15538",
+      "gold": "1984",
+      "cmu_recall": 0.6666666666666666,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        14,
+        10
+      ],
+      "ce_sel": [
+        10,
+        17
+      ]
+    },
+    {
+      "qid": "2hop__552546_70131",
+      "gold": "consisting largely of World War I veterans",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        5,
+        0
+      ],
+      "ce_sel": [
+        5,
+        6
+      ]
+    },
+    {
+      "qid": "2hop__67956_463572",
+      "gold": "MGM Records",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        5,
+        10
+      ],
+      "ce_sel": [
+        5,
+        13
+      ]
+    },
+    {
+      "qid": "2hop__418360_67370",
+      "gold": "January 19, 2018",
+      "cmu_recall": 0.5,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        9,
+        6
+      ],
+      "ce_sel": [
+        9,
+        2
+      ]
+    },
+    {
+      "qid": "2hop__73921_807969",
+      "gold": "Egypt national football team",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        14,
+        11
+      ],
+      "ce_sel": [
+        14,
+        9
+      ]
+    },
+    {
+      "qid": "3hop1__139787_88110_77129",
+      "gold": "Windows 8",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        1,
+        0
+      ],
+      "ce_sel": [
+        1,
+        0
+      ]
+    },
+    {
+      "qid": "2hop__141456_6455",
+      "gold": "Firefox",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        9,
+        8
+      ],
+      "ce_sel": [
+        4,
+        14
+      ]
+    },
+    {
+      "qid": "3hop2__326964_7855_7713",
+      "gold": "about 400 years",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        6,
+        18
+      ],
+      "ce_sel": [
+        15,
+        9
+      ]
+    },
+    {
+      "qid": "4hop1__436202_765799_282674_759393",
+      "gold": "Green Bay",
+      "cmu_recall": 0.25,
+      "ce_recall": 0.25,
+      "cmu_sel": [
+        3,
+        1
+      ],
+      "ce_sel": [
+        3,
+        10
+      ]
+    },
+    {
+      "qid": "3hop1__389069_132457_47686",
+      "gold": "Toronto Coach Terminal",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        18,
+        9
+      ],
+      "ce_sel": [
+        15,
+        5
+      ]
+    },
+    {
+      "qid": "2hop__90773_715759",
+      "gold": "Manhattan Project",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        8,
+        0
+      ],
+      "ce_sel": [
+        10,
+        0
+      ]
+    },
+    {
+      "qid": "2hop__135652_669373",
+      "gold": "Charles University",
+      "cmu_recall": 0.5,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        4,
+        15
+      ],
+      "ce_sel": [
+        4,
+        5
+      ]
+    },
+    {
+      "qid": "2hop__6736_6733",
+      "gold": "Eastern block",
+      "cmu_recall": 1.0,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        11,
+        12
+      ],
+      "ce_sel": [
+        11,
+        12
+      ]
+    },
+    {
+      "qid": "4hop1__58323_375563_161848_83118",
+      "gold": "the first Sunday in April",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.25,
+      "cmu_sel": [
+        14,
+        4
+      ],
+      "ce_sel": [
+        8,
+        16
+      ]
+    },
+    {
+      "qid": "4hop3__524186_219173_862998_72134",
+      "gold": "1839",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.25,
+      "cmu_sel": [
+        0,
+        15
+      ],
+      "ce_sel": [
+        0,
+        6
+      ]
+    },
+    {
+      "qid": "3hop1__354480_834494_34109",
+      "gold": "KUAT-TV 6",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.6666666666666666,
+      "cmu_sel": [
+        15,
+        1
+      ],
+      "ce_sel": [
+        15,
+        13
+      ]
+    },
+    {
+      "qid": "2hop__354635_174222",
+      "gold": "Time Warner Cable",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        2,
+        11
+      ],
+      "ce_sel": [
+        2,
+        7
+      ]
+    },
+    {
+      "qid": "4hop3__678814_466199_695123_72134",
+      "gold": "1839",
+      "cmu_recall": 0.25,
+      "ce_recall": 0.25,
+      "cmu_sel": [
+        15,
+        13
+      ],
+      "ce_sel": [
+        8,
+        18
+      ]
+    },
+    {
+      "qid": "2hop__83405_158262",
+      "gold": "1848",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        8,
+        9
+      ],
+      "ce_sel": [
+        1,
+        8
+      ]
+    },
+    {
+      "qid": "2hop__60001_512508",
+      "gold": "Manhattan Project",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        8,
+        11
+      ],
+      "ce_sel": [
+        7,
+        8
+      ]
+    },
+    {
+      "qid": "2hop__403712_793210",
+      "gold": "Sir Francis Baring, 1st Baronet",
+      "cmu_recall": 1.0,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        6,
+        17
+      ],
+      "ce_sel": [
+        6,
+        17
+      ]
+    },
+    {
+      "qid": "3hop1__409517_547811_80702",
+      "gold": "Rialto Bridge",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        18,
+        4
+      ],
+      "ce_sel": [
+        8,
+        6
+      ]
+    },
+    {
+      "qid": "4hop1__433767_32392_823060_610794",
+      "gold": "Richland County",
+      "cmu_recall": 0.25,
+      "ce_recall": 0.25,
+      "cmu_sel": [
+        18,
+        11
+      ],
+      "ce_sel": [
+        18,
+        2
+      ]
+    },
+    {
+      "qid": "4hop2__567956_39078_8987_8974",
+      "gold": "Alfredo Stroessner's Paraguay",
+      "cmu_recall": 0.25,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        17,
+        10
+      ],
+      "ce_sel": [
+        6,
+        15
+      ]
+    },
+    {
+      "qid": "2hop__689472_52835",
+      "gold": "John D. Loudermilk",
+      "cmu_recall": 0.5,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        17,
+        16
+      ],
+      "ce_sel": [
+        17,
+        8
+      ]
+    },
+    {
+      "qid": "2hop__820739_250752",
+      "gold": "Glen Morgan",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        14,
+        9
+      ],
+      "ce_sel": [
+        14,
+        1
+      ]
+    },
+    {
+      "qid": "2hop__21104_16254",
+      "gold": "92 percent",
+      "cmu_recall": 1.0,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        3,
+        1
+      ],
+      "ce_sel": [
+        3,
+        19
+      ]
+    },
+    {
+      "qid": "4hop1__726391_153080_33952_34053",
+      "gold": "1905",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.25,
+      "cmu_sel": [
+        10,
+        13
+      ],
+      "ce_sel": [
+        18,
+        10
+      ]
+    },
+    {
+      "qid": "2hop__374767_152023",
+      "gold": "Kicking Mule Records",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        8,
+        1
+      ],
+      "ce_sel": [
+        8,
+        13
+      ]
+    },
+    {
+      "qid": "4hop3__426860_88460_30152_20999",
+      "gold": "The dynasty regrouped and defeated the Portuguese",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.25,
+      "cmu_sel": [
+        6,
+        4
+      ],
+      "ce_sel": [
+        14,
+        17
+      ]
+    },
+    {
+      "qid": "3hop1__79462_91850_685675",
+      "gold": "New York Yankees",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        4,
+        14
+      ],
+      "ce_sel": [
+        16,
+        4
+      ]
+    },
+    {
+      "qid": "2hop__289517_139339",
+      "gold": "Academy Award for Best Live Action Short Film",
+      "cmu_recall": 1.0,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        14,
+        17
+      ],
+      "ce_sel": [
+        14,
+        17
+      ]
+    },
+    {
+      "qid": "4hop1__129721_32392_823060_610794",
+      "gold": "Richland County",
+      "cmu_recall": 0.25,
+      "ce_recall": 0.25,
+      "cmu_sel": [
+        4,
+        13
+      ],
+      "ce_sel": [
+        4,
+        6
+      ]
+    },
+    {
+      "qid": "2hop__142842_68489",
+      "gold": "Snapper Foster",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        13,
+        14
+      ],
+      "ce_sel": [
+        13,
+        0
+      ]
+    },
+    {
+      "qid": "2hop__80546_75184",
+      "gold": "Claudia Wells",
+      "cmu_recall": 1.0,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        11,
+        16
+      ],
+      "ce_sel": [
+        11,
+        4
+      ]
+    },
+    {
+      "qid": "2hop__323534_810083",
+      "gold": "Scranton",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        0,
+        2
+      ],
+      "ce_sel": [
+        0,
+        19
+      ]
+    },
+    {
+      "qid": "2hop__829474_123956",
+      "gold": "15 February 1942",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        6,
+        1
+      ],
+      "ce_sel": [
+        6,
+        1
+      ]
+    },
+    {
+      "qid": "4hop1__94201_642284_131926_90707",
+      "gold": "at the city of Cairo, Illinois",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        8,
+        3
+      ],
+      "ce_sel": [
+        3,
+        17
+      ]
+    },
+    {
+      "qid": "4hop1__629520_49925_13759_736921",
+      "gold": "Saxony-Anhalt",
+      "cmu_recall": 0.25,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        17,
+        14
+      ],
+      "ce_sel": [
+        9,
+        7
+      ]
+    },
+    {
+      "qid": "3hop1__540585_568433_47686",
+      "gold": "Toronto Coach Terminal",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        16,
+        19
+      ],
+      "ce_sel": [
+        2,
+        6
+      ]
+    },
+    {
+      "qid": "2hop__56307_604644",
+      "gold": "429 Records",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        18,
+        6
+      ],
+      "ce_sel": [
+        11,
+        17
+      ]
+    },
+    {
+      "qid": "2hop__507528_139339",
+      "gold": "Academy Award for Best Live Action Short Film",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        13,
+        5
+      ],
+      "ce_sel": [
+        13,
+        0
+      ]
+    },
+    {
+      "qid": "2hop__44259_747874",
+      "gold": "Jamie Murray",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        11,
+        13
+      ],
+      "ce_sel": [
+        19,
+        8
+      ]
+    },
+    {
+      "qid": "2hop__428940_135373",
+      "gold": "Vitus Bering",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        11,
+        17
+      ],
+      "ce_sel": [
+        11,
+        3
+      ]
+    },
+    {
+      "qid": "3hop1__147225_30587_83479",
+      "gold": "to stem the flow of merchant shipping that enabled Britain to keep fighting",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.6666666666666666,
+      "cmu_sel": [
+        9,
+        14
+      ],
+      "ce_sel": [
+        9,
+        4
+      ]
+    },
+    {
+      "qid": "2hop__642686_7292",
+      "gold": "George Benson",
+      "cmu_recall": 0.5,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        8,
+        16
+      ],
+      "ce_sel": [
+        8,
+        11
+      ]
+    },
+    {
+      "qid": "3hop1__107540_720914_27537",
+      "gold": "for the conclave in Rome",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.6666666666666666,
+      "cmu_sel": [
+        8,
+        7
+      ],
+      "ce_sel": [
+        8,
+        18
+      ]
+    },
+    {
+      "qid": "3hop1__161433_33952_33939",
+      "gold": "7,531",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        15,
+        11
+      ],
+      "ce_sel": [
+        15,
+        10
+      ]
+    },
+    {
+      "qid": "2hop__71871_494136",
+      "gold": "Meg Ryan",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        1,
+        18
+      ],
+      "ce_sel": [
+        1,
+        0
+      ]
+    },
+    {
+      "qid": "4hop1__310029_153080_33897_81096",
+      "gold": "Mario Andretti",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        0,
+        6
+      ],
+      "ce_sel": [
+        17,
+        19
+      ]
+    },
+    {
+      "qid": "2hop__620853_22458",
+      "gold": "International Federation of Association Football",
+      "cmu_recall": 1.0,
+      "ce_recall": 0.5,
+      "cmu_sel": [
+        12,
+        8
+      ],
+      "ce_sel": [
+        12,
+        15
+      ]
+    },
+    {
+      "qid": "2hop__865828_377862",
+      "gold": "Sucha Beskidzka",
+      "cmu_recall": 0.5,
+      "ce_recall": 1.0,
+      "cmu_sel": [
+        9,
+        12
+      ],
+      "ce_sel": [
+        9,
+        11
+      ]
+    },
+    {
+      "qid": "4hop3__630723_88460_30152_20999",
+      "gold": "The dynasty regrouped and defeated the Portuguese",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.25,
+      "cmu_sel": [
+        8,
+        0
+      ],
+      "ce_sel": [
+        7,
+        10
+      ]
+    },
+    {
+      "qid": "4hop3__719125_132409_371500_35031",
+      "gold": "third-largest",
+      "cmu_recall": 0.25,
+      "ce_recall": 0.25,
+      "cmu_sel": [
+        2,
+        16
+      ],
+      "ce_sel": [
+        2,
+        14
+      ]
+    },
+    {
+      "qid": "4hop1__105688_17130_70784_79935",
+      "gold": "1930",
+      "cmu_recall": 0.0,
+      "ce_recall": 0.25,
+      "cmu_sel": [
+        1,
+        18
+      ],
+      "ce_sel": [
+        0,
+        3
+      ]
+    },
+    {
+      "qid": "3hop1__376309_160713_77246",
+      "gold": "the country of India",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        11,
+        2
+      ],
+      "ce_sel": [
+        17,
+        2
+      ]
+    },
+    {
+      "qid": "4hop1__525129_315334_131926_87157",
+      "gold": "rises in northern Minnesota and meanders slowly southwards",
+      "cmu_recall": 0.5,
+      "ce_recall": 0.0,
+      "cmu_sel": [
+        9,
+        16
+      ],
+      "ce_sel": [
+        15,
+        1
+      ]
+    },
+    {
+      "qid": "3hop1__140554_2053_52946",
+      "gold": "February 7, 2018",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.3333333333333333,
+      "cmu_sel": [
+        16,
+        18
+      ],
+      "ce_sel": [
+        0,
+        15
+      ]
+    },
+    {
+      "qid": "3hop1__347858_503371_21711",
+      "gold": "built in the 15th century",
+      "cmu_recall": 0.3333333333333333,
+      "ce_recall": 0.6666666666666666,
+      "cmu_sel": [
+        1,
+        7
+      ],
+      "ce_sel": [
+        1,
+        12
+      ]
+    }
+  ]
+}
