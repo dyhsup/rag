@@ -1,0 +1,200 @@
+{"qid": "squad6", "hops": [{"query": "Where did the residents of Antioch flee to?", "type": "location"}]}
+{"qid": "squad9", "hops": [{"query": "What is the name of the V&A branded gallery?", "type": "title"}, {"query": "What is the estimated cost of #1?", "type": "number"}]}
+{"qid": "squad4", "hops": [{"query": "What is the most common chemical compound containing oxygen?", "type": "other"}, {"query": "What is the usual physical state or form of #1 at standard temperature and pressure?", "type": "other"}]}
+{"qid": "squad2", "hops": [{"query": "What major infrastructure project or development occurred in East New York that is associated with increased rental prices?", "type": "other"}, {"query": "How did #1 contribute to the increase in rental prices in East New York?", "type": "other"}]}
+{"qid": "squad5", "hops": [{"query": "What scientific theory did Antoine Lavoisier's experiments disprove?", "type": "other"}, {"query": "Who is the primary proponent or originator of the theory identified in #1?", "type": "person"}, {"query": "What is the title of the major work or treatise written by the person identified in #2 that established the theory in #1?", "type": "title"}]}
+{"qid": "squad11", "hops": [{"query": "Who is Cotchery?", "type": "person"}, {"query": "How many receptions did #1 get in the 2015 season?", "type": "number"}]}
+{"qid": "squad13", "hops": [{"query": "What novel is the miniseries 'The Roots' based on?", "type": "title"}, {"query": "Who is the author of the novel #1?", "type": "person"}]}
+{"qid": "squad15", "hops": [{"query": "What is the official name of the Commission referred to in the context of censure procedures?", "type": "organization"}, {"query": "What is the required voting majority to censure #1?", "type": "number"}]}
+{"qid": "squad17", "hops": [{"query": "Which museum is known for a collection of Korean boxes?", "type": "organization"}, {"query": "What objects are used to inlay the Korean boxes in the collection of #1?", "type": "other"}]}
+{"qid": "squad10", "hops": [{"query": "In what year was the Victoria and Albert Museum founded?", "type": "date"}]}
+{"qid": "squad19", "hops": [{"query": "Which museum acquired items from the Royal College of Science?", "type": "organization"}, {"query": "What did #1 acquire from the Royal College of Science?", "type": "other"}]}
+{"qid": "squad7", "hops": [{"query": "What is 7 Lincoln Square?", "type": "other"}, {"query": "When was #1 completed?", "type": "date"}]}
+{"qid": "squad21", "hops": [{"query": "What is the job description of a pharmacy technician?", "type": "other"}]}
+{"qid": "squad8", "hops": [{"query": "Which Doctor Who episode or special was the largest simulcast of a TV drama?", "type": "title"}]}
+{"qid": "squad18", "hops": [{"query": "What directives are mentioned in the context?", "type": "title"}, {"query": "Which of the directives #1 was created in 1994?", "type": "title"}]}
+{"qid": "squad23", "hops": [{"query": "Who was the halftime performer for Super Bowl XLVIII?", "type": "person"}, {"query": "Did #1 previously headline a Super Bowl halftime show?", "type": "boolean"}]}
+{"qid": "squad1", "hops": [{"query": "What is the name of the two-tentacled cydippid that feeds entirely on salps?", "type": "other"}]}
+{"qid": "squad25", "hops": [{"query": "What are the reservoirs or places where oxygen is stored in the oxygen cycle?", "type": "other"}, {"query": "How many items are in the list of oxygen reservoirs identified in #1?", "type": "number"}]}
+{"qid": "squad27", "hops": [{"query": "What is the location referred to as Newcastle in the context of universities?", "type": "location"}, {"query": "How many universities are located in #1?", "type": "number"}]}
+{"qid": "squad16", "hops": [{"query": "Who was Kublai?", "type": "person"}, {"query": "What measures did #1 implement to prevent famines?", "type": "other"}]}
+{"qid": "squad12", "hops": [{"query": "What is the outer PD ring?", "type": "other"}, {"query": "How large are the filaments of #1?", "type": "number"}]}
+{"qid": "squad14", "hops": [{"query": "Who is Bedau?", "type": "person"}, {"query": "What purpose does #1 note that illegal protests towards public policy may serve?", "type": "other"}]}
+{"qid": "squad0", "hops": [{"query": "What is the secondary theory regarding cpDNA structure?", "type": "other"}, {"query": "How does #1 describe the structure of most cpDNA?", "type": "other"}]}
+{"qid": "squad3", "hops": [{"query": "Which city did the Carolina Panthers play in or visit where they stayed at a Marriott?", "type": "location"}, {"query": "In what city is the Marriott located where the Panthers stayed?", "type": "location"}]}
+{"qid": "squad26", "hops": [{"query": "What type of hypersensitivity is associated with allergies?", "type": "other"}]}
+{"qid": "squad24", "hops": [{"query": "What is the process or requirement for Baptized Members to become Professing Members?", "type": "other"}]}
+{"qid": "squad31", "hops": [{"query": "Who is elected to serve as the Presiding Officer at the beginning of each parliamentary session?", "type": "person"}]}
+{"qid": "squad28", "hops": [{"query": "What type of immune cells are found in animals but are absent in plants?", "type": "other"}]}
+{"qid": "squad29", "hops": [{"query": "When did Nikola Tesla become a citizen of the US?", "type": "date"}, {"query": "When was Nikola Tesla born?", "type": "date"}, {"query": "How old was Nikola Tesla on #1 given his birth date #2?", "type": "number"}]}
+{"qid": "squad33", "hops": [{"query": "Who is Shrewsbury in the context of historical notes on the plague?", "type": "person"}, {"query": "What did #1 note or write about the plague?", "type": "other"}]}
+{"qid": "squad35", "hops": [{"query": "What is the standard validity period for a teaching certificate?", "type": "number"}]}
+{"qid": "squad32", "hops": [{"query": "What is the current air time for Good Morning America on ABC?", "type": "other"}]}
+{"qid": "squad20", "hops": [{"query": "Who was Kublai?", "type": "person"}, {"query": "What empire or territory did #1 rule?", "type": "organization"}, {"query": "Where did Korea border #2?", "type": "location"}]}
+{"qid": "squad22", "hops": [{"query": "What is the process or action of allocating a seat called in the context of sets or collections?", "type": "other"}, {"query": "What set is the result of adding an element to a set?", "type": "other"}]}
+{"qid": "squad30", "hops": [{"query": "Which civil war is famously described as bloody?", "type": "other"}, {"query": "Where did #1 take place?", "type": "location"}]}
+{"qid": "squad36", "hops": [{"query": "What technique is often used by imperialism to divide countries?", "type": "other"}]}
+{"qid": "squad37", "hops": [{"query": "What is the name of the studio located in Times Square that is used by ABC?", "type": "organization"}, {"query": "What programs are broadcast from #1?", "type": "title"}]}
+{"qid": "squad39", "hops": [{"query": "What is the full name or official designation of the organization abbreviated as IPCC?", "type": "organization"}, {"query": "What are the governing rules, statutes, or guidelines that #1 must follow?", "type": "other"}]}
+{"qid": "squad43", "hops": [{"query": "What is the primary religious text or authority that Christians are expected to follow?", "type": "title"}, {"query": "What are the core teachings or commandments found in #1 that guide a Christian's life?", "type": "other"}]}
+{"qid": "squad41", "hops": [{"query": "Who is Luther?", "type": "person"}, {"query": "What works did #1 write?", "type": "title"}, {"query": "Which of #2 is considered a clear religious teaching?", "type": "title"}]}
+{"qid": "squad45", "hops": [{"query": "Who proved the prime number theorem?", "type": "person"}, {"query": "When did #1 prove the prime number theorem?", "type": "date"}]}
+{"qid": "squad47", "hops": [{"query": "What is the primary purpose of precisely dating rocks within a stratigraphic section?", "type": "other"}]}
+{"qid": "squad34", "hops": [{"query": "Which organization is responsible for scheduling and setting the work of the European Union?", "type": "organization"}, {"query": "Who is the designated authority figure or head of #1?", "type": "person"}]}
+{"qid": "squad51", "hops": [{"query": "What was the average cost for a 30-second commercial during Super Bowl 50?", "type": "number"}]}
+{"qid": "squad49", "hops": [{"query": "What are the new free-to-air channels?", "type": "other"}, {"query": "From whose satellites are #1 broadcast?", "type": "person"}]}
+{"qid": "squad38", "hops": [{"query": "Who is the artist associated with the Soulages collection?", "type": "person"}, {"query": "From which period did the artworks of #1 originate?", "type": "date"}]}
+{"qid": "squad53", "hops": [{"query": "What is the standard metric or method used to evaluate the efficiency of a steam engine?", "type": "other"}]}
+{"qid": "squad42", "hops": [{"query": "What are the primary responsibilities or duties of a pastor?", "type": "other"}, {"query": "What specific works, tasks, or resources are considered useful for fulfilling the responsibilities identified in #1?", "type": "other"}]}
+{"qid": "squad40", "hops": [{"query": "What is the IPCC?", "type": "organization"}, {"query": "What are the official mandates and responsibilities of #1?", "type": "other"}, {"query": "What activities are explicitly excluded from the mandate of #1?", "type": "other"}]}
+{"qid": "squad50", "hops": [{"query": "What was the first international event broadcast by ABC?", "type": "other"}]}
+{"qid": "squad54", "hops": [{"query": "What company owns the American Broadcasting Company?", "type": "organization"}]}
+{"qid": "squad44", "hops": [{"query": "What does SP stand for in the context of standing orders and committees?", "type": "organization"}, {"query": "What type of committee is set down under the standing orders of #1?", "type": "other"}]}
+{"qid": "squad55", "hops": [{"query": "What is the V&A library?", "type": "organization"}, {"query": "To which centuries are the illuminated manuscripts in the #1 collection dated?", "type": "other"}]}
+{"qid": "squad48", "hops": [{"query": "What is the medical term for a condition where the immune system attacks the body's own healthy tissues?", "type": "other"}]}
+{"qid": "squad46", "hops": [{"query": "Who is the person P in the context of the letter L?", "type": "person"}, {"query": "What are the most commonly ascribed attributes of the letter L in relation to #1?", "type": "other"}]}
+{"qid": "squad57", "hops": [{"query": "What region in France is historically associated with the Normans?", "type": "location"}]}
+{"qid": "squad61", "hops": [{"query": "Which colony is being referred to in the context?", "type": "other"}, {"query": "When was #1 destroyed?", "type": "date"}]}
+{"qid": "squad59", "hops": [{"query": "Who are the enemies of Doctor Who?", "type": "other"}, {"query": "Which of the enemies of Doctor Who are Time Lords?", "type": "person"}]}
+{"qid": "squad63", "hops": [{"query": "What types of entities are legally permitted to establish and run schools in India?", "type": "other"}, {"query": "Which of the entities identified in #1 are classified as non-profits and are distinct from trusts?", "type": "other"}]}
+{"qid": "squad67", "hops": [{"query": "What is the Museum of the Polish Army?", "type": "organization"}, {"query": "What history does #1 portray?", "type": "other"}]}
+{"qid": "squad58", "hops": [{"query": "Who was Frédéric Chopin?", "type": "person"}]}
+{"qid": "squad65", "hops": [{"query": "What is the population of Quzhou?", "type": "number"}, {"query": "What percentage of the population in Quzhou is descended from Confucius?", "type": "number"}, {"query": "Calculate the number of people in Quzhou descended from Confucius by multiplying the population of Quzhou (#1) by the percentage of descendants (#2).", "type": "number"}]}
+{"qid": "squad52", "hops": [{"query": "When was the concept of legal certainty first recognized as a general principle of EU law?", "type": "date"}, {"query": "How many years have passed since #1 until today?", "type": "number"}]}
+{"qid": "squad69", "hops": [{"query": "What mountain system are the Victorian Alps a part of?", "type": "other"}]}
+{"qid": "squad71", "hops": [{"query": "Which article of the TFEU defines the ordinary legislative procedure?", "type": "other"}]}
+{"qid": "squad73", "hops": [{"query": "What is a major systemic factor that contributes to continuing inequality in society over time?", "type": "other"}]}
+{"qid": "squad75", "hops": [{"query": "What is a major current trend or emphasis in the construction industry?", "type": "other"}]}
+{"qid": "squad56", "hops": [{"query": "What is the primary principle or basis for punishment in a just society according to major political philosophers like John Rawls?", "type": "other"}]}
+{"qid": "squad62", "hops": [{"query": "What musical instruments were introduced to China by the Yuan Dynasty?", "type": "other"}]}
+{"qid": "squad77", "hops": [{"query": "Who is credited with the invention or primary development of the Telnet protocol?", "type": "person"}]}
+{"qid": "squad60", "hops": [{"query": "What are the main reasons or challenges researchers face when trying to identify the history of the plague?", "type": "other"}]}
+{"qid": "squad79", "hops": [{"query": "What geological event caused the split of the Amazon basin?", "type": "other"}, {"query": "Where did the water on the eastern side of the Amazon basin flow after the event identified in #1?", "type": "location"}]}
+{"qid": "squad66", "hops": [{"query": "When was Isiah Bowman appointed to President Wilson's Inquiry?", "type": "date"}]}
+{"qid": "squad64", "hops": [{"query": "What specific claims is the question referring to regarding Tesla?", "type": "other"}, {"query": "When did Tesla make the claims identified in #1?", "type": "date"}]}
+{"qid": "squad76", "hops": [{"query": "When did the French and Indian War end?", "type": "date"}]}
+{"qid": "squad72", "hops": [{"query": "What is the term for the process where imperialism impacts the social norms of a state?", "type": "other"}]}
+{"qid": "squad68", "hops": [{"query": "Who was Peyton Manning's top receiver in Super Bowl 50?", "type": "person"}, {"query": "What is the last name of #1?", "type": "other"}]}
+{"qid": "squad85", "hops": [{"query": "Which team is currently suspended?", "type": "organization"}, {"query": "When is #1 scheduled to return?", "type": "date"}]}
+{"qid": "squad81", "hops": [{"query": "Who is Tesla?", "type": "person"}, {"query": "How much time did #1 spend gambling?", "type": "number"}]}
+{"qid": "squad74", "hops": [{"query": "What agreement allowed for the settlement of the Saarland?", "type": "title"}, {"query": "In what year was #1 reached?", "type": "date"}]}
+{"qid": "squad83", "hops": [{"query": "What negative environmental or social impacts are associated with residential construction if it is not carefully planned?", "type": "other"}]}
+{"qid": "squad70", "hops": [{"query": "What is a prominent theory or hypothesis regarding the causes or effects of income inequality that has been the subject of empirical studies?", "type": "other"}, {"query": "Have studies found evidence confirming #1?", "type": "boolean"}]}
+{"qid": "squad78", "hops": [{"query": "What is the name of the HD service that had a notable launch with pre-registration data?", "type": "title"}, {"query": "How many people were registered to receive #1 prior to its launch?", "type": "number"}]}
+{"qid": "squad80", "hops": [{"query": "Who was the ruler of Khwarezmia when Genghis Khan sent a caravan of traders there?", "type": "person"}, {"query": "Did #1 order the attack on the caravan of traders sent by Genghis Khan?", "type": "boolean"}]}
+{"qid": "squad84", "hops": [{"query": "What exhibition was planned in 1951 as a result of the success of the Britain Can Make It exhibition?", "type": "title"}]}
+{"qid": "squad82", "hops": [{"query": "Who wrote the book Principles of Geology?", "type": "person"}, {"query": "Which famous evolutionist was influenced by #1?", "type": "person"}]}
+{"qid": "squad91", "hops": [{"query": "According to Oxfam, the wealth of the 85 richest people is equal to the wealth of how many of the poorest people?", "type": "number"}]}
+{"qid": "squad89", "hops": [{"query": "In which lands are remains of large settlements found?", "type": "location"}, {"query": "What tribe is attributed to #1?", "type": "organization"}]}
+{"qid": "squad88", "hops": [{"query": "What are the models of compact trucks manufactured by Toyota?", "type": "title"}]}
+{"qid": "squad87", "hops": [{"query": "Who are the daughters of Triton?", "type": "person"}, {"query": "Which two of Triton's daughters set out on a journey?", "type": "person"}, {"query": "Where did #2 set out on a journey through?", "type": "location"}]}
+{"qid": "squad95", "hops": [{"query": "What artwork is located at the Fulton Mall?", "type": "title"}, {"query": "Who is the artist of #1?", "type": "person"}]}
+{"qid": "squad93", "hops": [{"query": "What was the Anglo-Zulu War?", "type": "other"}, {"query": "What weapons did the Zulu army use during the Anglo-Zulu War?", "type": "other"}]}
+{"qid": "squad99", "hops": [{"query": "What are the legal methods for an individual to protest against the government?", "type": "other"}]}
+{"qid": "squad97", "hops": [{"query": "What is the predecessor movement or denomination that merged to form The United Methodist Church?", "type": "organization"}, {"query": "When did #1 begin?", "type": "date"}]}
+{"qid": "squad101", "hops": [{"query": "Where did Nikola Tesla work with Thomas Edison?", "type": "location"}]}
+{"qid": "squad103", "hops": [{"query": "Who was the theologian associated with antinomianism that Martin Luther debated?", "type": "person"}, {"query": "What book did Martin Luther write in response to #1?", "type": "title"}]}
+{"qid": "squad90", "hops": [{"query": "Who is Luther?", "type": "person"}, {"query": "Where did #1 spend his career?", "type": "location"}]}
+{"qid": "squad105", "hops": [{"query": "Which museum received a considerable bequest from John Sheepshanks?", "type": "organization"}, {"query": "What was the goal of John Sheepshanks' bequest to #1?", "type": "other"}]}
+{"qid": "squad107", "hops": [{"query": "What is co-teaching?", "type": "other"}, {"query": "What type of support does #1 provide?", "type": "other"}]}
+{"qid": "squad86", "hops": [{"query": "Which Prince is referred to in the context of striking an arrangement with a Count?", "type": "person"}, {"query": "Which Count did #1 strike an arrangement with?", "type": "person"}]}
+{"qid": "squad96", "hops": [{"query": "What component in semen is responsible for killing pathogens?", "type": "other"}]}
+{"qid": "squad94", "hops": [{"query": "What series ended in 2011?", "type": "title"}, {"query": "Why did #1 end?", "type": "other"}]}
+{"qid": "squad92", "hops": [{"query": "What event or celebration is described as having a 'walk to the church' and other elements left out?", "type": "other"}, {"query": "Besides the walk to the church, what other specific element was omitted from the celebration identified in #1?", "type": "other"}]}
+{"qid": "squad111", "hops": [{"query": "What are the common negative outcomes or consequences associated with having less education in the workforce?", "type": "other"}]}
+{"qid": "squad100", "hops": [{"query": "What cameras were used in the EyeVision 360 system?", "type": "other"}, {"query": "What was the resolution of #1?", "type": "number"}]}
+{"qid": "squad98", "hops": [{"query": "What spacecraft module contained a propulsion engine and propellants to support the Command Module?", "type": "other"}, {"query": "What is the name of the spacecraft module identified in #1?", "type": "other"}]}
+{"qid": "squad104", "hops": [{"query": "What is the subject or facility associated with the question about originally planned launch pads?", "type": "other"}, {"query": "How many launch pads were originally planned for #1?", "type": "number"}]}
+{"qid": "squad109", "hops": [{"query": "What are the two main branches of the immune system?", "type": "other"}, {"query": "Which branch of the immune system is activated by innate cells acting as mediators?", "type": "other"}]}
+{"qid": "squad102", "hops": [{"query": "What is the name of the fertile soil created by indigenous peoples in the Amazon Forest through soil management?", "type": "other"}, {"query": "What type of soil is #1 classified as?", "type": "other"}]}
+{"qid": "squad108", "hops": [{"query": "Who were the Emperor's personal physicians?", "type": "person"}, {"query": "What was the professional rank or status of the pharmacist compared to #1?", "type": "other"}]}
+{"qid": "squad106", "hops": [{"query": "What book of the Bible contains the story of Daniel refusing to worship the king's idol?", "type": "title"}, {"query": "Does the book #1 discuss the theme of civil disobedience?", "type": "boolean"}]}
+{"qid": "squad112", "hops": [{"query": "What is the fundamental concept or entity in quantum field theory that is considered more fundamental than force?", "type": "other"}]}
+{"qid": "squad114", "hops": [{"query": "Which river joins the Rhine in Duisburg?", "type": "other"}]}
+{"qid": "squad110", "hops": [{"query": "What is the name of the public transit agency that operates in Downtown Los Angeles?", "type": "organization"}, {"query": "How many bus and rail lines are operated by #1?", "type": "number"}]}
+{"qid": "squad115", "hops": [{"query": "Which Super Bowl featured a Universal Pictures trailer debut?", "type": "other"}, {"query": "What Universal Pictures trailer debuted during #1?", "type": "title"}]}
+{"qid": "squad116", "hops": [{"query": "What is the definition of Prevenient grace?", "type": "other"}]}
+{"qid": "squad113", "hops": [{"query": "Which treaty signed in 1985 granted special status to a country?", "type": "title"}, {"query": "Which country was granted special status by the treaty #1?", "type": "location"}]}
+{"qid": "squad120", "hops": [{"query": "What is the phonetic pronunciation of the city Fresno?", "type": "other"}]}
+{"qid": "squad124", "hops": [{"query": "What is the name of the Norman castle?", "type": "title"}]}
+{"qid": "squad119", "hops": [{"query": "Who is Warsz?", "type": "person"}, {"query": "What did #1 own?", "type": "other"}]}
+{"qid": "squad117", "hops": [{"query": "What Earth orbit mission did the U.S. collaborate on in 1975?", "type": "title"}, {"query": "Who did the U.S. collaborate with on #1?", "type": "organization"}]}
+{"qid": "squad118", "hops": [{"query": "What was the specific mission or test designation for the Apollo 1 incident?", "type": "title"}, {"query": "What type of launch or test was #1?", "type": "other"}]}
+{"qid": "squad126", "hops": [{"query": "What is the relationship between friction and constant velocity motion?", "type": "other"}]}
+{"qid": "squad123", "hops": [{"query": "What is the group number of oxygen in the periodic table?", "type": "number"}, {"query": "What is the common name for group #1 in the periodic table?", "type": "other"}]}
+{"qid": "squad121", "hops": [{"query": "What is the typical procedure or rule for opening debates in a formal legislative body like the US House of Representatives?", "type": "other"}, {"query": "Which specific members or roles are designated to speak first or open debates according to #1?", "type": "person"}]}
+{"qid": "squad131", "hops": [{"query": "What is the starting salary for a Probationer?", "type": "number"}]}
+{"qid": "squad127", "hops": [{"query": "What study confirmed the 2001 IPCC projections?", "type": "title"}, {"query": "When was #1 published?", "type": "date"}]}
+{"qid": "squad125", "hops": [{"query": "What is the evolutionary theory that explains the origin of eukaryotic cells involving cyanobacteria?", "type": "other"}, {"query": "According to the theory identified in #1, what type of host cell did cyanobacteria enter?", "type": "other"}]}
+{"qid": "squad129", "hops": [{"query": "What is the name of the church?", "type": "organization"}, {"query": "What is the theological orientation of #1?", "type": "other"}]}
+{"qid": "squad133", "hops": [{"query": "What is the official name of the legislative body of Warsaw?", "type": "organization"}, {"query": "How many members are in #1?", "type": "number"}]}
+{"qid": "squad135", "hops": [{"query": "Which church is referred to as 'The Church' in the context of conscientious objection policies?", "type": "organization"}, {"query": "What do members of #1 conscientiously oppose?", "type": "other"}]}
+{"qid": "squad137", "hops": [{"query": "Which sports team is generally considered to have had the best regular season record in history?", "type": "organization"}, {"query": "What was the regular season record of #1?", "type": "other"}]}
+{"qid": "squad139", "hops": [{"query": "What was the name of the French colony located in modern-day Brazil?", "type": "other"}, {"query": "When was #1 founded?", "type": "date"}]}
+{"qid": "squad141", "hops": [{"query": "Who was Martin Luther?", "type": "person"}, {"query": "What specific doctrines or sections of Church dogma did #1 challenge or view differently?", "type": "other"}]}
+{"qid": "squad136", "hops": [{"query": "What does the acronym UMC stand for?", "type": "other"}]}
+{"qid": "squad128", "hops": [{"query": "What was the Diet of Worms?", "type": "other"}, {"query": "What entity or group did the Diet of Worms represent or assemble?", "type": "organization"}]}
+{"qid": "squad122", "hops": [{"query": "Which NFL teams played in Super Bowl 50?", "type": "organization"}, {"query": "What are the primary radio affiliates for #1 in the Denver market?", "type": "organization"}, {"query": "What are the primary radio affiliates for #2 in the Denver market?", "type": "organization"}]}
+{"qid": "squad138", "hops": [{"query": "What specific scandal involving Martin Luther contributed to his failing health?", "type": "other"}]}
+{"qid": "squad134", "hops": [{"query": "What is the term for the phenomenon where quarks are never found in isolation?", "type": "other"}]}
+{"qid": "squad130", "hops": [{"query": "What is a well-known brand or manufacturer of steam-powered automobiles?", "type": "organization"}, {"query": "What is a specific model of steam-powered automobile produced by #1?", "type": "title"}]}
+{"qid": "squad132", "hops": [{"query": "Who is Brandon Marshall?", "type": "person"}, {"query": "What position does #1 play?", "type": "other"}]}
+{"qid": "squad143", "hops": [{"query": "Who is the historical figure named Luther associated with Mansfeld?", "type": "person"}, {"query": "What specific event or conflict involving #1 occurred in Mansfeld?", "type": "other"}]}
+{"qid": "squad140", "hops": [{"query": "Who filed a complaint in July 1967 that led to the suspension of the merger between ITT and ABC?", "type": "person"}]}
+{"qid": "squad147", "hops": [{"query": "What is the specific edict referred to in the context?", "type": "title"}, {"query": "When was #1 declared?", "type": "date"}]}
+{"qid": "squad149", "hops": [{"query": "What is the typical time frame for new oil fields to reach significant production levels?", "type": "number"}]}
+{"qid": "squad151", "hops": [{"query": "What signalling molecules are regulated by the immune system?", "type": "other"}]}
+{"qid": "squad146", "hops": [{"query": "What is the name of the diagrams used to simplify particle interactions on a fundamental level?", "type": "title"}]}
+{"qid": "squad142", "hops": [{"query": "Who is the author of the book titled 'Incompetent Government'?", "type": "person"}, {"query": "What does #1 state is the limit of incompetent government's commitment to social justice?", "type": "other"}]}
+{"qid": "squad145", "hops": [{"query": "Who was the leader of the army that fought against Kuchlug?", "type": "person"}, {"query": "What military strategy did #1 use in the battle against Kuchlug?", "type": "other"}]}
+{"qid": "squad150", "hops": [{"query": "What is the primary factor or technology that has replaced lower skilled workers in the United States?", "type": "other"}]}
+{"qid": "squad144", "hops": [{"query": "What organization does the acronym UMC stand for in the context of political or social coalitions?", "type": "organization"}, {"query": "What coalition was #1 a founding member of?", "type": "organization"}]}
+{"qid": "squad155", "hops": [{"query": "What is the total number of award nominations for Doctor Who?", "type": "number"}]}
+{"qid": "squad153", "hops": [{"query": "Which regions were split by a mountain range?", "type": "other"}, {"query": "Which mountain range influenced the split of #1?", "type": "location"}]}
+{"qid": "squad148", "hops": [{"query": "What is the 'new mass'?", "type": "title"}, {"query": "What changes did #1 allow regarding ceremony?", "type": "other"}]}
+{"qid": "squad157", "hops": [{"query": "What is the term for the maximum measurement of time across all functions of n?", "type": "other"}]}
+{"qid": "squad159", "hops": [{"query": "What is the name of the battle?", "type": "other"}, {"query": "What were the casualties of #1?", "type": "number"}]}
+{"qid": "squad152", "hops": [{"query": "What event is currently taking place or scheduled at the Santa Clara Convention Center?", "type": "title"}, {"query": "What are the start and end dates of #1?", "type": "date"}]}
+{"qid": "squad164", "hops": [{"query": "What is the average plant biomass?", "type": "number"}]}
+{"qid": "squad161", "hops": [{"query": "What is the direction of the Rhine river immediately after it exits Lake Constance?", "type": "other"}]}
+{"qid": "squad154", "hops": [{"query": "What is the S-IVB-200?", "type": "other"}, {"query": "In which stage of the Saturn V rocket was the S-IVB-200 used?", "type": "other"}]}
+{"qid": "squad162", "hops": [{"query": "When did France begin its conquest of Algeria?", "type": "date"}]}
+{"qid": "squad158", "hops": [{"query": "What is the United Methodist Church (UMC)?", "type": "organization"}, {"query": "What are the sacraments recognized by #1?", "type": "other"}]}
+{"qid": "squad163", "hops": [{"query": "Who lived in the California Redwood tree?", "type": "person"}, {"query": "What was the outcome of #1 living in the California Redwood tree?", "type": "other"}]}
+{"qid": "squad165", "hops": [{"query": "What specific molecules on the surface of microbes do complement proteins bind to?", "type": "other"}]}
+{"qid": "squad156", "hops": [{"query": "Which Doctor Who series versions or eras have received negative reception from viewers?", "type": "other"}, {"query": "What is the specific title or version name of the Doctor Who series identified in #1?", "type": "title"}]}
+{"qid": "squad160", "hops": [{"query": "What was the prize or result of the Quickbooks contest regarding free commercials?", "type": "other"}, {"query": "Which company won the Quickbooks contest that awarded a free commercial?", "type": "organization"}]}
+{"qid": "squad167", "hops": [{"query": "Who has the power to introduce new laws or amendments as a bill?", "type": "person"}]}
+{"qid": "squad171", "hops": [{"query": "Who released a disco version of the Doctor Who theme?", "type": "person"}]}
+{"qid": "squad175", "hops": [{"query": "What is the common name for the genus Oncorhynchus?", "type": "other"}]}
+{"qid": "squad173", "hops": [{"query": "What is the chemical formula for dioxygen?", "type": "other"}, {"query": "How is the molecule with formula #1 most simply described?", "type": "other"}]}
+{"qid": "squad169", "hops": [{"query": "What is the role or title of the head of government in a system with a highest court?", "type": "title"}, {"query": "What terminology is used to describe a situation where the executive branch refuses to enforce a judicial decision?", "type": "other"}]}
+{"qid": "squad166", "hops": [{"query": "What is a major corruption scandal that led to significant political shifts?", "type": "other"}, {"query": "What political group began to gain support following #1?", "type": "organization"}]}
+{"qid": "squad168", "hops": [{"query": "What are the specialized cells that eliminate cells that recognize self-antigens?", "type": "other"}, {"query": "Where are #1 located?", "type": "location"}]}
+{"qid": "squad174", "hops": [{"query": "What is the common name for the phylum Ctenophora?", "type": "other"}]}
+{"qid": "squad170", "hops": [{"query": "What is the name of the theory proposed by Frank Burnet regarding the immune system?", "type": "title"}, {"query": "What are examples of nonself entities defined in #1?", "type": "other"}]}
+{"qid": "squad179", "hops": [{"query": "What was the primary method of transport used during the era of imperialism?", "type": "other"}]}
+{"qid": "squad172", "hops": [{"query": "What is the name of the teacher's college investigation?", "type": "title"}, {"query": "Who were the subjects of #1?", "type": "person"}]}
+{"qid": "squad176", "hops": [{"query": "What are examples of longitudinal waves?", "type": "other"}, {"query": "Where are #1 found?", "type": "location"}]}
+{"qid": "squad177", "hops": [{"query": "Who developed the principle of faunal succession?", "type": "person"}, {"query": "When was the principle of faunal succession developed by #1?", "type": "date"}, {"query": "Who proposed the theory of evolution 100 years after #2?", "type": "person"}]}
+{"qid": "squad181", "hops": [{"query": "Who founded the Milton Friedman Institute?", "type": "person"}, {"query": "How much did #1 donate to establish the Milton Friedman Institute?", "type": "number"}]}
+{"qid": "squad178", "hops": [{"query": "What major football event is held at Justin Herman Plaza in January?", "type": "title"}, {"query": "What is the primary association or organization linked to #1?", "type": "organization"}]}
+{"qid": "squad185", "hops": [{"query": "What is the current number of layers in the OSI model, which evolved from the DEC model?", "type": "number"}]}
+{"qid": "squad183", "hops": [{"query": "Which church is being referred to in the context of emphasizing supportive ministry?", "type": "organization"}, {"query": "What group does #1 emphasize the need to be in supportive ministry of?", "type": "other"}]}
+{"qid": "squad184", "hops": [{"query": "What is the specific event or action that must occur for an appointment to be considered officially fixed?", "type": "other"}]}
+{"qid": "squad182", "hops": [{"query": "Who was the historical figure known as Washington who traveled to Fort Le Boeuf?", "type": "person"}, {"query": "When did #1 reach Fort Le Boeuf?", "type": "date"}]}
+{"qid": "squad180", "hops": [{"query": "What is the name of the work by Martin Luther in which he identified the Papacy as the Antichrist?", "type": "title"}, {"query": "In the work #1, what specific term or title did Martin Luther use to identify the Papacy?", "type": "other"}]}
+{"qid": "squad188", "hops": [{"query": "What are pyrenoids?", "type": "other"}, {"query": "What is the shape of #1?", "type": "other"}]}
+{"qid": "squad193", "hops": [{"query": "What is the name of the popular website where teachers sell their lesson plans?", "type": "other"}]}
+{"qid": "squad190", "hops": [{"query": "Who wrote a resounding letter to the elector praising Luther?", "type": "person"}]}
+{"qid": "squad189", "hops": [{"query": "What is the main subject or field of study for computational complexity theory?", "type": "other"}, {"query": "What kind of problems are central to the study of #1?", "type": "other"}]}
+{"qid": "squad191", "hops": [{"query": "What is the north-south midway point of the contiguous United States?", "type": "location"}, {"query": "How many miles south of San Jose is #1?", "type": "number"}]}
+{"qid": "squad187", "hops": [{"query": "What is the current population of Kenya?", "type": "number"}, {"query": "What percentage of the population in Kenya lives below the poverty line?", "type": "number"}, {"query": "Calculate the number of people living below the poverty line in Kenya by multiplying the total population (#1) by the poverty rate (#2).", "type": "number"}]}
+{"qid": "squad197", "hops": [{"query": "In what year did Harvard University first top the Academic Rankings of World Universities?", "type": "date"}]}
+{"qid": "squad195", "hops": [{"query": "What is the DW Tardis insignia?", "type": "other"}, {"query": "Which logo or brand had the #1 removed?", "type": "title"}]}
+{"qid": "squad199", "hops": [{"query": "Where was Halford Mackinder born?", "type": "location"}]}
+{"qid": "squad186", "hops": [{"query": "Who did the Carolina Panthers face in the opening drive of their postseason game?", "type": "organization"}, {"query": "What specific defensive play or situation did #1 execute against Carolina in the opening drive that was unique in the postseason?", "type": "other"}]}
+{"qid": "squad192", "hops": [{"query": "What was the amount Walt Disney requested from ABC to invest in Disneyland?", "type": "number"}]}
+{"qid": "squad196", "hops": [{"query": "What cable company removed ABC stations from its systems in certain markets in April 2000?", "type": "organization"}]}
+{"qid": "squad198", "hops": [{"query": "What are the primary causes or factors that result in creating a poverty trap?", "type": "other"}]}
+{"qid": "squad194", "hops": [{"query": "What is the title of the study on sequenced Y genomes?", "type": "title"}, {"query": "When was the study titled #1 published?", "type": "date"}]}

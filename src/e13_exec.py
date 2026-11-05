@@ -69,12 +69,29 @@ def type_ok(ans, atype):
     return True
 
 
+def _jac(a, b):
+    A, B = set(re.findall(r"[a-z0-9]+", a.lower())), set(re.findall(r"[a-z0-9]+", b.lower()))
+    return len(A & B) / max(1, len(A | B))
+
+
+def simplify(hops, q):
+    """Compile-time check: independent hops + non-comparison question -> one hop."""
+    if len(hops) > 1 and not any("#" in h["query"] for h in hops):
+        qn = " " + q["question"].lower() + " "
+        if not any(w in qn for w in [" and ", " both ", " or ", " versus ", " compared "]):
+            return [{"query": q["question"], "type": "other"}]
+    return hops
+
+
 def auto_plan(llm, q):
     try:
         obj = llm.json_call(PLAN.format(q=q["question"]), max_tokens=320)
         hops = [{"query": h["query"], "type": h.get("type", "other")}
                 for h in obj.get("hops", []) if h.get("query")][:4]
-        return hops or [{"query": q["question"], "type": "other"}]
+        hops = hops or [{"query": q["question"], "type": "other"}]
+        # compile-time simplification: no dependency edges + high overlap with the
+        # original question means the "plan" is not a chain; collapse to one hop.
+        return simplify(hops, q)
     except Exception:
         return [{"query": q["question"], "type": "other"}]
 
@@ -255,7 +272,7 @@ def run(n=200, workers=8, modes=("base", "gate", "rollback"), data="musique200.j
         print(f"[e13] {mode}: {len(todo)} to run ({len(done)} cached)")
 
         def work(q):
-            hops = plans[q["qid"]]
+            hops = simplify(plans[q["qid"]], q)
             final, tr = solve(q, hops, index, llm, ce, mode)
             rec = {"qid": q["qid"], "hops": hops, "final": final, "gold": q["answer"],
                    "em": em(final, q["answer"]), "f1": f1(final, q["answer"]),
