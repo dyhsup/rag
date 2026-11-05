@@ -37,6 +37,18 @@ Passages:
 {ps}
 Answer:"""
 
+READ_CTX_COT = """Answer the sub-question using only the passages.
+Step 1: find the sentence that states the answer.
+Step 2: extract the shortest answer span.
+The original question is provided for context; the answer must answer the sub-question.
+Output only the answer span.
+
+Original question: {q0}
+Sub-question: {q}
+Passages:
+{ps}
+Answer:"""
+
 PLAN = """Split the question into 2-4 hop queries. For each hop give the query and the answer type.
 Use "#1" to refer to the answer of hop 1, "#2" for hop 2, and so on.
 Answer type is one of: person, date, number, location, organization, title, boolean, other.
@@ -127,8 +139,12 @@ def execute_once(q, hops, index, llm, ce, mode, alt=None):
 
         cands = []
         try:
-            prompt = (READ_CTX.format(q0=q["question"], q=text, ps=fmt(ps))
-                      if mode in ("ctxread", "ctxlast", "select") else READ.format(q=text, ps=fmt(ps)))
+            use_cot = os.environ.get("E13_COT") == "1"
+            if mode in ("ctxread", "ctxlast", "select"):
+                tmpl = READ_CTX_COT if use_cot else READ_CTX
+                prompt = tmpl.format(q0=q["question"], q=text, ps=fmt(ps))
+            else:
+                prompt = READ.format(q=text, ps=fmt(ps))
             cands.append(llm.chat([{"role": "user", "content": prompt}],
                                   max_tokens=32).strip().split("\n")[0])
         except Exception:
@@ -263,7 +279,8 @@ def run(n=200, workers=8, modes=("base", "gate", "rollback"), data="musique200.j
 
     stats = {}
     for mode in modes:
-        path = os.path.join(RES, f"e13_{mode}_{data.replace('.jsonl','')}.jsonl")
+        suffix = os.environ.get("E13_SUFFIX", "")
+        path = os.path.join(RES, f"e13_{mode}_{data.replace('.jsonl','')}{suffix}.jsonl")
         done = set()
         if os.path.exists(path):
             for line in open(path, encoding="utf-8"):
@@ -296,7 +313,7 @@ def run(n=200, workers=8, modes=("base", "gate", "rollback"), data="musique200.j
             "by_hops": {k: {"n": len(v), "em": sum(x["em"] for x in v) / len(v)} for k, v in by_hop.items()},
             "gate_rate": sum(r["gate_pass"] for r in recs) / max(1, sum(r["n_hops"] for r in recs)),
         }
-    json.dump(stats, open(os.path.join(RES, f"e13_summary_{data.replace('.jsonl','')}.json"), "w"), ensure_ascii=False, indent=2)
+    json.dump(stats, open(os.path.join(RES, f"e13_summary_{data.replace('.jsonl','')}{os.environ.get('E13_SUFFIX','')}.json"), "w"), ensure_ascii=False, indent=2)
     print(json.dumps(stats, ensure_ascii=False, indent=2))
 
 
