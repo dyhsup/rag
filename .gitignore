@@ -12,3 +12,6 @@ __pycache__/
 *.pyc
 *.sqlite
 .env
+
+# large raw datasets (re-downloadable)
+data/raw/*.parquet

@@ -1,0 +1,200 @@
+{"qid": "squad4", "multi_hop": false, "hops": [{"query": "What is usual form of oxygen bound compounds?", "type": "other"}]}
+{"qid": "squad7", "multi_hop": false, "hops": [{"query": "When was 7 Lincoln Square completed?", "type": "other"}]}
+{"qid": "squad1", "multi_hop": false, "hops": [{"query": "What is the name of the two-tentacled cydippid that feedsentirely on salps called?", "type": "other"}]}
+{"qid": "squad9", "multi_hop": true, "hops": [{"query": "What is the name of the V&A branded gallery?", "type": "entity_identification"}, {"query": "What is the estimated cost of #1?", "type": "attribute_extraction"}]}
+{"qid": "squad3", "multi_hop": true, "hops": [{"query": "Where did the Carolina Panthers play their home games or have their headquarters?", "type": "entity_location"}, {"query": "In what city is #1 located?", "type": "location_city"}]}
+{"qid": "squad5", "multi_hop": true, "hops": [{"query": "What scientific theory or concept did Lavoisier's experiments disprove?", "type": "fact_extraction"}, {"query": "Who was the primary proponent or originator of #1?", "type": "entity_linking"}]}
+{"qid": "squad11", "multi_hop": false, "hops": [{"query": "How many receptions did Cotchery  get for the 2015 season?", "type": "other"}]}
+{"qid": "squad8", "multi_hop": false, "hops": [{"query": "Which Doctor Who show was the largest simulcast of a TV drama?", "type": "other"}]}
+{"qid": "squad2", "multi_hop": true, "hops": [{"query": "What factors or events caused increased rental prices in East New York?", "type": "causal_analysis"}]}
+{"qid": "squad15", "multi_hop": true, "hops": [{"query": "What is the voting majority required to censure the European Commission?", "type": "fact_extraction"}]}
+{"qid": "squad10", "multi_hop": false, "hops": [{"query": "In what year was the Victoria and Albert Museum founded?", "type": "other"}]}
+{"qid": "squad13", "multi_hop": true, "hops": [{"query": "What novel is the Roots miniseries based on?", "type": "entity_extraction"}, {"query": "Who is the author of #1?", "type": "attribute_extraction"}]}
+{"qid": "squad0", "multi_hop": true, "hops": [{"query": "What is the secondary theory regarding cpDNA structure?", "type": "entity_identification"}, {"query": "How does #1 say most cpDNA is structured?", "type": "attribute_extraction"}]}
+{"qid": "squad6", "multi_hop": true, "hops": [{"query": "What event caused the residents of Antioch to flee?", "type": "event_identification"}, {"query": "Where did the residents of Antioch flee to during #1?", "type": "location_identification"}]}
+{"qid": "squad14", "multi_hop": false, "hops": [{"query": "Bedau notes that illegal protests towards public policy may serve as what purpose?", "type": "other"}]}
+{"qid": "squad16", "multi_hop": false, "hops": [{"query": "What did Kublai do to prevent famines?", "type": "other"}]}
+{"qid": "squad18", "multi_hop": false, "hops": [{"query": "Which directive mentioned was created in 1994?", "type": "other"}]}
+{"qid": "squad17", "multi_hop": false, "hops": [{"query": "Some of the museum's collection of Korean boxes are inlaid with what objects?", "type": "other"}]}
+{"qid": "squad12", "multi_hop": true, "hops": [{"query": "What is the outer PD ring?", "type": "entity_identification"}, {"query": "How large are the filaments of #1?", "type": "attribute_extraction"}]}
+{"qid": "squad21", "multi_hop": false, "hops": [{"query": "What types of responsibilities might a pharmacy technician have?", "type": "other"}]}
+{"qid": "squad25", "multi_hop": false, "hops": [{"query": "In how many places is oxygen stored in its cycle?", "type": "other"}]}
+{"qid": "squad27", "multi_hop": false, "hops": [{"query": "How many universities does Newcastle have?", "type": "other"}]}
+{"qid": "squad19", "multi_hop": true, "hops": [{"query": "What museum acquired items from the Royal College of Science?", "type": "entity_identification"}, {"query": "What did #1 acquire from the Royal College of Science?", "type": "fact_extraction"}]}
+{"qid": "squad22", "multi_hop": false, "hops": [{"query": "What set is a seat added to after being allocated?", "type": "other"}]}
+{"qid": "squad24", "multi_hop": false, "hops": [{"query": "How to Baptized Members become Professing Members?", "type": "other"}]}
+{"qid": "squad20", "multi_hop": true, "hops": [{"query": "What territory did Kublai Khan rule?", "type": "entity_extraction"}, {"query": "Where did Korea border #1?", "type": "spatial_relation"}]}
+{"qid": "squad23", "multi_hop": true, "hops": [{"query": "Who was the halftime performer for Super Bowl XLVIII?", "type": "entity_extraction"}, {"query": "What Super Bowl did #1 headline?", "type": "fact_verification"}]}
+{"qid": "squad28", "multi_hop": false, "hops": [{"query": "Plants lack what kind of immune cells?", "type": "other"}]}
+{"qid": "squad26", "multi_hop": false, "hops": [{"query": "What type of hypersensitivity is associated with allergies?", "type": "other"}]}
+{"qid": "squad31", "multi_hop": false, "hops": [{"query": "Who is elected to serve as the Presiding Officer at the beginning of each parliamentary session?", "type": "other"}]}
+{"qid": "squad33", "multi_hop": false, "hops": [{"query": "What did Shrewsbury note about the plague?", "type": "other"}]}
+{"qid": "squad30", "multi_hop": false, "hops": [{"query": "Where did a bloody civil war break out?", "type": "other"}]}
+{"qid": "squad32", "multi_hop": false, "hops": [{"query": "Between what times does Good Morning America air on ABC?", "type": "other"}]}
+{"qid": "squad35", "multi_hop": false, "hops": [{"query": "What is the longest time that a teaching certificate is good for?", "type": "other"}]}
+{"qid": "squad34", "multi_hop": false, "hops": [{"query": "Which authority figure is designated to schedule and set the work of the EU?", "type": "other"}]}
+{"qid": "squad36", "multi_hop": false, "hops": [{"query": "imperialism often divides countries by using which technique?", "type": "other"}]}
+{"qid": "squad29", "multi_hop": true, "hops": [{"query": "When did Nikola Tesla become a citizen of the US?", "type": "date"}, {"query": "When was Nikola Tesla born?", "type": "date"}, {"query": "Calculate the age of Nikola Tesla by subtracting his birth year from the year he became a US citizen (#1).", "type": "calculation"}]}
+{"qid": "squad39", "multi_hop": false, "hops": [{"query": "What rules does the IPCC have to follow?", "type": "other"}]}
+{"qid": "squad40", "multi_hop": false, "hops": [{"query": "What does the IPCC not do?", "type": "other"}]}
+{"qid": "squad37", "multi_hop": true, "hops": [{"query": "What is the name of the studio located in Times Square that is used by ABC?", "type": "entity_identification"}, {"query": "What programs are broadcast from #1?", "type": "attribute_extraction"}]}
+{"qid": "squad41", "multi_hop": false, "hops": [{"query": "What work of Luther's is seen as a clear religious teaching?", "type": "other"}]}
+{"qid": "squad43", "multi_hop": false, "hops": [{"query": "What should a Christian follow in his life?", "type": "other"}]}
+{"qid": "squad42", "multi_hop": false, "hops": [{"query": "What work is useful for pastors?", "type": "other"}]}
+{"qid": "squad45", "multi_hop": false, "hops": [{"query": "When was the prime number theorem proven?", "type": "other"}]}
+{"qid": "squad38", "multi_hop": true, "hops": [{"query": "What is the Soulages collection?", "type": "entity_identification"}, {"query": "From which period did the objects in #1 come from?", "type": "attribute_extraction"}]}
+{"qid": "squad44", "multi_hop": false, "hops": [{"query": "What type of committee is set down under the SP's standing orders?", "type": "other"}]}
+{"qid": "squad47", "multi_hop": false, "hops": [{"query": "Why is it important to precisely date rocks within the stratigraphic section? ", "type": "other"}]}
+{"qid": "squad50", "multi_hop": false, "hops": [{"query": "What was the first international event broadcast by ABC?", "type": "other"}]}
+{"qid": "squad48", "multi_hop": false, "hops": [{"query": "What is the term for a hyperactive immune system that attacks normal tissues?", "type": "other"}]}
+{"qid": "squad53", "multi_hop": false, "hops": [{"query": "How was the efficiency of a steam engine typically evaluated?", "type": "other"}]}
+{"qid": "squad51", "multi_hop": false, "hops": [{"query": "What was the average cost for a 30 second commercial during Super Bowl 50?", "type": "other"}]}
+{"qid": "squad54", "multi_hop": false, "hops": [{"query": "What company owns the American Broadcasting Company?", "type": "other"}]}
+{"qid": "squad46", "multi_hop": true, "hops": [{"query": "Who or what is L in relation to P?", "type": "entity_resolution"}, {"query": "What are the most commonly ascribed attributes of #1?", "type": "attribute_extraction"}]}
+{"qid": "squad55", "multi_hop": false, "hops": [{"query": "The V&A library's collection of illuminated manuscripts are dated to which centuries?", "type": "other"}]}
+{"qid": "squad49", "multi_hop": true, "hops": [{"query": "Which new free-to-air channels are being referred to in the context of recent broadcasting changes or launches?", "type": "entity_identification"}, {"query": "From whose satellites are the channels identified in #1 broadcast?", "type": "attribute_extraction"}]}
+{"qid": "squad57", "multi_hop": false, "hops": [{"query": "What part of France were the Normans located?", "type": "other"}]}
+{"qid": "squad56", "multi_hop": false, "hops": [{"query": "What should the punishment rely on instead in a just society?", "type": "other"}]}
+{"qid": "squad52", "multi_hop": true, "hops": [{"query": "When was the concept of legal certainty first recognized as a general principle by EU law?", "type": "fact_extraction"}, {"query": "Calculate the duration from the date identified in #1 to the present day.", "type": "calculation"}]}
+{"qid": "squad59", "multi_hop": false, "hops": [{"query": "What is the name of a Time Lord that Doctor Who has fought?", "type": "other"}]}
+{"qid": "squad61", "multi_hop": true, "hops": [{"query": "Which colony is being referred to?", "type": "entity_identification"}, {"query": "When was #1 destroyed?", "type": "fact_extraction"}]}
+{"qid": "squad58", "multi_hop": false, "hops": [{"query": "Who was Frédéric Chopin?", "type": "other"}]}
+{"qid": "squad60", "multi_hop": false, "hops": [{"query": "Why are researchers struggling to identify the history of the plague?", "type": "other"}]}
+{"qid": "squad63", "multi_hop": false, "hops": [{"query": "Along with trusts, what other non-profits are allowed to run schools in India?", "type": "other"}]}
+{"qid": "squad62", "multi_hop": false, "hops": [{"query": "What type of musical instruments did the Yuan bring to China?", "type": "other"}]}
+{"qid": "squad67", "multi_hop": false, "hops": [{"query": "What does the Museum of the Polish Army portray the history of?", "type": "other"}]}
+{"qid": "squad69", "multi_hop": false, "hops": [{"query": "Of what mountain system are the Victorian Alps a part?", "type": "other"}]}
+{"qid": "squad71", "multi_hop": false, "hops": [{"query": "Which TFEU article defines the ordinary legislative procedure that applies for majority of EU acts?", "type": "other"}]}
+{"qid": "squad65", "multi_hop": true, "hops": [{"query": "Who is the ancestor of the people in Quzhou who are descended from Confucius?", "type": "entity_extraction"}, {"query": "How many descendants of #1 live in Quzhou?", "type": "counting"}]}
+{"qid": "squad73", "multi_hop": false, "hops": [{"query": "What can significantly contribute to the continuing inequality in a society over time?", "type": "other"}]}
+{"qid": "squad75", "multi_hop": false, "hops": [{"query": "Many construction companies are now placing more emphasis on what?", "type": "other"}]}
+{"qid": "squad77", "multi_hop": false, "hops": [{"query": "Who founded Telnet ", "type": "other"}]}
+{"qid": "squad66", "multi_hop": false, "hops": [{"query": "When was Isiah Bowman appointed to President Wilson's Inquiry?", "type": "other"}]}
+{"qid": "squad70", "multi_hop": false, "hops": [{"query": "What have studies on income inequality sometimes found evidence confirming?", "type": "other"}]}
+{"qid": "squad64", "multi_hop": true, "hops": [{"query": "What claims is the question referring to?", "type": "entity_resolution"}, {"query": "When did Tesla make #1?", "type": "temporal_query"}]}
+{"qid": "squad72", "multi_hop": false, "hops": [{"query": "When imperialism impacts social norms of a state, what is it called?", "type": "other"}]}
+{"qid": "squad68", "multi_hop": true, "hops": [{"query": "Who was Peyton Manning's top receiver in Super Bowl 50?", "type": "entity_extraction"}, {"query": "What is the last name of #1?", "type": "attribute_extraction"}]}
+{"qid": "squad76", "multi_hop": false, "hops": [{"query": "When did the North American French and Indian War end?", "type": "other"}]}
+{"qid": "squad78", "multi_hop": false, "hops": [{"query": "How many people were registered to receive the HD service prior to launch?", "type": "other"}]}
+{"qid": "squad74", "multi_hop": true, "hops": [{"query": "What agreement allowed for the Saarland settlement?", "type": "entity_extraction"}, {"query": "In what year was #1 reached?", "type": "fact_extraction"}]}
+{"qid": "squad83", "multi_hop": false, "hops": [{"query": "Residential construction can generate what is not carefully planned?", "type": "other"}]}
+{"qid": "squad79", "multi_hop": true, "hops": [{"query": "What happened to the Amazon River basin during the geological split that separated the eastern and western sides?", "type": "context"}, {"query": "Where did the water on the eastern side of the Amazon basin flow after the split?", "type": "answer"}]}
+{"qid": "squad81", "multi_hop": true, "hops": [{"query": "What was Nikola Tesla's gambling habit or activity?", "type": "fact_extraction"}, {"query": "How long did Tesla spend on #1?", "type": "fact_extraction"}]}
+{"qid": "squad82", "multi_hop": true, "hops": [{"query": "Who wrote the book Principles of Geology?", "type": "entity_extraction"}, {"query": "Which famous evolutionist was influenced by #1?", "type": "relationship_extraction"}]}
+{"qid": "squad85", "multi_hop": true, "hops": [{"query": "Which team is currently suspended?", "type": "entity_identification"}, {"query": "When is #1 scheduled to return?", "type": "fact_extraction"}]}
+{"qid": "squad84", "multi_hop": false, "hops": [{"query": "The success of the Britain Can Make It exhibition led to the planning of what exhibition in 1951?", "type": "other"}]}
+{"qid": "squad80", "multi_hop": true, "hops": [{"query": "Who was the ruler of Khwarezmia when Genghis Khan sent a caravan of traders there?", "type": "entity_extraction"}, {"query": "Did #1 order the attack on the caravan of traders sent by Genghis Khan?", "type": "verification"}]}
+{"qid": "squad89", "multi_hop": true, "hops": [{"query": "In lands attributed to what tribe are found remains of large settlements?", "type": "entity_extraction"}]}
+{"qid": "squad88", "multi_hop": false, "hops": [{"query": "Name a type of Toyota compact trucks?", "type": "other"}]}
+{"qid": "squad90", "multi_hop": false, "hops": [{"query": "Where did Luther spend his career?", "type": "other"}]}
+{"qid": "squad91", "multi_hop": false, "hops": [{"query": "According to Oxfam, the 85 richest people have wealth equal to how many average people?", "type": "other"}]}
+{"qid": "squad86", "multi_hop": true, "hops": [{"query": "Which Prince is the subject of the question?", "type": "entity_identification"}, {"query": "Which Count did #1 strike an arrangement with?", "type": "relationship_extraction"}]}
+{"qid": "squad87", "multi_hop": true, "hops": [{"query": "Who are the daughters of Triton?", "type": "entity_extraction"}, {"query": "Where did two of #1 set out on a journey through?", "type": "fact_retrieval"}]}
+{"qid": "squad93", "multi_hop": false, "hops": [{"query": "What weapons were the Zulus using during the Anglo-Zulu War of 1879?", "type": "other"}]}
+{"qid": "squad92", "multi_hop": false, "hops": [{"query": "Besides the walk to the church, what else was left out of the day's celebration?", "type": "other"}]}
+{"qid": "squad96", "multi_hop": false, "hops": [{"query": "Semen contains what in order to kill pathogens?", "type": "other"}]}
+{"qid": "squad95", "multi_hop": true, "hops": [{"query": "What artwork is located at the Fulton Mall?", "type": "entity_extraction"}, {"query": "Who is the artist of #1?", "type": "attribute_lookup"}]}
+{"qid": "squad94", "multi_hop": true, "hops": [{"query": "What series ended in 2011?", "type": "entity_identification"}, {"query": "Why did #1 end?", "type": "reasoning"}]}
+{"qid": "squad98", "multi_hop": false, "hops": [{"query": "What helped support the Command Module with a propulsion engine and propellants?", "type": "other"}]}
+{"qid": "squad99", "multi_hop": false, "hops": [{"query": "How can you protest against the government in an individual way?", "type": "other"}]}
+{"qid": "squad101", "multi_hop": true, "hops": [{"query": "Where did Nikola Tesla work with Thomas Edison?", "type": "location"}]}
+{"qid": "squad97", "multi_hop": true, "hops": [{"query": "What movement or predecessor organization would become The United Methodist Church?", "type": "entity_identification"}, {"query": "When did #1 begin?", "type": "temporal_query"}]}
+{"qid": "squad102", "multi_hop": false, "hops": [{"query": "What type of soil is considered a product of soil management by indigenous peoples in the Amazon Forest?", "type": "other"}]}
+{"qid": "squad107", "multi_hop": false, "hops": [{"query": "What type of support does co-teaching provide?", "type": "other"}]}
+{"qid": "squad104", "multi_hop": false, "hops": [{"query": "How many launch pads were originally planned?", "type": "other"}]}
+{"qid": "squad105", "multi_hop": false, "hops": [{"query": "What was the goal of John Sheepshanks considerable bequest to the museum?", "type": "other"}]}
+{"qid": "squad109", "multi_hop": false, "hops": [{"query": "Innate cells can act as mediators in the activation of what branch of the immune system?", "type": "other"}]}
+{"qid": "squad103", "multi_hop": true, "hops": [{"query": "Who were the antinomians that Martin Luther debated with, specifically focusing on Andreas Osiander or Johann Agricola?", "type": "entity_identification"}, {"query": "What book did Martin Luther write in response to #1?", "type": "fact_extraction"}]}
+{"qid": "squad100", "multi_hop": true, "hops": [{"query": "What cameras were used in the EyeVision 360 system?", "type": "entity_extraction"}, {"query": "What was the resolution of #1?", "type": "attribute_lookup"}]}
+{"qid": "squad106", "multi_hop": false, "hops": [{"query": "What book of the Bible discusses civil disobedience?", "type": "other"}]}
+{"qid": "squad110", "multi_hop": false, "hops": [{"query": "How many lines run out of Downtown Los Angeles?", "type": "other"}]}
+{"qid": "squad111", "multi_hop": false, "hops": [{"query": "What does less education lead to when working?", "type": "other"}]}
+{"qid": "squad113", "multi_hop": false, "hops": [{"query": "Which country in 1985 signed a treaty to give it special status?", "type": "other"}]}
+{"qid": "squad112", "multi_hop": false, "hops": [{"query": "What is more fundamental than force in quanton field theory?", "type": "other"}]}
+{"qid": "squad114", "multi_hop": false, "hops": [{"query": "Which river joins the Rhine in Duisburg?", "type": "other"}]}
+{"qid": "squad108", "multi_hop": true, "hops": [{"query": "Who were the Emperor's personal physicians?", "type": "entity_identification"}, {"query": "Where did the pharmacist stand in relation to #1?", "type": "spatial_relationship"}]}
+{"qid": "squad116", "multi_hop": false, "hops": [{"query": "What is Prevenient grace?", "type": "other"}]}
+{"qid": "squad117", "multi_hop": false, "hops": [{"query": "Who did the U.S. collaborate with on an Earth orbit mission in 1975?", "type": "other"}]}
+{"qid": "squad115", "multi_hop": true, "hops": [{"query": "What movie trailer debuted during the Super Bowl?", "type": "factoid"}, {"query": "Is #1 a Universal Pictures movie?", "type": "verification"}]}
+{"qid": "squad119", "multi_hop": false, "hops": [{"query": "What did Warsz own?", "type": "other"}]}
+{"qid": "squad120", "multi_hop": false, "hops": [{"query": "How do you pronounce Fresno?", "type": "other"}]}
+{"qid": "squad121", "multi_hop": false, "hops": [{"query": "What members typically open debates?", "type": "other"}]}
+{"qid": "squad118", "multi_hop": false, "hops": [{"query": "What type of launch was happening during the Apollo 1 incident?", "type": "other"}]}
+{"qid": "squad124", "multi_hop": false, "hops": [{"query": "What was the name of the Norman castle?", "type": "other"}]}
+{"qid": "squad123", "multi_hop": false, "hops": [{"query": "Of what group in the periodic table is oxygen a member?", "type": "other"}]}
+{"qid": "squad126", "multi_hop": false, "hops": [{"query": "What occurs when traveling across a surface at a constant velocity with regard to friction?", "type": "other"}]}
+{"qid": "squad133", "multi_hop": false, "hops": [{"query": "How many members are on the Warsaw City Counil?", "type": "other"}]}
+{"qid": "squad131", "multi_hop": false, "hops": [{"query": "How much does a Probationer earn, initially?", "type": "other"}]}
+{"qid": "squad128", "multi_hop": false, "hops": [{"query": "Of what was the Diet of Worms an assembly? ", "type": "other"}]}
+{"qid": "squad127", "multi_hop": true, "hops": [{"query": "What study confirmed the 2001 IPCC projections?", "type": "entity_extraction"}, {"query": "When was #1 published?", "type": "attribute_extraction"}]}
+{"qid": "squad130", "multi_hop": false, "hops": [{"query": "What is an example of a steam-powered automobile?", "type": "other"}]}
+{"qid": "squad132", "multi_hop": false, "hops": [{"query": "What position does Brandon Marshall currently play? ", "type": "other"}]}
+{"qid": "squad122", "multi_hop": true, "hops": [{"query": "What were the official radio partners for Super Bowl 50?", "type": "fact_extraction"}, {"query": "Which of the radio stations identified in #1 are licensed to or broadcast in Denver?", "type": "entity_filtering"}]}
+{"qid": "squad129", "multi_hop": true, "hops": [{"query": "What is the name of the church?", "type": "entity_extraction"}, {"query": "What is the theological orientation of #1?", "type": "attribute_lookup"}]}
+{"qid": "squad125", "multi_hop": true, "hops": [{"query": "What is the endosymbiotic theory regarding the origin of eukaryotic cells and cyanobacteria?", "type": "fact_retrieval"}, {"query": "What type of host cell did cyanobacteria enter to become chloroplasts according to the endosymbiotic theory?", "type": "fact_retrieval"}]}
+{"qid": "squad136", "multi_hop": false, "hops": [{"query": "What does UMC stand for?", "type": "other"}]}
+{"qid": "squad135", "multi_hop": false, "hops": [{"query": "The Church supports those persons who conscientiously oppose what?", "type": "other"}]}
+{"qid": "squad137", "multi_hop": false, "hops": [{"query": "Which team had the best regular season in their history?", "type": "other"}]}
+{"qid": "squad134", "multi_hop": false, "hops": [{"query": "What is the term for the lack of obsevable free quarks?", "type": "other"}]}
+{"qid": "squad141", "multi_hop": false, "hops": [{"query": "What sections of Church dogma did Luther come to view in another way?", "type": "other"}]}
+{"qid": "squad147", "multi_hop": false, "hops": [{"query": "When was this edict declared?", "type": "other"}]}
+{"qid": "squad139", "multi_hop": true, "hops": [{"query": "What was the name of the French colony located in modern-day Brazil?", "type": "entity_identification"}, {"query": "When was #1 founded?", "type": "fact_extraction"}]}
+{"qid": "squad142", "multi_hop": false, "hops": [{"query": "What are incompetent government's commitment to social justice limited to?", "type": "other"}]}
+{"qid": "squad145", "multi_hop": false, "hops": [{"query": "What strategy did Jebe's army use against Kuchlug and his supporters?", "type": "other"}]}
+{"qid": "squad140", "multi_hop": false, "hops": [{"query": "The merger between ITT and ABC was suspended after a complaint was filed by whom in July 1967?", "type": "other"}]}
+{"qid": "squad138", "multi_hop": true, "hops": [{"query": "What scandal contributed to Martin Luther's failing health?", "type": "fact_extraction"}, {"query": "Verify if the scandal identified in #1 is distinct from his arguments with Rome and fellow reformers.", "type": "verification"}]}
+{"qid": "squad143", "multi_hop": true, "hops": [{"query": "Who is Luther associated with in the context of Mansfeld?", "type": "entity_resolution"}, {"query": "What was #1 involved in dealing with the minds in Mansfeld?", "type": "fact_extraction"}]}
+{"qid": "squad146", "multi_hop": false, "hops": [{"query": "What diagrams are used to simplify particle interactions on a fundamental level?", "type": "other"}]}
+{"qid": "squad149", "multi_hop": false, "hops": [{"query": "How long does it take for new areas to have significant oil production?", "type": "other"}]}
+{"qid": "squad144", "multi_hop": true, "hops": [{"query": "What does the acronym UMC stand for in the context of political or military coalitions?", "type": "entity_resolution"}, {"query": "What coalition was #1 a founding member of?", "type": "fact_extraction"}]}
+{"qid": "squad150", "multi_hop": false, "hops": [{"query": "What has replaced lower skilled workers in the United States?", "type": "other"}]}
+{"qid": "squad151", "multi_hop": false, "hops": [{"query": "The production of what signalling molecules is regulated by the immune system?", "type": "other"}]}
+{"qid": "squad153", "multi_hop": false, "hops": [{"query": "Which mountain range influenced the split of the regions?", "type": "other"}]}
+{"qid": "squad148", "multi_hop": true, "hops": [{"query": "What is the new mass?", "type": "entity_identification"}, {"query": "What did #1 allow as regards ceremony?", "type": "attribute_extraction"}]}
+{"qid": "squad155", "multi_hop": false, "hops": [{"query": "How many awards has Doctor Who been nominated for, over the years?", "type": "other"}]}
+{"qid": "squad159", "multi_hop": false, "hops": [{"query": "What were casualties of battle?", "type": "other"}]}
+{"qid": "squad157", "multi_hop": false, "hops": [{"query": "What term corresponds to the maximum measurement of time across all functions of n? ", "type": "other"}]}
+{"qid": "squad154", "multi_hop": false, "hops": [{"query": "The S-IVB-200 was used in what stage of the Saturn V?", "type": "other"}]}
+{"qid": "squad156", "multi_hop": false, "hops": [{"query": "Which series version had a negative reception from some Doctor Who viewers?", "type": "other"}]}
+{"qid": "squad152", "multi_hop": true, "hops": [{"query": "What event is taking place at the Santa Clara Convention Center?", "type": "entity_extraction"}, {"query": "How long will #1 last?", "type": "attribute_extraction"}]}
+{"qid": "squad161", "multi_hop": false, "hops": [{"query": "After the Rhine emerges from Lake Constance, what direction does it flow?", "type": "other"}]}
+{"qid": "squad162", "multi_hop": false, "hops": [{"query": "When did France take control of Algeria?", "type": "other"}]}
+{"qid": "squad163", "multi_hop": false, "hops": [{"query": "What was the outcome of living in the California Redwood tree?", "type": "other"}]}
+{"qid": "squad158", "multi_hop": false, "hops": [{"query": "Unlike confirmation and profession of faith, what is a sacrament in the UMC?", "type": "other"}]}
+{"qid": "squad164", "multi_hop": false, "hops": [{"query": "What is the average plant biosmass?", "type": "other"}]}
+{"qid": "squad165", "multi_hop": false, "hops": [{"query": "Complement proteins bind to what kind of molecules on the surface of microbes in order to elicit an immune response?", "type": "other"}]}
+{"qid": "squad167", "multi_hop": false, "hops": [{"query": "Who may introduce new laws or amendments to laws already on the books as a bill?", "type": "other"}]}
+{"qid": "squad160", "multi_hop": true, "hops": [{"query": "What was the prize or result of the Quickbooks contest regarding free commercials?", "type": "fact_extraction"}, {"query": "Which company won the Quickbooks contest and had a commercial aired for free?", "type": "entity_identification"}]}
+{"qid": "squad169", "multi_hop": false, "hops": [{"query": "If the head of government refuses to enforce a decision of the highest court what terminology could be used?", "type": "other"}]}
+{"qid": "squad171", "multi_hop": false, "hops": [{"query": "Who released a disco version of the Doctor Who theme?", "type": "other"}]}
+{"qid": "squad172", "multi_hop": false, "hops": [{"query": "Who could be the subjects of a teacher's college investigation?", "type": "other"}]}
+{"qid": "squad166", "multi_hop": true, "hops": [{"query": "What corruption scandal is being referred to?", "type": "entity_identification"}, {"query": "What political group began to gain support following #1?", "type": "fact_extraction"}]}
+{"qid": "squad173", "multi_hop": false, "hops": [{"query": "How is dioxygen most simply described?", "type": "other"}]}
+{"qid": "squad168", "multi_hop": true, "hops": [{"query": "What are the specialized cells that eliminate cells that recognize self-antigens?", "type": "entity_identification"}, {"query": "Where are #1 located?", "type": "location_retrieval"}]}
+{"qid": "squad175", "multi_hop": false, "hops": [{"query": "What is the oncorhynchus also called?", "type": "other"}]}
+{"qid": "squad170", "multi_hop": true, "hops": [{"query": "What is Frank Burnet's theory regarding immunology?", "type": "entity_identification"}, {"query": "What are two examples of nonself entities in accordance with #1?", "type": "fact_extraction"}]}
+{"qid": "squad179", "multi_hop": false, "hops": [{"query": "Most imperialism was carried out using which method of transport?", "type": "other"}]}
+{"qid": "squad174", "multi_hop": false, "hops": [{"query": "What are Ctenophora commonly known as?", "type": "other"}]}
+{"qid": "squad176", "multi_hop": false, "hops": [{"query": "Where are longitudinal waves found?", "type": "other"}]}
+{"qid": "squad181", "multi_hop": false, "hops": [{"query": "How much did the Milton Friedman Institute roughly cost?", "type": "other"}]}
+{"qid": "squad180", "multi_hop": false, "hops": [{"query": "What did Luther identify the Papacy as?", "type": "other"}]}
+{"qid": "squad182", "multi_hop": false, "hops": [{"query": "When did Washington reach Fort Le Boeuf?", "type": "other"}]}
+{"qid": "squad183", "multi_hop": false, "hops": [{"query": "The church emphasizes the need to be in supportive ministry of what group?", "type": "other"}]}
+{"qid": "squad184", "multi_hop": false, "hops": [{"query": "No appointment is official fixed until what occurs?", "type": "other"}]}
+{"qid": "squad185", "multi_hop": false, "hops": [{"query": "DEC originally had 3 layers but evolved into how many layers ", "type": "other"}]}
+{"qid": "squad177", "multi_hop": true, "hops": [{"query": "Who developed the principle of faunal succession?", "type": "entity_extraction"}, {"query": "When was the principle of faunal succession developed by #1?", "type": "date_extraction"}, {"query": "Which scientist's theory of evolution was published approximately 100 years after the date identified in the previous step?", "type": "reasoning"}]}
+{"qid": "squad187", "multi_hop": false, "hops": [{"query": "How many Kenyans are living below the poverty level?", "type": "other"}]}
+{"qid": "squad178", "multi_hop": true, "hops": [{"query": "What significant football-related event or ceremony takes place at Justin Herman Plaza in January?", "type": "event_location_time"}, {"query": "What is the name of the trophy or award associated with the event identified in #1?", "type": "entity_association"}]}
+{"qid": "squad186", "multi_hop": true, "hops": [{"query": "What specific defensive scheme or formation did Carolina face in the opening drive of the game that they had not faced the entire postseason?", "type": "fact_extraction"}]}
+{"qid": "squad188", "multi_hop": false, "hops": [{"query": "What shape are pyrenoids?", "type": "other"}]}
+{"qid": "squad189", "multi_hop": false, "hops": [{"query": "What kind of problems are one of the main topics studied in computational complexity theory?", "type": "other"}]}
+{"qid": "squad193", "multi_hop": false, "hops": [{"query": "What website are teachers using to sell their lesson plans?", "type": "other"}]}
+{"qid": "squad190", "multi_hop": true, "hops": [{"query": "Who wrote a resounding letter to the elector praising Luther?", "type": "entity_extraction"}]}
+{"qid": "squad192", "multi_hop": false, "hops": [{"query": "How much did Walt Disney want ABC to invest in Disneyland?", "type": "other"}]}
+{"qid": "squad199", "multi_hop": false, "hops": [{"query": "Where was Halford Mackinder born?", "type": "other"}]}
+{"qid": "squad197", "multi_hop": false, "hops": [{"query": "Starting in what year has Harvard topped the Academic Rankings of World Universities?", "type": "other"}]}
+{"qid": "squad191", "multi_hop": true, "hops": [{"query": "What is the north-south midway point of the contiguous United States?", "type": "entity_identification"}, {"query": "How many miles south of San Jose is #1?", "type": "distance_calculation"}]}
+{"qid": "squad198", "multi_hop": false, "hops": [{"query": "What can result in creating a poverty trap?", "type": "other"}]}
+{"qid": "squad196", "multi_hop": false, "hops": [{"query": "What cable company removed ABC stations from it's systems in certain markets in April 2000?", "type": "other"}]}
+{"qid": "squad194", "multi_hop": true, "hops": [{"query": "What is the title or identifier of the study on sequenced Y genomes?", "type": "entity_extraction"}, {"query": "When was #1 published?", "type": "attribute_lookup"}]}
+{"qid": "squad195", "multi_hop": true, "hops": [{"query": "What logo or brand is associated with the DW Tardis insignia?", "type": "entity_identification"}, {"query": "Which version or iteration of #1 had the DW Tardis insignia removed?", "type": "fact_extraction"}]}

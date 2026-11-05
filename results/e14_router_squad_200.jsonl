@@ -1,0 +1,200 @@
+{"qid": "squad7", "pred": "June 1979", "gold": "June 1979", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad4", "pred": "oxides", "gold": "oxides", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad10", "pred": "1852", "gold": "1852", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad11", "pred": "39", "gold": "39", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad1", "pred": "The provided passages do not contain the answer to the question.", "gold": "Lampea", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad8", "pred": "50th anniversary special", "gold": "50th anniversary special", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad14", "pred": "a propaganda purpose", "gold": "propaganda", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": false, "n_hops": 1}
+{"qid": "squad16", "pred": "granaries were ordered built throughout the empire", "gold": "granaries were ordered built throughout the empire", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad17", "pred": "mother-of-pearl", "gold": "mother-of-pearl", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad18", "pred": "1994 Works Council Directive", "gold": "Works Council Directive", "em": 0.0, "f1": 0.8571428571428571, "multi_hop": false, "n_hops": 1}
+{"qid": "squad9", "pred": "£76 million", "gold": "£76 million", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad12", "pred": "about 5 nanometers across", "gold": "about 5 nanometers across", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad21", "pred": "manage the pharmacy department and specialised areas in pharmacy practice", "gold": "manage the pharmacy department and specialised areas in pharmacy practice", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad22", "pred": "its constituency seats", "gold": "constituency seats", "em": 0.0, "f1": 0.8, "multi_hop": false, "n_hops": 1}
+{"qid": "squad2", "pred": "gentrification of older neighbourhoods", "gold": "residents willing to pay higher market rate for housing", "em": 0.0, "f1": 0.0, "multi_hop": true, "n_hops": 1}
+{"qid": "squad24", "pred": "through confirmation and sometimes the profession of faith", "gold": "confirmation and sometimes the profession of faith", "em": 0.0, "f1": 0.923076923076923, "multi_hop": false, "n_hops": 1}
+{"qid": "squad25", "pred": "three", "gold": "three", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad26", "pred": "Type I hypersensitivity", "gold": "Type I", "em": 0.0, "f1": 0.8, "multi_hop": false, "n_hops": 1}
+{"qid": "squad27", "pred": "two", "gold": "two", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad28", "pred": "phagocytic cells", "gold": "phagocytic cells", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad0", "pred": "branched, linear, or other complex structures", "gold": "linear", "em": 0.0, "f1": 0.2857142857142857, "multi_hop": true, "n_hops": 2}
+{"qid": "squad30", "pred": "Algeria", "gold": "Algeria", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad31", "pred": "one MSP", "gold": "one MSP", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad32", "pred": "7:00 to 9:00 a.m. weekdays", "gold": "7:00 to 9:00 a.m. weekdays", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad33", "pred": "the reported rates of mortality in rural areas during the 14th-century pandemic were inconsistent with the modern bubonic plague", "gold": "rates of mortality in rural areas during the 14th-century pandemic were inconsistent with the modern bubonic plague", "em": 0.0, "f1": 0.9696969696969697, "multi_hop": false, "n_hops": 1}
+{"qid": "squad34", "pred": "Commission", "gold": "The Commission's President", "em": 0.0, "f1": 0.5, "multi_hop": false, "n_hops": 1}
+{"qid": "squad35", "pred": "The provided passages do not contain information about teaching certificates.", "gold": "ten years", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad36", "pred": "various forms of \"othering\"", "gold": "othering", "em": 0.0, "f1": 0.4, "multi_hop": false, "n_hops": 1}
+{"qid": "squad6", "pred": "to the north", "gold": "The city's residents fled to the north", "em": 0.0, "f1": 0.5, "multi_hop": true, "n_hops": 2}
+{"qid": "squad37", "pred": "Good Morning America and Nightline", "gold": "Good Morning America and Nightline", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad39", "pred": "Financial Regulations and Rules of the WMO", "gold": "the Financial Regulations and Rules of the WMO", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad40", "pred": "carry out research nor does it monitor climate related data", "gold": "does not carry out research nor does it monitor climate related data", "em": 0.0, "f1": 0.9090909090909091, "multi_hop": false, "n_hops": 1}
+{"qid": "squad41", "pred": "The Small Catechism", "gold": "Small Catechism", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad42", "pred": "pastoral care", "gold": "Larger Catechism", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad43", "pred": "the Ten Commandments", "gold": "Ten Commandments", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad44", "pred": "Mandatory Committees", "gold": "Mandatory", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": false, "n_hops": 1}
+{"qid": "squad45", "pred": "at the end of the 19th century", "gold": "at the end of the 19th century", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad19", "pred": "what is now the Henry Cole wing", "gold": "Henry Cole wing", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": true, "n_hops": 2}
+{"qid": "squad47", "pred": "to provide better absolute bounds on the timing and rates of deposition", "gold": "provide better absolute bounds on the timing and rates of deposition", "em": 0.0, "f1": 0.9523809523809523, "multi_hop": false, "n_hops": 1}
+{"qid": "squad48", "pred": "autoimmunity", "gold": "autoimmunity", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad23", "pred": "Bruno Mars", "gold": "Bruno Mars", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad13", "pred": "Alex Haley", "gold": "Alex Haley", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad50", "pred": "The provided passages do not contain information about the first international event broadcast by ABC.", "gold": "coronation of Queen Elizabeth II", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad51", "pred": "$5 million", "gold": "$5 million", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad53", "pred": "its \"duty\"", "gold": "duty", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": false, "n_hops": 1}
+{"qid": "squad54", "pred": "The Walt Disney Company", "gold": "The Walt Disney Company", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad55", "pred": "12th to 16th centuries", "gold": "from the 12th to 16th", "em": 0.0, "f1": 0.75, "multi_hop": false, "n_hops": 1}
+{"qid": "squad56", "pred": "moral reasons to follow this law", "gold": "moral reasons to follow this law", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad57", "pred": "The provided passages do not contain information about the location of the Normans in France.", "gold": "north", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad58", "pred": "a famous musician", "gold": "Famous musicians", "em": 0.0, "f1": 0.5, "multi_hop": false, "n_hops": 1}
+{"qid": "squad59", "pred": "the Master", "gold": "The Master", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad60", "pred": "the lack of reliable statistics from this period", "gold": "the lack of reliable statistics from this period", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad29", "pred": "35", "gold": "35", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 3}
+{"qid": "squad62", "pred": "Western musical instruments", "gold": "Western", "em": 0.0, "f1": 0.5, "multi_hop": false, "n_hops": 1}
+{"qid": "squad63", "pred": "societies", "gold": "societies", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad15", "pred": "The provided passages do not contain information about the voting majority required to censure the European Commission.", "gold": "two-thirds majority", "em": 0.0, "f1": 0.11764705882352941, "multi_hop": true, "n_hops": 1}
+{"qid": "squad61", "pred": "1560", "gold": "1565", "em": 0.0, "f1": 0.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad66", "pred": "1917", "gold": "1917", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad67", "pred": "arms", "gold": "arms", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad3", "pred": "Santa Clara", "gold": "San Jose", "em": 0.0, "f1": 0.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad69", "pred": "Great Dividing Range", "gold": "Great Dividing Range", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad70", "pred": "the Kuznets curve hypothesis", "gold": "Kuznets curve hypothesis", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad71", "pred": "TFEU article 294", "gold": "TFEU article 294", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad72", "pred": "imperialism", "gold": "Cultural imperialism", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": false, "n_hops": 1}
+{"qid": "squad73", "pred": "wealth condensation", "gold": "wealth condensation", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad68", "pred": "The provided passages do not contain information about Peyton Manning's top receiver for Super Bowl 50.", "gold": "Sanders", "em": 0.0, "f1": 0.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad75", "pred": "establishing relationships with other necessary participants through the design-build process", "gold": "establishing relationships with other necessary participants through the design-build process", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad76", "pred": "1759-60", "gold": "signing of the Treaty of Paris on 10 February 1763", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad77", "pred": "The provided passages do not contain information about who founded Telnet.", "gold": "Larry Roberts", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad78", "pred": "40,000", "gold": "40,000", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad5", "pred": "phlogiston theory", "gold": "phlogiston theory", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad38", "pred": "Italian and French Renaissance", "gold": "Italian and French Renaissance", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad49", "pred": "Astra's", "gold": "Astra", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": true, "n_hops": 2}
+{"qid": "squad80", "pred": "Inalchuq", "gold": "Inalchuq", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad83", "pred": "a lot of waste", "gold": "a lot of waste", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad84", "pred": "Festival of Britain", "gold": "Festival of Britain", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad20", "pred": "The provided passages do not contain information about where Korea bordered Kublai's territory.", "gold": "northeast", "em": 0.0, "f1": 0.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad82", "pred": "Charles Darwin", "gold": "Charles Darwin", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad85", "pred": "2018", "gold": "2018", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad88", "pred": "Toyota Hilux", "gold": "Toyota Hilux", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad46", "pred": "strictly contained in P or equal to P", "gold": "strictly contained in P or equal to P", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad90", "pred": "Wittenberg", "gold": "University of Wittenberg", "em": 0.0, "f1": 0.5, "multi_hop": false, "n_hops": 1}
+{"qid": "squad91", "pred": "3.5 billion", "gold": "about 3.5 billion people", "em": 0.0, "f1": 0.7499999999999999, "multi_hop": false, "n_hops": 1}
+{"qid": "squad92", "pred": "the wedding banquet", "gold": "wedding banquet", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad93", "pred": "arrows, swords, and leather shields", "gold": "arrows, swords, and leather shields", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad74", "pred": "1604", "gold": "1604", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad89", "pred": "Xingu", "gold": "Xingu tribe", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": true, "n_hops": 1}
+{"qid": "squad96", "pred": "defensins and zinc", "gold": "defensins and zinc", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad94", "pred": "due to the death of Elisabeth Sladen in early 2011", "gold": "due to the death of Elisabeth Sladen", "em": 0.0, "f1": 0.8, "multi_hop": true, "n_hops": 2}
+{"qid": "squad98", "pred": "A cylindrical Service Module (SM)", "gold": "Service Module (SM)", "em": 0.0, "f1": 0.8571428571428571, "multi_hop": false, "n_hops": 1}
+{"qid": "squad99", "pred": "civil disobedience", "gold": "Threatening government officials", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad52", "pred": "since the 1960s", "gold": "since the 1960s", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad95", "pred": "Pierre-Auguste Renoir", "gold": "Pierre-Auguste Renoir", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad102", "pred": "Terra preta", "gold": "Terra preta (black earth)", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": false, "n_hops": 1}
+{"qid": "squad86", "pred": "Count Ludwig von Nassau-Saarbrücken", "gold": "Count Ludwig von Nassau-Saarbrücken", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad104", "pred": "at least three", "gold": "three", "em": 0.0, "f1": 0.5, "multi_hop": false, "n_hops": 1}
+{"qid": "squad105", "pred": "forming a 'A National Gallery of British Art'", "gold": "forming a 'A National Gallery of British Art'", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad106", "pred": "The provided passages do not contain information about which book of the Bible discusses civil disobedience.", "gold": "Book of Exodus", "em": 0.0, "f1": 0.23529411764705882, "multi_hop": false, "n_hops": 1}
+{"qid": "squad107", "pred": "social networking support", "gold": "social networking support", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad101", "pred": "Edison Machine Works on Manhattan's lower east side", "gold": "New York City", "em": 0.0, "f1": 0.0, "multi_hop": true, "n_hops": 1}
+{"qid": "squad109", "pred": "adaptive immune system", "gold": "adaptive immune system", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad110", "pred": "Six", "gold": "Six", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad111", "pred": "The provided passages do not contain information about what less education leads to when working.", "gold": "lower wages", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad112", "pred": "conservation of momentum", "gold": "conservation of momentum", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad113", "pred": "Spain and Portugal", "gold": "Greenland", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad114", "pred": "The Ruhr", "gold": "Ruhr", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad100", "pred": "5K resolution", "gold": "5K", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": true, "n_hops": 2}
+{"qid": "squad116", "pred": "the grace that \"goes before\" us", "gold": "the grace that \"goes before\" us", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad117", "pred": "the Soviet Union", "gold": "Soviet Union", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad118", "pred": "prelaunch test", "gold": "prelaunch test", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad119", "pred": "a village located at the modern-day site of Mariensztat neighbourhood", "gold": "a village", "em": 0.0, "f1": 0.19999999999999998, "multi_hop": false, "n_hops": 1}
+{"qid": "squad120", "pred": "The provided passages do not contain information on how to pronounce Fresno.", "gold": "(/ˈfrɛznoʊ/ FREZ-noh)", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad121", "pred": "ministers or party leaders", "gold": "ministers or party leaders", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad79", "pred": "toward the Atlantic", "gold": "the Atlantic", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": true, "n_hops": 2}
+{"qid": "squad123", "pred": "chalcogen", "gold": "chalcogen", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad124", "pred": "Afranji", "gold": "Afranji", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad87", "pred": "the depths of the oceans and seas", "gold": "depths of the oceans and seas", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad126", "pred": "A simple case of dynamic equilibrium occurs", "gold": "dynamic equilibrium", "em": 0.0, "f1": 0.5, "multi_hop": false, "n_hops": 1}
+{"qid": "squad65", "pred": "30,000", "gold": "30,000", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad128", "pred": "the estates of the Holy Roman Empire", "gold": "estates of the Holy Roman Empire", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad81", "pred": "more than 48 hours in a stretch", "gold": "more than 48 hours", "em": 0.0, "f1": 0.8, "multi_hop": true, "n_hops": 2}
+{"qid": "squad130", "pred": "traction engines", "gold": "Stanley Steamer", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad131", "pred": "£20,427", "gold": "20,427", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad132", "pred": "Linebacker", "gold": "Linebacker", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad133", "pred": "60", "gold": "60", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad134", "pred": "color confinement", "gold": "color confinement", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad135", "pred": "all war, or any particular war", "gold": "all war", "em": 0.0, "f1": 0.5, "multi_hop": false, "n_hops": 1}
+{"qid": "squad136", "pred": "The passages do not contain the answer.", "gold": "United Methodist Church", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad137", "pred": "Carolina Panthers", "gold": "Carolina Panthers", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad108", "pred": "above the two personal physicians of the Emperor", "gold": "ranked above", "em": 0.0, "f1": 0.25, "multi_hop": true, "n_hops": 2}
+{"qid": "squad127", "pred": "1 February 2007", "gold": "1 February 2007", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad140", "pred": "the Department of Justice", "gold": "Department of Justice", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad141", "pred": "penance and righteousness", "gold": "penance and righteousness", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad142", "pred": "rhetoric", "gold": "rhetoric", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad103", "pred": "On the Councils and the Church", "gold": "On the Councils and the Church", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad129", "pred": "decidedly Wesleyan", "gold": "Wesleyan", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": true, "n_hops": 2}
+{"qid": "squad145", "pred": "inciting internal revolt among Kuchlug's supporters", "gold": "inciting internal revolt", "em": 0.0, "f1": 0.6, "multi_hop": false, "n_hops": 1}
+{"qid": "squad146", "pred": "The provided passages do not contain information about diagrams used to simplify particle interactions.", "gold": "Feynman", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad147", "pred": "25 May 1521", "gold": "1685", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad139", "pred": "1555", "gold": "1555", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad149", "pred": "five to ten years", "gold": "five to ten years", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad150", "pred": "technological innovation", "gold": "machine labor", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad151", "pred": "antigens", "gold": "hormones", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad144", "pred": "Religious Coalition for Reproductive Choice", "gold": "Religious Coalition for Reproductive Choice", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad153", "pred": "Tehachapis", "gold": "Tehachapis", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad154", "pred": "second stage", "gold": "third stage", "em": 0.0, "f1": 0.5, "multi_hop": false, "n_hops": 1}
+{"qid": "squad155", "pred": "over 200", "gold": "over 200", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad156", "pred": "2010 series", "gold": "2010", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": false, "n_hops": 1}
+{"qid": "squad157", "pred": "worst-case time complexity", "gold": "worst-case time complexity", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad158", "pred": "Baptism", "gold": "Baptism", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad159", "pred": "They killed many of the Canadians, including their commanding officer, Joseph Coulon de Jumonville, whose head was reportedly split open by Tanaghrisson with", "gold": "killed many of the Canadians, including their commanding officer, Joseph Coulon de Jumonville", "em": 0.0, "f1": 0.7058823529411764, "multi_hop": false, "n_hops": 1}
+{"qid": "squad64", "pred": "The provided passages do not contain information about Tesla making any claims.", "gold": "1935", "em": 0.0, "f1": 0.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad161", "pred": "generally westward", "gold": "westward", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": false, "n_hops": 1}
+{"qid": "squad162", "pred": "1830", "gold": "1830", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad163", "pred": "The provided passages do not contain information about the outcome of living in a California Redwood tree.", "gold": "successfully preventing it from being cut down", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad164", "pred": "356 ± 47 tonnes per hectare", "gold": "356 ± 47 tonnes per hectare", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad165", "pred": "carbohydrates", "gold": "carbohydrates", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad115", "pred": "the debut trailer for Jason Bourne", "gold": "Jason Bourne", "em": 0.0, "f1": 0.5714285714285715, "multi_hop": true, "n_hops": 2}
+{"qid": "squad167", "pred": "the Scottish Government", "gold": "the Scottish Government", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad168", "pred": "in the thymus and bone marrow", "gold": "thymus and bone marrow", "em": 0.0, "f1": 0.888888888888889, "multi_hop": true, "n_hops": 2}
+{"qid": "squad169", "pred": "constitutional impasse", "gold": "constitutional impasse", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad97", "pred": "mid-18th century", "gold": "mid-18th century", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad171", "pred": "Mankind", "gold": "Mankind", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad172", "pred": "members", "gold": "members", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad173", "pred": "a covalent double bond", "gold": "covalent double bond", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad174", "pred": "comb jellies", "gold": "comb jellies", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad175", "pred": "The provided passages do not contain information about \"oncorhynchus.\"", "gold": "chum salmon", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad176", "pred": "waves in plasmas", "gold": "force-free magnetic fields", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad138", "pred": "the bigamy of the Philip of Hesse incident", "gold": "bigamy of the Philip of Hesse", "em": 0.0, "f1": 0.9090909090909091, "multi_hop": true, "n_hops": 2}
+{"qid": "squad177", "pred": "Charles Darwin", "gold": "Charles Darwin", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 3}
+{"qid": "squad179", "pred": "The provided passages do not contain information about the method of transport used for imperialism.", "gold": "seaborne", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad180", "pred": "the antichrist", "gold": "antichrist", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad181", "pred": "$200 million", "gold": "around $200 million", "em": 0.0, "f1": 0.8, "multi_hop": false, "n_hops": 1}
+{"qid": "squad182", "pred": "December 12", "gold": "December 12", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad183", "pred": "all women", "gold": "all women", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad184", "pred": "the bishop has read the appointments at the session of the Annual Conference", "gold": "bishop has read the appointments at the session of the Annual Conference", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad185", "pred": "seven", "gold": "Initially built with three layers, it later (1982) evolved into a seven-layer OSI-compliant networking protocol", "em": 0.0, "f1": 0.11764705882352941, "multi_hop": false, "n_hops": 1}
+{"qid": "squad148", "pred": "freedom of ceremony", "gold": "freedom of ceremony", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad187", "pred": "Half", "gold": "Half", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad188", "pred": "roughly spherical", "gold": "roughly spherical", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad189", "pred": "computational problems", "gold": "Decision problems", "em": 0.0, "f1": 0.5, "multi_hop": false, "n_hops": 1}
+{"qid": "squad190", "pred": "Jerome Schurf", "gold": "Jerome Schurf", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 1}
+{"qid": "squad191", "pred": "11 miles", "gold": "11", "em": 0.0, "f1": 0.6666666666666666, "multi_hop": true, "n_hops": 2}
+{"qid": "squad192", "pred": "$500,000", "gold": "$500,000", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad193", "pred": "The provided passages do not contain information about a website where teachers sell their lesson plans.", "gold": "TeachersPayTeachers.com", "em": 0.0, "f1": 0.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad160", "pred": "Death Wish Coffee", "gold": "Death Wish Coffee", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad152", "pred": "a week", "gold": "a week", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad196", "pred": "Time Warner Cable", "gold": "Time Warner Cable", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad197", "pred": "2003", "gold": "2003", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad198", "pred": "continued gender inequality in education", "gold": "gender inequality in education", "em": 0.0, "f1": 0.888888888888889, "multi_hop": false, "n_hops": 1}
+{"qid": "squad199", "pred": "Britain", "gold": "Britain", "em": 1.0, "f1": 1.0, "multi_hop": false, "n_hops": 1}
+{"qid": "squad125", "pred": "early eukaryotic cell", "gold": "eukaryotic", "em": 0.0, "f1": 0.5, "multi_hop": true, "n_hops": 2}
+{"qid": "squad122", "pred": "KOA (850 AM) and KRFX (103.5 FM)", "gold": "KOA (850 AM) and KRFX (103.5 FM)", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad194", "pred": "October 2011", "gold": "October 2011", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad178", "pred": "\"Super Bowl City\"", "gold": "Super Bowl City", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad143", "pred": "negotiations for a settlement", "gold": "negotiations", "em": 0.0, "f1": 0.5, "multi_hop": true, "n_hops": 2}
+{"qid": "squad170", "pred": "pathogens, an allograft", "gold": "pathogens, an allograft", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}
+{"qid": "squad186", "pred": "a deficit", "gold": "a deficit.", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 1}
+{"qid": "squad195", "pred": "The logo used for the Eleventh Doctor", "gold": "The logo for the Twelfth Doctor", "em": 0.0, "f1": 0.6666666666666665, "multi_hop": true, "n_hops": 2}
+{"qid": "squad166", "pred": "Jacksonville Consolidation", "gold": "Jacksonville Consolidation", "em": 1.0, "f1": 1.0, "multi_hop": true, "n_hops": 2}

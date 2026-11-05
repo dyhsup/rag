@@ -13,8 +13,8 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 RES = os.path.join(ROOT, "results")
 
 
-def main(n=200, workers=10):
-    qs = [json.loads(l) for l in open(os.path.join(ROOT, "data", "raw", "squad_200.jsonl"))][:n]
+def main(n=200, workers=10, data="squad_200.jsonl"):
+    qs = [json.loads(l) for l in open(os.path.join(ROOT, "data", "raw", data))][:n]
     docs = [{"doc_id": d["doc_id"], "title": d["title"], "text": d["text"],
              "sentences": d["sentences"]} for q in qs for d in q["docs"]]
     index = QuestionIndex({"qid": "pool", "docs": docs})
@@ -22,7 +22,8 @@ def main(n=200, workers=10):
     ce = CERemote()
 
     for method in ["vanilla", "ircot"]:
-        path = os.path.join(RES, f"g5_squad_{method}.jsonl")
+        tag = data.replace(".jsonl", "")
+        path = os.path.join(RES, f"g5_{tag}_{method}.jsonl")
         done = set()
         if os.path.exists(path):
             for line in open(path, encoding="utf-8"):
@@ -54,4 +55,9 @@ def main(n=200, workers=10):
 
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--n", type=int, default=200)
+    ap.add_argument("--data", default="squad_200.jsonl")
+    a = ap.parse_args()
+    main(a.n, 10, a.data)
