@@ -1,0 +1,200 @@
+{"qid": "trivia8", "hops": [{"query": "Who anointed David as King of Israel?", "type": "person"}]}
+{"qid": "trivia1", "hops": [{"query": "What is the primary ingredient of pistachio flavoured ice cream?", "type": "other"}, {"query": "What is the natural colour of #1?", "type": "other"}]}
+{"qid": "trivia9", "hops": [{"query": "What was the state religion of Japan before it was disestablished after WWII?", "type": "other"}]}
+{"qid": "trivia3", "hops": [{"query": "What are the ingredients of Irish coffee?", "type": "other"}, {"query": "Which of the ingredients #1 is an alcoholic beverage?", "type": "other"}]}
+{"qid": "trivia5", "hops": [{"query": "When is National Flag Day celebrated in Estonia?", "type": "date"}, {"query": "Which month of the year is #1 in?", "type": "other"}]}
+{"qid": "trivia4", "hops": [{"query": "What was the occupation of a publican in Roman times?", "type": "other"}]}
+{"qid": "trivia11", "hops": [{"query": "Which brand of beer does Homer Simpson drink regularly?", "type": "other"}]}
+{"qid": "trivia13", "hops": [{"query": "Who plays the role of Bubble in Absolutely Fabulous?", "type": "person"}]}
+{"qid": "trivia7", "hops": [{"query": "What is the largest group of species on earth?", "type": "other"}, {"query": "How many legs do members of #1 have?", "type": "number"}]}
+{"qid": "trivia2", "hops": [{"query": "What is the common diminutive nickname for George W. Bush?", "type": "other"}, {"query": "Is #1 an herbaceous plant?", "type": "boolean"}]}
+{"qid": "trivia0", "hops": [{"query": "What would a polyandric woman have more than one of?", "type": "other"}]}
+{"qid": "trivia6", "hops": [{"query": "Who was born on December 25, 1918?", "type": "person"}, {"query": "Was #1 a former president of Egypt?", "type": "boolean"}]}
+{"qid": "trivia16", "hops": [{"query": "What renewable energy source is associated with the term photovoltaic?", "type": "other"}]}
+{"qid": "trivia15", "hops": [{"query": "How many dominoes are there in a double six set?", "type": "other"}]}
+{"qid": "trivia12", "hops": [{"query": "In the musical 'Cats', which character is described as the 'Brummel of cats'?", "type": "person"}, {"query": "Who is the character #1 in the musical 'Cats'?", "type": "person"}]}
+{"qid": "trivia17", "hops": [{"query": "Who was Pope Alexander VI?", "type": "person"}, {"query": "What is the infamous reputation or character associated with #1?", "type": "other"}]}
+{"qid": "trivia14", "hops": [{"query": "Who is the author of Gulliver's Travels?", "type": "person"}, {"query": "What is the name of the intelligent talking horses in the book Gulliver's Travels by #1?", "type": "other"}]}
+{"qid": "trivia18", "hops": [{"query": "What is the dominant color of the 100 Euro banknote?", "type": "other"}]}
+{"qid": "trivia10", "hops": [{"query": "What type of creature is the Smoky bat?", "type": "other"}, {"query": "What type of creature is the Leaf-nosed bat?", "type": "other"}, {"query": "What type of creature is the Vesper bat?", "type": "other"}]}
+{"qid": "trivia19", "hops": [{"query": "What incident involving Alex Partridge and Hannah Macleod occurred at a nightclub in October 2012?", "type": "other"}, {"query": "What items were stolen from Alex Partridge and Hannah Macleod during the incident identified in #1?", "type": "other"}]}
+{"qid": "trivia23", "hops": [{"query": "In which sport did Gert Fredriksson compete in the Olympics?", "type": "other"}, {"query": "What are the specific event names within #1 in which Gert Fredriksson won Olympic gold medals?", "type": "other"}]}
+{"qid": "trivia21", "hops": [{"query": "What is the collective noun for a group of finches?", "type": "other"}, {"query": "What is the collective noun for a group of hummingbirds?", "type": "other"}, {"query": "Is the collective noun found in #1 the same as the collective noun found in #2?", "type": "boolean"}]}
+{"qid": "trivia25", "hops": [{"query": "What river flows through Fleetwood on Lancashire's Fylde coast?", "type": "other"}]}
+{"qid": "trivia27", "hops": [{"query": "Who was named the best player at Euro 2012 by UEFA?", "type": "person"}]}
+{"qid": "trivia20", "hops": [{"query": "What did Pope Benedict XVI describe as an \"expression of the gift of oneself to God and others\" in 2010?", "type": "other"}]}
+{"qid": "trivia22", "hops": [{"query": "What is the upper edge of a ship's side called?", "type": "other"}]}
+{"qid": "trivia33", "hops": [{"query": "What is a saiga?", "type": "other"}]}
+{"qid": "trivia31", "hops": [{"query": "How many balls are on a snooker table at the beginning of a game?", "type": "number"}]}
+{"qid": "trivia35", "hops": [{"query": "What is the capital of Idaho?", "type": "location"}]}
+{"qid": "trivia24", "hops": [{"query": "Who played the character 'Aunty Entity' in the film 'Mad Max Beyond the Thunderdome'?", "type": "person"}]}
+{"qid": "trivia29", "hops": [{"query": "Who is the author of the plays in question?", "type": "person"}, {"query": "What are the titles of the plays written by #1?", "type": "title"}, {"query": "How many definite suicides occur in the plays #2?", "type": "number"}]}
+{"qid": "trivia32", "hops": [{"query": "Which body of water did King John cross in 1216 when he lost the crown jewels?", "type": "location"}]}
+{"qid": "trivia26", "hops": [{"query": "What is the Saltire?", "type": "other"}, {"query": "Which country uses the flag described in #1?", "type": "location"}]}
+{"qid": "trivia37", "hops": [{"query": "Who was voted Miss Greenwich Village in 1942?", "type": "person"}]}
+{"qid": "trivia34", "hops": [{"query": "Which country's political leaders issued the Mahlabatari Declaration of Faith in 1974?", "type": "location"}]}
+{"qid": "trivia28", "hops": [{"query": "A craniotomy is the surgical removal of a portion of which part of the human body?", "type": "other"}]}
+{"qid": "trivia36", "hops": [{"query": "What is a 'wherry'?", "type": "other"}]}
+{"qid": "trivia30", "hops": [{"query": "What is the world speed record for steam locomotives?", "type": "number"}, {"query": "Which steam locomotive set the world speed record of #1?", "type": "title"}]}
+{"qid": "trivia38", "hops": [{"query": "Who was the original host of the game show Family Feud?", "type": "person"}]}
+{"qid": "trivia39", "hops": [{"query": "What is the professional name or alias of Thierry Guetta?", "type": "person"}]}
+{"qid": "trivia42", "hops": [{"query": "Which mammals have wings?", "type": "other"}]}
+{"qid": "trivia44", "hops": [{"query": "What sport do the Pacers and Pistons play?", "type": "other"}]}
+{"qid": "trivia40", "hops": [{"query": "Who was the wife of Henry VIII who had already married twice before becoming queen and married for a fourth time after Henry's death?", "type": "person"}]}
+{"qid": "trivia43", "hops": [{"query": "Which UK television game show uses the terms Jackpot Counter, Ghost Drop, and Drop Zone?", "type": "title"}]}
+{"qid": "trivia46", "hops": [{"query": "In which English county is the Hindhead Tunnel located?", "type": "location"}]}
+{"qid": "trivia48", "hops": [{"query": "Which acid is found in rhubarb leaves?", "type": "other"}]}
+{"qid": "trivia47", "hops": [{"query": "Who is the narrator of the UK TV programme 'Come Dine With Me'?", "type": "person"}]}
+{"qid": "trivia41", "hops": [{"query": "Who are the children of Terence Conran and Shirley Conran?", "type": "person"}, {"query": "Which of #1 is a dress designer?", "type": "person"}]}
+{"qid": "trivia49", "hops": [{"query": "What profession does the archaic word 'Amanuensis' refer to?", "type": "other"}]}
+{"qid": "trivia50", "hops": [{"query": "Who was the last Catholic monarch to reign over England?", "type": "person"}]}
+{"qid": "trivia54", "hops": [{"query": "What animal's milk is used to make Limburger cheese?", "type": "other"}]}
+{"qid": "trivia51", "hops": [{"query": "Who was the first President of the United States to be a member of the Republican Party?", "type": "person"}]}
+{"qid": "trivia45", "hops": [{"query": "Who won the Academy Award for Best Director in 1998?", "type": "person"}, {"query": "Did #1 include the line 'I'm king of the world' in their Oscar acceptance speech?", "type": "boolean"}]}
+{"qid": "trivia53", "hops": [{"query": "Who was the husband of former British Prime Minister Margaret Thatcher?", "type": "person"}, {"query": "What was the name of the first wife of #1?", "type": "person"}]}
+{"qid": "trivia56", "hops": [{"query": "What is the stage name of Melvin Kaminsky?", "type": "person"}]}
+{"qid": "trivia58", "hops": [{"query": "What is the country of origin for the airline TAAG?", "type": "location"}]}
+{"qid": "trivia57", "hops": [{"query": "What organ does the medical term 'Splenitis' refer to?", "type": "other"}]}
+{"qid": "trivia52", "hops": [{"query": "What is the world's third largest desert?", "type": "other"}]}
+{"qid": "trivia60", "hops": [{"query": "What is the largest city in Turkey?", "type": "location"}]}
+{"qid": "trivia55", "hops": [{"query": "Which whale is most commonly known as the Singing Whale?", "type": "person"}, {"query": "Is #1 named James?", "type": "boolean"}]}
+{"qid": "trivia59", "hops": [{"query": "Which order of mammals is conventionally treated as comprising a single order and is known for laying eggs?", "type": "other"}]}
+{"qid": "trivia61", "hops": [{"query": "What celestial object did Clyde Tombaugh discover in 1930?", "type": "other"}]}
+{"qid": "trivia63", "hops": [{"query": "What is the English word that is derived from the Old French word 'vin aigre' meaning sour wine?", "type": "other"}]}
+{"qid": "trivia66", "hops": [{"query": "Which rock group did Dave Gilmore and Roger Waters both belong to?", "type": "organization"}]}
+{"qid": "trivia69", "hops": [{"query": "Who is the narrator of the spoken verses on the song 'Parklife' by Blur?", "type": "person"}]}
+{"qid": "trivia68", "hops": [{"query": "What profession did Art Garfunkel train for but not qualify in?", "type": "other"}]}
+{"qid": "trivia62", "hops": [{"query": "Who is the human-rights lawyer Amal Alamuddin?", "type": "person"}, {"query": "To whom did #1 become engaged in April 2014?", "type": "person"}]}
+{"qid": "trivia64", "hops": [{"query": "Where is the Aviva Sports Stadium located?", "type": "location"}, {"query": "In which European country is #1 located?", "type": "location"}]}
+{"qid": "trivia65", "hops": [{"query": "What is the title of the 1986 movie directed by Peter Weir that is based on a novel by Paul Theroux?", "type": "title"}, {"query": "Did the movie #1 star Harrison Ford, Helen Mirren, and River Phoenix?", "type": "boolean"}]}
+{"qid": "trivia71", "hops": [{"query": "Who is Andrew Lloyd Webber's brother who is a renowned cellist?", "type": "person"}, {"query": "What is the first name of #1?", "type": "other"}]}
+{"qid": "trivia67", "hops": [{"query": "Who is the US actor who married makeup artist Arlene Silver in 2012?", "type": "person"}, {"query": "What was the birth year of #1?", "type": "date"}, {"query": "How old was #1 in 2012?", "type": "number"}]}
+{"qid": "trivia75", "hops": [{"query": "What country was Edgar Lungu the leader of in 2015?", "type": "location"}]}
+{"qid": "trivia72", "hops": [{"query": "What is the name of the Japanese sliding door or partition made of a latticed screen covered with white paper?", "type": "other"}]}
+{"qid": "trivia73", "hops": [{"query": "Who is the artist of the album 'Back to Bedlam'?", "type": "person"}, {"query": "Is #1 a British singer?", "type": "boolean"}]}
+{"qid": "trivia77", "hops": [{"query": "What is the title of Adele's album released in 2015?", "type": "title"}]}
+{"qid": "trivia79", "hops": [{"query": "Who is the character Iago in the play Othello?", "type": "person"}, {"query": "Who is the wife of #1?", "type": "person"}]}
+{"qid": "trivia76", "hops": [{"query": "What is the English translation of the French phrase 'Vingt-et-Un'?", "type": "number"}]}
+{"qid": "trivia81", "hops": [{"query": "Which character did Johnny Weissmuller famously play on screen?", "type": "title"}, {"query": "Did Ron Ely also play the character #1 on screen?", "type": "boolean"}]}
+{"qid": "trivia80", "hops": [{"query": "What sport is Amr Shabana famous for playing?", "type": "other"}]}
+{"qid": "trivia74", "hops": [{"query": "Who is the artist of the work titled 'When Will You Marry?'?", "type": "person"}, {"query": "When was the artwork by #1 sold for a record-breaking price?", "type": "date"}]}
+{"qid": "trivia82", "hops": [{"query": "Which film features the characters Sally Albright and Harry Burns?", "type": "title"}]}
+{"qid": "trivia78", "hops": [{"query": "Where is Punchestown Racecourse located?", "type": "location"}, {"query": "In which European country is #1 located?", "type": "location"}]}
+{"qid": "trivia70", "hops": [{"query": "Who won the Olympic Gold Medal in the 400m freestyle in 2008?", "type": "person"}, {"query": "Is #1 a British swimmer?", "type": "boolean"}, {"query": "Did #1 win the Olympic Gold Medal in the 800m freestyle in 2008?", "type": "boolean"}]}
+{"qid": "trivia84", "hops": [{"query": "What is the name of the line on a ship that indicates the maximum safe draft or loading limit?", "type": "other"}]}
+{"qid": "trivia90", "hops": [{"query": "Who played Rachel Green in Friends?", "type": "person"}]}
+{"qid": "trivia83", "hops": [{"query": "Who had a hit with the song Go Now?", "type": "organization"}, {"query": "Who had a hit with the song Nights in White Satin?", "type": "organization"}, {"query": "Is #1 the same as #2?", "type": "boolean"}]}
+{"qid": "trivia88", "hops": [{"query": "What is the full modern Italian name for the piano, which translates to 'quiet loud'?", "type": "title"}]}
+{"qid": "trivia89", "hops": [{"query": "What is the name of the enzyme usually added to milk to coagulate it?", "type": "other"}]}
+{"qid": "trivia91", "hops": [{"query": "What vitamin deficiency causes scurvy?", "type": "other"}]}
+{"qid": "trivia85", "hops": [{"query": "What passage did the SS Ancon navigate on 15 August 1914?", "type": "location"}, {"query": "Does the name of #1 contain only one vowel?", "type": "boolean"}]}
+{"qid": "trivia87", "hops": [{"query": "In which city is the United Nations International Court of Justice located?", "type": "location"}, {"query": "Is #1 a city in the Netherlands?", "type": "boolean"}]}
+{"qid": "trivia92", "hops": [{"query": "Who wrote the poem 'The Lake Isle of Innisfree'?", "type": "person"}]}
+{"qid": "trivia86", "hops": [{"query": "Who was acquitted of tax evasion charges in January 2012?", "type": "person"}, {"query": "Is #1 an English football manager?", "type": "boolean"}]}
+{"qid": "trivia95", "hops": [{"query": "Who plays the character Sharon Pogue in the 2001 film 'Angel Eyes'?", "type": "person"}]}
+{"qid": "trivia93", "hops": [{"query": "Who is the leader of the gang that lives in Hoagy's Alley?", "type": "person"}, {"query": "Is #1 a fictional cartoon character?", "type": "boolean"}]}
+{"qid": "trivia98", "hops": [{"query": "Which county won the County Cricket Championship in 1959?", "type": "organization"}]}
+{"qid": "trivia101", "hops": [{"query": "What is the definition of zoophobia?", "type": "other"}]}
+{"qid": "trivia97", "hops": [{"query": "Which saint established a monastery and Christian community on the island of Lindisfarne in the year 635?", "type": "person"}]}
+{"qid": "trivia94", "hops": [{"query": "What year is 600 years before the current year?", "type": "number"}, {"query": "What famous battle took place on 15 October #1?", "type": "title"}]}
+{"qid": "trivia102", "hops": [{"query": "Who was the first presenter of the TV show Room 101?", "type": "person"}]}
+{"qid": "trivia104", "hops": [{"query": "In which European country was Dolly the Sheep cloned?", "type": "location"}]}
+{"qid": "trivia103", "hops": [{"query": "Who established the Most Noble Order of the Garter?", "type": "person"}]}
+{"qid": "trivia99", "hops": [{"query": "What are the signs of the Zodiac?", "type": "other"}, {"query": "Which of the Zodiac signs #1 is represented by an object rather than a person or animal?", "type": "other"}]}
+{"qid": "trivia96", "hops": [{"query": "What is the name of the innermost ring of an Olympic archery target?", "type": "other"}, {"query": "What is the color of the #1 ring in an Olympic archery target?", "type": "other"}]}
+{"qid": "trivia100", "hops": [{"query": "Who was the father of Louis XV of France?", "type": "person"}, {"query": "What was the relationship between #1 and Louis XIV of France?", "type": "other"}]}
+{"qid": "trivia107", "hops": [{"query": "What song did Patty and Mildred Hill write in 1893?", "type": "title"}]}
+{"qid": "trivia109", "hops": [{"query": "What is the common name for the tree species Fraxinus excelsior?", "type": "other"}]}
+{"qid": "trivia106", "hops": [{"query": "Which crusade was led by Philip II Augustus of France and Richard I of England?", "type": "title"}]}
+{"qid": "trivia113", "hops": [{"query": "Who was the first US president interviewed by Barbara Walters?", "type": "person"}]}
+{"qid": "trivia105", "hops": [{"query": "What car does Mr Bean drive in the UK TV series 'Mr Bean'?", "type": "other"}, {"query": "What is the specific model of the car identified in #1?", "type": "other"}]}
+{"qid": "trivia111", "hops": [{"query": "What is the famous novel that has 'Men Against the Sea' and 'Pitcairn's Island' as sequels?", "type": "title"}]}
+{"qid": "trivia115", "hops": [{"query": "What is the common name for the medical condition pyrosis?", "type": "other"}]}
+{"qid": "trivia110", "hops": [{"query": "In which city is George Eliot's novel 'Romola' set?", "type": "location"}]}
+{"qid": "trivia117", "hops": [{"query": "Which company did Ray Kroc build into a world-wide organisation?", "type": "organization"}]}
+{"qid": "trivia108", "hops": [{"query": "What was the first network that led to the creation of the Internet?", "type": "organization"}, {"query": "In which country was #1 established?", "type": "location"}]}
+{"qid": "trivia112", "hops": [{"query": "Who was the contestant on Celebrity Big Brother 2014 who is a former World Heavyweight Champion boxer?", "type": "person"}]}
+{"qid": "trivia119", "hops": [{"query": "What is an oropendola?", "type": "other"}]}
+{"qid": "trivia114", "hops": [{"query": "Who defeated Evander Holyfield in November 1992 to become the undisputed Heavyweight Champion?", "type": "person"}]}
+{"qid": "trivia116", "hops": [{"query": "Who played the character Nellie Forbush in the 2001 film adaptation of South Pacific?", "type": "person"}]}
+{"qid": "trivia118", "hops": [{"query": "What is the name of the cup or bowl Jesus was said to have used at the Last Supper?", "type": "title"}]}
+{"qid": "trivia122", "hops": [{"query": "What did William Strickland bring to Britain from North America in 1526?", "type": "other"}]}
+{"qid": "trivia124", "hops": [{"query": "For what discovery or work did Albert Einstein receive the Nobel Prize in Physics?", "type": "other"}]}
+{"qid": "trivia123", "hops": [{"query": "What is the design of the U.S. flag?", "type": "other"}, {"query": "What is the color of the bottom stripe in the design described in #1?", "type": "other"}]}
+{"qid": "trivia126", "hops": [{"query": "Which book of the New Testament starts with the words \"In the beginning\"?", "type": "title"}]}
+{"qid": "trivia120", "hops": [{"query": "Who painted the series known as 'Fantasy and Invention'?", "type": "person"}, {"query": "Is #1 a Spanish artist?", "type": "boolean"}]}
+{"qid": "trivia128", "hops": [{"query": "What modern English town or city corresponds to the Roman name Dubris?", "type": "location"}]}
+{"qid": "trivia125", "hops": [{"query": "The nictitating membrane is found on which part of animal’s body?", "type": "other"}]}
+{"qid": "trivia127", "hops": [{"query": "Who was the 19th president of the USA?", "type": "person"}, {"query": "What is the surname of #1?", "type": "other"}]}
+{"qid": "trivia129", "hops": [{"query": "What board game uses the terms Bearoff, Nullo Play, and Quadrant?", "type": "other"}]}
+{"qid": "trivia131", "hops": [{"query": "Who is the artist of the song 'Hold On To The Nights'?", "type": "person"}]}
+{"qid": "trivia130", "hops": [{"query": "Who wrote the novel 'From Here to Eternity'?", "type": "person"}]}
+{"qid": "trivia132", "hops": [{"query": "Who was the British Prime Minister in November 1935?", "type": "person"}]}
+{"qid": "trivia134", "hops": [{"query": "What was Al Capone's nickname?", "type": "other"}]}
+{"qid": "trivia121", "hops": [{"query": "Who invented Penicillin?", "type": "person"}, {"query": "Who invented the Television?", "type": "person"}, {"query": "Who founded the Bank of England?", "type": "person"}, {"query": "Who founded the BBC?", "type": "person"}]}
+{"qid": "trivia133", "hops": [{"query": "What is the term for an economic recession that repeats soon, prior to recovery, often referred to as a 'Double (what?) Recession'?", "type": "other"}]}
+{"qid": "trivia137", "hops": [{"query": "Who was declared Model of the Millennium by Vogue editor Anna Wintour?", "type": "person"}]}
+{"qid": "trivia139", "hops": [{"query": "Who is the husband of Amphitrite in Greek mythology?", "type": "person"}]}
+{"qid": "trivia135", "hops": [{"query": "What is the name of the yacht race that leaves Sydney every Boxing Day?", "type": "title"}, {"query": "What is the destination city of the yacht race #1?", "type": "location"}]}
+{"qid": "trivia141", "hops": [{"query": "Who was the husband of Philippa of Hainault?", "type": "person"}]}
+{"qid": "trivia136", "hops": [{"query": "Who retired from the 'Eggheads' team in May 2014?", "type": "person"}]}
+{"qid": "trivia142", "hops": [{"query": "Which organization was Stella Rimington the first female head of?", "type": "organization"}]}
+{"qid": "trivia147", "hops": [{"query": "In which year was the Encyclopedia Britannica first published?", "type": "date"}]}
+{"qid": "trivia140", "hops": [{"query": "In the play 'The Tempest', which dukedom was Prospero the Duke of before he was overthrown?", "type": "location"}]}
+{"qid": "trivia143", "hops": [{"query": "In which Shakespeare play does the Forest of Arden appear?", "type": "title"}, {"query": "Which real-world English county is considered the inspiration for the Forest of Arden in #1?", "type": "location"}]}
+{"qid": "trivia138", "hops": [{"query": "Phlebitis refers to inflammation of what part of the human body?", "type": "other"}]}
+{"qid": "trivia145", "hops": [{"query": "In business theory which one of these is not normally a 'profit lever'?", "type": "other"}]}
+{"qid": "trivia148", "hops": [{"query": "Which country has 'Lofsongur' as its national anthem?", "type": "location"}]}
+{"qid": "trivia149", "hops": [{"query": "In which sport or activity are graphite and titanium commonly used as materials for equipment, replacing older materials like hickory and persimmon?", "type": "other"}]}
+{"qid": "trivia144", "hops": [{"query": "Who is the title character of the book Anne of Green Gables?", "type": "person"}, {"query": "What is the surname of #1?", "type": "other"}]}
+{"qid": "trivia151", "hops": [{"query": "Which 1949 film was set on the Scottish island of Todday?", "type": "title"}]}
+{"qid": "trivia154", "hops": [{"query": "What game uses a squidger?", "type": "title"}]}
+{"qid": "trivia153", "hops": [{"query": "At which English racecourse did two horses collapse and die due to electrocution in February 2011?", "type": "location"}]}
+{"qid": "trivia156", "hops": [{"query": "In which year was the battle of Rorke's Drift?", "type": "date"}]}
+{"qid": "trivia155", "hops": [{"query": "What is the specific phobia term for the fear of strangers or foreigners?", "type": "other"}]}
+{"qid": "trivia146", "hops": [{"query": "Which US-based environmental group chased the mother ship during the Antarctic Whale Hunt in February 2011?", "type": "organization"}, {"query": "Which country suspended its annual Antarctic Whale Hunt in February 2011 after activists from #1 chased the mother ship?", "type": "location"}]}
+{"qid": "trivia158", "hops": [{"query": "Where was Dame Ninette de Valois born?", "type": "location"}]}
+{"qid": "trivia150", "hops": [{"query": "What characteristic of Borneo ranks it among the largest five globally?", "type": "other"}]}
+{"qid": "trivia157", "hops": [{"query": "What is the famous processor brand name of Intel Corporation that is related to an apple?", "type": "title"}]}
+{"qid": "trivia152", "hops": [{"query": "Which novel by Jane Austen features the character Fanny Price?", "type": "title"}, {"query": "Was the novel #1 published in 1814?", "type": "boolean"}]}
+{"qid": "trivia160", "hops": [{"query": "What month of the year is 'Oster-monath' the Anglo-Saxon name for?", "type": "other"}]}
+{"qid": "trivia161", "hops": [{"query": "What does the letter 'T' stand for in the acronym LGBT?", "type": "other"}]}
+{"qid": "trivia168", "hops": [{"query": "Which state lies to the west of New Hampshire?", "type": "location"}]}
+{"qid": "trivia163", "hops": [{"query": "What is the medical term for the soft spots on a baby's head that allow the skull plates to flex during birth?", "type": "other"}]}
+{"qid": "trivia164", "hops": [{"query": "What type of dance shoe has a specially hardened sole or attached metal plates?", "type": "other"}]}
+{"qid": "trivia159", "hops": [{"query": "How many tennis Grand Slam titles did Jimmy Connors win?", "type": "number"}, {"query": "What is #1 rounded to the nearest two?", "type": "number"}]}
+{"qid": "trivia167", "hops": [{"query": "What is the shape of Anellini pasta?", "type": "other"}]}
+{"qid": "trivia162", "hops": [{"query": "What is the name of the spaceship Red Dwarf?", "type": "title"}, {"query": "What company owned the spaceship #1?", "type": "organization"}]}
+{"qid": "trivia166", "hops": [{"query": "What is the name of the O'Hara family's plantation in the novel 'Gone with the Wind'?", "type": "other"}]}
+{"qid": "trivia170", "hops": [{"query": "What is a tandoor?", "type": "other"}]}
+{"qid": "trivia173", "hops": [{"query": "What is a Malamute?", "type": "other"}]}
+{"qid": "trivia165", "hops": [{"query": "What was the traditional name for the red ink used by Roman emperors to sign documents?", "type": "other"}, {"query": "What is the primary pigment or color associated with the ink identified in #1?", "type": "other"}]}
+{"qid": "trivia169", "hops": [{"query": "Who wrote the novel 'Airport'?", "type": "person"}, {"query": "Was #1 a former RAF pilot?", "type": "boolean"}]}
+{"qid": "trivia175", "hops": [{"query": "Who is the spy-story writer known by the real name David John Moore Cornwell?", "type": "person"}]}
+{"qid": "trivia172", "hops": [{"query": "Who was the Prime Minister of which country on June 4th 1979?", "type": "location"}]}
+{"qid": "trivia177", "hops": [{"query": "Which film is set on the remote Hebridean island of Summerisle?", "type": "title"}]}
+{"qid": "trivia171", "hops": [{"query": "What is the former name of the Japanese car company Nissan?", "type": "organization"}, {"query": "Under what name did #1 sell its cars in the UK?", "type": "organization"}]}
+{"qid": "trivia174", "hops": [{"query": "Who is the current Lord Mayor of London?", "type": "person"}, {"query": "What is the official residence of #1?", "type": "location"}]}
+{"qid": "trivia178", "hops": [{"query": "Who is the famous male criminal associated with the address 25 Cromwell Street, Gloucester?", "type": "person"}]}
+{"qid": "trivia182", "hops": [{"query": "What is the primary alloying element mixed with iron to create cast iron?", "type": "other"}]}
+{"qid": "trivia176", "hops": [{"query": "Where is Ducati manufactured?", "type": "location"}, {"query": "In which country is #1 located?", "type": "location"}]}
+{"qid": "trivia183", "hops": [{"query": "Which New York airport was renamed after John F. Kennedy?", "type": "location"}]}
+{"qid": "trivia185", "hops": [{"query": "Which club did Wayne Rooney play for immediately before joining Manchester United?", "type": "organization"}]}
+{"qid": "trivia181", "hops": [{"query": "Who are the makers of South Park?", "type": "organization"}, {"query": "Which 2004 puppet movie was made by #1?", "type": "title"}]}
+{"qid": "trivia179", "hops": [{"query": "Which corporation owned the Schwarzkopf brand in 2010?", "type": "organization"}, {"query": "Which corporation owned the Pritt brand in 2010?", "type": "organization"}, {"query": "Is #1 the same organization as #2?", "type": "boolean"}]}
+{"qid": "trivia180", "hops": [{"query": "In which disaster film do the heroes take off to the song Leaving on a Jet Plane?", "type": "other"}]}
+{"qid": "trivia186", "hops": [{"query": "What is the stage name of British actor Maurice Micklewhite?", "type": "person"}]}
+{"qid": "trivia184", "hops": [{"query": "What book did Herman van Rompuy publish?", "type": "title"}, {"query": "What is the subject or genre of the book #1?", "type": "other"}]}
+{"qid": "trivia189", "hops": [{"query": "What was the main commitment removed from the Labour Party's Clause IV by the 1995 amendment?", "type": "other"}]}
+{"qid": "trivia187", "hops": [{"query": "What is the name of the Japanese dish consisting of bite-sized pieces of raw fish served with dipping sauces, vegetables, and wasabi?", "type": "other"}]}
+{"qid": "trivia190", "hops": [{"query": "What is the largest city in the U.S. state of Nebraska?", "type": "location"}]}
+{"qid": "trivia192", "hops": [{"query": "Which document is John Hancock famous for signing with a large and stylish signature?", "type": "title"}]}
+{"qid": "trivia191", "hops": [{"query": "What is the name of the alien race in Doctor Who that arrived on Earth in hollow plastic meteorites with deadly weapons concealed in their hands?", "type": "other"}]}
+{"qid": "trivia194", "hops": [{"query": "Which Saxon kingdom was Offa the King of?", "type": "organization"}]}
+{"qid": "trivia193", "hops": [{"query": "Who wrote the book 'The Old Curiosity Shop'?", "type": "person"}]}
+{"qid": "trivia188", "hops": [{"query": "In which autonomous community of Spain is Lloret de Mar located?", "type": "location"}, {"query": "What is the name of the Spanish coast associated with the autonomous community #1?", "type": "location"}]}
+{"qid": "trivia196", "hops": [{"query": "What is the name given to the study of birds?", "type": "other"}]}
+{"qid": "trivia195", "hops": [{"query": "What is the traditional superstition in Mexico regarding underwear color on New Year's Eve to attract love?", "type": "other"}]}
+{"qid": "trivia197", "hops": [{"query": "What is the International Vehicle Registration code for Cambodia?", "type": "other"}]}
+{"qid": "trivia198", "hops": [{"query": "In which TV series does the vehicle known as the Eagle Transporter appear?", "type": "title"}]}
+{"qid": "trivia199", "hops": [{"query": "In which country is Kagoshima International Airport located?", "type": "location"}]}

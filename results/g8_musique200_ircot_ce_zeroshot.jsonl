@@ -1,0 +1,200 @@
+{"qid": "2hop__6827_79845", "pred": "15,900", "gold": "15,900", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__17827_54024", "pred": "James I", "gold": "King James I of England", "em": 0.0, "f1": 0.5714285714285715}
+{"qid": "2hop__44815_494136", "pred": "KJ Apa", "gold": "Meg Ryan", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__810884_22402", "pred": "nearly 25,000", "gold": "nearly 25,000", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__640262_122868", "pred": "University of British Columbia", "gold": "University of British Columbia", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__488811_30110", "pred": "subsequently expelled by the Soviet Union", "gold": "expelled by the Soviet Union", "em": 0.0, "f1": 0.888888888888889}
+{"qid": "2hop__370564_71701", "pred": "1938", "gold": "November 5", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__752214_639679", "pred": "The provided passages do not contain information about the spouse of Mark Shand, the author of *Queen of the Elephants*.", "gold": "Clio Goldsmith", "em": 0.0, "f1": 0.0}
+{"qid": "3hop2__90098_156850_10557", "pred": "Classical Latin", "gold": "Medieval Latin", "em": 0.0, "f1": 0.5}
+{"qid": "4hop1__341777_508773_85832_745702", "pred": "Sebastian Cabot", "gold": "Sebastian Cabot", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__56851_343058", "pred": "John Challis", "gold": "Adrian Edmondson", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__365934_87694_124169", "pred": "c. 360", "gold": "1952", "em": 0.0, "f1": 0.0}
+{"qid": "3hop2__30152_105395_20999", "pred": "[1] The discovery of new maritime trade routes by Western European states allowed them to avoid the Ottoman trade monopoly. The Portuguese discovery of the Cape of Good Hope", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.06666666666666667}
+{"qid": "2hop__409166_152023", "pred": "Real World", "gold": "Kicking Mule Records", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__62311_62279", "pred": "December 1941", "gold": "10 July -- 31 October 1940", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__19768_19788_10117", "pred": "1,400 years ago", "gold": "1,400 years", "em": 0.0, "f1": 0.8571428571428571}
+{"qid": "3hop2__132957_222979_40768", "pred": "A decade after the 1973 oil crisis", "gold": "1981", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__83257_19033", "pred": "WrestleMania 21", "gold": "Great American Bash", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__703767_37168", "pred": "551-600", "gold": "551-600", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__857_846_7821", "pred": "The provided passages do not contain information about the number of miles of highways in Nanjing.", "gold": "140 mi", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__127837_157828_239539", "pred": "Belgrade", "gold": "Pristina", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__511176_22458", "pred": "Union of European Football Associations", "gold": "International Federation of Association Football", "em": 0.0, "f1": 0.4000000000000001}
+{"qid": "2hop__83800_747874", "pred": "Dinara Safina", "gold": "Jamie Murray", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__42747_83837", "pred": "Karen Fairchild", "gold": "Karen Fairchild", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__612719_6455", "pred": "Firefox", "gold": "Firefox", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__102461_24918_24991", "pred": "the Soviet flag", "gold": "Soviet flag", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__754753_57816", "pred": "100", "gold": "100", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__411091_625230", "pred": "Hancock County", "gold": "Hancock County", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__776377_857193", "pred": "Gulf of Mexico", "gold": "Delaware River", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__55966_162341", "pred": "positive reception from critics", "gold": "nominated for an Academy Award for Best Supporting Actor", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__30905_189318", "pred": "Yale University", "gold": "National War College", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__136129_87694_124169", "pred": "360", "gold": "1952", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__8496_21567", "pred": "John Kukuzelis", "gold": "John Kukuzelis", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__28404_160713_77246", "pred": "a large body of water", "gold": "the country of India", "em": 0.0, "f1": 0.28571428571428575}
+{"qid": "2hop__275891_55984", "pred": "Phil Hanseroth", "gold": "Phil Hanseroth", "em": 1.0, "f1": 1.0}
+{"qid": "4hop2__160585_14670_8987_8529", "pred": "1939–1945", "gold": "1943–1992", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__70338_36240", "pred": "Job 19: 20", "gold": "Genesis 3:15", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__552546_70131", "pred": "Nazi Party", "gold": "consisting largely of World War I veterans", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__131783_131926_13165", "pred": "Treaty of Paris", "gold": "Treaty of Paris", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__123214_22402", "pred": "nearly 25,000", "gold": "nearly 25,000", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__141456_6455", "pred": "Firefox", "gold": "Firefox", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__455158_247871", "pred": "Waseca County", "gold": "Waseca County", "em": 1.0, "f1": 1.0}
+{"qid": "4hop3__373866_5189_38229_86687", "pred": "March 1954", "gold": "May 1990", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__418360_67370", "pred": "February 11, 2018", "gold": "January 19, 2018", "em": 0.0, "f1": 0.3333333333333333}
+{"qid": "3hop1__139787_88110_77129", "pred": "Windows 8", "gold": "Windows 8", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__67956_463572", "pred": "Epic Records", "gold": "MGM Records", "em": 0.0, "f1": 0.5}
+{"qid": "3hop1__358853_339990_15538", "pred": "1984", "gold": "1984", "em": 1.0, "f1": 1.0}
+{"qid": "3hop2__326964_7855_7713", "pred": "Since then", "gold": "about 400 years", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__73921_807969", "pred": "Mohamed Salah", "gold": "Egypt national football team", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__90773_715759", "pred": "the Manhattan Project", "gold": "Manhattan Project", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__135652_669373", "pred": "Charles University in Prague", "gold": "Charles University", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "4hop1__436202_765799_282674_759393", "pred": "Pécs", "gold": "Green Bay", "em": 0.0, "f1": 0.0}
+{"qid": "4hop1__58323_375563_161848_83118", "pred": "first Sunday in April", "gold": "the first Sunday in April", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__389069_132457_47686", "pred": "1001 Filbert Street in Center City Philadelphia", "gold": "Toronto Coach Terminal", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__354635_174222", "pred": "Windjammer Cable", "gold": "Time Warner Cable", "em": 0.0, "f1": 0.4}
+{"qid": "3hop1__354480_834494_34109", "pred": "Pima County", "gold": "KUAT-TV 6", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__6736_6733", "pred": "Barcelona province", "gold": "Eastern block", "em": 0.0, "f1": 0.0}
+{"qid": "4hop3__524186_219173_862998_72134", "pred": "1821", "gold": "1839", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__60001_512508", "pred": "action at Gallipoli", "gold": "Manhattan Project", "em": 0.0, "f1": 0.0}
+{"qid": "4hop3__678814_466199_695123_72134", "pred": "1832", "gold": "1839", "em": 0.0, "f1": 0.0}
+{"qid": "4hop1__433767_32392_823060_610794", "pred": "Richland County", "gold": "Richland County", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__83405_158262", "pred": "1848", "gold": "1848", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__403712_793210", "pred": "Henry Baring", "gold": "Sir Francis Baring, 1st Baronet", "em": 0.0, "f1": 0.28571428571428575}
+{"qid": "3hop1__409517_547811_80702", "pred": "Rialto Bridge", "gold": "Rialto Bridge", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__21104_16254", "pred": "92 percent", "gold": "92 percent", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__820739_250752", "pred": "Mishael Morgan", "gold": "Glen Morgan", "em": 0.0, "f1": 0.5}
+{"qid": "4hop2__567956_39078_8987_8974", "pred": "Alfredo Stroessner's Paraguay", "gold": "Alfredo Stroessner's Paraguay", "em": 1.0, "f1": 1.0}
+{"qid": "4hop1__726391_153080_33952_34053", "pred": "1983", "gold": "1905", "em": 0.0, "f1": 0.0}
+{"qid": "4hop3__426860_88460_30152_20999", "pred": "by the Portuguese", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.28571428571428575}
+{"qid": "2hop__689472_52835", "pred": "John D. Loudermilk", "gold": "John D. Loudermilk", "em": 1.0, "f1": 1.0}
+{"qid": "4hop1__129721_32392_823060_610794", "pred": "Richland County", "gold": "Richland County", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__374767_152023", "pred": "Telarc", "gold": "Kicking Mule Records", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__80546_75184", "pred": "Michael J. Fox", "gold": "Claudia Wells", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__142842_68489", "pred": "Snapper Foster", "gold": "Snapper Foster", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__289517_139339", "pred": "an Academy Award for Best Live Action Short Film", "gold": "Academy Award for Best Live Action Short Film", "em": 1.0, "f1": 1.0}
+{"qid": "4hop1__94201_642284_131926_90707", "pred": "Cairo, Illinois", "gold": "at the city of Cairo, Illinois", "em": 0.0, "f1": 0.5714285714285715}
+{"qid": "2hop__323534_810083", "pred": "Scranton, Pennsylvania, United States", "gold": "Scranton", "em": 0.0, "f1": 0.4}
+{"qid": "2hop__829474_123956", "pred": "July 6, 1983", "gold": "15 February 1942", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__79462_91850_685675", "pred": "New York Yankees", "gold": "New York Yankees", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__56307_604644", "pred": "Partisan Records", "gold": "429 Records", "em": 0.0, "f1": 0.5}
+{"qid": "2hop__44259_747874", "pred": "Jamie Murray", "gold": "Jamie Murray", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__428940_135373", "pred": "Vitus Bering", "gold": "Vitus Bering", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__507528_139339", "pred": "an Academy Award for Best Live Action Short Film", "gold": "Academy Award for Best Live Action Short Film", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__540585_568433_47686", "pred": "1001 Filbert Street in Center City Philadelphia", "gold": "Toronto Coach Terminal", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__147225_30587_83479", "pred": "to stem the flow of merchant shipping that enabled Britain to keep fighting", "gold": "to stem the flow of merchant shipping that enabled Britain to keep fighting", "em": 1.0, "f1": 1.0}
+{"qid": "4hop1__629520_49925_13759_736921", "pred": "Saxony-Anhalt", "gold": "Saxony-Anhalt", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__642686_7292", "pred": "George Benson", "gold": "George Benson", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__71871_494136", "pred": "Meg Ryan", "gold": "Meg Ryan", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__161433_33952_33939", "pred": "520,116", "gold": "7,531", "em": 0.0, "f1": 0.0}
+{"qid": "4hop1__310029_153080_33897_81096", "pred": "Mario Andretti", "gold": "Mario Andretti", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__107540_720914_27537", "pred": "for the conclave in Rome", "gold": "for the conclave in Rome", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__620853_22458", "pred": "Fédération Internationale de Football Association", "gold": "International Federation of Association Football", "em": 0.0, "f1": 0.3333333333333333}
+{"qid": "4hop3__630723_88460_30152_20999", "pred": "The provided passages do not contain information about people being expelled from the natural boundary between Thailand and Phommathat's country of citizenship.", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.07692307692307693}
+{"qid": "4hop1__105688_17130_70784_79935", "pred": "not mentioned in the passages", "gold": "1930", "em": 0.0, "f1": 0.0}
+{"qid": "4hop1__525129_315334_131926_87157", "pred": "north northwest", "gold": "rises in northern Minnesota and meanders slowly southwards", "em": 0.0, "f1": 0.0}
+{"qid": "4hop3__719125_132409_371500_35031", "pred": "third", "gold": "third-largest", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "2hop__865828_377862", "pred": "Jordanów", "gold": "Sucha Beskidzka", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__506062_792411_51423", "pred": "Stauffenberg castle", "gold": "Casa Loma", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__140554_2053_52946", "pred": "February 7, 2018", "gold": "February 7, 2018", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__786067_228453_86925", "pred": "fleur-de-lis", "gold": "fleur - de-lis", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__709357_136043", "pred": "Nicole and Natalie Albino", "gold": "Natalie Albino", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "3hop1__516535_834494_34109", "pred": "KUAT-TV 6", "gold": "KUAT-TV 6", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__376309_160713_77246", "pred": "the second-largest religion in India", "gold": "the country of India", "em": 0.0, "f1": 0.25}
+{"qid": "4hop1__60000_59747_211319_557671", "pred": "Hudson County", "gold": "Presque Isle County", "em": 0.0, "f1": 0.4}
+{"qid": "2hop__179149_396277", "pred": "Shrek!", "gold": "Doctor De Soto", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__639955_834494_34109", "pred": "KUAT-TV 6", "gold": "KUAT-TV 6", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__145203_34088", "pred": "Tucson Raceway Park", "gold": "Tucson Raceway Park", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__347858_503371_21711", "pred": "15th century", "gold": "built in the 15th century", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "3hop2__36852_326964_7713", "pred": "more than 500 thousand years ago", "gold": "about 400 years", "em": 0.0, "f1": 0.2222222222222222}
+{"qid": "3hop1__17192_78396_54865", "pred": "1783", "gold": "1776", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__747772_514761_594810", "pred": "RCA Records", "gold": "Warner Bros. Records", "em": 0.0, "f1": 0.4}
+{"qid": "3hop1__295815_40769_64047", "pred": "1996–2012", "gold": "Sales began worldwide in April 2012", "em": 0.0, "f1": 0.25}
+{"qid": "2hop__35136_35117", "pred": "1213–1288", "gold": "1213–1288", "em": 1.0, "f1": 1.0}
+{"qid": "4hop3__439878_88460_30152_20999", "pred": "The provided passages do not contain information about people being expelled from the natural boundary between Thailand and Ban Kenpha's country, nor do they link the Ajuran Empire", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.06451612903225806}
+{"qid": "3hop1__768500_730460_70315", "pred": "poorer, rural villages", "gold": "the city of New Orleans", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__157376_643670", "pred": "Nieuwe Maas", "gold": "Het Scheur", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__823336_228453_86925", "pred": "The fleur-de-lis", "gold": "fleur - de-lis", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__559908_42197_18397", "pred": "UN", "gold": "the Politburo", "em": 0.0, "f1": 0.0}
+{"qid": "4hop1__105401_17130_70784_61381", "pred": "1932", "gold": "1932", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__127821_157828_162309", "pred": "1964", "gold": "2016", "em": 0.0, "f1": 0.0}
+{"qid": "4hop1__58323_375563_161848_61344", "pred": "Zealandia", "gold": "submerged continent of Zealandia", "em": 0.0, "f1": 0.4}
+{"qid": "2hop__96096_78606", "pred": "Patricia", "gold": "Joyce Van Patten", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__59612_42352", "pred": "2 million", "gold": "2 million", "em": 1.0, "f1": 1.0}
+{"qid": "4hop1__15567_59747_211319_557671", "pred": "Chatham County", "gold": "Presque Isle County", "em": 0.0, "f1": 0.4}
+{"qid": "4hop1__130623_32392_823060_610794", "pred": "Charleston", "gold": "Richland County", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__84937_21969", "pred": "between 1788 and 1795", "gold": "1786", "em": 0.0, "f1": 0.0}
+{"qid": "4hop1__752321_153080_159767_81096", "pred": "Tony Kanaan", "gold": "Mario Andretti", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__198650_84856", "pred": "April 22", "gold": "January 20, 2017", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__776637_87295", "pred": "Queen dowager Clarisse Renaldi", "gold": "Queen dowager Clarisse Renaldi", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__631139_75487", "pred": "Andrew Scheer", "gold": "Andrew Scheer", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__80637_19033", "pred": "WrestleMania 21", "gold": "Great American Bash", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__161507_160713_77246", "pred": "Islam", "gold": "the country of India", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__223823_29898", "pred": "CFJC-TV", "gold": "CFJC-TV in Kamloops", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "3hop2__607269_223623_162182", "pred": "South Central Coast", "gold": "South Central Coast", "em": 1.0, "f1": 1.0}
+{"qid": "3hop2__132957_483843_40768", "pred": "A decade after the 1973 oil crisis", "gold": "1981", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__84887_538202_84283", "pred": "Warner Bros. Records", "gold": "Warner Music Group", "em": 0.0, "f1": 0.3333333333333333}
+{"qid": "3hop1__857_846_7810", "pred": "Nanjing", "gold": "RMB 98,174(US$16041)", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__189094_612080", "pred": "Maltese Premier League", "gold": "Maltese Premier League", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__305282_282081_10972", "pred": "1973", "gold": "1970s", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__199513_801817", "pred": "The provided passages do not contain information about the birthplace of the person after whom São José dos Campos was named.", "gold": "Nazareth", "em": 0.0, "f1": 0.0}
+{"qid": "4hop2__161602_426860_88460_126088", "pred": "Nicolas Leoz", "gold": "Thein Sein", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__156085_436709", "pred": "Walt Disney and Ub Iwerks", "gold": "Walt Disney", "em": 0.0, "f1": 0.5714285714285715}
+{"qid": "2hop__734582_74481", "pred": "Vito Corleone", "gold": "Vito Corleone", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__133292_40769_64047", "pred": "2013", "gold": "Sales began worldwide in April 2012", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__669160_139339", "pred": "an Academy Award for Best Live Action Short Film", "gold": "Academy Award for Best Live Action Short Film", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__67660_67223", "pred": "Tracy McConnell", "gold": "Tracy Mosby", "em": 0.0, "f1": 0.5}
+{"qid": "2hop__252521_80650", "pred": "Martin Short", "gold": "Martin Short", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__58691_192417", "pred": "National Football League", "gold": "sports league", "em": 0.0, "f1": 0.4}
+{"qid": "2hop__137061_45752", "pred": "The provided passages do not contain information explaining why the place where Step Up Revolution takes place has a duck for a mascot.", "gold": "when the school's yearbook chose its name to be ``The Ibis", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__374018_160713_77246", "pred": "a large body of water", "gold": "the country of India", "em": 0.0, "f1": 0.28571428571428575}
+{"qid": "2hop__194532_57594", "pred": "The passages do not contain the answer to the question.", "gold": "LeMat revolver", "em": 0.0, "f1": 0.0}
+{"qid": "3hop2__304722_203717_63959", "pred": "1977", "gold": "1 December 2010", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__450600_158262", "pred": "1848", "gold": "1848", "em": 1.0, "f1": 1.0}
+{"qid": "4hop1__9002_698949_157828_239539", "pred": "Belgrade", "gold": "Pristina", "em": 0.0, "f1": 0.0}
+{"qid": "4hop3__373573_132409_146285_35031", "pred": "third-largest", "gold": "third-largest", "em": 1.0, "f1": 1.0}
+{"qid": "4hop3__700962_88460_30152_20999", "pred": "[1] The discovery of new maritime trade routes by Western European states allowed them to avoid the Ottoman trade monopoly. The Portuguese discovery of the Cape of Good Hope", "gold": "The dynasty regrouped and defeated the Portuguese", "em": 0.0, "f1": 0.06666666666666667}
+{"qid": "2hop__268084_78303", "pred": "James Dunn", "gold": "Cordell Walker", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__104996_160713_77246", "pred": "Islam", "gold": "the country of India", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__596188_297986", "pred": "Greenwich", "gold": "Royal Borough of Greenwich", "em": 0.0, "f1": 0.4}
+{"qid": "4hop3__661103_698586_1926_54362", "pred": "The provided passages do not contain information about an artist named \"Dunn Dunn\" dying in a war, a city being burned down, or black people declining to", "gold": "Confederate Gen. John Bell Hood", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__10017_18974", "pred": "Chen Zheng", "gold": "Chen Zheng", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__857493_17335", "pred": "323 BC", "gold": "323 BC", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__120881_2053_52946", "pred": "February 7, 2018", "gold": "February 7, 2018", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__735014_83837", "pred": "Karen Fairchild", "gold": "Karen Fairchild", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__145427_106426_157788", "pred": "Shanghai–Hangzhou high-speed railway", "gold": "Yamanote Line loop", "em": 0.0, "f1": 0.0}
+{"qid": "4hop1__73810_32392_823060_610794", "pred": "Dallas County", "gold": "Richland County", "em": 0.0, "f1": 0.5}
+{"qid": "2hop__123104_77615", "pred": "1912", "gold": "1912", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__530579_13529", "pred": "June 1982", "gold": "June 1982", "em": 1.0, "f1": 1.0}
+{"qid": "4hop2__9988_685934_70784_61381", "pred": "early 199", "gold": "1932", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__222380_443779_52195", "pred": "Susilo Bambang Yudhoyono", "gold": "Francisco Guterres", "em": 0.0, "f1": 0.0}
+{"qid": "4hop1__749065_698949_157828_239539", "pred": "Miami", "gold": "Pristina", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__788087_150107", "pred": "Routledge", "gold": "Association for Computing Machinery", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__622497_160088_49779", "pred": "Christopher Bryan Harrison", "gold": "Chris Harrison", "em": 0.0, "f1": 0.4}
+{"qid": "4hop1__51465_53706_795904_580996", "pred": "Mexico", "gold": "Rio Linda", "em": 0.0, "f1": 0.0}
+{"qid": "4hop2__161602_426860_88460_20988", "pred": "World War II", "gold": "one of the world's longest-running ongoing civil wars.", "em": 0.0, "f1": 0.16666666666666666}
+{"qid": "2hop__485221_544917", "pred": "Lake Superior", "gold": "Lake Superior", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__14_59409", "pred": "three different relationships he had in the past", "gold": "three different relationships he had in the past", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__66167_88526", "pred": "Wilt Chamberlain", "gold": "Greg Oden", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__5658_25002", "pred": "10-year", "gold": "10-year", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__622497_160088_73916", "pred": "$27,029", "gold": "$72,641", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__145427_106426_77199", "pred": "December 8, 1941", "gold": "December 8, 1941", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__35566_17873", "pred": "remained shuttered for most of the year", "gold": "palace was seldom used, even neglected", "em": 0.0, "f1": 0.0}
+{"qid": "3hop2__326964_263934_7713", "pred": "not mentioned", "gold": "about 400 years", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__796649_720914_27537", "pred": "for the conclave in Rome", "gold": "for the conclave in Rome", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__13539_13493", "pred": "sextuple", "gold": "continental treble", "em": 0.0, "f1": 0.0}
+{"qid": "4hop2__71753_729371_70784_61381", "pred": "11 March 1978", "gold": "1932", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__9285_42311", "pred": "Medical University of Warsaw", "gold": "Medical University of Warsaw", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__497191_129669", "pred": "Lisbon District", "gold": "Lisbon District", "em": 1.0, "f1": 1.0}
+{"qid": "4hop1__9007_698949_157828_239539", "pred": "Belgrade", "gold": "Pristina", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__16844_42173", "pred": "1818", "gold": "1599", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__131110_39743_24526", "pred": "upper 40s–lower 50s °F (8–12 °C)", "gold": "upper 40s–lower 50s °F", "em": 0.0, "f1": 0.7692307692307693}
+{"qid": "3hop1__672543_503371_21711", "pred": "15th century", "gold": "built in the 15th century", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "3hop1__9285_5188_23307", "pred": "June", "gold": "mid-June", "em": 0.0, "f1": 0.6666666666666666}
+{"qid": "3hop1__671542_665330_47686", "pred": "1001 Filbert Street in Center City Philadelphia", "gold": "Toronto Coach Terminal", "em": 0.0, "f1": 0.0}
+{"qid": "3hop1__404541_629431_124169", "pred": "22 February 2001", "gold": "1952", "em": 0.0, "f1": 0.0}
+{"qid": "4hop2__161602_426860_88460_21062", "pred": "No", "gold": "It is not possible for foreigners to go to/from Myanmar by sea or river.", "em": 0.0, "f1": 0.0}
+{"qid": "2hop__32441_522949", "pred": "Edith Roosevelt", "gold": "Edith Roosevelt", "em": 1.0, "f1": 1.0}
+{"qid": "2hop__648648_173389", "pred": "Middleton", "gold": "Middleton", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__140855_2053_52946", "pred": "February 7, 2018", "gold": "February 7, 2018", "em": 1.0, "f1": 1.0}
+{"qid": "3hop1__662413_42197_18397", "pred": "Yugoslavia", "gold": "the Politburo", "em": 0.0, "f1": 0.0}

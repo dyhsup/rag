@@ -42,6 +42,16 @@ def plan(llm, q):
         return {"multi_hop": False, "hops": [{"query": q["question"], "type": "other"}]}
 
 
+def refine(p, q):
+    """multi_hop claims must be backed by a real dependency edge."""
+    hops, mh = p["hops"], p["multi_hop"]
+    if mh and len(hops) > 1 and not any("#" in h["query"] for h in hops):
+        qn = " " + q["question"].lower() + " "
+        if not any(w in qn for w in [" both ", " same ", " or ", " compared ", " more ", " less ", " first "]):
+            return {"multi_hop": False, "hops": [{"query": q["question"], "type": "other"}]}
+    return {"multi_hop": mh, "hops": hops}
+
+
 def load_data(path):
     from .data import load_questions
     from .musique import load
@@ -87,7 +97,7 @@ def main(n=200, workers=10, data="squad_200.jsonl"):
     print(f"[e14] {len(run_qs)} to run")
 
     def work(q):
-        p = plans[q["qid"]]
+        p = refine(plans[q["qid"]], q)
         if p["multi_hop"]:
             pred, tr = solve(q, p["hops"], index, llm, ce, "select")
         else:

@@ -1,0 +1,90 @@
+[
+  {
+    "tag": "musique200",
+    "n": 200,
+    "vanilla": 0.195,
+    "ircot": 0.315,
+    "rbg": 0.43,
+    "router": null,
+    "d_rbg": [
+      0.115,
+      0.06,
+      0.17
+    ],
+    "d_router": null
+  },
+  {
+    "tag": "musique400",
+    "n": 400,
+    "vanilla": 0.19,
+    "ircot": 0.3025,
+    "rbg": 0.4275,
+    "router": null,
+    "d_rbg": [
+      0.125,
+      0.0825,
+      0.1675
+    ],
+    "d_router": null
+  },
+  {
+    "tag": "wiki2_200",
+    "n": 200,
+    "vanilla": 0.475,
+    "ircot": 0.615,
+    "rbg": 0.595,
+    "router": 0.6,
+    "d_rbg": [
+      -0.02,
+      -0.065,
+      0.025
+    ],
+    "d_router": [
+      -0.015,
+      -0.06,
+      0.03
+    ]
+  },
+  {
+    "tag": "hotpot200",
+    "n": 200,
+    "vanilla": 0.625,
+    "ircot": 0.665,
+    "rbg": 0.675,
+    "router": null,
+    "d_rbg": [
+      0.01,
+      -0.03,
+      0.055
+    ],
+    "d_router": null
+  },
+  {
+    "tag": "squad_200",
+    "n": 200,
+    "vanilla": 0.63,
+    "ircot": 0.645,
+    "rbg": null,
+    "router": 0.59,
+    "d_rbg": null,
+    "d_router": [
+      -0.055,
+      -0.095,
+      -0.01
+    ]
+  },
+  {
+    "tag": "trivia_200",
+    "n": 200,
+    "vanilla": 0.755,
+    "ircot": 0.75,
+    "rbg": null,
+    "router": 0.74,
+    "d_rbg": null,
+    "d_router": [
+      -0.01,
+      -0.04,
+      0.025
+    ]
+  }
+]

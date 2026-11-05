@@ -1,0 +1,72 @@
+[
+  {
+    "tag": "musique200",
+    "n": 200,
+    "vanilla_ce": 0.195,
+    "ircot_ce": 0.315,
+    "rbg": 0.43,
+    "rbg_minus_ircot": [
+      0.115,
+      0.06,
+      0.17
+    ],
+    "ircot_zeroshot": 0.365,
+    "rbg_zeroshot": 0.425
+  },
+  {
+    "tag": "wiki2_200",
+    "n": 200,
+    "vanilla_ce": 0.475,
+    "ircot_ce": 0.615,
+    "rbg": 0.595,
+    "rbg_minus_ircot": [
+      -0.02,
+      -0.065,
+      0.025
+    ],
+    "ircot_zeroshot": null,
+    "rbg_zeroshot": 0.605
+  },
+  {
+    "tag": "hotpot200",
+    "n": 200,
+    "vanilla_ce": 0.625,
+    "ircot_ce": 0.665,
+    "rbg": 0.675,
+    "rbg_minus_ircot": [
+      0.01,
+      -0.03,
+      0.055
+    ],
+    "ircot_zeroshot": null,
+    "rbg_zeroshot": 0.66
+  },
+  {
+    "tag": "squad_200",
+    "n": 200,
+    "vanilla_ce": 0.63,
+    "ircot_ce": 0.645,
+    "rbg": 0.585,
+    "rbg_minus_ircot": [
+      -0.06,
+      -0.1,
+      -0.02
+    ],
+    "ircot_zeroshot": null,
+    "rbg_zeroshot": 0.57
+  },
+  {
+    "tag": "trivia_200",
+    "n": 200,
+    "vanilla_ce": 0.755,
+    "ircot_ce": 0.75,
+    "rbg": 0.75,
+    "rbg_minus_ircot": [
+      0.0,
+      -0.04,
+      0.035
+    ],
+    "ircot_zeroshot": 0.76,
+    "rbg_zeroshot": null
+  }
+]
