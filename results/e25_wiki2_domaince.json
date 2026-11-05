@@ -1,0 +1,812 @@
+{
+  "summary": {
+    "n": 100,
+    "model": "remote",
+    "whole_cov": 0.78,
+    "whole_any": 1,
+    "seq_cov": 0.82,
+    "seq_any": 1
+  },
+  "records": [
+    {
+      "qid": "100c512a0bde11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "9068d246089911ebbd77ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "ad4195740bdc11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "feea4eb5086411ebbd5eac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "e183fb620bda11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "abb7ff860bdc11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "834da99c087111ebbd63ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "f4cc9d4908b311ebbd86ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "6b6abb6808a211ebbd7aac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "ce98e6620bd911eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "570bf6f40bdc11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "fde6ecd60bdc11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "27f6eaa80bb011ebab90acde48001122",
+      "n_gold": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "1ad2a7c20bdd11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "f8aa0d06086311ebbd5eac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "2bd4454c0bda11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "f62ae4f9096911ebbdafac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "8985546c0bdd11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "bdfdad5c0bdd11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "97cee43a0baf11ebab90acde48001122",
+      "n_gold": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "c0085d54088111ebbd6dac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "10e63c10087211ebbd64ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "0b86c27208c611ebbd90ac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "30f417d208e211ebbda3ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "2b871cac0bdc11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "7939c1460bd911eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "4804b7fe08f511ebbdaaac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "140bbce00bdc11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "18cf460a0bde11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "18dadca00bb011ebab90acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "1cdceb80089111ebbd72ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "e7b05a94088311ebbd6dac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "5f2bb1060bd911eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "5256bf800bb011ebab90acde48001122",
+      "n_gold": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "40b044fb088511ebbd6dac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "0cc584100bb011ebab90acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "4c0e9cbe0bde11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "60736868093d11ebbdaeac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "ce4f63cc0bdc11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "bc096c180bdb11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "e84d4a04089511ebbd75ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "dc619d4808b911ebbd88ac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "b96df75408a111ebbd79ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "ded103fe0baf11ebab90acde48001122",
+      "n_gold": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "121ddeae0bdc11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "859db3ba0bda11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "60ce015a08ad11ebbd83ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "79e8f0df08e711ebbda6ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "abaa3fca08e611ebbda5ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "81dd3a9a08a911ebbd80ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "373aef40096c11ebbdafac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "d15bca5e0bd911eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "3e5d2fae0bd911eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "882f660e0bdb11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "237d904a0bdc11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "2de78ab2092111ebbdaeac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "aaf3941c0bdb11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "5acc6e480bde11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "ee22132a08c611ebbd91ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "f1a04d600bdb11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "605287bc0bde11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "b6cbc462085711ebbd5aac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.25,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "14f5dbb208b811ebbd88ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "37cb307a088511ebbd6dac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "5c9e1bf60bdc11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "101a05820bdd11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "0a6ef71e0bb011ebab90acde48001122",
+      "n_gold": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "d01da635086011ebbd5dac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "7e815a440bdc11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "17505aa2089211ebbd73ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "985028da0bda11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "ef25b93d089b11ebbd78ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "725dc29a0bda11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "252694580bde11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "9d3951260bdc11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "c85f6a7a084e11ebbd56ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "010bdf4408df11ebbd9fac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "6c7fb9160bb011ebab90acde48001122",
+      "n_gold": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "59ad2d780bdd11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "39bd87c80bde11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "a4f725e5088c11ebbd6fac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "7c71892a08d711ebbd9aac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "b3bde51a0baf11ebab90acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "dc25e292089d11ebbd78ac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "6a3bb1220bde11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "b137755a084d11ebbd56ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "6df082ca0bde11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "a5b060a00bdd11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "cc80a59008b911ebbd88ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "c077f89608e711ebbda6ac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "150df73c086411ebbd5eac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "ce0e7ddf08d111ebbd95ac1f6bf848b6",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "022a3dd40bdd11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "cd4ceac40bd911eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "ccd5b3dc08e611ebbda5ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "e41f805c0bdb11eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "f48d94d00bd911eba7f7acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "f48d0344088c11ebbd70ac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.25,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "ee9346260baf11ebab90acde48001122",
+      "n_gold": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_any": 1,
+      "seq_any": 1
+    },
+    {
+      "qid": "07f222ca08d811ebbd9aac1f6bf848b6",
+      "n_gold": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_any": 1,
+      "seq_any": 1
+    }
+  ]
+}
