@@ -1,0 +1,200 @@
+{"qid": "abb7ff860bdc11eba7f7acde48001122", "type": "compositional", "pred": "Portland, Oregon", "gold": "Halberstadt", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "100c512a0bde11eba7f7acde48001122", "type": "compositional", "pred": "The provided passages do not contain information about the place of burial of Charles Mathew's father.", "gold": "Cork", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "e183fb620bda11eba7f7acde48001122", "type": "compositional", "pred": "Goryeo", "gold": "Korea", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "ad4195740bdc11eba7f7acde48001122", "type": "compositional", "pred": "Sonnac", "gold": "Sonnac", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "834da99c087111ebbd63ac1f6bf848b6", "type": "bridge_comparison", "pred": "Pirjo Honkasalo", "gold": "Tanjuska And The 7 Devils", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "ce98e6620bd911eba7f7acde48001122", "type": "compositional", "pred": "The provided passages do not contain information about the place of death of Francesco Maria Marescotti Ruspoli, 1st Prince of Cerveteri (", "gold": "Rome", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "fde6ecd60bdc11eba7f7acde48001122", "type": "compositional", "pred": "Kırklareli", "gold": "Dallas", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "570bf6f40bdc11eba7f7acde48001122", "type": "compositional", "pred": "The provided passages do not contain information about where Tony Giglio was born.", "gold": "Medford, Massachusetts", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "2bd4454c0bda11eba7f7acde48001122", "type": "compositional", "pred": "The provided passages do not contain information about the composer of the film *Before Sunset*. Passage [1] discusses the director, screenwriters, and actors, but", "gold": "Tisch", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "27f6eaa80bb011ebab90acde48001122", "type": "inference", "pred": "Thomas Howard, 4th Duke of Norfolk", "gold": "Sir William Howard", "em": 0.0, "f1": 0.2222222222222222, "n_hops": 2}
+{"qid": "f4cc9d4908b311ebbd86ac1f6bf848b6", "type": "bridge_comparison", "pred": "Franklin Adreon", "gold": "Trader Tom Of The China Seas", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "1ad2a7c20bdd11eba7f7acde48001122", "type": "compositional", "pred": "England", "gold": "Missoula, Montana", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "6b6abb6808a211ebbd7aac1f6bf848b6", "type": "bridge_comparison", "pred": "March 7, 2007", "gold": "Ma And Pa Kettle Go To Town", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "bdfdad5c0bdd11eba7f7acde48001122", "type": "compositional", "pred": "Spanish", "gold": "Austria", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "8985546c0bdd11eba7f7acde48001122", "type": "compositional", "pred": "Dutch", "gold": "Florentine Republic", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "9068d246089911ebbd77ac1f6bf848b6", "type": "bridge_comparison", "pred": "14 January 1987", "gold": "Sleep, My Love", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "feea4eb5086411ebbd5eac1f6bf848b6", "type": "bridge_comparison", "pred": "24 February 1974", "gold": "Heinz In The Moon", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "97cee43a0baf11ebab90acde48001122", "type": "inference", "pred": "X Armengaud", "gold": "Ebba Brahe", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "f62ae4f9096911ebbdafac1f6bf848b6", "type": "comparison", "pred": "Clownery", "gold": "Clownery", "em": 1.0, "f1": 1.0, "n_hops": 3}
+{"qid": "7939c1460bd911eba7f7acde48001122", "type": "compositional", "pred": "1 March 2012", "gold": "1 March 2012", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "2b871cac0bdc11eba7f7acde48001122", "type": "compositional", "pred": "Boulogne- Billancourt", "gold": "Łódź", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "140bbce00bdc11eba7f7acde48001122", "type": "compositional", "pred": "Jean Hersholt Humanitarian Award", "gold": "Fulbright Scholarship", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "f8aa0d06086311ebbd5eac1f6bf848b6", "type": "bridge_comparison", "pred": "April 14, 2016", "gold": "Cast Up By The Sea", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "18cf460a0bde11eba7f7acde48001122", "type": "compositional", "pred": "Clinton, Iowa", "gold": "Clinton", "em": 0.0, "f1": 0.6666666666666666, "n_hops": 2}
+{"qid": "4804b7fe08f511ebbdaaac1f6bf848b6", "type": "comparison", "pred": "1999", "gold": "Molokai: The Story Of Father Damien", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "c0085d54088111ebbd6dac1f6bf848b6", "type": "bridge_comparison", "pred": "13 March 1996", "gold": "Counterblast", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "0b86c27208c611ebbd90ac1f6bf848b6", "type": "comparison", "pred": "2008", "gold": "Huma Gun Anmogaldi", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "30f417d208e211ebbda3ac1f6bf848b6", "type": "bridge_comparison", "pred": "Faouzi Bensaïdi", "gold": "Death For Sale", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "18dadca00bb011ebab90acde48001122", "type": "inference", "pred": "William Cochrane, 7th Earl of Dundonald", "gold": "William Cochrane", "em": 0.0, "f1": 0.5, "n_hops": 2}
+{"qid": "10e63c10087211ebbd64ac1f6bf848b6", "type": "bridge_comparison", "pred": "16 January 1898", "gold": "Now, Voyager", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "5f2bb1060bd911eba7f7acde48001122", "type": "compositional", "pred": "French", "gold": "French", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "0cc584100bb011ebab90acde48001122", "type": "inference", "pred": "Publius Cornelius Scipio", "gold": "Publius Cornelius Scipio", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "5256bf800bb011ebab90acde48001122", "type": "inference", "pred": "Anthony Ashley- Cooper, 4th Earl of Shaftesbury", "gold": "Cropley Ashley-Cooper, 6th Earl of Shaftesbury", "em": 0.0, "f1": 0.7142857142857143, "n_hops": 2}
+{"qid": "bc096c180bdb11eba7f7acde48001122", "type": "compositional", "pred": "20 June 1634", "gold": "20 June 1634", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "ce4f63cc0bdc11eba7f7acde48001122", "type": "compositional", "pred": "not mentioned", "gold": "National Film School in Łódź", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "4c0e9cbe0bde11eba7f7acde48001122", "type": "compositional", "pred": "west coast of Norway", "gold": "Martaban", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "40b044fb088511ebbd6dac1f6bf848b6", "type": "comparison", "pred": "Yes", "gold": "yes", "em": 1.0, "f1": 1.0, "n_hops": 3}
+{"qid": "e84d4a04089511ebbd75ac1f6bf848b6", "type": "bridge_comparison", "pred": "Jürgen Goslar", "gold": "Das Mädchen Und Der Staatsanwalt", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "1cdceb80089111ebbd72ac1f6bf848b6", "type": "bridge_comparison", "pred": "1973", "gold": "To Be A Lady", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "60736868093d11ebbdaeac1f6bf848b6", "type": "comparison", "pred": "10 October 2009", "gold": "Thai Mozhi", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "e7b05a94088311ebbd6dac1f6bf848b6", "type": "bridge_comparison", "pred": "We'Re Going To Eat You", "gold": "We'Re Going To Eat You", "em": 1.0, "f1": 1.0, "n_hops": 4}
+{"qid": "859db3ba0bda11eba7f7acde48001122", "type": "compositional", "pred": "Brooklyn, New York", "gold": "Paris", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "121ddeae0bdc11eba7f7acde48001122", "type": "compositional", "pred": "Hebrew", "gold": "Kingdom of Pontus", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "ded103fe0baf11ebab90acde48001122", "type": "inference", "pred": "Swedish King Olof Skötkonung", "gold": "Olof Skötkonung", "em": 0.0, "f1": 0.7499999999999999, "n_hops": 2}
+{"qid": "3e5d2fae0bd911eba7f7acde48001122", "type": "compositional", "pred": "Hradec Králové", "gold": "Hradec Králové", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "d15bca5e0bd911eba7f7acde48001122", "type": "compositional", "pred": "Timişoara, Romania", "gold": "Timişoara", "em": 0.0, "f1": 0.8, "n_hops": 2}
+{"qid": "dc619d4808b911ebbd88ac1f6bf848b6", "type": "comparison", "pred": "March 7, 2007", "gold": "Chiang Chung-Ling", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "60ce015a08ad11ebbd83ac1f6bf848b6", "type": "bridge_comparison", "pred": "Calling The Tune", "gold": "Calling The Tune", "em": 1.0, "f1": 1.0, "n_hops": 4}
+{"qid": "882f660e0bdb11eba7f7acde48001122", "type": "compositional", "pred": "Polish", "gold": "America", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "237d904a0bdc11eba7f7acde48001122", "type": "compositional", "pred": "Ansbach", "gold": "Ansbach", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "373aef40096c11ebbdafac1f6bf848b6", "type": "comparison", "pred": "2013", "gold": "Tears Of April", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "b96df75408a111ebbd79ac1f6bf848b6", "type": "bridge_comparison", "pred": "April 7, 1928", "gold": "The Home Song Stories", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "5acc6e480bde11eba7f7acde48001122", "type": "compositional", "pred": "American-Canadian", "gold": "US", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "f1a04d600bdb11eba7f7acde48001122", "type": "compositional", "pred": "Helsingfors", "gold": "Helsingfors", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "aaf3941c0bdb11eba7f7acde48001122", "type": "compositional", "pred": "Makó, Csanád County, Austria- Hungary", "gold": "Düsseldorf", "em": 0.0, "f1": 0.25, "n_hops": 2}
+{"qid": "81dd3a9a08a911ebbd80ac1f6bf848b6", "type": "bridge_comparison", "pred": "10 November 1974", "gold": "The Company'S In Love", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "79e8f0df08e711ebbda6ac1f6bf848b6", "type": "bridge_comparison", "pred": "6 June 2010", "gold": "Un Taxi Pour Tobrouk", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "abaa3fca08e611ebbda5ac1f6bf848b6", "type": "bridge_comparison", "pred": "9 August 2003", "gold": "Cuando En El Cielo Pasen Lista", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "605287bc0bde11eba7f7acde48001122", "type": "compositional", "pred": "Shanghai", "gold": "Hong Kong", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "2de78ab2092111ebbdaeac1f6bf848b6", "type": "comparison", "pred": "summer of 1960", "gold": "Carolyn Of The Corners", "em": 0.0, "f1": 0.3333333333333333, "n_hops": 3}
+{"qid": "101a05820bdd11eba7f7acde48001122", "type": "compositional", "pred": "French cinema", "gold": "Cahiers du cinéma", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "0a6ef71e0bb011ebab90acde48001122", "type": "inference", "pred": "John of Ibelin", "gold": "Philip of Ibelin", "em": 0.0, "f1": 0.6666666666666666, "n_hops": 2}
+{"qid": "37cb307a088511ebbd6dac1f6bf848b6", "type": "bridge_comparison", "pred": "Wesley Ruggles", "gold": "Somewhere I'Ll Find You", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "7e815a440bdc11eba7f7acde48001122", "type": "compositional", "pred": "Chris Pérez", "gold": "Chris Pérez", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "ee22132a08c611ebbd91ac1f6bf848b6", "type": "bridge_comparison", "pred": "Hal Mohr: not mentioned; Sol Lesser: September 19, 1980", "gold": "The Last Night Of The Barbary Coast", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "5c9e1bf60bdc11eba7f7acde48001122", "type": "compositional", "pred": "The provided passages do not contain information about where Martin Šulík graduated from.", "gold": "Academy of Performing Arts in Bratislava", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "985028da0bda11eba7f7acde48001122", "type": "compositional", "pred": "St. Pauli, the poorest part of Hamburg", "gold": "Hamburg", "em": 0.0, "f1": 0.2857142857142857, "n_hops": 2}
+{"qid": "14f5dbb208b811ebbd88ac1f6bf848b6", "type": "bridge_comparison", "pred": "July 5, 1969", "gold": "Agitated Women", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "b6cbc462085711ebbd5aac1f6bf848b6", "type": "bridge_comparison", "pred": "May 6, 1961", "gold": "Leatherheads", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "252694580bde11eba7f7acde48001122", "type": "compositional", "pred": "Zutphen", "gold": "Luxembourg", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "9d3951260bdc11eba7f7acde48001122", "type": "compositional", "pred": "Not mentioned in the passages", "gold": "Hugh Gibb", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "725dc29a0bda11eba7f7acde48001122", "type": "compositional", "pred": "The provided passages do not contain information about where the director of the film *Girl Rising* graduated from.", "gold": "Harvard", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "6c7fb9160bb011ebab90acde48001122", "type": "inference", "pred": "Margaret of Baux", "gold": "Margherita del Balzo", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "d01da635086011ebbd5dac1f6bf848b6", "type": "comparison", "pred": "O Segredo Do Corcunda", "gold": "O Segredo Do Corcunda", "em": 1.0, "f1": 1.0, "n_hops": 3}
+{"qid": "59ad2d780bdd11eba7f7acde48001122", "type": "compositional", "pred": "actress May Allison, actress Vera Reynolds, and screenwriter Helen Logan", "gold": "May Allison", "em": 0.0, "f1": 0.33333333333333337, "n_hops": 2}
+{"qid": "17505aa2089211ebbd73ac1f6bf848b6", "type": "bridge_comparison", "pred": "American", "gold": "yes", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "ef25b93d089b11ebbd78ac1f6bf848b6", "type": "bridge_comparison", "pred": "December 6, 1905", "gold": "Rose Of The Yukon", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "39bd87c80bde11eba7f7acde48001122", "type": "compositional", "pred": "1969", "gold": "1969", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "c85f6a7a084e11ebbd56ac1f6bf848b6", "type": "bridge_comparison", "pred": "Australian", "gold": "yes", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "b3bde51a0baf11ebab90acde48001122", "type": "inference", "pred": "Duke Xian of Qin", "gold": "Duke Xian of Qin", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "6a3bb1220bde11eba7f7acde48001122", "type": "compositional", "pred": "presumed dead after March 24, 1939", "gold": "Pacific", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "a4f725e5088c11ebbd6fac1f6bf848b6", "type": "comparison", "pred": "1984", "gold": "Hitler'S Folly", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "010bdf4408df11ebbd9fac1f6bf848b6", "type": "bridge_comparison", "pred": "January 16, 1948", "gold": "The Third Side Of The River", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "6df082ca0bde11eba7f7acde48001122", "type": "compositional", "pred": "France", "gold": "New Orleans", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "a5b060a00bdd11eba7f7acde48001122", "type": "compositional", "pred": "7 February 1591/2", "gold": "7 February 1591", "em": 0.0, "f1": 0.8571428571428571, "n_hops": 2}
+{"qid": "dc25e292089d11ebbd78ac1f6bf848b6", "type": "comparison", "pred": "11 October 1960", "gold": "Sir Robert Rankin, 1St Baronet", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "cd4ceac40bd911eba7f7acde48001122", "type": "compositional", "pred": "New York City", "gold": "Hollywood", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "022a3dd40bdd11eba7f7acde48001122", "type": "compositional", "pred": "Endre Marton", "gold": "Zdeněk Svěrák", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "b137755a084d11ebbd56ac1f6bf848b6", "type": "bridge_comparison", "pred": "American", "gold": "no", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "c077f89608e711ebbda6ac1f6bf848b6", "type": "comparison", "pred": "14 June 2017", "gold": "Murder By Numbers", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "7c71892a08d711ebbd9aac1f6bf848b6", "type": "comparison", "pred": "27 February 1928 – 25 November 1987", "gold": "Sammy Drechsel", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "cc80a59008b911ebbd88ac1f6bf848b6", "type": "bridge_comparison", "pred": "15 December 2010", "gold": "Le Frisson Des Vampires", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "ee9346260baf11ebab90acde48001122", "type": "inference", "pred": "Gofraid ua Ímair", "gold": "Gofraid ua Ímair", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "f48d94d00bd911eba7f7acde48001122", "type": "compositional", "pred": "before 953", "gold": "953", "em": 0.0, "f1": 0.6666666666666666, "n_hops": 2}
+{"qid": "ce0e7ddf08d111ebbd95ac1f6bf848b6", "type": "comparison", "pred": "3 July 1815", "gold": "Friedrich Wilhelm Von Reden", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "150df73c086411ebbd5eac1f6bf848b6", "type": "bridge_comparison", "pred": "December 30, 1996", "gold": "Hearts In Bondage", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "9f1384220bdb11eba7f7acde48001122", "type": "compositional", "pred": "emphysema", "gold": "emphysema", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "ccd5b3dc08e611ebbda5ac1f6bf848b6", "type": "bridge_comparison", "pred": "June 2, 1958", "gold": "Swayamkrushi", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "e41f805c0bdb11eba7f7acde48001122", "type": "compositional", "pred": "13 June 1967", "gold": "13 June 1967", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "acd6da260bdd11eba7f7acde48001122", "type": "compositional", "pred": "California Institute of the Arts", "gold": "California Institute of the Arts", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "f4ed8b020bdd11eba7f7acde48001122", "type": "compositional", "pred": "Holliston, Massachusetts", "gold": "Holliston", "em": 0.0, "f1": 0.6666666666666666, "n_hops": 2}
+{"qid": "569210420bdb11eba7f7acde48001122", "type": "compositional", "pred": "31 December 1938", "gold": "1972", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "3209ff5e0baf11ebab90acde48001122", "type": "inference", "pred": "King William IV of the United Kingdom", "gold": "William IV of the United Kingdom", "em": 0.0, "f1": 0.9090909090909091, "n_hops": 2}
+{"qid": "f48d0344088c11ebbd70ac1f6bf848b6", "type": "bridge_comparison", "pred": "October 22, 1955", "gold": "The Twilight Saga: Breaking Dawn – Part 2", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "b0a71583086b11ebbd60ac1f6bf848b6", "type": "comparison", "pred": "14 September 1986", "gold": "Ashad Ali", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "568572060bdb11eba7f7acde48001122", "type": "compositional", "pred": "not mentioned", "gold": "Palos Verdes", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "16e7a8480bdc11eba7f7acde48001122", "type": "compositional", "pred": "August 5, 1490", "gold": "Moscow", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "07f222ca08d811ebbd9aac1f6bf848b6", "type": "bridge_comparison", "pred": "June 8, 1947", "gold": "Manhattan Romance", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "42ed1ab008dd11ebbd9dac1f6bf848b6", "type": "bridge_comparison", "pred": "27 April 1984", "gold": "Joe + Belle", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "a2cb47b308b611ebbd88ac1f6bf848b6", "type": "comparison", "pred": "30 January 1863", "gold": "George Hare Philipson", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "77d689dd08d811ebbd9bac1f6bf848b6", "type": "comparison", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "2f064e5c0baf11ebab90acde48001122", "type": "inference", "pred": "William Berkeley", "gold": "William Berkeley", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "772a0b280bb011ebab90acde48001122", "type": "inference", "pred": "Maharajadhiraj Mirza Maharao Sri Sir Vijayarajaji Khengarji Sawai Bahadur", "gold": "Khengarji III", "em": 0.0, "f1": 0.1818181818181818, "n_hops": 2}
+{"qid": "783b1724087611ebbd67ac1f6bf848b6", "type": "bridge_comparison", "pred": "25 June 1905", "gold": "Night And Dawn", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "1bacbdfe0bdd11eba7f7acde48001122", "type": "compositional", "pred": "Kırklareli", "gold": "Kırklareli", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "7661362a0bde11eba7f7acde48001122", "type": "compositional", "pred": "American", "gold": "American", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "c2f85f7e0baf11ebab90acde48001122", "type": "inference", "pred": "There is no answer to this question in the passages.", "gold": "Busir", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "a139d5b8096811ebbdafac1f6bf848b6", "type": "comparison", "pred": "Yes", "gold": "yes", "em": 1.0, "f1": 1.0, "n_hops": 3}
+{"qid": "e37181580bdd11eba7f7acde48001122", "type": "compositional", "pred": "Kiev", "gold": "Odessa", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "078bb0d80baf11ebab90acde48001122", "type": "inference", "pred": "Princess Alexandra of Saxe-Coburg and Gotha", "gold": "Princess Alexandra of Saxe-Coburg and Gotha", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "10cd47420baf11ebab90acde48001122", "type": "inference", "pred": "Gabriel-Elzéar Taschereau", "gold": "Gabriel-Elzéar Taschereau", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "2460b2e20bde11eba7f7acde48001122", "type": "compositional", "pred": "American-Canadian", "gold": "Canadian", "em": 0.0, "f1": 0.6666666666666666, "n_hops": 2}
+{"qid": "9522a858088911ebbd6eac1f6bf848b6", "type": "bridge_comparison", "pred": "17 February 2017", "gold": "Mister Quilp", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "d7da7004090611ebbdadac1f6bf848b6", "type": "comparison", "pred": "10 October 2009", "gold": "Sons Of Ingmar", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "dc9dc6e40baf11ebab90acde48001122", "type": "inference", "pred": "Princess Mathilde of Waldeck and Pyrmont", "gold": "Princess Augusta of Schwarzburg-Sondershausen", "em": 0.0, "f1": 0.3636363636363636, "n_hops": 2}
+{"qid": "39240f9a08b811ebbd88ac1f6bf848b6", "type": "bridge_comparison", "pred": "15 March 1991", "gold": "Let'S Live Again", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "9e6160ad08fd11ebbdadac1f6bf848b6", "type": "comparison", "pred": "February 1978", "gold": "Murray'S Magazine", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "31218d120bde11eba7f7acde48001122", "type": "compositional", "pred": "Monaco", "gold": "Prince's Palace of Monaco", "em": 0.0, "f1": 0.33333333333333337, "n_hops": 2}
+{"qid": "248c35e00baf11ebab90acde48001122", "type": "inference", "pred": "Emperor Aurangzeb", "gold": "Shah Jahan", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "d0995a680bda11eba7f7acde48001122", "type": "compositional", "pred": "Hong Kong", "gold": "Hong Kong", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "f8f15e2e08ac11ebbd83ac1f6bf848b6", "type": "bridge_comparison", "pred": "Richard Eichberg", "gold": "The Trip To Marrakesh", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "42d74ba00bde11eba7f7acde48001122", "type": "compositional", "pred": "Bangladesh National Film Award for Best Director", "gold": "Bangladesh National Film Award for Best Director", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "42a5f1a40bde11eba7f7acde48001122", "type": "compositional", "pred": "American", "gold": "Pilton, Somerset", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "55a91202087a11ebbd67ac1f6bf848b6", "type": "bridge_comparison", "pred": "19 February 1929", "gold": "Angélique, Marquise Des Anges", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "93be10540bdd11eba7f7acde48001122", "type": "compositional", "pred": "Brooklyn, New York", "gold": "Helsinki", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "3741c4ae086011ebbd5dac1f6bf848b6", "type": "bridge_comparison", "pred": "18 September 1957", "gold": "La Signorina Ciclone", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "7ab366f60bdb11eba7f7acde48001122", "type": "compositional", "pred": "Glasgow School of Art", "gold": "National Film and Television School", "em": 0.0, "f1": 0.22222222222222224, "n_hops": 2}
+{"qid": "5510d0620bdd11eba7f7acde48001122", "type": "compositional", "pred": "Sète, Hérault", "gold": "Sète", "em": 0.0, "f1": 0.6666666666666666, "n_hops": 2}
+{"qid": "367b700c0bde11eba7f7acde48001122", "type": "compositional", "pred": "Claygate, Surrey", "gold": "Surrey", "em": 0.0, "f1": 0.6666666666666666, "n_hops": 2}
+{"qid": "7adb71b80bdc11eba7f7acde48001122", "type": "compositional", "pred": "French", "gold": "French", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "fe5899c708e911ebbda7ac1f6bf848b6", "type": "comparison", "pred": "22 March 1924 – 9 June 2012", "gold": "Ivan Minatti", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "47f733600bda11eba7f7acde48001122", "type": "compositional", "pred": "Jeffrey Clark Wadlow is still alive", "gold": "3 August 1995", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "ad3c552c0bdd11eba7f7acde48001122", "type": "compositional", "pred": "American", "gold": "Argentine", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "ad68fdfc086811ebbd5eac1f6bf848b6", "type": "comparison", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "n_hops": 3}
+{"qid": "b249aa840bdc11eba7f7acde48001122", "type": "compositional", "pred": "The provided passages do not contain information about the birthplace of the performer of the song \"So Much Love\". Passage [1] lists several performers (Ben E", "gold": "London", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "c51148bc0bdb11eba7f7acde48001122", "type": "compositional", "pred": "Ottoman", "gold": "Ottoman Empire", "em": 0.0, "f1": 0.6666666666666666, "n_hops": 2}
+{"qid": "a5e6e806084911ebbd55ac1f6bf848b6", "type": "bridge_comparison", "pred": "Giuseppe Piccioni", "gold": "Condannato A Nozze", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "ad6e5c1c0baf11ebab90acde48001122", "type": "inference", "pred": "not mentioned in the passages", "gold": "Ragnild Magnusdotter", "em": 0.0, "f1": 0.0, "n_hops": 1}
+{"qid": "7bd965f20baf11ebab90acde48001122", "type": "inference", "pred": "Bolesław the Elder", "gold": "Bolko I of Opole", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "87b30d140bb011ebab90acde48001122", "type": "inference", "pred": "Prince Carlos of Bourbon-Two Sicilies", "gold": "Prince Alfonso", "em": 0.0, "f1": 0.25, "n_hops": 2}
+{"qid": "fe38def208b111ebbd85ac1f6bf848b6", "type": "comparison", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "n_hops": 3}
+{"qid": "dcab273608de11ebbd9fac1f6bf848b6", "type": "bridge_comparison", "pred": "George King", "gold": "Do Be Quick", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "1d913467087611ebbd67ac1f6bf848b6", "type": "comparison", "pred": "David Fennario", "gold": "David Fennario", "em": 1.0, "f1": 1.0, "n_hops": 3}
+{"qid": "6606043c0bdd11eba7f7acde48001122", "type": "compositional", "pred": "Halberstadt", "gold": "Gura Humorului", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "f4033b7c091611ebbdaeac1f6bf848b6", "type": "comparison", "pred": "summer of 1960", "gold": "The Bloodsucker Leads The Dance", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "3017c9dc0bb011ebab90acde48001122", "type": "inference", "pred": "Margaret, daughter and heiress of Otto IV, Count of Ravensberg, and Margaret of Berg", "gold": "Margaret of Ravensberg", "em": 0.0, "f1": 0.35294117647058826, "n_hops": 1}
+{"qid": "ef79778a088b11ebbd6fac1f6bf848b6", "type": "bridge_comparison", "pred": "American", "gold": "yes", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "05f0e6680bdb11eba7f7acde48001122", "type": "compositional", "pred": "Stockholm", "gold": "Stockholm", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "21e851f60bdd11eba7f7acde48001122", "type": "compositional", "pred": "Bea Arthur", "gold": "Bea Arthur", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "77ccf6e40bdd11eba7f7acde48001122", "type": "compositional", "pred": "31 March 1784", "gold": "February 22, 1720", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "3b079b7c0bda11eba7f7acde48001122", "type": "compositional", "pred": "not mentioned", "gold": "Churcher's College", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "bcdd9c5308c711ebbd91ac1f6bf848b6", "type": "comparison", "pred": "the person with birth date 19 May 1983", "gold": "Jéssica Sodré", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "7a2249120bb011ebab90acde48001122", "type": "inference", "pred": "Anton Fredrik Klaveness", "gold": "Anton Fredrik Klaveness", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "62d2deea087f11ebbd6bac1f6bf848b6", "type": "bridge_comparison", "pred": "11 November 1917", "gold": "The Rug Maker'S Daughter", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "267ff0c00bdd11eba7f7acde48001122", "type": "compositional", "pred": "Scott Sidney", "gold": "London", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "c2edf440089811ebbd77ac1f6bf848b6", "type": "comparison", "pred": "Yes", "gold": "yes", "em": 1.0, "f1": 1.0, "n_hops": 3}
+{"qid": "660aa3cc0bdb11eba7f7acde48001122", "type": "compositional", "pred": "The provided passages do not contain the place of birth of T. S. Nagabharana.", "gold": "Bangalore", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "78c31f420bb011ebab90acde48001122", "type": "inference", "pred": "Eleanor Gore", "gold": "Eleanor Gore", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "e6525cd60baf11ebab90acde48001122", "type": "inference", "pred": "Gaucher III of Châtillon", "gold": "Guy I, Count of Blois", "em": 0.0, "f1": 0.20000000000000004, "n_hops": 2}
+{"qid": "8c0e29200bdd11eba7f7acde48001122", "type": "compositional", "pred": "Harrow and the Royal Military College, Sandhurst", "gold": "Royal Military College, Sandhurst", "em": 0.0, "f1": 0.8, "n_hops": 2}
+{"qid": "0f1f491c088611ebbd6dac1f6bf848b6", "type": "comparison", "pred": "22 March 1962", "gold": "Kari Lindroos", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "eb9bd1cd089e11ebbd78ac1f6bf848b6", "type": "bridge_comparison", "pred": "December 15, 1927", "gold": "Hiawanda'S Cross", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "e653c7d9096811ebbdafac1f6bf848b6", "type": "comparison", "pred": "10 October 2009", "gold": "Mysterious Skin", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "f16d98a20bae11ebab90acde48001122", "type": "inference", "pred": "Princess Isabelle of Orléans-Braganza", "gold": "Princess Isabelle of Orléans-Braganza", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "29bff6c20bb011ebab90acde48001122", "type": "inference", "pred": "Frederik Christian II, Duke of Schleswig- Holstein- Sonderburg- Augustenburg", "gold": "Frederick", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "e1bdea6c0bd911eba7f7acde48001122", "type": "compositional", "pred": "not mentioned", "gold": "Mangalia", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "6c2aa97108d711ebbd9aac1f6bf848b6", "type": "bridge_comparison", "pred": "20 January 1895", "gold": "Trouble With Jolanthe", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "55b34fb908fb11ebbdacac1f6bf848b6", "type": "comparison", "pred": "1996", "gold": "Die Pratermizzi", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "10cd8d240baf11ebab90acde48001122", "type": "inference", "pred": "Duke Casimir I the Restorer", "gold": "Casimir I the Restorer", "em": 0.0, "f1": 0.8571428571428571, "n_hops": 2}
+{"qid": "eb30f33c086611ebbd5eac1f6bf848b6", "type": "comparison", "pred": "Yes", "gold": "yes", "em": 1.0, "f1": 1.0, "n_hops": 3}
+{"qid": "27f076aa0bb011ebab90acde48001122", "type": "inference", "pred": "Antiochus", "gold": "Antiochus", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "37ff2e860bda11eba7f7acde48001122", "type": "compositional", "pred": "Eyüp Palace, Constantinople", "gold": "Constantinople", "em": 0.0, "f1": 0.4, "n_hops": 2}
+{"qid": "98ab6cfe08c411ebbd8eac1f6bf848b6", "type": "bridge_comparison", "pred": "Luis César Amadori", "gold": "L'Affaire Maurizius", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "a8b7489a08c211ebbd8cac1f6bf848b6", "type": "bridge_comparison", "pred": "Anthony Simmons", "gold": "The Optimists Of Nine Elms", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "13437401084a11ebbd55ac1f6bf848b6", "type": "bridge_comparison", "pred": "Heaven Without Love", "gold": "Le Droit À La Vie", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "435d00bc0baf11ebab90acde48001122", "type": "inference", "pred": "Albert, 8th Prince of Thurn and Taxis", "gold": "Albert, 8th Prince of Thurn and Taxis", "em": 1.0, "f1": 1.0, "n_hops": 2}
+{"qid": "88e62716086f11ebbd62ac1f6bf848b6", "type": "comparison", "pred": "25 November 1973", "gold": "Balswarup Choubey", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "e59b64ef085411ebbd59ac1f6bf848b6", "type": "comparison", "pred": "10 November 1974", "gold": "Raju Rahikwar", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "17a489a40bdc11eba7f7acde48001122", "type": "compositional", "pred": "The provided passages do not contain information about where Rune Ottosen's father graduated from.", "gold": "University of Bergen", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "c43dabfa0baf11ebab90acde48001122", "type": "inference", "pred": "Margaret Hamilton", "gold": "Eleanor Redman", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "e618b2c608c911ebbd92ac1f6bf848b6", "type": "comparison", "pred": "Giuseppe Cesari", "gold": "Giuseppe Cesari", "em": 1.0, "f1": 1.0, "n_hops": 3}
+{"qid": "fada589e08cf11ebbd95ac1f6bf848b6", "type": "bridge_comparison", "pred": "Jan Rybkowski", "gold": "Gniazdo", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "5729cdc0088311ebbd6dac1f6bf848b6", "type": "bridge_comparison", "pred": "Fielder Cook", "gold": "How To Save A Marriage And Ruin Your Life", "em": 0.0, "f1": 0.0, "n_hops": 3}
+{"qid": "a92ce88108a811ebbd7fac1f6bf848b6", "type": "bridge_comparison", "pred": "2 April 2019", "gold": "Alarm At Midnight", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "09050ca00bde11eba7f7acde48001122", "type": "compositional", "pred": "The provided passages do not contain information about where Anselmo Duarte died.", "gold": "São Paulo", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "44687d280bb011ebab90acde48001122", "type": "inference", "pred": "Jeanne de Bar", "gold": "Jeanne de Bar, Countess of Marle and Soissons", "em": 0.0, "f1": 0.5454545454545454, "n_hops": 2}
+{"qid": "d72f1c660bdd11eba7f7acde48001122", "type": "compositional", "pred": "prison", "gold": "Fergana", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "09c1b6840bde11eba7f7acde48001122", "type": "compositional", "pred": "12 August 1604", "gold": "21 October 1514", "em": 0.0, "f1": 0.0, "n_hops": 2}
+{"qid": "15244e85086311ebbd5eac1f6bf848b6", "type": "bridge_comparison", "pred": "4 September 1887", "gold": "The Kaiser'S Shadow", "em": 0.0, "f1": 0.0, "n_hops": 4}
+{"qid": "05b761f108e211ebbda3ac1f6bf848b6", "type": "bridge_comparison", "pred": "18 February 1929", "gold": "Apasionadamente", "em": 0.0, "f1": 0.0, "n_hops": 4}
