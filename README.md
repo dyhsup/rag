@@ -18,7 +18,8 @@ $$\text{gap 消除率}=\underbrace{\text{候选可达性}}_{\text{绑定/第一�
 | [`docs/03_EXPERIMENTS.md`](docs/03_EXPERIMENTS.md) | **实验文档**：假设、E0–E11 结果、消融、失败分析、有效性威胁 |
 | [`RESEARCH_PLAN.md`](RESEARCH_PLAN.md) | 研究方向、与已有工作的边界、逐阶段结果 |
 | [`PILOT.md`](PILOT.md) | 20 题 pilot 的独立报告 |
-| [`HANDOVER.md`](HANDOVER.md) | 最初的交接文档（环境、调研方法、SALR 方案） |
+| [`HANDOVER_2026-11-06.md`](HANDOVER_2026-11-06.md) | **交接文档（最新）**：环境、切分、已确立事实、16 项失败、工程坑、下一步 |
+| [`HANDOVER.md`](HANDOVER.md) | 最早的交接文档（已过时，仅作历史参考） |
 | [`survey.md`](survey.md) / [`top10.md`](top10.md) | 23 篇论文的综述与 Top10 精读 |
 
 ## 四个贡献
