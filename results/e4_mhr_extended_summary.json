@@ -1,0 +1,14 @@
+{
+  "vanilla": {
+    "n": 200,
+    "em": 0.0,
+    "f1": 0.0,
+    "file": "results/e4_mhr_extended_vanilla.jsonl"
+  },
+  "selfask": {
+    "n": 200,
+    "em": 0.0,
+    "f1": 0.0,
+    "file": "results/e4_mhr_extended_selfask.jsonl"
+  }
+}

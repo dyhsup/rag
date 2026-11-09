@@ -55,6 +55,24 @@
   },
   {
     "dataset": "MuSiQue-400",
+    "method": "Vanilla",
+    "n": 400,
+    "em": 0.02,
+    "f1": 0.037798872180451124,
+    "protocol": "zero-shot CE/BM25/standard reader",
+    "artifact": "results/e4_musique400_extended_vanilla.jsonl"
+  },
+  {
+    "dataset": "MuSiQue-400",
+    "method": "Self-Ask",
+    "n": 400,
+    "em": 0.0375,
+    "f1": 0.08303460858363602,
+    "protocol": "zero-shot CE/BM25/Self-Ask",
+    "artifact": "results/e4_musique400_extended_selfask.jsonl"
+  },
+  {
+    "dataset": "MuSiQue-400",
     "method": "IRCoT",
     "n": 400,
     "em": 0.255,
@@ -79,6 +97,24 @@
     "f1": 0.2748267928130381,
     "protocol": "domain CE/whole query/CoT reader",
     "artifact": "results/e13_select_musique400_gpuq.jsonl"
+  },
+  {
+    "dataset": "2Wiki-200",
+    "method": "Vanilla",
+    "n": 200,
+    "em": 0.015,
+    "f1": 0.01843137254901961,
+    "protocol": "zero-shot CE/BM25/standard reader",
+    "artifact": "results/e4_wiki2_extended_vanilla.jsonl"
+  },
+  {
+    "dataset": "2Wiki-200",
+    "method": "Self-Ask",
+    "n": 200,
+    "em": 0.015,
+    "f1": 0.01843137254901961,
+    "protocol": "zero-shot CE/BM25/Self-Ask",
+    "artifact": "results/e4_wiki2_extended_selfask.jsonl"
   },
   {
     "dataset": "2Wiki-200",
@@ -109,6 +145,15 @@
   },
   {
     "dataset": "Hotpot-200",
+    "method": "Self-Ask",
+    "n": 200,
+    "em": 0.54,
+    "f1": 0.6432056561497305,
+    "protocol": "zero-shot CE/BM25/Self-Ask",
+    "artifact": "results/e4_hotpot_extended_selfask.jsonl"
+  },
+  {
+    "dataset": "Hotpot-200",
     "method": "IRCoT",
     "n": 200,
     "em": 0.66,
@@ -124,6 +169,24 @@
     "f1": 0.802109719335763,
     "protocol": "domain CE/bound query/CoT reader",
     "artifact": "results/e13_select_hotpot200_cot.jsonl"
+  },
+  {
+    "dataset": "MHR-200",
+    "method": "Vanilla",
+    "n": 200,
+    "em": 0.0,
+    "f1": 0.0,
+    "protocol": "zero-shot CE/BM25/standard reader",
+    "artifact": "results/e4_mhr_extended_vanilla.jsonl"
+  },
+  {
+    "dataset": "MHR-200",
+    "method": "Self-Ask",
+    "n": 200,
+    "em": 0.0,
+    "f1": 0.0,
+    "protocol": "zero-shot CE/BM25/Self-Ask",
+    "artifact": "results/e4_mhr_extended_selfask.jsonl"
   },
   {
     "dataset": "MHR-200",

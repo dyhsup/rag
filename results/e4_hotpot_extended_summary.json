@@ -1,0 +1,8 @@
+{
+  "selfask": {
+    "n": 200,
+    "em": 0.54,
+    "f1": 0.6432056561497305,
+    "file": "results/e4_hotpot_extended_selfask.jsonl"
+  }
+}

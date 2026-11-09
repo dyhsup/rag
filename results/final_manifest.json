@@ -80,6 +80,12 @@
     "datasets": ["MuSiQue-200", "MuSiQue-400", "2Wiki-200", "Hotpot-200", "MHR-200"],
     "methods": ["Vanilla", "Self-Ask", "HyDE", "IRCoT", "CovBind", "CovBind-whole-query"]
   },
+  "method_completion": {
+    "artifact": "results/method_completion_report.md",
+    "new_baseline_artifacts": ["results/e4_musique400_extended_summary.json", "results/e4_wiki2_extended_summary.json", "results/e4_hotpot_extended_summary.json", "results/e4_mhr_extended_summary.json"],
+    "hyde_scope": "HyDE remains MuSiQue-200 only; cross-dataset pseudo-document caches were not reused across datasets",
+    "whole_query_em_scope": "MuSiQue-200/400 only for strict same-reader/same-CE EM counterfactual; cross-dataset coverage-only results are not converted to EM"
+  },
   "known_caveats": [
     "absolute endpoint numbers differ by reader, retriever, CE and stopping protocol; never mix rows without the protocol fields",
     "the causal query-slot result uses gold-plan/controlled binding conditions as specified by the artifact",

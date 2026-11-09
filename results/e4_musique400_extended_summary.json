@@ -1,0 +1,14 @@
+{
+  "vanilla": {
+    "n": 400,
+    "em": 0.02,
+    "f1": 0.037798872180451124,
+    "file": "results/e4_musique400_extended_vanilla.jsonl"
+  },
+  "selfask": {
+    "n": 400,
+    "em": 0.0375,
+    "f1": 0.08303460858363602,
+    "file": "results/e4_musique400_extended_selfask.jsonl"
+  }
+}
