@@ -121,6 +121,12 @@
     "main_results": {"musique200": {"vanilla": 0.155, "ircot": 0.285, "selfask": 0.055}, "musique400": {"vanilla": 0.1275, "ircot": 0.2475, "selfask": 0.06}, "wiki2": {"vanilla": 0.375, "ircot": 0.51, "selfask": 0.265}, "hotpot": {"vanilla": 0.53, "ircot": 0.65, "selfask": 0.295}, "mhr": {"vanilla": 0.48, "ircot": 0.485, "selfask": 0.565}},
     "comparison": "paired by qid where old artifacts exist; new and old CovBind are not pooled because their model protocols differ"
   },
+  "table_completion_and_robustness": {
+    "artifacts": ["results/table_completion_and_solid_experiments.md", "results/robustness_metrics.md", "results/robustness_metrics.json"],
+    "h3_e2e_200": {"musique": {"rewrite": 0.155, "hyde": 0.220, "decomp": 0.165}, "wiki2": {"rewrite": 0.395, "hyde": 0.390, "decomp": 0.425}, "hotpot": {"rewrite": 0.525, "hyde": 0.530, "decomp": 0.545}, "mhr": {"rewrite": 0.515, "hyde": 0.540, "decomp": 0.555}},
+    "paired_vs_h3_ircot": "reported in robustness_metrics.md",
+    "remaining_blank": "MuSiQue-400 extra methods and same-model CovBind/whole-query rerun remain explicitly pending"
+  },
   "known_caveats": [
     "absolute endpoint numbers differ by reader, retriever, CE and stopping protocol; never mix rows without the protocol fields",
     "the causal query-slot result uses gold-plan/controlled binding conditions as specified by the artifact",
