@@ -73,6 +73,13 @@
       "mhr": {"any@1": 0.805, "coverage@1": 0.3246, "any@3": 0.840, "coverage@3": 0.6658, "any@5": 0.850, "coverage@5": 0.7663, "any@10": 0.860, "coverage@10": 0.8442}
     }
   },
+  "method_comparison": {
+    "artifact": "results/method_comparison_report.md",
+    "table": "results/method_comparison.json",
+    "protocol_note": "zero-shot baseline rows and domain-CE CovBind rows are labeled separately; no pooled cross-protocol significance claim",
+    "datasets": ["MuSiQue-200", "MuSiQue-400", "2Wiki-200", "Hotpot-200", "MHR-200"],
+    "methods": ["Vanilla", "Self-Ask", "HyDE", "IRCoT", "CovBind", "CovBind-whole-query"]
+  },
   "known_caveats": [
     "absolute endpoint numbers differ by reader, retriever, CE and stopping protocol; never mix rows without the protocol fields",
     "the causal query-slot result uses gold-plan/controlled binding conditions as specified by the artifact",

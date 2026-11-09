@@ -271,7 +271,21 @@ CovBind 使用 cross-encoder 作为工程组件。本文不把 CE 的结构、�
 
 推理时改变 query slot 带来大幅覆盖收益；训练 query 改变的覆盖收益为 +0.053，gold 计划下 EM 无显著变化。在真实 LLM 计划下，需求 CE 相对问题 CE 提升 +0.065。
 
-### 6.6 端到端与跨数据集
+### 6.6 多方法端到端比较
+
+在已缓存且协议可追溯的方法结果上，得到如下对照。由于部分基线使用 zero-shot CE/BM25，而 CovBind 使用 dataset-domain CE/CoT reader，表中显式保留协议差异；严格因果结论仍以同 matcher 的 whole-query 反事实为准。
+
+| 数据集 | Vanilla | Self-Ask | HyDE | IRCoT | CovBind | CovBind-whole-query |
+|---|---:|---:|---:|---:|---:|---:|
+| MuSiQue 200 | .175 | .075 | .205 | .330 | **.440** | .170 |
+| MuSiQue 400 | — | — | — | .255 | **.425** | .170 |
+| 2Wiki 200 | — | — | — | .535 | **.620** | — |
+| HotpotQA 200 | .540 | — | — | .660 | **.680** | — |
+| MultiHopRAG 200 | — | — | — | .465 | .530 | — |
+
+MuSiQue 上 CovBind 超过 IRCoT；把 CovBind 的 query slot 换回整句问题后 EM 回落到 .170。2Wiki 与 HotpotQA 上接近 IRCoT，MultiHopRAG 只有已有 IRCoT/CovBind 端点结果。Self-Ask 与 HyDE 的完整缓存仅覆盖 MuSiQue 200，缺失数据不填入伪造数字。完整协议说明见 `results/method_comparison_report.md`。
+
+### 6.7 端到端与跨数据集
 
 | 数据集 | Vanilla+CE | IRCoT+CE | CovBind | 相对 IRCoT |
 |---|---:|---:|---:|---:|
