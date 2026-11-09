@@ -1,0 +1,20 @@
+{
+  "vanilla": {
+    "n": 200,
+    "em": 0.48,
+    "f1": 0.5618333333333334,
+    "file": "results/h3_mhr200_vanilla.jsonl"
+  },
+  "ircot": {
+    "n": 200,
+    "em": 0.485,
+    "f1": 0.549592688227279,
+    "file": "results/h3_mhr200_ircot.jsonl"
+  },
+  "selfask": {
+    "n": 200,
+    "em": 0.565,
+    "f1": 0.5818165399022786,
+    "file": "results/h3_mhr200_selfask.jsonl"
+  }
+}

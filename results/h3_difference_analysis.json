@@ -1,0 +1,231 @@
+[
+  {
+    "dataset": "musique200",
+    "method": "vanilla",
+    "n": 200,
+    "new_em": 0.155,
+    "new_f1": 0.2629495904422374,
+    "new_em_ci": [
+      0.155,
+      0.11,
+      0.21
+    ],
+    "old_file": "results/e4_musique_vanilla.jsonl",
+    "old_em": 0.175,
+    "paired_delta_new_minus_old": -0.02,
+    "paired_ci": [
+      -0.05,
+      0.01
+    ]
+  },
+  {
+    "dataset": "musique200",
+    "method": "ircot",
+    "n": 200,
+    "new_em": 0.285,
+    "new_f1": 0.40659803921568627,
+    "new_em_ci": [
+      0.285,
+      0.225,
+      0.345
+    ],
+    "old_file": "results/e4_musique_ircot.jsonl",
+    "old_em": 0.33,
+    "paired_delta_new_minus_old": -0.045,
+    "paired_ci": [
+      -0.095,
+      0.005
+    ]
+  },
+  {
+    "dataset": "musique200",
+    "method": "selfask",
+    "n": 200,
+    "new_em": 0.055,
+    "new_f1": 0.17000680240811822,
+    "new_em_ci": [
+      0.055,
+      0.025,
+      0.09
+    ]
+  },
+  {
+    "dataset": "musique400",
+    "method": "vanilla",
+    "n": 400,
+    "new_em": 0.1275,
+    "new_f1": 0.2253525934849464,
+    "new_em_ci": [
+      0.1275,
+      0.095,
+      0.1625
+    ]
+  },
+  {
+    "dataset": "musique400",
+    "method": "ircot",
+    "n": 400,
+    "new_em": 0.2475,
+    "new_f1": 0.362748317858612,
+    "new_em_ci": [
+      0.2475,
+      0.21,
+      0.2925
+    ],
+    "old_file": "results/e4_musique400_ircot.jsonl",
+    "old_em": 0.255,
+    "paired_delta_new_minus_old": -0.0075,
+    "paired_ci": [
+      -0.04,
+      0.025
+    ]
+  },
+  {
+    "dataset": "musique400",
+    "method": "selfask",
+    "n": 400,
+    "new_em": 0.06,
+    "new_f1": 0.18030232654342548,
+    "new_em_ci": [
+      0.06,
+      0.0375,
+      0.0825
+    ]
+  },
+  {
+    "dataset": "wiki2",
+    "method": "vanilla",
+    "n": 200,
+    "new_em": 0.375,
+    "new_f1": 0.4289157215333686,
+    "new_em_ci": [
+      0.375,
+      0.305,
+      0.445
+    ]
+  },
+  {
+    "dataset": "wiki2",
+    "method": "ircot",
+    "n": 200,
+    "new_em": 0.51,
+    "new_f1": 0.5898180969357442,
+    "new_em_ci": [
+      0.51,
+      0.44,
+      0.575
+    ],
+    "old_file": "results/e4_wiki2_200_ircot.jsonl",
+    "old_em": 0.535,
+    "paired_delta_new_minus_old": -0.025,
+    "paired_ci": [
+      -0.09,
+      0.035
+    ]
+  },
+  {
+    "dataset": "wiki2",
+    "method": "selfask",
+    "n": 200,
+    "new_em": 0.265,
+    "new_f1": 0.327989898989899,
+    "new_em_ci": [
+      0.265,
+      0.205,
+      0.33
+    ]
+  },
+  {
+    "dataset": "hotpot",
+    "method": "vanilla",
+    "n": 200,
+    "new_em": 0.53,
+    "new_f1": 0.62925896877913,
+    "new_em_ci": [
+      0.53,
+      0.46,
+      0.6
+    ],
+    "old_file": "results/e4_hotpot_vanilla.jsonl",
+    "old_em": 0.54,
+    "paired_delta_new_minus_old": -0.01,
+    "paired_ci": [
+      -0.04,
+      0.02
+    ]
+  },
+  {
+    "dataset": "hotpot",
+    "method": "ircot",
+    "n": 200,
+    "new_em": 0.65,
+    "new_f1": 0.7545254522956136,
+    "new_em_ci": [
+      0.65,
+      0.58,
+      0.715
+    ],
+    "old_file": "results/e4_hotpot_ircot.jsonl",
+    "old_em": 0.66,
+    "paired_delta_new_minus_old": -0.01,
+    "paired_ci": [
+      -0.055,
+      0.03
+    ]
+  },
+  {
+    "dataset": "hotpot",
+    "method": "selfask",
+    "n": 200,
+    "new_em": 0.295,
+    "new_f1": 0.37760746287762414,
+    "new_em_ci": [
+      0.295,
+      0.23,
+      0.36
+    ]
+  },
+  {
+    "dataset": "mhr",
+    "method": "vanilla",
+    "n": 200,
+    "new_em": 0.48,
+    "new_f1": 0.5618333333333334,
+    "new_em_ci": [
+      0.48,
+      0.41,
+      0.55
+    ]
+  },
+  {
+    "dataset": "mhr",
+    "method": "ircot",
+    "n": 200,
+    "new_em": 0.485,
+    "new_f1": 0.549592688227279,
+    "new_em_ci": [
+      0.485,
+      0.41,
+      0.55
+    ],
+    "old_file": "results/e4_mhr_200_ircot.jsonl",
+    "old_em": 0.465,
+    "paired_delta_new_minus_old": 0.02,
+    "paired_ci": [
+      -0.03,
+      0.075
+    ]
+  },
+  {
+    "dataset": "mhr",
+    "method": "selfask",
+    "n": 200,
+    "new_em": 0.565,
+    "new_f1": 0.5818165399022786,
+    "new_em_ci": [
+      0.565,
+      0.5,
+      0.635
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "vanilla": {
+    "n": 200,
+    "em": 0.155,
+    "f1": 0.2629495904422374,
+    "file": "results/h3_musique200_vanilla.jsonl"
+  },
+  "ircot": {
+    "n": 200,
+    "em": 0.285,
+    "f1": 0.40659803921568627,
+    "file": "results/h3_musique200_ircot.jsonl"
+  },
+  "selfask": {
+    "n": 200,
+    "em": 0.055,
+    "f1": 0.17000680240811822,
+    "file": "results/h3_musique200_selfask.jsonl"
+  }
+}

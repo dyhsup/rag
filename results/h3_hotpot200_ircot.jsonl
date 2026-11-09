@@ -1,0 +1,200 @@
+{"qid": "5ac39f7b554299218029dbe7", "pred": "Harry F. Sinclair", "gold": "Harry F. Sinclair", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5ae27b535542996483e649b6", "pred": "Axl Rose", "gold": "Axl Rose", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5adc597d55429947ff17392f", "pred": "1959", "gold": "1959", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a7133565542994082a3e65c", "pred": "Oldham County", "gold": "Oldham County", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ae3a8985542992f92d82329", "pred": "Rensselaer County", "gold": "Rensselaer County", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5ab874ba5542990e739ec904", "pred": "Joint Chiefs of Staff", "gold": "Joint Chiefs of Staff", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5ac1a4745542991316484b82", "pred": "138,535 people", "gold": "138,535", "em": 0.0, "f1": 0.8, "info": {"retrieved": 7}}
+{"qid": "5a7cb94f554299683c1c6353", "pred": "The Hungry", "gold": "The Hungry", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5add1d575542992c1e3a2540", "pred": "German", "gold": "Prussian", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "5ac55e835542993e66e82375", "pred": "October 25, 1881", "gold": "October 25, 1881", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5ac3a76e554299741d48a2be", "pred": "U2", "gold": "U2", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a7331de5542994cef4bc4a8", "pred": "Tenerife airport disaster", "gold": "On March 27, 1977, two Boeing 747 passenger jets, KLM Flight 4805 and Pan Am Flight 1736, collided on the runway at Los Rodeos Airport (now Tenerife North Airport)", "em": 0.0, "f1": 0.12903225806451613, "info": {"retrieved": 5}}
+{"qid": "5ae70ed7554299572ea546a1", "pred": "Charlie Murphy", "gold": "Charlie Murphy", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a8d9e0f554299441c6ba015", "pred": "Vaisakhi List", "gold": "Vaisakhi List", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ac55ea55542993e66e82377", "pred": "Kurt Weill", "gold": "Kurt Julian Weill", "em": 0.0, "f1": 0.8, "info": {"retrieved": 8}}
+{"qid": "5a74a8fa55429929fddd8497", "pred": "Dudman", "gold": "Dudman", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a7c6c9d554299683c1c6302", "pred": "Nassau County", "gold": "Nassau County", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5ab5ecd75542992aa134a3e6", "pred": "John de Mol Jr.", "gold": "John de Mol Jr.", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "5ae6363b55429929b0807af0", "pred": "27 January 1974", "gold": "27 January 1974", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5ac15de55542991316484afb", "pred": "no", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "5adeacf955429975fa854f66", "pred": "Michael Pollan", "gold": "Rachel Anne Maddow", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "5a8cea40554299441c6b9f76", "pred": "Gasherbrum II", "gold": "Gasherbrum II", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5a84c5545542991dd0999dee", "pred": "1974", "gold": "1974", "em": 1.0, "f1": 1.0, "info": {"retrieved": 11}}
+{"qid": "5ade4da055429939a52fe878", "pred": "1985", "gold": "1985", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a8ce15d554299653c1aa12f", "pred": "no", "gold": "yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "5a7c634c55429907fabeef79", "pred": "Clement Greenberg", "gold": "Clement Greenberg", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5ab2a186554299295394677b", "pred": "2009", "gold": "2009", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ae7940c55429952e35ea984", "pred": "A.P. Møller", "gold": "A.P. Møller", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "5ae13f3c5542997b2ef7d168", "pred": "Battle of Britain and the Battle of Malta", "gold": "Battle of Britain and the Battle of Malta", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "5ae17cd055429901ffe4aea3", "pred": "Alopecurus", "gold": "Alopecurus", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5a7296815542991f9a20c515", "pred": "Samantha Cristoforetti", "gold": "Samantha Cristoforetti", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5ade66e1554299728e26c713", "pred": "1970s and 1980s", "gold": "1970s and 1980s", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "5ab78edc5542995dae37e95c", "pred": "Olathe, Kansas, United States", "gold": "located in Olathe, Kansas", "em": 0.0, "f1": 0.5, "info": {"retrieved": 8}}
+{"qid": "5a8a07725542992d82986e5b", "pred": "Steve Martin", "gold": "Steve Martin", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5ab2e8ad554299340b525562", "pred": "Park Ye-jin", "gold": "Park Ye-jin", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5ae73acb5542991e8301cc07", "pred": "drifting", "gold": "Drifting", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5a89b1de5542992e4fca8378", "pred": "Keelung", "gold": "Keelung", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5a8257fa55429940e5e1a866", "pred": "Aloha ʻOe", "gold": "Aloha ʻOe", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a81537355429926c1cdad20", "pred": "Orlando Magic and Houston Rockets", "gold": "Eastern Conference champion Orlando Magic against the Western Conference champion Houston Rockets.", "em": 0.0, "f1": 0.5000000000000001, "info": {"retrieved": 6}}
+{"qid": "5a8d8e4f5542994ba4e3dca7", "pred": "3 mi", "gold": "approximately 3 mi", "em": 0.0, "f1": 0.8, "info": {"retrieved": 6}}
+{"qid": "5a72688c5542997f827839b2", "pred": "Turkey", "gold": "Turkey", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "5ae7257a554299572ea54731", "pred": "Evey's mother", "gold": "Evey's mother", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5abe6f8455429965af743f03", "pred": "French", "gold": "French", "em": 1.0, "f1": 1.0, "info": {"retrieved": 11}}
+{"qid": "5a7aa2a255429941d65f270e", "pred": "Mikael Stanne", "gold": "Bengt Mikael Stanne", "em": 0.0, "f1": 0.8, "info": {"retrieved": 7}}
+{"qid": "5ac0e0e25542997d64295a6f", "pred": "The Hindu Group of publications", "gold": "The Hindu Group", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 10}}
+{"qid": "5a79fac85542996c55b2dcc1", "pred": "10 October 2010", "gold": "10 October 2010", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5adea0c5554299728e26c776", "pred": "no", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5a721d5a55429971e9dc9283", "pred": "Ballarat Bitter", "gold": "Ballarat Bitter is a 4.9% (abv) Australian beer", "em": 0.0, "f1": 0.4, "info": {"retrieved": 7}}
+{"qid": "5a7571135542992d0ec05f98", "pred": "New York City", "gold": "New York City", "em": 1.0, "f1": 1.0, "info": {"retrieved": 12}}
+{"qid": "5ab8372255429919ba4e226b", "pred": "Fleetwood Mac", "gold": "Fleetwood Mac", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ab69e4f554299710c8d1eee", "pred": "child actress", "gold": "child actor", "em": 0.0, "f1": 0.5, "info": {"retrieved": 9}}
+{"qid": "5ac0e064554299012d1db64e", "pred": "almost 3 million people", "gold": "almost 3 million", "em": 0.0, "f1": 0.8571428571428571, "info": {"retrieved": 11}}
+{"qid": "5a8574945542997b5ce3fffb", "pred": "LaLee's Kin: The Legacy of Cotton", "gold": "LaLee's Kin: The Legacy of Cotton", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a8704f8554299211dda2ba4", "pred": "Kingdom of the Isles", "gold": "Kingdom of the Isles", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ae616ce5542992663a4f259", "pred": "Charles and Thomas Guard", "gold": "Charles and Thomas Guard", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5a7bf84b5542996dd594b875", "pred": "In a Better World", "gold": "In a Better World", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "5a8f2fed55429918e830d1c7", "pred": "rock and roll", "gold": "rock and roll", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5ae64ad25542995703ce8b4f", "pred": "François Thurot", "gold": "Joshua Rowley", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "5ab596d95542992aa134a371", "pred": "China", "gold": "China", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a81d1f0554299676cceb0ee", "pred": "Part I", "gold": "Part I", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5abbc3a955429931dba144f9", "pred": "Morrison", "gold": "Wheeling, West Virginia", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "5ae35e8c5542990afbd1e120", "pred": "Jeff Meldrum of Idaho State University and Grover Krantz of Washington State University", "gold": "Don Jeffrey \"Jeff\" Meldrum (born May 24, 1958) is a Professor of Anatomy and Anthropology", "em": 0.0, "f1": 0.29629629629629634, "info": {"retrieved": 8}}
+{"qid": "5adfe6c455429906c02daa85", "pred": "Godiva", "gold": "Godiva", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ab938fb554299131ca422ce", "pred": "Munich", "gold": "Germany", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "5ac298f9554299657fa28fc9", "pred": "Ian Watkins", "gold": "Lostprophets disbanded in 2013 after Watkins was charged with sexual offences in late 2012.", "em": 0.0, "f1": 0.125, "info": {"retrieved": 9}}
+{"qid": "5ab8919655429934fafe6e13", "pred": "Provisional Irish Republican Army (IRA)", "gold": "IRA", "em": 0.0, "f1": 0.33333333333333337, "info": {"retrieved": 6}}
+{"qid": "5a71214d5542994082a3e5b9", "pred": "Los Angeles Dance Theater", "gold": "The Los Angeles Dance Theater", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5abee41a5542993fe9a41d79", "pred": "Dirt track racing", "gold": "Dirt track racing", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "5a7f924c55429969796c1aba", "pred": "Eric Bana", "gold": "Eric Banadinović", "em": 0.0, "f1": 0.5, "info": {"retrieved": 6}}
+{"qid": "5a8327fd5542990548d0b1a3", "pred": "Fort Worth", "gold": "Fort Worth", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ab54056554299488d4d9923", "pred": "no", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5ae1e80b5542997f29b3c197", "pred": "1998", "gold": "1998", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5a825b0e55429954d2e2eb0c", "pred": "Hanako Muraoka", "gold": "Hanako Muraoka", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5add18345542994ed6169c7e", "pred": "Lincoln Memorial University", "gold": "Lincoln Memorial University", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a8a416955429930ff3c0d2b", "pred": "Avengers Assemble", "gold": "Avengers Assemble", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a729fe55542991f9a20c53b", "pred": "Pieter van Musschenbroek", "gold": "Pieter van Musschenbroek", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a89e3995542992e4fca844d", "pred": "Chippewa County", "gold": "Chippewa County", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5a74cfc75542996c70cfadfe", "pred": "Oklahoma Sooners", "gold": "2016 Oklahoma Sooners football team", "em": 0.0, "f1": 0.5714285714285715, "info": {"retrieved": 9}}
+{"qid": "5a7264ed5542990c210a411a", "pred": "\"Septemberprogramm\"", "gold": "Blood and soil", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "5a8756aa5542994846c1cd69", "pred": "around 1520", "gold": "from around 1520", "em": 0.0, "f1": 0.8, "info": {"retrieved": 6}}
+{"qid": "5ac2f34455429921a00ab0b6", "pred": "New York University School of Law", "gold": "New York University School of Law", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a8a19c45542992e4fca8501", "pred": "no", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5a83ab355542990548d0b218", "pred": "Paola Suárez", "gold": "Paola Suárez", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5abb8a9b5542996cc5e4a016", "pred": "Philip José Farmer", "gold": "Philip José Farmer", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5adf4b335542993a75d264a5", "pred": "Rockstar San Diego", "gold": "Rockstar San Diego", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5abe407155429976d4830ab4", "pred": "yes", "gold": "yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5abe3c7555429965af743ea5", "pred": "2,402", "gold": "5,922", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "5a88a5645542997e5c09a679", "pred": "Personal Preference", "gold": "Take It Easy", "em": 0.0, "f1": 0.0, "info": {"retrieved": 13}}
+{"qid": "5a769b115542993569682c51", "pred": "Vince Gill", "gold": "Mark O'Connor", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "5ac4fbe255429924173fb53b", "pred": "Duff Goldman", "gold": "Jeffrey Adam \"Duff\" Goldman", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 8}}
+{"qid": "5a7e040f5542990b8f503b13", "pred": "Bruce Conner", "gold": "Bruce Conner", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5a8f186055429918e830d186", "pred": "OSRIC", "gold": "Old School Reference and Index Compilation", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "5ab985eb554299131ca42360", "pred": "Greyia", "gold": "Greyia", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5a8ee3a755429917b4a5be02", "pred": "Bing Crosby", "gold": "Harry Lillis \"Bing\" Crosby Jr.", "em": 0.0, "f1": 0.5714285714285715, "info": {"retrieved": 11}}
+{"qid": "5abda2b755429933744ab80f", "pred": "1918", "gold": "1918", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5adc02445542994650320c4e", "pred": "Jean Erdman", "gold": "Jean Erdman", "em": 1.0, "f1": 1.0, "info": {"retrieved": 13}}
+{"qid": "5ac288a95542990b17b153e5", "pred": "ENPPI", "gold": "United Arab Emirates", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "5ab431d855429942dd415ed2", "pred": "Jaguar Land Rover Automotive PLC", "gold": "Jaguar Land Rover", "em": 0.0, "f1": 0.7499999999999999, "info": {"retrieved": 9}}
+{"qid": "5a8b128455429971feec463b", "pred": "Haleiwa", "gold": "City and County of Honolulu", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "5ab2123155429970612095b9", "pred": "a historic house museum", "gold": "museum", "em": 0.0, "f1": 0.5, "info": {"retrieved": 6}}
+{"qid": "5a8591715542994c784ddb27", "pred": "Tai Frasier in \"Clueless\" (1995)", "gold": "Tai Frasier in \"Clueless\"", "em": 0.0, "f1": 0.888888888888889, "info": {"retrieved": 10}}
+{"qid": "5ac46a8b5542991943173980", "pred": "after", "gold": "after", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "5a771ead55429966f1a36c7c", "pred": "Ken Howard", "gold": "Ken Howard", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5a74c85055429916b0164218", "pred": "William Bonfield", "gold": "Alistair Grant", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "5a803ed45542996402f6a496", "pred": "White Horse", "gold": "White Horse", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a7647b85542992d0ec0608a", "pred": "Washington Street", "gold": "Washington Street", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ae22b8d554299234fd0440f", "pred": "IFFHS World's Best Goalkeeper", "gold": "World's Best Goalkeeper", "em": 0.0, "f1": 0.888888888888889, "info": {"retrieved": 7}}
+{"qid": "5a82edae55429966c78a6a9f", "pred": "1985", "gold": "1986", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "5adbda2755429944faac2385", "pred": "Philip K. Dick", "gold": "Philip K. Dick", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a84cf175542992a431d1aa2", "pred": "Lilys", "gold": "Ratatat", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "5ae60484554299546bf8301a", "pred": "George Mikan", "gold": "George Lawrence Mikan, Jr.", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 7}}
+{"qid": "5ac2546a554299636651997b", "pred": "Motion City Soundtrack", "gold": "Motion City Soundtrack", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ae1d1a55542997f29b3c138", "pred": "The Army of the Holy Roman Empire", "gold": "Army of the Holy Roman", "em": 0.0, "f1": 0.888888888888889, "info": {"retrieved": 7}}
+{"qid": "5ab568af554299494045efaf", "pred": "Anthony Callea", "gold": "Anthony Callea", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ac49a1c5542996feb3fe905", "pred": "Chuck Noll", "gold": "Chuck Noll", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a8f7a135542992414482adc", "pred": "12 mi southeast of Rome", "gold": "12 mi southeast of Rome", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ac3a2f35542993915413856", "pred": "Croatan, Nantahala, and Uwharrie", "gold": "Croatan, Nantahala, and Uwharrie", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ae1e6d95542997283cd22c3", "pred": "Jordan Peele and Alex Rubens", "gold": "Jordan Peele", "em": 0.0, "f1": 0.5714285714285715, "info": {"retrieved": 9}}
+{"qid": "5a7d2afb554299452d57bb41", "pred": "Them", "gold": "Them", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5a81b2505542995ce29dcc32", "pred": "Riviera Hotel", "gold": "Riviera", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 7}}
+{"qid": "5ae356045542990afbd1e10d", "pred": "Chicago", "gold": "He is from Pago Pago, American Samoa and played college football at Oregon.", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "5ae537e45542990ba0bbb235", "pred": "October 13, 1980", "gold": "October 13, 1980", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5ab2be71554299166977408c", "pred": "Michigan Agricultural College", "gold": "University Farm", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "5ab3460055429976abd1bc80", "pred": "Johnny McDaid", "gold": "Johnny McDaid", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5ab7d33d5542992aa3b8c859", "pred": "Don Johnson", "gold": "Donald Wayne Johnson", "em": 0.0, "f1": 0.4, "info": {"retrieved": 7}}
+{"qid": "5adea95055429939a52fe931", "pred": "pornstar", "gold": "pornstar", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5adea83b55429975fa854f53", "pred": "Kumbakonam", "gold": "Tharangambadi", "em": 0.0, "f1": 0.0, "info": {"retrieved": 12}}
+{"qid": "5a8b8f5b55429949d91db5e1", "pred": "podcast", "gold": "video game", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "5ae1d32a554299492dc91b9c", "pred": "2011", "gold": "2011", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5a82accd55429966c78a6a78", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "5a80ae105542992bc0c4a7a2", "pred": "poet", "gold": "poet", "em": 1.0, "f1": 1.0, "info": {"retrieved": 11}}
+{"qid": "5a893f305542993b751ca91e", "pred": "St. George", "gold": "St.George", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a77415b55429966f1a36cd2", "pred": "Martin McCann", "gold": "Martin \"Marty\" McCann", "em": 0.0, "f1": 0.8, "info": {"retrieved": 5}}
+{"qid": "5a90ba1b55429933b8a205c6", "pred": "Fabio Fognini", "gold": "Fabio Fognini", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "5a8f2cc855429918e830d1be", "pred": "Londonderry", "gold": "Londonderry", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a84992e5542992a431d1a6d", "pred": "Boyd Gaming", "gold": "Boyd Gaming", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5adcb6875542994ed6169bcb", "pred": "Gymnocladus", "gold": "Dryopteris", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "5a8c781c554299653c1aa083", "pred": "Texas Longhorns", "gold": "Texas Longhorns", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a78b386554299148911f949", "pred": "General Motors", "gold": "Fade Out: The Calamitous Final Days of MGM", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "5a7f95685542995d8a8ddeaa", "pred": "German", "gold": "German", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5ac4e13f554299076e296e2d", "pred": "Theodor W. Adorno", "gold": "Theodor W. Adorno", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5adf85e05542993344016cba", "pred": "Football League", "gold": "Championship", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "5a8841ee5542994846c1ce6b", "pred": "Sheridan County, Montana", "gold": "Sheridan County", "em": 0.0, "f1": 0.8, "info": {"retrieved": 7}}
+{"qid": "5a7796e05542992a6e59df0f", "pred": "The Netherlands", "gold": "Netherlands", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "5a72fc865542991f9a20c5e9", "pred": "February 9, 1994", "gold": "February 9, 1994", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ae25d2b554299495565da46", "pred": "Brian Gottfried", "gold": "21", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "5ab8179f5542990e739ec817", "pred": "Dana Fox", "gold": "Dana Fox", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ae14b0655429920d52343a6", "pred": "Arya", "gold": "Ramanaidu Daggubati", "em": 0.0, "f1": 0.0, "info": {"retrieved": 11}}
+{"qid": "5aba6f3e55429955dce3ee21", "pred": "Dragon TV", "gold": "Dragon TV", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5ae3c71f5542991a06ce9a22", "pred": "La Mesopotamia", "gold": "Mesopotamia", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 6}}
+{"qid": "5ae3eabc5542995dadf2424f", "pred": "Cartoon Network", "gold": "Cartoon Network", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5add2dae5542992c1e3a2558", "pred": "W. R. Grace Building", "gold": "W. R. Grace Building", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a8268215542995ce29dccfb", "pred": "Canada", "gold": "Canada", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a730a6b5542992359bc3210", "pred": "Norman Blake", "gold": "Norman Blake", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "5a8651185542994775f60752", "pred": "yes", "gold": "yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ac35a7e554299741d48a257", "pred": "Norwegian language", "gold": "Norwegian language", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5adc411f5542994650320cbc", "pred": "International Ultraviolet Explorer", "gold": "International Ultraviolet Explorer", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a79fe3b5542994f819ef119", "pred": "Espírito Santo Financial Group", "gold": "Espírito Santo Financial Group", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "5a75fa14554299109176e5dc", "pred": "2018 Unibet Premier League Darts", "gold": "2018 Unibet Premier League Darts", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a849c1b5542997175ce1ef9", "pred": "Vox Day", "gold": "alt-right", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "5a7605f85542994ccc91868d", "pred": "Battle of Hürtgen Forest", "gold": "Battle of Hürtgen Forest", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a8e06785542995085b37383", "pred": "1967", "gold": "1967", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5adf74075542992d7e9f937c", "pred": "United States Army", "gold": "the United States Army", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5a81108855429926c1cdace2", "pred": "16th", "gold": "world's 16th largest city", "em": 0.0, "f1": 0.33333333333333337, "info": {"retrieved": 10}}
+{"qid": "5adbfa38554299438c868d00", "pred": "7 November 1926", "gold": "7 November 192610", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 6}}
+{"qid": "5a8f979255429918e830d288", "pred": "Central Park", "gold": "Central Park", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5abe2b0155429976d4830a83", "pred": "26–30 August 1914", "gold": "26–30 August 1914", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5ab94fa25542996be2020474", "pred": "the Baudot code", "gold": "Baudot code", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a75d9c05542992db94736f6", "pred": "Redmond \"Red\" Symons", "gold": "Sophie Charlene Akland Monk", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "5a8a17685542993b751ca9f3", "pred": "Eminem", "gold": "Eminem", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5adf33965542993344016c20", "pred": "KWCH-DT", "gold": "KWCH-DT", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5abd56355542993062266c58", "pred": "Katy Perry", "gold": "Katy Perry", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a811152554299260e20a22e", "pred": "Conservative Party", "gold": "British Conservative Party", "em": 0.0, "f1": 0.8, "info": {"retrieved": 9}}
+{"qid": "5a73b1855542992d56e7e388", "pred": "Colin Blakely", "gold": "Colin Blakely", "em": 1.0, "f1": 1.0, "info": {"retrieved": 14}}
+{"qid": "5a7e7d4655429934daa2fc2e", "pred": "Sellem", "gold": "The Rake's Progress", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "5ab91f98554299753720f70d", "pred": "Gangsta's Paradise", "gold": "Gangsta's Paradise", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a7324e055429901807daf8f", "pred": "Ryan Babel", "gold": "Ryan Babel", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a8cee9b554299441c6b9f87", "pred": "GE Appliances", "gold": "GE Appliances", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a7a1f795542996c55b2dd1b", "pred": "Harrods", "gold": "Harrods", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a7270395542992359bc30a8", "pred": "1875", "gold": "in the 1830s", "em": 0.0, "f1": 0.0, "info": {"retrieved": 12}}
+{"qid": "5ab9618f554299743d22eb28", "pred": "Captain B.J. Hunnicutt", "gold": "Captain B.J. Hunnicutt", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "5a75a76b5542992db9473697", "pred": "Perri", "gold": "That Darn Cat!", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "5abffafe5542997d64295988", "pred": "Cartoon Network Too", "gold": "Cartoon Network Too", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5ac14d0c5542991316484ae2", "pred": "Jacques Tourneur", "gold": "Jacques Tourneur", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5ab55455554299488d4d993b", "pred": "Glacier National Park", "gold": "over 1 million", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "5aba89fb5542994dbf019933", "pred": "books, films and other media", "gold": "books, films and other media", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "5a70f0e75542994082a3e408", "pred": "Johns Hopkins University", "gold": "with other campuses located in Chicago and Doha, Qatar", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "5ab7f0995542995dae37e9fb", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a773ec45542994aec3b7245", "pred": "Simone Bolelli", "gold": "Simone Bolelli", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a8de7c65542995085b37353", "pred": "General Motors", "gold": "General Motors", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5ab5b6c1554299637185c5e5", "pred": "The Four Seasons", "gold": "The Four Seasons", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a7f48e15542992e7d278ce6", "pred": "record breaking debut album", "gold": "its eclectic mix of musical styles", "em": 0.0, "f1": 0.0, "info": {"retrieved": 11}}
+{"qid": "5a7621bb554299109176e650", "pred": "Autobahn", "gold": "Radio-Activity", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "5abb8e2d554299642a094aa4", "pred": "John Candy", "gold": "John Candy", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "5a802b595542995d8a8ddf51", "pred": "D-Day", "gold": "D-Day", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "5a73090455429901807daf6e", "pred": "pizza", "gold": "Pizza", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a83161555429940e5e1a958", "pred": "15", "gold": "15", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5a7642f7554299109176e6e8", "pred": "Luca Parmitano", "gold": "Luca Parmitano", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5a756b175542996c70cfaef7", "pred": "Muztagh Ata", "gold": "Manaslu", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "5ab3eac5554299753aec59ec", "pred": "2001", "gold": "6th season", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}

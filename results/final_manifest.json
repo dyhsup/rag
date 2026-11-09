@@ -114,6 +114,13 @@
     },
     "scope": "50-question exploratory; not pooled with main endpoint tables"
   },
+  "h3_scale_extension": {
+    "artifacts": ["results/h3_scale_difference_report.md", "results/h3_difference_analysis.json", "results/h3_difference_analysis.md"],
+    "client": "src/h3_baselines.py",
+    "cache": "cache/llm_h3.sqlite",
+    "main_results": {"musique200": {"vanilla": 0.155, "ircot": 0.285, "selfask": 0.055}, "musique400": {"vanilla": 0.1275, "ircot": 0.2475, "selfask": 0.06}, "wiki2": {"vanilla": 0.375, "ircot": 0.51, "selfask": 0.265}, "hotpot": {"vanilla": 0.53, "ircot": 0.65, "selfask": 0.295}, "mhr": {"vanilla": 0.48, "ircot": 0.485, "selfask": 0.565}},
+    "comparison": "paired by qid where old artifacts exist; new and old CovBind are not pooled because their model protocols differ"
+  },
   "known_caveats": [
     "absolute endpoint numbers differ by reader, retriever, CE and stopping protocol; never mix rows without the protocol fields",
     "the causal query-slot result uses gold-plan/controlled binding conditions as specified by the artifact",

@@ -1,0 +1,20 @@
+{
+  "vanilla": {
+    "n": 200,
+    "em": 0.375,
+    "f1": 0.4289157215333686,
+    "file": "results/h3_wiki2200_vanilla.jsonl"
+  },
+  "ircot": {
+    "n": 200,
+    "em": 0.51,
+    "f1": 0.5898180969357442,
+    "file": "results/h3_wiki2200_ircot.jsonl"
+  },
+  "selfask": {
+    "n": 200,
+    "em": 0.265,
+    "f1": 0.327989898989899,
+    "file": "results/h3_wiki2200_selfask.jsonl"
+  }
+}

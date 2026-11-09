@@ -1,0 +1,200 @@
+{"qid": "fde6ecd60bdc11eba7f7acde48001122", "pred": "Atlanta", "gold": "Dallas", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "ad4195740bdc11eba7f7acde48001122", "pred": "Sonnac", "gold": "Sonnac", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "abb7ff860bdc11eba7f7acde48001122", "pred": "Halberstadt", "gold": "Halberstadt", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "100c512a0bde11eba7f7acde48001122", "pred": "Cork", "gold": "Cork", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "570bf6f40bdc11eba7f7acde48001122", "pred": "Medford, Massachusetts", "gold": "Medford, Massachusetts", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "1ad2a7c20bdd11eba7f7acde48001122", "pred": "Laurel Near", "gold": "Missoula, Montana", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "2bd4454c0bda11eba7f7acde48001122", "pred": "Stanford University, California", "gold": "Tisch", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "834da99c087111ebbd63ac1f6bf848b6", "pred": "Tanjuska And The 7 Devils", "gold": "Tanjuska And The 7 Devils", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "e183fb620bda11eba7f7acde48001122", "pred": "Goryeo", "gold": "Korea", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "f4cc9d4908b311ebbd86ac1f6bf848b6", "pred": "Lykkens Musikanter", "gold": "Trader Tom Of The China Seas", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "6b6abb6808a211ebbd7aac1f6bf848b6", "pred": "Ma And Pa Kettle Go To Town", "gold": "Ma And Pa Kettle Go To Town", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "f8aa0d06086311ebbd5eac1f6bf848b6", "pred": "Cast Up By The Sea", "gold": "Cast Up By The Sea", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "ce98e6620bd911eba7f7acde48001122", "pred": "Rome", "gold": "Rome", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "9068d246089911ebbd77ac1f6bf848b6", "pred": "Sleep, My Love", "gold": "Sleep, My Love", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "27f6eaa80bb011ebab90acde48001122", "pred": "Sir William Howard of Naworth", "gold": "Sir William Howard", "em": 0.0, "f1": 0.7499999999999999, "info": {"retrieved": 6}}
+{"qid": "feea4eb5086411ebbd5eac1f6bf848b6", "pred": "Gold For The Caesars", "gold": "Heinz In The Moon", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "f62ae4f9096911ebbdafac1f6bf848b6", "pred": "Clownery", "gold": "Clownery", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "8985546c0bdd11eba7f7acde48001122", "pred": "Italian", "gold": "Florentine Republic", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "c0085d54088111ebbd6dac1f6bf848b6", "pred": "High Society Blues", "gold": "Counterblast", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "bdfdad5c0bdd11eba7f7acde48001122", "pred": "Austrian", "gold": "Austria", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "140bbce00bdc11eba7f7acde48001122", "pred": "National Film Award", "gold": "Fulbright Scholarship", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "18cf460a0bde11eba7f7acde48001122", "pred": "Clinton, Iowa", "gold": "Clinton", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 7}}
+{"qid": "2b871cac0bdc11eba7f7acde48001122", "pred": "Wojciech Jerzy Has", "gold": "Łódź", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "0b86c27208c611ebbd90ac1f6bf848b6", "pred": "Huma Gun Anmogaldi", "gold": "Huma Gun Anmogaldi", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "7939c1460bd911eba7f7acde48001122", "pred": "1 March 2012", "gold": "1 March 2012", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "97cee43a0baf11ebab90acde48001122", "pred": "Ebba Brahe", "gold": "Ebba Brahe", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "10e63c10087211ebbd64ac1f6bf848b6", "pred": "Now, Voyager", "gold": "Now, Voyager", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "5f2bb1060bd911eba7f7acde48001122", "pred": "French", "gold": "French", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "4804b7fe08f511ebbdaaac1f6bf848b6", "pred": "Molokai: The Story Of Father Damien", "gold": "Molokai: The Story Of Father Damien", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "30f417d208e211ebbda3ac1f6bf848b6", "pred": "Death For Sale", "gold": "Death For Sale", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "1cdceb80089111ebbd72ac1f6bf848b6", "pred": "To Be A Lady", "gold": "To Be A Lady", "em": 1.0, "f1": 1.0, "info": {"retrieved": 12}}
+{"qid": "0cc584100bb011ebab90acde48001122", "pred": "Scipio Africanus", "gold": "Publius Cornelius Scipio", "em": 0.0, "f1": 0.4, "info": {"retrieved": 11}}
+{"qid": "e7b05a94088311ebbd6dac1f6bf848b6", "pred": "We're Going to Eat You", "gold": "We'Re Going To Eat You", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "18dadca00bb011ebab90acde48001122", "pred": "Thomas Cochrane, 8th Earl of Dundonald", "gold": "William Cochrane", "em": 0.0, "f1": 0.25, "info": {"retrieved": 9}}
+{"qid": "40b044fb088511ebbd6dac1f6bf848b6", "pred": "Yes", "gold": "yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "4c0e9cbe0bde11eba7f7acde48001122", "pred": "Martaban–Hanthawaddy", "gold": "Martaban", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 9}}
+{"qid": "60736868093d11ebbdaeac1f6bf848b6", "pred": "Thai Mozhi", "gold": "Thai Mozhi", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "e84d4a04089511ebbd75ac1f6bf848b6", "pred": "Das Mädchen Und Der Staatsanwalt", "gold": "Das Mädchen Und Der Staatsanwalt", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "ce4f63cc0bdc11eba7f7acde48001122", "pred": "FAMU", "gold": "National Film School in Łódź", "em": 0.0, "f1": 0.0, "info": {"retrieved": 10}}
+{"qid": "5256bf800bb011ebab90acde48001122", "pred": "Cropley Ashley- Cooper, 6th Earl of Shaftesbury", "gold": "Cropley Ashley-Cooper, 6th Earl of Shaftesbury", "em": 1.0, "f1": 1.0, "info": {"retrieved": 11}}
+{"qid": "859db3ba0bda11eba7f7acde48001122", "pred": "Paris", "gold": "Paris", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "dc619d4808b911ebbd88ac1f6bf848b6", "pred": "Chiang Chung-Ling", "gold": "Chiang Chung-Ling", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "121ddeae0bdc11eba7f7acde48001122", "pred": "American", "gold": "Kingdom of Pontus", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "bc096c180bdb11eba7f7acde48001122", "pred": "20 June 1634", "gold": "20 June 1634", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "b96df75408a111ebbd79ac1f6bf848b6", "pred": "The Home Song Stories", "gold": "The Home Song Stories", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "ded103fe0baf11ebab90acde48001122", "pred": "Olof Skötkonung", "gold": "Olof Skötkonung", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "d15bca5e0bd911eba7f7acde48001122", "pred": "Timişoara, Romania", "gold": "Timişoara", "em": 0.0, "f1": 0.8, "info": {"retrieved": 10}}
+{"qid": "60ce015a08ad11ebbd83ac1f6bf848b6", "pred": "Calling The Tune", "gold": "Calling The Tune", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "373aef40096c11ebbdafac1f6bf848b6", "pred": "Tears Of April", "gold": "Tears Of April", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "237d904a0bdc11eba7f7acde48001122", "pred": "Ansbach", "gold": "Ansbach", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "81dd3a9a08a911ebbd80ac1f6bf848b6", "pred": "The Company's in Love", "gold": "The Company'S In Love", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "882f660e0bdb11eba7f7acde48001122", "pred": "American", "gold": "America", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "79e8f0df08e711ebbda6ac1f6bf848b6", "pred": "Un Taxi Pour Tobrouk", "gold": "Un Taxi Pour Tobrouk", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "aaf3941c0bdb11eba7f7acde48001122", "pred": "The provided passages do not contain information about the film \"Diplomats\" or its director.", "gold": "Düsseldorf", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "3e5d2fae0bd911eba7f7acde48001122", "pred": "The provided passages do not contain information about the film \"Days Of Betrayal,\" its director, or the director's place of birth.", "gold": "Hradec Králové", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "abaa3fca08e611ebbda5ac1f6bf848b6", "pred": "The Killer Likes Candy", "gold": "Cuando En El Cielo Pasen Lista", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "ee22132a08c611ebbd91ac1f6bf848b6", "pred": "The Last Night Of The Barbary Coast", "gold": "The Last Night Of The Barbary Coast", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "f1a04d600bdb11eba7f7acde48001122", "pred": "The provided passages do not contain information about the director of the 1938 film *Dollar* or their place of birth.", "gold": "Helsingfors", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "5acc6e480bde11eba7f7acde48001122", "pred": "American", "gold": "US", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "2de78ab2092111ebbdaeac1f6bf848b6", "pred": "Carolyn of the Corners", "gold": "Carolyn Of The Corners", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "605287bc0bde11eba7f7acde48001122", "pred": "Shanghai", "gold": "Hong Kong", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "b6cbc462085711ebbd5aac1f6bf848b6", "pred": "Leatherheads", "gold": "Leatherheads", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "7e815a440bdc11eba7f7acde48001122", "pred": "A.B. Quintanilla", "gold": "Chris Pérez", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "37cb307a088511ebbd6dac1f6bf848b6", "pred": "A Dream Of Happiness", "gold": "Somewhere I'Ll Find You", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "14f5dbb208b811ebbd88ac1f6bf848b6", "pred": "An Even Break", "gold": "Agitated Women", "em": 0.0, "f1": 0.0, "info": {"retrieved": 10}}
+{"qid": "5c9e1bf60bdc11eba7f7acde48001122", "pred": "Academy of Performing Arts in Bratislava", "gold": "Academy of Performing Arts in Bratislava", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "101a05820bdd11eba7f7acde48001122", "pred": "Cahiers du Cinéma", "gold": "Cahiers du cinéma", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "9d3951260bdc11eba7f7acde48001122", "pred": "Hugh Gibb", "gold": "Hugh Gibb", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "985028da0bda11eba7f7acde48001122", "pred": "St. Pauli, the poorest part of Hamburg", "gold": "Hamburg", "em": 0.0, "f1": 0.2857142857142857, "info": {"retrieved": 8}}
+{"qid": "d01da635086011ebbd5dac1f6bf848b6", "pred": "O Segredo Do Corcunda", "gold": "O Segredo Do Corcunda", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "ef25b93d089b11ebbd78ac1f6bf848b6", "pred": "Del Rosa Al Amarillo", "gold": "Rose Of The Yukon", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "725dc29a0bda11eba7f7acde48001122", "pred": "Not mentioned", "gold": "Harvard", "em": 0.0, "f1": 0.0, "info": {"retrieved": 10}}
+{"qid": "0a6ef71e0bb011ebab90acde48001122", "pred": "Philip of Ibelin", "gold": "Philip of Ibelin", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "17505aa2089211ebbd73ac1f6bf848b6", "pred": "no", "gold": "yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "252694580bde11eba7f7acde48001122", "pred": "Zutphen", "gold": "Luxembourg", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "59ad2d780bdd11eba7f7acde48001122", "pred": "Robert Ellis", "gold": "May Allison", "em": 0.0, "f1": 0.0, "info": {"retrieved": 4}}
+{"qid": "dc25e292089d11ebbd78ac1f6bf848b6", "pred": "Sir Robert Rankin, 1st Baronet", "gold": "Sir Robert Rankin, 1St Baronet", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "39bd87c80bde11eba7f7acde48001122", "pred": "1969", "gold": "1969", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "6c7fb9160bb011ebab90acde48001122", "pred": "Jacquetta of Luxembourg", "gold": "Margherita del Balzo", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "c85f6a7a084e11ebbd56ac1f6bf848b6", "pred": "no", "gold": "yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "a4f725e5088c11ebbd6fac1f6bf848b6", "pred": "Hitler'S Folly", "gold": "Hitler'S Folly", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "010bdf4408df11ebbd9fac1f6bf848b6", "pred": "The Third Side Of The River", "gold": "The Third Side Of The River", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "7c71892a08d711ebbd9aac1f6bf848b6", "pred": "Sammy Drechsel", "gold": "Sammy Drechsel", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "6df082ca0bde11eba7f7acde48001122", "pred": "New Orleans", "gold": "New Orleans", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "b3bde51a0baf11ebab90acde48001122", "pred": "Duke Xian of Qin", "gold": "Duke Xian of Qin", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "6a3bb1220bde11eba7f7acde48001122", "pred": "presumed dead after March 24, 1939", "gold": "Pacific", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "a5b060a00bdd11eba7f7acde48001122", "pred": "7 February 1591/2", "gold": "7 February 1591", "em": 0.0, "f1": 0.8571428571428571, "info": {"retrieved": 6}}
+{"qid": "cc80a59008b911ebbd88ac1f6bf848b6", "pred": "Gangway For Tomorrow", "gold": "Le Frisson Des Vampires", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "b137755a084d11ebbd56ac1f6bf848b6", "pred": "no", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "150df73c086411ebbd5eac1f6bf848b6", "pred": "Hearts In Bondage", "gold": "Hearts In Bondage", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "cd4ceac40bd911eba7f7acde48001122", "pred": "New York City", "gold": "Hollywood", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "ce0e7ddf08d111ebbd95ac1f6bf848b6", "pred": "Friedrich Wilhelm Von Reden", "gold": "Friedrich Wilhelm Von Reden", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "e41f805c0bdb11eba7f7acde48001122", "pred": "13 June 1967", "gold": "13 June 1967", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "c077f89608e711ebbda6ac1f6bf848b6", "pred": "Murder by Numbers", "gold": "Murder By Numbers", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "022a3dd40bdd11eba7f7acde48001122", "pred": "Zdeněk Svěrák", "gold": "Zdeněk Svěrák", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "f48d94d00bd911eba7f7acde48001122", "pred": "957", "gold": "953", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "f48d0344088c11ebbd70ac1f6bf848b6", "pred": "The Twilight Saga: Breaking Dawn – Part 2", "gold": "The Twilight Saga: Breaking Dawn – Part 2", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "ccd5b3dc08e611ebbda5ac1f6bf848b6", "pred": "Swayamkrushi", "gold": "Swayamkrushi", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "07f222ca08d811ebbd9aac1f6bf848b6", "pred": "Bawarchi", "gold": "Manhattan Romance", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "b0a71583086b11ebbd60ac1f6bf848b6", "pred": "Bob Degen", "gold": "Ashad Ali", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "f4ed8b020bdd11eba7f7acde48001122", "pred": "Holliston, Massachusetts", "gold": "Holliston", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 6}}
+{"qid": "ee9346260baf11ebab90acde48001122", "pred": "Gofraid ua Ímair", "gold": "Gofraid ua Ímair", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "acd6da260bdd11eba7f7acde48001122", "pred": "California Institute of the Arts", "gold": "California Institute of the Arts", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "3209ff5e0baf11ebab90acde48001122", "pred": "William IV", "gold": "William IV of the United Kingdom", "em": 0.0, "f1": 0.5714285714285715, "info": {"retrieved": 10}}
+{"qid": "42ed1ab008dd11ebbd9dac1f6bf848b6", "pred": "Joe + Belle", "gold": "Joe + Belle", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "a2cb47b308b611ebbd88ac1f6bf848b6", "pred": "George Hare Philipson", "gold": "George Hare Philipson", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "783b1724087611ebbd67ac1f6bf848b6", "pred": "Arena Of Fear", "gold": "Night And Dawn", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "569210420bdb11eba7f7acde48001122", "pred": "November 1972", "gold": "1972", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 9}}
+{"qid": "9f1384220bdb11eba7f7acde48001122", "pred": "The provided passages do not contain information about the death of the director of the 1961 film *The Knife* (Fons Rademakers).", "gold": "emphysema", "em": 0.0, "f1": 0.0, "info": {"retrieved": 10}}
+{"qid": "568572060bdb11eba7f7acde48001122", "pred": "Nathan H. Juran", "gold": "Palos Verdes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "16e7a8480bdc11eba7f7acde48001122", "pred": "Moscow", "gold": "Moscow", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "772a0b280bb011ebab90acde48001122", "pred": "Henri, Count of Paris", "gold": "Khengarji III", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "77d689dd08d811ebbd9bac1f6bf848b6", "pred": "no", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 4}}
+{"qid": "2f064e5c0baf11ebab90acde48001122", "pred": "William Berkeley", "gold": "William Berkeley", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "7661362a0bde11eba7f7acde48001122", "pred": "American", "gold": "American", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "1bacbdfe0bdd11eba7f7acde48001122", "pred": "Kırklareli", "gold": "Kırklareli", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "e37181580bdd11eba7f7acde48001122", "pred": "Moscow", "gold": "Odessa", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "a139d5b8096811ebbdafac1f6bf848b6", "pred": "no", "gold": "yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "c2f85f7e0baf11ebab90acde48001122", "pred": "Busir", "gold": "Busir", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "39240f9a08b811ebbd88ac1f6bf848b6", "pred": "Let'S Live Again", "gold": "Let'S Live Again", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "d7da7004090611ebbdadac1f6bf848b6", "pred": "Sons Of Ingmar", "gold": "Sons Of Ingmar", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "2460b2e20bde11eba7f7acde48001122", "pred": "American-Canadian", "gold": "Canadian", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 8}}
+{"qid": "9e6160ad08fd11ebbdadac1f6bf848b6", "pred": "Murray'S Magazine", "gold": "Murray'S Magazine", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "dc9dc6e40baf11ebab90acde48001122", "pred": "Countess Princess Augusta of Schwarzburg-Sondershausen", "gold": "Princess Augusta of Schwarzburg-Sondershausen", "em": 0.0, "f1": 0.9090909090909091, "info": {"retrieved": 8}}
+{"qid": "9522a858088911ebbd6eac1f6bf848b6", "pred": "Mister Quilp", "gold": "Mister Quilp", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "078bb0d80baf11ebab90acde48001122", "pred": "Princess Alexandra of Saxe-Coburg and Gotha", "gold": "Princess Alexandra of Saxe-Coburg and Gotha", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "fe5899c708e911ebbda7ac1f6bf848b6", "pred": "Matija Škerbec", "gold": "Ivan Minatti", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "31218d120bde11eba7f7acde48001122", "pred": "Monaco", "gold": "Prince's Palace of Monaco", "em": 0.0, "f1": 0.33333333333333337, "info": {"retrieved": 7}}
+{"qid": "55a91202087a11ebbd67ac1f6bf848b6", "pred": "That Man George", "gold": "Angélique, Marquise Des Anges", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "f8f15e2e08ac11ebbd83ac1f6bf848b6", "pred": "The Abdication", "gold": "The Trip To Marrakesh", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "10cd47420baf11ebab90acde48001122", "pred": "Gabriel-Elzéar Taschereau", "gold": "Gabriel-Elzéar Taschereau", "em": 1.0, "f1": 1.0, "info": {"retrieved": 10}}
+{"qid": "248c35e00baf11ebab90acde48001122", "pred": "Emperor Aurangzeb", "gold": "Shah Jahan", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "3741c4ae086011ebbd5dac1f6bf848b6", "pred": "La Signorina Ciclone", "gold": "La Signorina Ciclone", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "47f733600bda11eba7f7acde48001122", "pred": "sometime between 995 and 997", "gold": "3 August 1995", "em": 0.0, "f1": 0.0, "info": {"retrieved": 1}}
+{"qid": "d0995a680bda11eba7f7acde48001122", "pred": "Hong Kong", "gold": "Hong Kong", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "42a5f1a40bde11eba7f7acde48001122", "pred": "Pilton, Somerset", "gold": "Pilton, Somerset", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "5510d0620bdd11eba7f7acde48001122", "pred": "Fanny", "gold": "Sète", "em": 0.0, "f1": 0.0, "info": {"retrieved": 5}}
+{"qid": "42d74ba00bde11eba7f7acde48001122", "pred": "Bangladesh National Film Award for Best Director", "gold": "Bangladesh National Film Award for Best Director", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "93be10540bdd11eba7f7acde48001122", "pred": "Pitäjänmäki, Helsinki", "gold": "Helsinki", "em": 0.0, "f1": 0.33333333333333337, "info": {"retrieved": 10}}
+{"qid": "7ab366f60bdb11eba7f7acde48001122", "pred": "Glasgow School of Art", "gold": "National Film and Television School", "em": 0.0, "f1": 0.22222222222222224, "info": {"retrieved": 8}}
+{"qid": "367b700c0bde11eba7f7acde48001122", "pred": "Claygate, Surrey", "gold": "Surrey", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 11}}
+{"qid": "7adb71b80bdc11eba7f7acde48001122", "pred": "French", "gold": "French", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "b249aa840bdc11eba7f7acde48001122", "pred": "Ben E King", "gold": "London", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "a5e6e806084911ebbd55ac1f6bf848b6", "pred": "Condannato A Nozze", "gold": "Condannato A Nozze", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "ad3c552c0bdd11eba7f7acde48001122", "pred": "British", "gold": "Argentine", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "c51148bc0bdb11eba7f7acde48001122", "pred": "Ottoman", "gold": "Ottoman Empire", "em": 0.0, "f1": 0.6666666666666666, "info": {"retrieved": 6}}
+{"qid": "ad68fdfc086811ebbd5eac1f6bf848b6", "pred": "no", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "1d913467087611ebbd67ac1f6bf848b6", "pred": "David Fennario", "gold": "David Fennario", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "f4033b7c091611ebbdaeac1f6bf848b6", "pred": "To Make A Killing", "gold": "The Bloodsucker Leads The Dance", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "ef79778a088b11ebbd6fac1f6bf848b6", "pred": "yes", "gold": "yes", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "7bd965f20baf11ebab90acde48001122", "pred": "Duke Bolko I of Opole", "gold": "Bolko I of Opole", "em": 0.0, "f1": 0.888888888888889, "info": {"retrieved": 7}}
+{"qid": "fe38def208b111ebbd85ac1f6bf848b6", "pred": "no", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "6606043c0bdd11eba7f7acde48001122", "pred": "Gura Humorului", "gold": "Gura Humorului", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "dcab273608de11ebbd9fac1f6bf848b6", "pred": "Do Be Quick", "gold": "Do Be Quick", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "bcdd9c5308c711ebbd91ac1f6bf848b6", "pred": "Jéssica Sodré", "gold": "Jéssica Sodré", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "ad6e5c1c0baf11ebab90acde48001122", "pred": "Eric I of Denmark", "gold": "Ragnild Magnusdotter", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "87b30d140bb011ebab90acde48001122", "pred": "Prince Alfonso of the Two Sicilies, Count of Caserta", "gold": "Prince Alfonso", "em": 0.0, "f1": 0.4, "info": {"retrieved": 6}}
+{"qid": "21e851f60bdd11eba7f7acde48001122", "pred": "Keren Saks", "gold": "Bea Arthur", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "62d2deea087f11ebbd6bac1f6bf848b6", "pred": "The Rug Maker'S Daughter", "gold": "The Rug Maker'S Daughter", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "77ccf6e40bdd11eba7f7acde48001122", "pred": "February 22, 1720", "gold": "February 22, 1720", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "05f0e6680bdb11eba7f7acde48001122", "pred": "Pisa", "gold": "Stockholm", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "3b079b7c0bda11eba7f7acde48001122", "pred": "Churcher's College in Hampshire", "gold": "Churcher's College", "em": 0.0, "f1": 0.7499999999999999, "info": {"retrieved": 8}}
+{"qid": "eb9bd1cd089e11ebbd78ac1f6bf848b6", "pred": "Hidden Power", "gold": "Hiawanda'S Cross", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "267ff0c00bdd11eba7f7acde48001122", "pred": "Elis Ellis", "gold": "London", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "7a2249120bb011ebab90acde48001122", "pred": "Henri, Count of Paris", "gold": "Anton Fredrik Klaveness", "em": 0.0, "f1": 0.0, "info": {"retrieved": 9}}
+{"qid": "e653c7d9096811ebbdafac1f6bf848b6", "pred": "Mysterious Skin", "gold": "Mysterious Skin", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "0f1f491c088611ebbd6dac1f6bf848b6", "pred": "Kari Lindroos", "gold": "Kari Lindroos", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "55b34fb908fb11ebbdacac1f6bf848b6", "pred": "Die Pratermizzi", "gold": "Die Pratermizzi", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "e1bdea6c0bd911eba7f7acde48001122", "pred": "Romania", "gold": "Mangalia", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "c2edf440089811ebbd77ac1f6bf848b6", "pred": "no", "gold": "yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "6c2aa97108d711ebbd9aac1f6bf848b6", "pred": "Children Of Fortune", "gold": "Trouble With Jolanthe", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "e6525cd60baf11ebab90acde48001122", "pred": "Odo II, Count of Blois", "gold": "Guy I, Count of Blois", "em": 0.0, "f1": 0.6, "info": {"retrieved": 7}}
+{"qid": "3017c9dc0bb011ebab90acde48001122", "pred": "Margaret, daughter and heiress of Otto IV, Count of Ravensberg, and Margaret of Berg", "gold": "Margaret of Ravensberg", "em": 0.0, "f1": 0.35294117647058826, "info": {"retrieved": 7}}
+{"qid": "29bff6c20bb011ebab90acde48001122", "pred": "Frederik Christian II, Duke of Schleswig- Holstein- Sonderburg- Augustenburg", "gold": "Frederick", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "660aa3cc0bdb11eba7f7acde48001122", "pred": "The provided passages do not contain information about the film *Chinnari Mutha*, its director, or the director's place of birth.", "gold": "Bangalore", "em": 0.0, "f1": 0.0, "info": {"retrieved": 3}}
+{"qid": "78c31f420bb011ebab90acde48001122", "pred": "Eleanor Gore", "gold": "Eleanor Gore", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "8c0e29200bdd11eba7f7acde48001122", "pred": "Harrow and the Royal Military College, Sandhurst", "gold": "Royal Military College, Sandhurst", "em": 0.0, "f1": 0.8, "info": {"retrieved": 8}}
+{"qid": "98ab6cfe08c411ebbd8eac1f6bf848b6", "pred": "Prem Parbat", "gold": "L'Affaire Maurizius", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "17a489a40bdc11eba7f7acde48001122", "pred": "Norwegian College of Journalism", "gold": "University of Bergen", "em": 0.0, "f1": 0.28571428571428575, "info": {"retrieved": 4}}
+{"qid": "eb30f33c086611ebbd5eac1f6bf848b6", "pred": "no", "gold": "yes", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "f16d98a20bae11ebab90acde48001122", "pred": "Princess Isabelle of Orléans-Braganza", "gold": "Princess Isabelle of Orléans-Braganza", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "27f076aa0bb011ebab90acde48001122", "pred": "Alexander the Great", "gold": "Antiochus", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "13437401084a11ebbd55ac1f6bf848b6", "pred": "Le Droit À La Vie", "gold": "Le Droit À La Vie", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "10cd8d240baf11ebab90acde48001122", "pred": "Duke Casimir I the Restorer", "gold": "Casimir I the Restorer", "em": 0.0, "f1": 0.8571428571428571, "info": {"retrieved": 8}}
+{"qid": "e618b2c608c911ebbd92ac1f6bf848b6", "pred": "Nicos Poulantzas", "gold": "Giuseppe Cesari", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "e59b64ef085411ebbd59ac1f6bf848b6", "pred": "Raju Rahikwar", "gold": "Raju Rahikwar", "em": 1.0, "f1": 1.0, "info": {"retrieved": 7}}
+{"qid": "37ff2e860bda11eba7f7acde48001122", "pred": "Eyüp Palace, Constantinople (present-day Istanbul)", "gold": "Constantinople", "em": 0.0, "f1": 0.25, "info": {"retrieved": 8}}
+{"qid": "88e62716086f11ebbd62ac1f6bf848b6", "pred": "Balswarup Choubey", "gold": "Balswarup Choubey", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "fada589e08cf11ebbd95ac1f6bf848b6", "pred": "Gniazdo", "gold": "Gniazdo", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "435d00bc0baf11ebab90acde48001122", "pred": "Albert, 8th Prince of Thurn and Taxis", "gold": "Albert, 8th Prince of Thurn and Taxis", "em": 1.0, "f1": 1.0, "info": {"retrieved": 9}}
+{"qid": "15244e85086311ebbd5eac1f6bf848b6", "pred": "The Kaiser'S Shadow", "gold": "The Kaiser'S Shadow", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "a8b7489a08c211ebbd8cac1f6bf848b6", "pred": "Travelling North", "gold": "The Optimists Of Nine Elms", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}
+{"qid": "a92ce88108a811ebbd7fac1f6bf848b6", "pred": "Alarm At Midnight", "gold": "Alarm At Midnight", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "c43dabfa0baf11ebab90acde48001122", "pred": "Sophia Mordaunt", "gold": "Eleanor Redman", "em": 0.0, "f1": 0.0, "info": {"retrieved": 7}}
+{"qid": "09c1b6840bde11eba7f7acde48001122", "pred": "21 October 1514", "gold": "21 October 1514", "em": 1.0, "f1": 1.0, "info": {"retrieved": 5}}
+{"qid": "44687d280bb011ebab90acde48001122", "pred": "Jeanne de Bar, Countess of Marle and Soissons", "gold": "Jeanne de Bar, Countess of Marle and Soissons", "em": 1.0, "f1": 1.0, "info": {"retrieved": 8}}
+{"qid": "d72f1c660bdd11eba7f7acde48001122", "pred": "Aksi fort, North Fergana", "gold": "Fergana", "em": 0.0, "f1": 0.4, "info": {"retrieved": 7}}
+{"qid": "09050ca00bde11eba7f7acde48001122", "pred": "Rio de Janeiro", "gold": "São Paulo", "em": 0.0, "f1": 0.0, "info": {"retrieved": 6}}
+{"qid": "5729cdc0088311ebbd6dac1f6bf848b6", "pred": "How To Save A Marriage And Ruin Your Life", "gold": "How To Save A Marriage And Ruin Your Life", "em": 1.0, "f1": 1.0, "info": {"retrieved": 6}}
+{"qid": "05b761f108e211ebbda3ac1f6bf848b6", "pred": "The Blue Bead", "gold": "Apasionadamente", "em": 0.0, "f1": 0.0, "info": {"retrieved": 8}}

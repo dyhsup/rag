@@ -1,0 +1,200 @@
+{"qid": "mhr9", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1526", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2223", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1147", "pred": "O", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr575", "pred": "Tyreek Hill", "gold": "Tyreek Hill", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr774", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr2386", "pred": "ABC", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr1454", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr1514", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1762", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr331", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr2275", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr2376", "pred": "1", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "mhr921", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr576", "pred": "B", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "mhr159", "pred": "Australia", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr685", "pred": "Department of Homeland Security", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr1591", "pred": "Yes", "gold": "No", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr1395", "pred": "DraftKings and FanDuel", "gold": "Sportsbooks", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr2328", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 1}}
+{"qid": "mhr2064", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr3", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr168", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1710", "pred": "Agree", "gold": "Agree", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1065", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1121", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"steps": 4}}
+{"qid": "mhr537", "pred": "Are follow up questions needed here: Yes", "gold": "Polygon", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "mhr1924", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1089", "pred": "Are follow up questions needed here: Yes", "gold": "Yes", "em": 0.0, "f1": 0.25, "info": {"steps": 4}}
+{"qid": "mhr886", "pred": "The 'Fortune' article suggests that the foundation of FTX's success was based on dishonest practices in a similar way to how 'TechCrunch' alleges Sam Bankman-Fried sought personal gain through fraudulent means.", "gold": "Similar", "em": 0.0, "f1": 0.06451612903225806, "info": {"steps": 3}}
+{"qid": "mhr1647", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1088", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1099", "pred": "Amazon", "gold": "Amazon", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2531", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr2106", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"steps": 4}}
+{"qid": "mhr2336", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1338", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1856", "pred": "OpenAI", "gold": "OpenAI", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr837", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr1763", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1506", "pred": "Escorts Kubota Limited", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr2549", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr803", "pred": "The specific company cannot be determined from the provided text as the articles are not included.", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "mhr1834", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2499", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 5}}
+{"qid": "mhr1476", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr2356", "pred": "Taylor Swift", "gold": "Taylor Swift", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1255", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr299", "pred": "Yes, there was a change in the narrative from focusing on defensive struggles to highlighting a renewed focus on attacking intent.", "gold": "Yes", "em": 0.0, "f1": 0.10526315789473684, "info": {"steps": 2}}
+{"qid": "mhr966", "pred": "Yes", "gold": "No", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr2378", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr479", "pred": "Sam Altman", "gold": "Sam Altman", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1120", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr621", "pred": "Are follow up questions needed here: Yes", "gold": "Yes", "em": 0.0, "f1": 0.25, "info": {"steps": 4}}
+{"qid": "mhr1049", "pred": "Are follow up questions needed here: Yes", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "mhr1813", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr211", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr800", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr1537", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2011", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr2122", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr2457", "pred": "L", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr1773", "pred": "Global Markets", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr645", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr722", "pred": "yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr272", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr615", "pred": "Sportsbooks", "gold": "Sportsbooks", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr306", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr2125", "pred": "Sony Interactive Entertainment", "gold": "Valve", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr789", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr1419", "pred": "Are follow up questions needed here: Yes", "gold": "Taylor Swift and Travis Kelce", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr486", "pred": "The Bankcard division", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "mhr2468", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1579", "pred": "Meta", "gold": "Google", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr402", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr7", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1532", "pred": "Chris Gayle", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr36", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr533", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1846", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr699", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr1063", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2159", "pred": "TotalEnergies", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr50", "pred": "Are follow up questions needed here: Yes", "gold": "Yes", "em": 0.0, "f1": 0.25, "info": {"steps": 3}}
+{"qid": "mhr183", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 1}}
+{"qid": "mhr0", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr119", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1964", "pred": "Yes", "gold": "True", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr2170", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr91", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr689", "pred": "E", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr1503", "pred": "TikTok", "gold": "TikTok", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1791", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1740", "pred": "TikTok", "gold": "YouTube", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "mhr1841", "pred": "Inconsistent", "gold": "Consistent", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr1217", "pred": "consistent", "gold": "Consistent", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr217", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1079", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2325", "pred": "Are follow up questions needed here: Yes", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 1}}
+{"qid": "mhr2365", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 4}}
+{"qid": "mhr98", "pred": "They both agree that Sportsbooks adjust their practices based on certain conditions.", "gold": "Agree", "em": 0.0, "f1": 0.15384615384615385, "info": {"steps": 3}}
+{"qid": "mhr1287", "pred": "Are follow up questions needed here: Yes", "gold": "Minnesota Vikings", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr476", "pred": "consistent", "gold": "Consistent", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2205", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr366", "pred": "Yes", "gold": "True", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr1814", "pred": "Apple", "gold": "Apple", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1969", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr2068", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1509", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr732", "pred": "Angela Ahrendts", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr1517", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr821", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr1054", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"steps": 4}}
+{"qid": "mhr703", "pred": "TextPlus", "gold": "Beeper Mini", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr518", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr840", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr713", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 1}}
+{"qid": "mhr56", "pred": "Calvin Johnson", "gold": "Tyreek Hill", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr61", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 4}}
+{"qid": "mhr236", "pred": "Are follow up questions needed here: Yes", "gold": "ChatGPT", "em": 0.0, "f1": 0.0, "info": {"steps": 6}}
+{"qid": "mhr118", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1874", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr607", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr17", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr74", "pred": "Everton F.C.", "gold": "Everton Football Club", "em": 0.0, "f1": 0.3333333333333333, "info": {"steps": 2}}
+{"qid": "mhr1166", "pred": "Uber", "gold": "Uber", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1996", "pred": "No, the status of their relationship as reported by these sources has not changed; both reports indicate they were dating.", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr844", "pred": "Are follow up questions needed here: Yes", "gold": "Yes", "em": 0.0, "f1": 0.25, "info": {"steps": 1}}
+{"qid": "mhr34", "pred": "Are follow up questions needed here: Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "mhr70", "pred": "Amazon", "gold": "Amazon", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1182", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1490", "pred": "Elizabeth Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.6666666666666666, "info": {"steps": 2}}
+{"qid": "mhr224", "pred": "Splinter", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr1974", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr916", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr307", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr573", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr964", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr501", "pred": "[Character Name]", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr1963", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr2277", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr10", "pred": "Are follow up questions needed here: Yes", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 5}}
+{"qid": "mhr1312", "pred": "UP Warriorz won the match", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr1669", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2212", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1553", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1109", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr1169", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr267", "pred": "X", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr1528", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr705", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1377", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr737", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1727", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr2054", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1679", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr993", "pred": "Google", "gold": "Google", "em": 1.0, "f1": 1.0, "info": {"steps": 4}}
+{"qid": "mhr193", "pred": "They propose different engagement strategies", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr1657", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1307", "pred": "Are follow up questions needed here: Yes", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr723", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr2193", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"steps": 4}}
+{"qid": "mhr1960", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr1173", "pred": "Mike Moulin", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr1736", "pred": "Manchester United", "gold": "Manchester United", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2495", "pred": "Are follow up questions needed here: Yes", "gold": "Sam Altman", "em": 0.0, "f1": 0.0, "info": {"steps": 5}}
+{"qid": "mhr139", "pred": "Are follow up questions needed here: Yes", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 6}}
+{"qid": "mhr1296", "pred": "Before", "gold": "Before", "em": 1.0, "f1": 1.0, "info": {"steps": 5}}
+{"qid": "mhr2490", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 4}}
+{"qid": "mhr400", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr345", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr178", "pred": "Are follow up questions needed here: Yes", "gold": "Google", "em": 0.0, "f1": 0.0, "info": {"steps": 5}}
+{"qid": "mhr811", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1403", "pred": "No", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr2348", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr1973", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1188", "pred": "Yes, the reporting is consistent as both sources indicate that Sam Bankman-Fried was aware of the financial issues.", "gold": "Yes", "em": 0.0, "f1": 0.1111111111111111, "info": {"steps": 2}}
+{"qid": "mhr560", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1252", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2022", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2427", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2383", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr2302", "pred": "Sam Altman", "gold": "Sam Altman", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1146", "pred": "Sam Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1038", "pred": "No, the narrative did not change; both reports confirmed they were dating.", "gold": "no", "em": 0.0, "f1": 0.16666666666666669, "info": {"steps": 2}}
+{"qid": "mhr2373", "pred": "Samuel Bankman-Fried", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.6666666666666666, "info": {"steps": 2}}
+{"qid": "mhr2158", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2047", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr940", "pred": "Yes", "gold": "Yes", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr2127", "pred": "D", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr437", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr2045", "pred": "New Zealand", "gold": "All Blacks", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr1789", "pred": "Yes, there was consistency in the portrayal of Sam Bankman-Fried's actions related to the charges against him in both reports.", "gold": "Yes", "em": 0.0, "f1": 0.09523809523809523, "info": {"steps": 2}}
+{"qid": "mhr1110", "pred": "Taylor Swift", "gold": "Taylor Swift", "em": 1.0, "f1": 1.0, "info": {"steps": 2}}
+{"qid": "mhr1434", "pred": "No", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"steps": 3}}
+{"qid": "mhr1026", "pred": "Yes", "gold": "No", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr2191", "pred": "Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr1046", "pred": "Are follow up questions needed here: Yes", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}
+{"qid": "mhr2534", "pred": "Are follow up questions needed here: Yes", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"steps": 3}}
+{"qid": "mhr1199", "pred": "Are follow up questions needed here: Yes", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"steps": 2}}

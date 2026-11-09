@@ -1,0 +1,20 @@
+{
+  "vanilla": {
+    "n": 200,
+    "em": 0.53,
+    "f1": 0.62925896877913,
+    "file": "results/h3_hotpot200_vanilla.jsonl"
+  },
+  "ircot": {
+    "n": 200,
+    "em": 0.65,
+    "f1": 0.7545254522956136,
+    "file": "results/h3_hotpot200_ircot.jsonl"
+  },
+  "selfask": {
+    "n": 200,
+    "em": 0.295,
+    "f1": 0.37760746287762414,
+    "file": "results/h3_hotpot200_selfask.jsonl"
+  }
+}
