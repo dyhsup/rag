@@ -1,0 +1,20 @@
+{
+  "rewrite": {
+    "n": 50,
+    "em": 0.0,
+    "f1": 0.0,
+    "file": "results/e2e_hotpot50_rewrite.jsonl"
+  },
+  "hyde": {
+    "n": 50,
+    "em": 0.0,
+    "f1": 0.0,
+    "file": "results/e2e_hotpot50_hyde.jsonl"
+  },
+  "decomp": {
+    "n": 50,
+    "em": 0.0,
+    "f1": 0.0,
+    "file": "results/e2e_hotpot50_decomp.jsonl"
+  }
+}

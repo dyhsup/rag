@@ -1,0 +1,50 @@
+{"qid": "4804b7fe08f511ebbdaaac1f6bf848b6", "pred": "", "gold": "Molokai: The Story Of Father Damien", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "570bf6f40bdc11eba7f7acde48001122", "pred": "", "gold": "Medford, Massachusetts", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "6b6abb6808a211ebbd7aac1f6bf848b6", "pred": "", "gold": "Ma And Pa Kettle Go To Town", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "140bbce00bdc11eba7f7acde48001122", "pred": "", "gold": "Fulbright Scholarship", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "8985546c0bdd11eba7f7acde48001122", "pred": "", "gold": "Florentine Republic", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "100c512a0bde11eba7f7acde48001122", "pred": "", "gold": "Cork", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "2b871cac0bdc11eba7f7acde48001122", "pred": "", "gold": "Łódź", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "abb7ff860bdc11eba7f7acde48001122", "pred": "", "gold": "Halberstadt", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "bdfdad5c0bdd11eba7f7acde48001122", "pred": "", "gold": "Austria", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "40b044fb088511ebbd6dac1f6bf848b6", "pred": "", "gold": "yes", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "1cdceb80089111ebbd72ac1f6bf848b6", "pred": "", "gold": "To Be A Lady", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "e183fb620bda11eba7f7acde48001122", "pred": "", "gold": "Korea", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "0b86c27208c611ebbd90ac1f6bf848b6", "pred": "", "gold": "Huma Gun Anmogaldi", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "10e63c10087211ebbd64ac1f6bf848b6", "pred": "", "gold": "Now, Voyager", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "0cc584100bb011ebab90acde48001122", "pred": "", "gold": "Publius Cornelius Scipio", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "e7b05a94088311ebbd6dac1f6bf848b6", "pred": "", "gold": "We'Re Going To Eat You", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "f62ae4f9096911ebbdafac1f6bf848b6", "pred": "", "gold": "Clownery", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "97cee43a0baf11ebab90acde48001122", "pred": "", "gold": "Ebba Brahe", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "fde6ecd60bdc11eba7f7acde48001122", "pred": "", "gold": "Dallas", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "2bd4454c0bda11eba7f7acde48001122", "pred": "", "gold": "Tisch", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "27f6eaa80bb011ebab90acde48001122", "pred": "", "gold": "Sir William Howard", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "ce98e6620bd911eba7f7acde48001122", "pred": "", "gold": "Rome", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "5256bf800bb011ebab90acde48001122", "pred": "", "gold": "Cropley Ashley-Cooper, 6th Earl of Shaftesbury", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "c0085d54088111ebbd6dac1f6bf848b6", "pred": "", "gold": "Counterblast", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "30f417d208e211ebbda3ac1f6bf848b6", "pred": "", "gold": "Death For Sale", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "feea4eb5086411ebbd5eac1f6bf848b6", "pred": "", "gold": "Heinz In The Moon", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "f4cc9d4908b311ebbd86ac1f6bf848b6", "pred": "", "gold": "Trader Tom Of The China Seas", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "18cf460a0bde11eba7f7acde48001122", "pred": "", "gold": "Clinton", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "18dadca00bb011ebab90acde48001122", "pred": "", "gold": "William Cochrane", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "7939c1460bd911eba7f7acde48001122", "pred": "", "gold": "1 March 2012", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "5f2bb1060bd911eba7f7acde48001122", "pred": "", "gold": "French", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "f8aa0d06086311ebbd5eac1f6bf848b6", "pred": "", "gold": "Cast Up By The Sea", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "9068d246089911ebbd77ac1f6bf848b6", "pred": "", "gold": "Sleep, My Love", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "ad4195740bdc11eba7f7acde48001122", "pred": "", "gold": "Sonnac", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "834da99c087111ebbd63ac1f6bf848b6", "pred": "", "gold": "Tanjuska And The 7 Devils", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "1ad2a7c20bdd11eba7f7acde48001122", "pred": "", "gold": "Missoula, Montana", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "4c0e9cbe0bde11eba7f7acde48001122", "pred": "", "gold": "Martaban", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "60736868093d11ebbdaeac1f6bf848b6", "pred": "", "gold": "Thai Mozhi", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "ce4f63cc0bdc11eba7f7acde48001122", "pred": "", "gold": "National Film School in Łódź", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "bc096c180bdb11eba7f7acde48001122", "pred": "", "gold": "20 June 1634", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "e84d4a04089511ebbd75ac1f6bf848b6", "pred": "", "gold": "Das Mädchen Und Der Staatsanwalt", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "dc619d4808b911ebbd88ac1f6bf848b6", "pred": "", "gold": "Chiang Chung-Ling", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "b96df75408a111ebbd79ac1f6bf848b6", "pred": "", "gold": "The Home Song Stories", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "ded103fe0baf11ebab90acde48001122", "pred": "", "gold": "Olof Skötkonung", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "121ddeae0bdc11eba7f7acde48001122", "pred": "", "gold": "Kingdom of Pontus", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "859db3ba0bda11eba7f7acde48001122", "pred": "", "gold": "Paris", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "60ce015a08ad11ebbd83ac1f6bf848b6", "pred": "", "gold": "Calling The Tune", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "79e8f0df08e711ebbda6ac1f6bf848b6", "pred": "", "gold": "Un Taxi Pour Tobrouk", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "abaa3fca08e611ebbda5ac1f6bf848b6", "pred": "", "gold": "Cuando En El Cielo Pasen Lista", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "81dd3a9a08a911ebbd80ac1f6bf848b6", "pred": "", "gold": "The Company'S In Love", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}

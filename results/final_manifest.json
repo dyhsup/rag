@@ -93,6 +93,13 @@
     "metric_scope": "passage-level candidate coverage, not end-to-end EM",
     "hyde_scope": "cross-dataset HyDE requires independent pseudo-document caches and remains excluded where absent"
   },
+  "extra_end_to_end_methods": {
+    "artifact": "results/extra_e2e_methods_report.md",
+    "implementation": "src/extended_e2e_methods.py",
+    "methods": ["query_rewrite", "HyDE", "decomposition_retrieval"],
+    "status": "implemented_but_not_validated",
+    "reason": "LLM endpoints were unavailable during the 50-question runs; zero EM/F1 outputs are service-failure artifacts and excluded from comparison"
+  },
   "known_caveats": [
     "absolute endpoint numbers differ by reader, retriever, CE and stopping protocol; never mix rows without the protocol fields",
     "the causal query-slot result uses gold-plan/controlled binding conditions as specified by the artifact",

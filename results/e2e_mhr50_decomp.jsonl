@@ -1,0 +1,50 @@
+{"qid": "mhr2223", "pred": "", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr9", "pred": "", "gold": "Google", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr2328", "pred": "", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr576", "pred": "", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr2376", "pred": "", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr2275", "pred": "", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr168", "pred": "", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr2064", "pred": "", "gold": "Google", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1088", "pred": "", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr774", "pred": "", "gold": "Google", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr575", "pred": "", "gold": "Tyreek Hill", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1762", "pred": "", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1514", "pred": "", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1065", "pred": "", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1089", "pred": "", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1526", "pred": "", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1099", "pred": "", "gold": "Amazon", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1647", "pred": "", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr685", "pred": "", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr886", "pred": "", "gold": "Similar", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1710", "pred": "", "gold": "Agree", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1395", "pred": "", "gold": "Sportsbooks", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr331", "pred": "", "gold": "Google", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr921", "pred": "", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1454", "pred": "", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1591", "pred": "", "gold": "No", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr2386", "pred": "", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr3", "pred": "", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr2106", "pred": "", "gold": "Google", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr159", "pred": "", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1147", "pred": "", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr2531", "pred": "", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1476", "pred": "", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1121", "pred": "", "gold": "Google", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1924", "pred": "", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr537", "pred": "", "gold": "Polygon", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1338", "pred": "", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr2336", "pred": "", "gold": "Google", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr837", "pred": "", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1763", "pred": "", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr2499", "pred": "", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr621", "pred": "", "gold": "Yes", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1834", "pred": "", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1856", "pred": "", "gold": "OpenAI", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1049", "pred": "", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr1506", "pred": "", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr966", "pred": "", "gold": "No", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr2549", "pred": "", "gold": "Sam Bankman-Fried", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr803", "pred": "", "gold": "Insufficient information.", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
+{"qid": "mhr2378", "pred": "", "gold": "no", "em": 0.0, "f1": 0.0, "info": {"error": "KeyError('\"queries\"')"}}
