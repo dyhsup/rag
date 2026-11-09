@@ -1360,6 +1360,16 @@
     "status": "legacy_or_main_candidate"
   },
   {
+    "file": "results/h3e2e_musique400_rewrite.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 1,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "6d363db973e50ab1cadd0a057d4c99e6c9d7909c8cffd515145bb6df9a058324",
+    "status": "candidate"
+  },
+  {
     "file": "results/g5_trivia_200_vanilla.jsonl",
     "n": 200,
     "bad_json": 0,
@@ -1438,6 +1448,16 @@
     "duplicate_qids": 0,
     "sha256": "93d4ee1d53797f316d5de18d9dde07722136ba40a19376b513eec8f7132c9efc",
     "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/h3e2e_musique400_hyde.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "a796a00d17e63bef491418985cfcb599b52fc292498073f0206f1c31be5eed6d",
+    "status": "candidate"
   },
   {
     "file": "results/h3_musique400_vanilla.jsonl",
@@ -1807,6 +1827,16 @@
     "errors": 0,
     "duplicate_qids": 0,
     "sha256": "e136c8a3436c54ffc162c5e303be7919651fa78d94685de3d47cca820368eef0",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3e2e_musique400_decomp.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 2,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "dfadd2d1104c9eba9fa028d1d60880440767ea3801c101e5defa4ee17e519ed2",
     "status": "candidate"
   },
   {

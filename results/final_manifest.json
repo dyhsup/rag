@@ -125,7 +125,8 @@
     "artifacts": ["results/table_completion_and_solid_experiments.md", "results/robustness_metrics.md", "results/robustness_metrics.json"],
     "h3_e2e_200": {"musique": {"rewrite": 0.155, "hyde": 0.220, "decomp": 0.165}, "wiki2": {"rewrite": 0.395, "hyde": 0.390, "decomp": 0.425}, "hotpot": {"rewrite": 0.525, "hyde": 0.530, "decomp": 0.545}, "mhr": {"rewrite": 0.515, "hyde": 0.540, "decomp": 0.555}},
     "paired_vs_h3_ircot": "reported in robustness_metrics.md",
-    "remaining_blank": "MuSiQue-400 extra methods and same-model CovBind/whole-query rerun remain explicitly pending"
+    "remaining_blank": "same-model H3 CovBind/whole-query rerun remains explicitly pending",
+    "musique400_completion": {"rewrite": 0.16, "hyde": 0.2225, "decomp": 0.1675, "artifact": "results/h3e2e_musique400_completion.md"}
   },
   "anti_fabrication_audit": {
     "artifact": "results/anti_fabrication_audit.md",

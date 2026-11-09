@@ -137,6 +137,10 @@ $$
 
 ## 4 CovBind 方法
 
+![图1：CovBind 方法总览与查询槽单变量反事实](../figures/fig1_method_overview.png)
+
+*图 1：CovBind 总览与查询槽单变量反事实。左侧将多跳问题编译为带依赖边的需求程序；中部虚线框内为干预实验——固定语料、金标、计划、检索器、重排器、reader 与每跳预算，仅替换检索与重排使用的查询槽：上分支使用整句问题（对照），下分支使用前序答案绑定后的需求 r̂₂（CovBind）。绑定使第 2 跳 gold 证据重新进入候选池（dense Recall@50：0.615→0.935），端到端 EM 从 0.170 提升至 0.425（MuSiQue-400，配对 bootstrap 95% CI [+0.210,+0.303]）。矢量版与 LaTeX 图环境见 `figures/fig1_method_overview.pdf` 与 `figures/figures.tex`；TikZ 源码见 `figures/fig1_method_overview.tex`。*
+
 ### 4.1 编译
 
 规划器将问题编译为需求序列，并输出答案类型、依赖位置和关系描述。例如：
@@ -225,6 +229,10 @@ CovBind 使用 cross-encoder 作为工程组件。本文不把 CE 的结构、�
 
 该实验是全文最重要的证据：所有组件保持不变，只有 query slot 变化。
 
+![图2：查询槽反事实 EM 与跳数分层](../figures/fig2_queryslot_counterfactual.png)
+
+*图 2：查询槽反事实。(a) MuSiQue 200/400 题上，仅将查询槽从整句问题替换为绑定需求，EM 分别提升 +0.270 与 +0.255（95% CI）；(b) 按跳数分层后收益依然稳定：2/3/4 跳分别 +0.323、+0.189、+0.197。灰点为整句问题，绿点为绑定需求。*
+
 ### 6.2 绑定恢复后续跳可达性
 
 | hop | 未绑定 dense | 绑定 dense | 未绑定 BM25 | 绑定 BM25 |
@@ -235,6 +243,10 @@ CovBind 使用 cross-encoder 作为工程组件。本文不把 CE 的结构、�
 | 4 | 0.538 | 0.923 | 0.256 | 0.897 |
 
 第 1 hop 的变化来自需求聚焦；第 2–4 hop 的大幅恢复来自中间实体绑定。
+
+![图3：绑定恢复后续跳候选可达性](../figures/fig3_hop_reachability.png)
+
+*图 3：绑定恢复后续跳的候选可达性（逐跳 Recall@50）。第 1 跳提升来自需求聚焦；第 2–4 跳的大幅恢复来自中间实体绑定：dense 从 0.538–0.673 恢复至 0.921–0.935，BM25 从 0.256–0.554 恢复至 0.891–0.940。*
 
 ### 6.3 可达性与选择效率
 
@@ -247,6 +259,10 @@ CovBind 使用 cross-encoder 作为工程组件。本文不把 CE 的结构、�
 
 更强 encoder 抬高了候选可达性，但没有改变逐点选择效率。需求覆盖选择可以接近候选上限，说明候选生成和集合选择是两个不同问题。
 
+![图4：候选可达性与选择效率分解](../figures/fig4_reach_efficiency.png)
+
+*图 4：覆盖损失分解：候选可达性（浅色柱，上限）与覆盖@3（深色柱，实际达到）。BM25、MiniLM、BGE-small 与 HyDE+MiniLM 的候选可达性为 0.610–0.770，但逐点选择效率 η 长期停留在 0.47–0.56：更强编码器抬高上限，而选择效率基本不变。*
+
 ### 6.4 覆盖是 reader 的瓶颈
 
 在 gold 需求、gold binding、20 段池和 $k=2$ 的 2-hop 子集上：
@@ -257,6 +273,10 @@ CovBind 使用 cross-encoder 作为工程组件。本文不把 CE 的结构、�
 | bound requirement | **0.866** | **0.750** | **0.571** |
 
 全证据时 EM 约 0.62–0.65，部分证据时约 0.155–0.169。证据是否齐全是主要变量。
+
+![图5：覆盖选证器、证据完整度与训练/推理 query 分解](../figures/fig5_coverage_bottleneck.png)
+
+*图 5：覆盖而非单段相关性是端到端瓶颈。(a) gold 计划、k=2 的 2 跳子集上，绑定查询槽的覆盖选证器将需求覆盖率 0.598→0.866、全证据率 0.304→0.750、EM 0.268→0.571；(b) 按证据完整度分层，全部需求证据同时出现时 reader EM 约 0.62–0.65，证据不完整时仅约 0.155–0.169；(c) 需求 CE 与问题 CE 使用相同训练题与正负例、仅改变训练/推理 query：推理侧换成绑定需求的覆盖收益远大于训练侧（0.509→0.738 对 0.684→0.738）。*
 
 ### 6.5 训练分布影响小于查询槽
 
@@ -278,12 +298,12 @@ CovBind 使用 cross-encoder 作为工程组件。本文不把 CE 的结构、�
 | 数据集 | Vanilla | Self-Ask | HyDE | IRCoT | CovBind | CovBind-whole-query |
 |---|---:|---:|---:|---:|---:|---:|
 | MuSiQue 200 | .175 | .075 | .205 | .330 | **.440** | .170 |
-| MuSiQue 400 | — | — | — | .255 | **.425** | .170 |
-| 2Wiki 200 | — | — | — | .535 | **.620** | — |
-| HotpotQA 200 | .540 | — | — | .660 | **.680** | — |
-| MultiHopRAG 200 | — | — | — | .465 | .530 | — |
+| MuSiQue 400 | .128 | .060 | .223 | .248 | **.425*** | .170* |
+| 2Wiki 200 | .375 | .265 | .390 | .510 | **.620*** | — |
+| HotpotQA 200 | .530 | .295 | .530 | .650 | **.680*** | — |
+| MultiHopRAG 200 | .480 | .565 | .540 | .485 | .530* | — |
 
-MuSiQue 上 CovBind 超过 IRCoT；把 CovBind 的 query slot 换回整句问题后 EM 回落到 .170。2Wiki 与 HotpotQA 上接近 IRCoT，MultiHopRAG 只有已有 IRCoT/CovBind 端点结果。Self-Ask 与 HyDE 的完整缓存此前仅覆盖 MuSiQue 200；本轮补跑了 MuSiQue 400、2Wiki、HotpotQA、MultiHopRAG 的 Vanilla/Self-Ask。结果和数据格式限制见 `results/method_completion_report.md`。HyDE 仍只在 MuSiQue 200 纳入比较，因为跨数据集伪文档缓存尚未建立；缺失数据不填入伪造数字。完整协议说明见 `results/method_comparison_report.md`。新增 BM25/dense/hybrid 候选可达性方法对照见 `results/additional_methods_report.md`：dense 在低 k 上普遍提高 coverage，但 2Wiki/HotpotQA 在 k=10 饱和，MultiHopRAG 在 k=10 后仍存在不可达证据。Query Rewrite、HyDE 和 decomposition retrieval 的端到端实现已加入。使用 Qwen3.8-27B 八端点服务完成了四数据集各 50 题探索性运行：MuSiQue 的 rewrite/HyDE/decomp EM 为 .160/.300/.160，2Wiki 为 .420/.360/.460，HotpotQA 为 .580/.640/.620，MultiHopRAG 为 .580/.560/.540。结果、服务配置和协议见 `results/h3_end_to_end_report.md`；由于样本为 50 题，不替代主表的 200/400 题结果。随后使用相同八端点将 Vanilla、IRCoT、Self-Ask 扩展到 200/400 题：MuSiQue-200 为 .155/.285/.055，MuSiQue-400 为 .128/.248/.060，2Wiki 为 .375/.510/.265，HotpotQA 为 .530/.650/.295，MultiHopRAG 为 .480/.485/.565。与旧文件按 qid 配对的差异大多落在 bootstrap CI 内，详见 `results/h3_scale_difference_report.md`。进一步补齐了 H3/Qwen3.8-27B 下四数据集 200 题的 Query Rewrite、HyDE 和 decomposition retrieval：MuSiQue 为 .155/.220/.165，2Wiki 为 .395/.390/.425，HotpotQA 为 .525/.530/.545，MultiHopRAG 为 .515/.540/.555；相对同模型 IRCoT 的配对 CI 和待补实验清单见 `results/robustness_metrics.md` 与 `results/table_completion_and_solid_experiments.md`。
+MuSiQue 上 CovBind 超过 IRCoT；把 CovBind 的 query slot 换回整句问题后 EM 回落到 .170。2Wiki 与 HotpotQA 上接近 IRCoT，MultiHopRAG 只有已有 IRCoT/CovBind 端点结果。Self-Ask 与 HyDE 的完整缓存此前仅覆盖 MuSiQue 200；本轮补跑了 MuSiQue 400、2Wiki、HotpotQA、MultiHopRAG 的 Vanilla/Self-Ask。结果和数据格式限制见 `results/method_completion_report.md`。HyDE 仍只在 MuSiQue 200 纳入比较，因为跨数据集伪文档缓存尚未建立；缺失数据不填入伪造数字。完整协议说明见 `results/method_comparison_report.md`。新增 BM25/dense/hybrid 候选可达性方法对照见 `results/additional_methods_report.md`：dense 在低 k 上普遍提高 coverage，但 2Wiki/HotpotQA 在 k=10 饱和，MultiHopRAG 在 k=10 后仍存在不可达证据。Query Rewrite、HyDE 和 decomposition retrieval 的端到端实现已加入。使用 Qwen3.8-27B 八端点服务完成了四数据集各 50 题探索性运行：MuSiQue 的 rewrite/HyDE/decomp EM 为 .160/.300/.160，2Wiki 为 .420/.360/.460，HotpotQA 为 .580/.640/.620，MultiHopRAG 为 .580/.560/.540。结果、服务配置和协议见 `results/h3_end_to_end_report.md`；由于样本为 50 题，不替代主表的 200/400 题结果。随后使用相同八端点将 Vanilla、IRCoT、Self-Ask 扩展到 200/400 题：MuSiQue-200 为 .155/.285/.055，MuSiQue-400 为 .128/.248/.060，2Wiki 为 .375/.510/.265，HotpotQA 为 .530/.650/.295，MultiHopRAG 为 .480/.485/.565。与旧文件按 qid 配对的差异大多落在 bootstrap CI 内，详见 `results/h3_scale_difference_report.md`。进一步补齐了 H3/Qwen3.8-27B 下四数据集 200 题及 MuSiQue-400 的 Query Rewrite、HyDE 和 decomposition retrieval：MuSiQue-200 为 .155/.220/.165，MuSiQue-400 为 .160/.223/.168，2Wiki 为 .395/.390/.425，HotpotQA 为 .525/.530/.545，MultiHopRAG 为 .515/.540/.555；相对同模型 IRCoT 的配对 CI 和逐题完整性见 `results/robustness_metrics.md` 与 `results/h3e2e_musique400_completion.md`。
 
 ### 6.7 端到端与跨数据集
 
@@ -296,6 +316,10 @@ MuSiQue 上 CovBind 超过 IRCoT；把 CovBind 的 query slot 换回整句问题
 | MultiHopRAG 200 | — | 0.465 | 0.530 | +0.065 |
 
 本文不主张跨数据集端到端普适提升。稳定显著收益集中在 MuSiQue；2Wiki 和 HotpotQA 的 domain-CE 端点主要表现为持平。补充的 2Wiki 50 题 query-slot 配对实验中，绑定需求 coverage 从 .475 提升到 .800，hop recall 从 .480 提升到 .795，但该结果使用 top-20 候选和小规模 gold-binding 协议，应作为机制复验而非端到端主表。跨数据集 whole-query BM25 可达性曲线显示，2Wiki/HotpotQA 在 top-10 已饱和，而 MultiHopRAG 在 top-10 仍存在不可达证据，这与方法的结构性适用条件一致。
+
+![图6：跨数据集端到端方法比较](../figures/fig6_end_to_end.png)
+
+*图 6：跨数据集端到端比较（EM）。柱上数字为 CovBind 相对 IRCoT+CE 的增益：MuSiQue 上稳定显著（+0.125/+0.123），2Wiki 与 HotpotQA 基本持平（+0.005/+0.015），MultiHopRAG 为边缘收益（+0.065）。红色横线为将 CovBind 查询槽换回整句问题的反事实（MuSiQue：0.170）；MultiHopRAG 的 Vanilla+CE 无缓存结果，以"—"标示，不填入数字。*
 
 ### 6.7 查询槽收益的跳数分层
 
@@ -320,6 +344,10 @@ MuSiQue 上 CovBind 超过 IRCoT；把 CovBind 的 query slot 换回整句问题
 | MuSiQue 4-hop，$k=2$ | +0.184 | $k<m$ | −0.105 EM |
 
 绑定缺口不是充分条件。预算不足时，覆盖选择可能丢掉末跳证据。
+
+![图7：适用性判据](../figures/fig7_applicability.png)
+
+*图 7：适用性判据：绑定收益需要"绑定缺口 B 大"且"预算 k≥m"同时满足。MuSiQue 2 跳（B=+0.268，k=m）获得 +0.304 EM；2Wiki 缺口小，收益接近零；而 MuSiQue 3/4 跳在 k=2<m 时，逐需求取证挤占末跳预算，端到端 EM 反而下降 −0.200/−0.105。*
 
 ### 6.9 单跳控制与读者维度
 

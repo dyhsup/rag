@@ -140,6 +140,7 @@
 |results/e5_paraphrase.jsonl|540|0|0|340|quarantine_integrity|b694f531c7d6|
 |results/h3e2e_musique200_rewrite.jsonl|200|0|0|0|candidate|4c5e1cd5fbeb|
 |results/e13_select_musique400.jsonl|400|0|0|0|legacy_or_main_candidate|9e791f7b7875|
+|results/h3e2e_musique400_rewrite.jsonl|400|1|0|0|candidate|6d363db973e5|
 |results/g5_trivia_200_vanilla.jsonl|200|0|0|0|candidate|a783bbb61c26|
 |results/e2e_hotpot50_decomp.jsonl|50|50|50|0|exclude_service_failure|dec6e31f16e6|
 |results/h3_wiki2200_selfask.jsonl|200|0|0|0|candidate|d67c8e3cfbf2|
@@ -148,6 +149,7 @@
 |results/g10_squad_200_ircot.jsonl|200|0|0|0|candidate|48d392f68f60|
 |results/h3e2e_wiki2200_rewrite.jsonl|200|0|0|0|candidate|ce46ee2a7003|
 |results/e4_hotpot_vanilla.jsonl|200|0|0|0|legacy_or_main_candidate|93d4ee1d5379|
+|results/h3e2e_musique400_hyde.jsonl|400|0|0|0|candidate|a796a00d17e6|
 |results/h3_musique400_vanilla.jsonl|400|0|0|0|candidate|ae10e7b51268|
 |results/h3_e2e_hotpot50_fix_decomp.jsonl|50|0|0|0|exploratory_valid|6c111de14a03|
 |results/e13_select_musique200_qslotq.jsonl|200|0|0|0|legacy_or_main_candidate|917113699f3c|
@@ -185,6 +187,7 @@
 |results/e13_plans.jsonl|200|0|0|0|legacy_or_main_candidate|800a434550b4|
 |results/e13_gate.jsonl|200|0|0|0|legacy_or_main_candidate|c2950be363aa|
 |results/h3e2e_wiki2200_decomp.jsonl|200|0|0|0|candidate|e136c8a3436c|
+|results/h3e2e_musique400_decomp.jsonl|400|2|0|0|candidate|dfadd2d1104c|
 |results/e4_hotpot_extended_selfask.jsonl|200|0|0|0|legacy_or_main_candidate|90447886b857|
 |results/e13_plans_hotpot200.jsonl|200|0|0|0|legacy_or_main_candidate|8aebcf47a869|
 |results/e18_wiki2_200.jsonl|200|0|0|0|candidate|ef4963d51b4d|
