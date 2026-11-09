@@ -199,6 +199,8 @@ CovBind 使用 cross-encoder 作为工程组件。本文不把 CE 的结构、�
 
 ### 5.3 统计与协议
 
+跨数据集实验并不共享完全相同的 hop 标注：MuSiQue 有原生逐 hop supporting paragraph，2Wiki 使用 evidence 三元组重建需求链，HotpotQA 和 MultiHopRAG 当前缓存主要提供段落级支持。因此，本文只把 MuSiQue 的 6.1–6.5 作为完整因果套件；2Wiki 的 query-slot 结果标为机制复验，HotpotQA/MultiHopRAG 的结果标为 passage-level reachability 和端点控制。协议审计见 `results/cross_dataset_protocol_audit.md`。
+
 方法比较使用按题配对 bootstrap。因果主实验固定计划、reader、reranker、每跳 top-3 和候选池，只改变 `E13_QSLOT`。所有端点数字必须同时注明数据集、候选池、retriever、CE、query slot、计划来源、binding、reader 和停止策略。
 
 ---

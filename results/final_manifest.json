@@ -65,6 +65,7 @@
   },
   "cross_dataset_extended": {
     "artifact": "results/cross_dataset_extended.md",
+    "protocol_audit": "results/cross_dataset_protocol_audit.md",
     "wiki2_slot_50": {"whole_cov": 0.475, "bound_cov": 0.800, "delta": 0.325, "delta_ci": [0.255, 0.400], "whole_hop_recall": 0.480, "bound_hop_recall": 0.795, "whole_full": 0.100, "bound_full": 0.600},
     "whole_bm25_reachability": {
       "wiki2": {"any@1": 0.800, "coverage@1": 0.340, "any@3": 0.970, "coverage@3": 0.6225, "any@5": 0.985, "coverage@5": 0.74375, "any@10": 1.0, "coverage@10": 1.0},
