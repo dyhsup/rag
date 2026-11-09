@@ -1,0 +1,61 @@
+{
+  "status": "final-mainline",
+  "research_claim": "In multi-hop RAG, the dominant failure is often an unbound query slot; binding a preceding answer restores candidate reachability. Remaining loss decomposes into candidate reachability and selection efficiency.",
+  "primary_causal_protocol": {
+    "dataset": "MuSiQue validation musique200/musique400",
+    "plan": "same cached plan within each paired arm",
+    "reader": "same CoT reader",
+    "reranker": "same requirement-trained CE",
+    "budget": "same per-hop top-3",
+    "intervention": "E13_QSLOT=question versus bound requirement",
+    "results": {
+      "musique200": {"whole_em": 0.170, "bound_em": 0.440},
+      "musique400": {"whole_em": 0.170, "bound_em": 0.425},
+      "paired_delta_400": 0.255,
+      "paired_bootstrap_ci_400": [0.210, 0.303]
+    },
+    "artifacts": ["results/e13_select_musique200_gpu.jsonl", "results/e13_select_musique200_gpuq.jsonl", "results/e13_select_musique400_gpu.jsonl", "results/e13_select_musique400_gpuq.jsonl"]
+  },
+  "primary_endpoint_protocol": {
+    "datasets": ["MuSiQue", "2Wiki", "HotpotQA", "MultiHopRAG"],
+    "ce": "dataset-domain CE shared by methods within each dataset",
+    "reader": "CoT/context-aware reader with decision-layer final selection",
+    "retrieval": "dataset-specific final retrieval configuration; MuSiQue final configuration may use hybrid retrieval",
+    "results": {
+      "musique200": {"vanilla_ce": 0.195, "ircot_ce": 0.315, "covbind": 0.430},
+      "musique400": {"vanilla_ce": 0.190, "ircot_ce": 0.302, "covbind": 0.428},
+      "wiki2_200": {"vanilla_ce": 0.475, "ircot_ce": 0.615, "covbind": 0.595},
+      "hotpot_200": {"vanilla_ce": 0.625, "ircot_ce": 0.665, "covbind": 0.675},
+      "mhr_200": {"ircot": 0.465, "covbind": 0.530}
+    },
+    "artifacts": ["docs/03_EXPERIMENTS.md", "results/e13_summary_musique200_gpu.json", "results/e13_summary_musique400_gpu.json"]
+  },
+  "diagnostic_protocol": {
+    "candidate_pool": "MuSiQue pooled 3999 passages, top-50 candidates",
+    "retrievers": ["BM25", "MiniLM", "BGE-small", "HyDE+MiniLM"],
+    "reachability": {"BM25": 0.610, "MiniLM": 0.760, "BGE-small": 0.765, "HyDE+MiniLM": 0.770},
+    "selection_efficiency": "0.47-0.56 for pointwise selection; coverage selection near candidate ceiling",
+    "artifacts": ["results/e1_report.md", "results/e1_gap_analysis.md", "results/e23_aggreg.json"]
+  },
+  "negative_results": [
+    "query rewriting closes 9.5% of measured gap cases",
+    "LLM absolute sufficiency judgment is below base CE on the large real-gap evaluation",
+    "binding gates, consensus, rollback, lookahead, join variants and several matching-side signals did not yield a stable cross-dataset gain",
+    "answer-likelihood marginal utility fails on later hops"
+  ],
+  "legacy_or_exploratory": [
+    "results/e4_report.md",
+    "results/e4_report_musique.md",
+    "results/e4_report_hotpot.md",
+    "results/e24_role_ot_smoke.json",
+    "results/e24_role_ot_v2.json",
+    "results/e26_fact_smoke_v4.json",
+    "results/e26_fact_smoke_v5.json"
+  ],
+  "known_caveats": [
+    "absolute endpoint numbers differ by reader, retriever, CE and stopping protocol; never mix rows without the protocol fields",
+    "the causal query-slot result uses gold-plan/controlled binding conditions as specified by the artifact",
+    "the reachability-selection decomposition is empirical and does not yet provide a parameterized bound",
+    "MuSiQue is the only dataset with the full per-hop causal labels"
+  ]
+}

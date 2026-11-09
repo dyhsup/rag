@@ -1,0 +1,23 @@
+{
+  "experiment": "E24",
+  "method": "requirement-structured first-stage grounding",
+  "implementation": "Role-OT-style structural score",
+  "dataset": "MuSiQue validation",
+  "train_split": "musique1000[400:1000] (existing model only)",
+  "dev_split": "musique1000[200:300]",
+  "eval_split": "musique200[:100]",
+  "plan": "gold",
+  "binding": "gold",
+  "candidate_pool": "per-question 20 passages",
+  "k": 2,
+  "baseline": "bound requirement CE model_hop",
+  "reader": "fixed; off for retrieval screening, optional --read for endpoint check",
+  "random_seed": 42,
+  "metrics": ["candidate_reachability", "selection_efficiency", "coverage@2", "full_evidence_rate", "EM", "F1"],
+  "pass_criteria": {
+    "coverage_delta": 0.03,
+    "paired_bootstrap_ci_excludes_zero": true,
+    "em_delta": 0.02
+  },
+  "stop_criteria": ["coverage delta < 0.03", "EM delta < 0.02", "predicted structure loses >50% of oracle gain", "cross-dataset regression >1pp"]
+}

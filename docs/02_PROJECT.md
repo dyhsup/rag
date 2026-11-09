@@ -1,6 +1,6 @@
 # 项目文档：Binding, not Matching
 
-> 版本：2026-11-05（按最终证据重写）
+> 版本：2026-11-06（主线冻结：query-slot 因果定位与 CovBind 执行语义）
 > 代码：`src/`　实验记录：`results/`　完整实验报告：`docs/03_EXPERIMENTS.md`
 
 ---
@@ -80,7 +80,7 @@ $$\text{cov}(S)\le\underbrace{\frac{|\{i:\exists d\in C,\text{ground}(r_i,d)=1\}
 
 ## 4. 方法：CovBind（查询槽绑定 + 证据覆盖）
 
-> 早期版本称 Plan-Conditioned Grounding（PAG）。2026-11-05 的单变量干预（§5 C1）表明收益的唯一来源是**查询槽**，因此方法名与组件命名随之收敛到 CovBind。
+> 早期版本称 Plan-Conditioned Grounding（PAG）。单变量干预表明收益的稳定来源是**查询槽绑定**，因此方法名与组件命名收敛到 CovBind。CovBind 的贡献是执行语义与可达性诊断，不是新的匹配器训练目标。
 
 ### 4.1 流水线
 

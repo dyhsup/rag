@@ -1,0 +1,25 @@
+{
+  "experiment": "E26 fact grounding smoke",
+  "code": "src/e26_fact_grounding.py",
+  "code_sha256": "pending-after-final-edit",
+  "dataset": "data/raw/musique200.jsonl[:20]",
+  "plan": "gold",
+  "binding": "gold",
+  "candidate_pool": "per-question 20 passages",
+  "k": "m",
+  "structure_parser": "offline explicit relation templates; LLM parser unavailable during run",
+  "structure_selection_uses": ["rendered requirement", "title", "passage", "parsed facts"],
+  "forbidden_at_selection": ["gold answer", "is_gold", "para_idx"],
+  "baseline": "local dist/reqce/model_hop",
+  "baseline_result": {
+    "hop_coverage": 0.8375,
+    "segment_coverage": 0.8375,
+    "full_hop_coverage": 0.7
+  },
+  "structure_result": {
+    "hop_coverage": 0.22916666666666669,
+    "segment_coverage": 0.22916666666666669,
+    "full_hop_coverage": 0.0
+  },
+  "decision": "stop offline-template implementation; no expansion"
+}

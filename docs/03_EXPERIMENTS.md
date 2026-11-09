@@ -988,3 +988,30 @@ $$\text{score}(r,d)=z\big(\mathrm{CE}(r,d)\big)+w_{sup}\,z\big(\mathrm{SUP}(r,d)
 **这个检验覆盖了什么、没覆盖什么**：
 - 覆盖了**加权/组合**层面的偏见：不是我把权重塞错了，dev 自己选 0。
 - 没覆盖**联合训练**层面的偏见（例如为了合取聚合而重训打分器）。但要注意：那样的重训在形式上就等价于 §20.3 的集合级判别器（同一问题的联合打分），而它已经以 AUC 0.690 / 覆盖率 0.502 失败。
+
+### 22.8 E24：需求变量—角色—关系方向的第一阶段 grounding（Role-OT-style 原型）
+
+为检验结构化 grounding 是否能超过需求条件 CE，我们固定 MuSiQue gold plan、gold binding、每题 20 段候选池、k=2 和 `dist/reqce/model_hop`，只替换需求—证据匹配器。结构分数使用标题+段落中的实体重叠、关系族、局部句支持和答案类型兼容；不读取 gold answer。Role-OT 仅是该 grounding 分数的一种实现方式，不作为新的 OT 检索器主张。
+
+| 方法 | coverage@2 | 全证据率 |
+|---|---:|---:|
+| 需求 CE（`seq_ce`） | 0.7308 | 0.4200 |
+| 结构 grounding（`role_ot`） | 0.5025 | 0.2200 |
+| 结构 coverage 选择 | 0.4733 | 0.1600 |
+| CE + 结构分数 | **0.7358** | 0.4300 |
+
+相对需求 CE，结构 grounding 下降 22.83 个百分点，结构 coverage 下降 25.75 个百分点，CE+结构仅上升 0.50 个百分点，均未达到预注册的 +3pp coverage 通过线。因此停止该手工结构原型的扩展。结果文件：`results/e24_role_ot_smoke.json`、`results/e24_role_ot_v2.json`、`results/e24_role_ot_report.md`。
+
+该负结果只否定“手工关系词表 + 表面实体启发式”的低成本实现，不否定结构化 grounding 问题本身。还需注意：本实验使用 gold binding，且结构分数使用 title+passage、CE 只使用 passage；因此它是 oracle-binding 筛选，不是最终公平端到端判决。若继续，仅允许一次独立 dev 训练的结构感知 matcher/事实抽取器复验，并统一 title/passage 输入、2-hop/k=m 分层和源文件 hash；否则主线收束为查询槽因果定位、候选可达性判据和系统负结果。
+
+### 22.9 E26：结构事实 grounding 工程 smoke test
+
+为避免把训练 matcher 当作算法创新，先用一个独立的结构事实 grounding 工程实现做小规模测试。实验固定 MuSiQue 前 20 题、gold plan、gold binding、每题 20 段候选池和 `k=m`；选择阶段不使用 gold answer、`is_gold` 或 `para_idx`。结构解析采用显式关系模板；由于本次运行期间 LLM 解析服务不可用，实际使用离线回退解析器。
+
+| 方法 | hop coverage | segment coverage | full-hop coverage |
+|---|---:|---:|---:|
+| 结构事实 grounding | 0.2292 | 0.2292 | 0.0000 |
+| 需求 CE（remote/default） | 0.8083 | 0.8083 | 0.6500 |
+| 需求 CE（local `dist/reqce/model_hop`） | **0.8375** | **0.8375** | **0.7000** |
+
+最新 E26 运行使用 local `dist/reqce/model_hop` 作为公平基线；平均每题抽取事实 13.0 条。离线模板把普通 “as” 结构误识别为 `played`，产生明显伪事实，因此该实现只作为工程 smoke test，不扩展、不作为算法结论。完整记录见 `results/e26_fact_grounding_report.md`，原始结果见 `results/e26_fact_smoke_v4.json`。
