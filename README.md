@@ -49,6 +49,7 @@ $$\text{gap 消除率}=\underbrace{\text{候选可达性}}_{\text{绑定/第一�
 | 语义 gap 占比（chunk 级） | **17.6%**（dense）/ 23.6%（BM25） |
 | gap 消除 | 改写 9.5% / 陈述句 31.6% / **CE 35.8%** |
 | 真实口径统一对照（582 case） | base CE 0.198 / 蒸馏 0.227 / LLM 0.170 / BM25 0.081（closure@3） |
+| 跨集whole-query BM25 coverage@10 | 2Wiki 1.000 / Hotpot 1.000 / MultiHopRAG 0.844 |
 
 ## 代码
 

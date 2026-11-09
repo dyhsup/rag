@@ -1,0 +1,1895 @@
+{
+  "summary": {
+    "dataset": "wiki2_200.jsonl",
+    "n": 50,
+    "k": 2,
+    "topk": 20,
+    "model": "models/ce_5dataset/models/wiki2",
+    "whole_cov": 0.475,
+    "seq_cov": 0.8,
+    "delta_cov": 0.325,
+    "delta_cov_ci": [
+      0.255,
+      0.4
+    ],
+    "whole_full": 0.1,
+    "seq_full": 0.6,
+    "hop_recall_whole": 0.48,
+    "hop_recall_seq": 0.795,
+    "mean_hop_rank_bound": 1.5
+  },
+  "records": [
+    {
+      "qid": "100c512a0bde11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        0,
+        1
+      ],
+      "seq_hop": [
+        1,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        3
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Charles James Mathew father ?"
+        },
+        {
+          "hop": 1,
+          "rank": 3,
+          "bound_query": "Sir James Charles Mathew place of burial ?"
+        }
+      ]
+    },
+    {
+      "qid": "9068d246089911ebbd77ac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.0,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        5,
+        1,
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 5,
+          "bound_query": "The More the Merrier director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Sleep, My Love director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 1,
+          "bound_query": "George Stevens date of death ?"
+        },
+        {
+          "hop": 3,
+          "rank": 2,
+          "bound_query": "Douglas Sirk date of death ?"
+        }
+      ]
+    },
+    {
+      "qid": "ad4195740bdc11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        1
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 1,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Octavie Coudreau spouse ?"
+        },
+        {
+          "hop": 1,
+          "rank": 2,
+          "bound_query": "Henri Coudreau place of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "feea4eb5086411ebbd5eac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.25,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Gold for the Caesars director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Heinz in the Moon director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 1,
+          "bound_query": "Andre DeToth date of death ?"
+        },
+        {
+          "hop": 3,
+          "rank": 2,
+          "bound_query": "Robert A. Stemmle date of death ?"
+        }
+      ]
+    },
+    {
+      "qid": "e183fb620bda11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        1
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 1,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Queen Jeongsun spouse ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Wonjong place of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "abb7ff860bdc11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "A Day of Roses in August director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 2,
+          "bound_query": "Max Mack place of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "834da99c087111ebbd63ac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.25,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        3,
+        1,
+        3
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "I Cannot Say \"Farewell\" director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 3,
+          "bound_query": "Tanjuska and the 7 Devils director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 1,
+          "bound_query": "Boris Durov date of birth ?"
+        },
+        {
+          "hop": 3,
+          "rank": 3,
+          "bound_query": "Pirjo Honkasalo date of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "f4cc9d4908b311ebbd86ac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Trader Tom of the China Seas director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Lykkens musikanter director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 1,
+          "bound_query": "Franklin Adreon date of birth ?"
+        },
+        {
+          "hop": 3,
+          "rank": 2,
+          "bound_query": "Peer Guldbrandsen date of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "6b6abb6808a211ebbd7aac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.25,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        7,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Ma and Pa Kettle Go to Town director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Malibu Express director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 7,
+          "bound_query": "Charles Lamont date of death ?"
+        },
+        {
+          "hop": 3,
+          "rank": 2,
+          "bound_query": "Andy Sidaris date of death ?"
+        }
+      ]
+    },
+    {
+      "qid": "ce98e6620bd911eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Alessandro Ruspoli, 2nd Prince of Cerveteri father ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Francesco Maria Marescotti Ruspoli place of death ?"
+        }
+      ]
+    },
+    {
+      "qid": "570bf6f40bdc11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Timber Falls director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Tony Giglio place of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "fde6ecd60bdc11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        1
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 1,
+      "seq_full": 1,
+      "hop_ranks": [
+        2,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 2,
+          "bound_query": "Euphoria performer ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Usher place of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "27f6eaa80bb011ebab90acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        0,
+        1
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        4
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Edward Howard, 2nd Earl of Carlisle father ?"
+        },
+        {
+          "hop": 1,
+          "rank": 4,
+          "bound_query": "Charles Howard father ?"
+        }
+      ]
+    },
+    {
+      "qid": "1ad2a7c20bdd11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        0,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "In Heaven performer ?"
+        },
+        {
+          "hop": 1,
+          "rank": 2,
+          "bound_query": "David Lynch place of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "f8aa0d06086311ebbd5eac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.25,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "seq_hop": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Remember the Day director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Cast Up by the Sea director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 1,
+          "bound_query": "Henry King (director) date of death ?"
+        },
+        {
+          "hop": 3,
+          "rank": 2,
+          "bound_query": "John Gavin (director) date of death ?"
+        }
+      ]
+    },
+    {
+      "qid": "2bd4454c0bda11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Before Sunset composer ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Julie Delpy educated at ?"
+        }
+      ]
+    },
+    {
+      "qid": "f62ae4f9096911ebbdafac1f6bf848b6",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Brudebuketten publication date ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Clownery publication date ?"
+        }
+      ]
+    },
+    {
+      "qid": "8985546c0bdd11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.0,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Clarice Orsini spouse ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Lorenzo de' Medici country of citizenship ?"
+        }
+      ]
+    },
+    {
+      "qid": "bdfdad5c0bdd11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "The Sweetest Fruits director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 2,
+          "bound_query": "Franz Antel country of citizenship ?"
+        }
+      ]
+    },
+    {
+      "qid": "97cee43a0baf11ebab90acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.0,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Magnus Julius De la Gardie father ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Axel Julius de la Gardie mother ?"
+        }
+      ]
+    },
+    {
+      "qid": "c0085d54088111ebbd6dac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.25,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "High Society Blues director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Counterblast director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 1,
+          "bound_query": "David Butler (director) date of death ?"
+        },
+        {
+          "hop": 3,
+          "rank": 2,
+          "bound_query": "Paul L. Stein date of death ?"
+        }
+      ]
+    },
+    {
+      "qid": "10e63c10087211ebbd64ac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "A Demon for Trouble director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Now, Voyager director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 1,
+          "bound_query": "Robert F. Hill date of birth ?"
+        },
+        {
+          "hop": 3,
+          "rank": 1,
+          "bound_query": "Irving Rapper date of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "0b86c27208c611ebbd90ac1f6bf848b6",
+      "n_hops": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        1
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 1,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "This Night Is Still Ours publication date ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Huma Gun Anmogaldi publication date ?"
+        }
+      ]
+    },
+    {
+      "qid": "30f417d208e211ebbda3ac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        2,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Death for Sale director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "The Fitzgerald Family Christmas director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 2,
+          "bound_query": "Faouzi Bensaïdi date of birth ?"
+        },
+        {
+          "hop": 3,
+          "rank": 2,
+          "bound_query": "Edward Burns date of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "2b871cac0bdc11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Write and Fight director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Wojciech Jerzy Has place of death ?"
+        }
+      ]
+    },
+    {
+      "qid": "7939c1460bd911eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "The Sparrow's Fluttering composer ?"
+        },
+        {
+          "hop": 1,
+          "rank": 2,
+          "bound_query": "Lucio Dalla date of death ?"
+        }
+      ]
+    },
+    {
+      "qid": "4804b7fe08f511ebbdaaac1f6bf848b6",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        0,
+        1
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Molokai: The Story of Father Damien publication date ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Brahma – The Creator publication date ?"
+        }
+      ]
+    },
+    {
+      "qid": "140bbce00bdc11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Sad Song of Yellow Skin director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Michael Rubbo award received ?"
+        }
+      ]
+    },
+    {
+      "qid": "18cf460a0bde11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        4,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 4,
+          "bound_query": "Alexander Pollock Moore spouse ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Lillian Russell place of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "18dadca00bb011ebab90acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "George Augustus Frederick Cochrane father ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Thomas Cochrane, 8th Earl of Dundonald father ?"
+        }
+      ]
+    },
+    {
+      "qid": "1cdceb80089111ebbd72ac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        2,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Varakatnam director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "To Be a Lady director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 2,
+          "bound_query": "N. T. Rama Rao date of death ?"
+        },
+        {
+          "hop": 3,
+          "rank": 1,
+          "bound_query": "George King (film director) date of death ?"
+        }
+      ]
+    },
+    {
+      "qid": "e7b05a94088311ebbd6dac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Paattinte Palazhy director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "We're Going to Eat You director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 1,
+          "bound_query": "Rajiv Anchal date of birth ?"
+        },
+        {
+          "hop": 3,
+          "rank": 2,
+          "bound_query": "Tsui Hark date of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "5f2bb1060bd911eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "La Yuma director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 2,
+          "bound_query": "Florence Jaugey country of citizenship ?"
+        }
+      ]
+    },
+    {
+      "qid": "5256bf800bb011ebab90acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.0,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        0,
+        0
+      ],
+      "seq_hop": [
+        0,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        10,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 10,
+          "bound_query": "Anthony Ashley-Cooper, 8th Earl of Shaftesbury father ?"
+        },
+        {
+          "hop": 1,
+          "rank": 2,
+          "bound_query": "Anthony Ashley-Cooper, 7th Earl of Shaftesbury father ?"
+        }
+      ]
+    },
+    {
+      "qid": "40b044fb088511ebbd6dac1f6bf848b6",
+      "n_hops": 2,
+      "whole_cov": 1.0,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        1
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 1,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Janise Yntema country of citizenship ?"
+        },
+        {
+          "hop": 1,
+          "rank": 2,
+          "bound_query": "Bianca Halstead country of citizenship ?"
+        }
+      ]
+    },
+    {
+      "qid": "0cc584100bb011ebab90acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        2,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 2,
+          "bound_query": "Aemilia Tertia spouse ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Scipio Africanus father ?"
+        }
+      ]
+    },
+    {
+      "qid": "4c0e9cbe0bde11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        3
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Baw Ngan-Mohn father ?"
+        },
+        {
+          "hop": 1,
+          "rank": 3,
+          "bound_query": "Binnya U place of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "60736868093d11ebbdaeac1f6bf848b6",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "How To Avoid Everything publication date ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Thai Mozhi publication date ?"
+        }
+      ]
+    },
+    {
+      "qid": "ce4f63cc0bdc11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        2,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 2,
+          "bound_query": "Ręce do góry director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Jerzy Skolimowski educated at ?"
+        }
+      ]
+    },
+    {
+      "qid": "bc096c180bdb11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        2,
+        3
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 2,
+          "bound_query": "Marie Jeanne Baptiste of Savoy-Nemours spouse ?"
+        },
+        {
+          "hop": 1,
+          "rank": 3,
+          "bound_query": "Charles Emmanuel II date of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "e84d4a04089511ebbd75ac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.25,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Don't Take Me Home director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Das Mädchen und der Staatsanwalt director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 1,
+          "bound_query": "Jonny Owen date of birth ?"
+        },
+        {
+          "hop": 3,
+          "rank": 1,
+          "bound_query": "Jürgen Goslar date of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "dc619d4808b911ebbd88ac1f6bf848b6",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Chiang Chung-ling date of death ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "George Andreadis date of death ?"
+        }
+      ]
+    },
+    {
+      "qid": "b96df75408a111ebbd79ac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.25,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 3,
+          "bound_query": "The Home Song Stories director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 2,
+          "bound_query": "The Sterile Cuckoo director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 2,
+          "bound_query": "Tony Ayres date of birth ?"
+        },
+        {
+          "hop": 3,
+          "rank": 2,
+          "bound_query": "Alan J. Pakula date of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "ded103fe0baf11ebab90acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Vyacheslav Yaroslavich mother ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Ingegerd Olofsdotter of Sweden father ?"
+        }
+      ]
+    },
+    {
+      "qid": "121ddeae0bdc11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Hypsicratea spouse ?"
+        },
+        {
+          "hop": 1,
+          "rank": 2,
+          "bound_query": "Mithridates VI of Pontus country of citizenship ?"
+        }
+      ]
+    },
+    {
+      "qid": "859db3ba0bda11eba7f7acde48001122",
+      "n_hops": 2,
+      "whole_cov": 0.5,
+      "seq_cov": 1.0,
+      "whole_hop": [
+        1,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1
+      ],
+      "whole_full": 0,
+      "seq_full": 1,
+      "hop_ranks": [
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Mistress of the Devil director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 2,
+          "bound_query": "Juan Luis Buñuel place of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "60ce015a08ad11ebbd83ac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Anjaan Hai Koi director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Calling the Tune director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 1,
+          "bound_query": "Babubhai Mistry date of birth ?"
+        },
+        {
+          "hop": 3,
+          "rank": 1,
+          "bound_query": "Reginald Denham date of birth ?"
+        }
+      ]
+    },
+    {
+      "qid": "79e8f0df08e711ebbda6ac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Un taxi pour Tobrouk director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "An Uncertain Season director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 1,
+          "bound_query": "Denys de La Patellière date of death ?"
+        },
+        {
+          "hop": 3,
+          "rank": 2,
+          "bound_query": "Ladislav Smoljak date of death ?"
+        }
+      ]
+    },
+    {
+      "qid": "abaa3fca08e611ebbda5ac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        2,
+        1
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "Cuando en el cielo pasen lista director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "The Killer Likes Candy director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 2,
+          "bound_query": "Carlos F. Borcosque date of death ?"
+        },
+        {
+          "hop": 3,
+          "rank": 1,
+          "bound_query": "Maurice Cloche date of death ?"
+        }
+      ]
+    },
+    {
+      "qid": "81dd3a9a08a911ebbd80ac1f6bf848b6",
+      "n_hops": 4,
+      "whole_cov": 0.5,
+      "seq_cov": 0.5,
+      "whole_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "seq_hop": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "whole_full": 0,
+      "seq_full": 0,
+      "hop_ranks": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "hoprows": [
+        {
+          "hop": 0,
+          "rank": 1,
+          "bound_query": "The Company's in Love director ?"
+        },
+        {
+          "hop": 1,
+          "rank": 1,
+          "bound_query": "Punyakoti director ?"
+        },
+        {
+          "hop": 2,
+          "rank": 1,
+          "bound_query": "Max Ophüls date of birth ?"
+        },
+        {
+          "hop": 3,
+          "rank": 2,
+          "bound_query": "Ravi Shankar date of birth ?"
+        }
+      ]
+    }
+  ]
+}

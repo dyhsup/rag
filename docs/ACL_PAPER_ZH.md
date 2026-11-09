@@ -279,7 +279,7 @@ CovBind 使用 cross-encoder 作为工程组件。本文不把 CE 的结构、�
 | HotpotQA 200 | 0.625 | 0.665 | 0.680 | +0.015 |
 | MultiHopRAG 200 | — | 0.465 | 0.530 | +0.065 |
 
-本文不主张跨数据集普适提升。稳定显著收益集中在 MuSiQue；2Wiki 和 HotpotQA 主要表现为持平。
+本文不主张跨数据集端到端普适提升。稳定显著收益集中在 MuSiQue；2Wiki 和 HotpotQA 的 domain-CE 端点主要表现为持平。补充的 2Wiki 50 题 query-slot 配对实验中，绑定需求 coverage 从 .475 提升到 .800，hop recall 从 .480 提升到 .795，但该结果使用 top-20 候选和小规模 gold-binding 协议，应作为机制复验而非端到端主表。跨数据集 whole-query BM25 可达性曲线显示，2Wiki/HotpotQA 在 top-10 已饱和，而 MultiHopRAG 在 top-10 仍存在不可达证据，这与方法的结构性适用条件一致。
 
 ### 6.7 查询槽收益的跳数分层
 
