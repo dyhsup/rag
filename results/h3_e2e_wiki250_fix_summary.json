@@ -1,0 +1,8 @@
+{
+  "decomp": {
+    "n": 50,
+    "em": 0.46,
+    "f1": 0.5174444444444445,
+    "file": "results/h3_e2e_wiki250_fix_decomp.jsonl"
+  }
+}

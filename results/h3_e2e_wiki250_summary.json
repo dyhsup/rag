@@ -1,0 +1,20 @@
+{
+  "rewrite": {
+    "n": 50,
+    "em": 0.42,
+    "f1": 0.4945873015873016,
+    "file": "results/h3_e2e_wiki250_rewrite.jsonl"
+  },
+  "hyde": {
+    "n": 50,
+    "em": 0.36,
+    "f1": 0.4117301587301588,
+    "file": "results/h3_e2e_wiki250_hyde.jsonl"
+  },
+  "decomp": {
+    "n": 50,
+    "em": 0.0,
+    "f1": 0.0,
+    "file": "results/h3_e2e_wiki250_decomp.jsonl"
+  }
+}

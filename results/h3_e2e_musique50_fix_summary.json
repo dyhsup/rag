@@ -1,0 +1,8 @@
+{
+  "decomp": {
+    "n": 50,
+    "em": 0.16,
+    "f1": 0.26486778711484593,
+    "file": "results/h3_e2e_musique50_fix_decomp.jsonl"
+  }
+}

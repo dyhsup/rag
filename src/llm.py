@@ -11,11 +11,9 @@ import time
 
 import requests
 
-ENDPOINTS = [
-    "http://10.94.199.216:8000/v1",
-    "http://10.94.199.217:8000/v1",
-]
-MODEL = "qwen3.6-27b"
+_HOST = "http://10.206.122.203"
+ENDPOINTS = [f"{_HOST}:{p}/v1" for p in range(8000, 8008)]
+MODEL = "/root/paddlejob/workspace/env_run/output/models/Qwen3.8-27B"
 
 
 class LLM:

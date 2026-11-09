@@ -13,7 +13,7 @@ from .e4_pipeline import fmt,READ,topk
 ROOT=os.path.abspath(os.path.join(os.path.dirname(__file__),'..'));RES=os.path.join(ROOT,'results')
 REWRITE='''Rewrite the question into one concise search query that preserves all entities and constraints. Output only the query. Question: {q}'''
 HYDE='''Write a short factual Wikipedia-style passage that would answer this question. Output only the passage, no caveats. Question: {q}'''
-DECOMP='''Split the question into 2-4 independent search queries, each answerable from one passage. Output JSON only: {"queries":["..."]}. Question: {q}'''
+DECOMP='''Split the question into 2-4 independent search queries, each answerable from one passage. Output JSON only: {{"queries":["..."]}}. Question: {q}'''
 def load_data(data):
  p=os.path.join(ROOT,'data','raw',data)
  if data.startswith('hotpot'):return load_questions(p)

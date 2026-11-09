@@ -1,0 +1,8 @@
+{
+  "decomp": {
+    "n": 50,
+    "em": 0.62,
+    "f1": 0.7217627179904218,
+    "file": "results/h3_e2e_hotpot50_fix_decomp.jsonl"
+  }
+}

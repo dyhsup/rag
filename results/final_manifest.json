@@ -100,6 +100,20 @@
     "status": "implemented_but_not_validated",
     "reason": "LLM endpoints were unavailable during the 50-question runs; zero EM/F1 outputs are service-failure artifacts and excluded from comparison"
   },
+  "h3_qwen38_extended": {
+    "artifact": "results/h3_end_to_end_report.md",
+    "service": "10.206.122.203:8000-8007",
+    "model": "/root/paddlejob/workspace/env_run/output/models/Qwen3.8-27B",
+    "cache": "cache/llm_h3.sqlite",
+    "n": 50,
+    "results": {
+      "musique": {"rewrite": [0.16, 0.2888], "hyde": [0.30, 0.4354], "decomp": [0.16, 0.2649]},
+      "wiki2": {"rewrite": [0.42, 0.4946], "hyde": [0.36, 0.4117], "decomp": [0.46, 0.5174]},
+      "hotpot": {"rewrite": [0.58, 0.6997], "hyde": [0.64, 0.7551], "decomp": [0.62, 0.7218]},
+      "mhr": {"rewrite": [0.58, 0.63], "hyde": [0.56, 0.6104], "decomp": [0.54, 0.6176]}
+    },
+    "scope": "50-question exploratory; not pooled with main endpoint tables"
+  },
   "known_caveats": [
     "absolute endpoint numbers differ by reader, retriever, CE and stopping protocol; never mix rows without the protocol fields",
     "the causal query-slot result uses gold-plan/controlled binding conditions as specified by the artifact",

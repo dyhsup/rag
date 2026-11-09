@@ -1,0 +1,20 @@
+{
+  "rewrite": {
+    "n": 50,
+    "em": 0.16,
+    "f1": 0.2887931839402428,
+    "file": "results/h3_e2e_musique50_rewrite.jsonl"
+  },
+  "hyde": {
+    "n": 50,
+    "em": 0.3,
+    "f1": 0.4354100670571258,
+    "file": "results/h3_e2e_musique50_hyde.jsonl"
+  },
+  "decomp": {
+    "n": 50,
+    "em": 0.0,
+    "f1": 0.0,
+    "file": "results/h3_e2e_musique50_decomp.jsonl"
+  }
+}

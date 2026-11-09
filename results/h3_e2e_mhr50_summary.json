@@ -1,0 +1,20 @@
+{
+  "rewrite": {
+    "n": 50,
+    "em": 0.58,
+    "f1": 0.6300000000000001,
+    "file": "results/h3_e2e_mhr50_rewrite.jsonl"
+  },
+  "hyde": {
+    "n": 50,
+    "em": 0.56,
+    "f1": 0.6103529411764705,
+    "file": "results/h3_e2e_mhr50_hyde.jsonl"
+  },
+  "decomp": {
+    "n": 50,
+    "em": 0.0,
+    "f1": 0.0,
+    "file": "results/h3_e2e_mhr50_decomp.jsonl"
+  }
+}

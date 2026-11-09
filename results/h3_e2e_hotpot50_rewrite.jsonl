@@ -1,0 +1,50 @@
+{"qid": "5add1d575542992c1e3a2540", "pred": "German", "gold": "Prussian", "em": 0.0, "f1": 0.0, "info": {"query": "Oliver Reed character nationality Royal Flash"}}
+{"qid": "5ac1a4745542991316484b82", "pred": "Adelaide", "gold": "138,535", "em": 0.0, "f1": 0.0, "info": {"query": "Para Hills West South Australia city estimated population"}}
+{"qid": "5adc597d55429947ff17392f", "pred": "1959", "gold": "1959", "em": 1.0, "f1": 1.0, "info": {"query": "birth year of narrator of Blackadder's Christmas Carol"}}
+{"qid": "5a7133565542994082a3e65c", "pred": "Oldham County", "gold": "Oldham County", "em": 1.0, "f1": 1.0, "info": {"query": "Kentucky county population 60,316 Lake Louisvilla neighborhood"}}
+{"qid": "5ac3a76e554299741d48a2be", "pred": "U2", "gold": "U2", "em": 1.0, "f1": 1.0, "info": {"query": "Jai McDowall vs U2 \"With or Without You\" release date"}}
+{"qid": "5ac55ea55542993e66e82377", "pred": "Kurt Weill", "gold": "Kurt Julian Weill", "em": 0.0, "f1": 0.8, "info": {"query": "Pacific Mozart Ensemble Der Lindberghflug 2002 German composer"}}
+{"qid": "5ae70ed7554299572ea546a1", "pred": "Charlie Murphy", "gold": "Charlie Murphy", "em": 1.0, "f1": 1.0, "info": {"query": "Victor Varnada Twisted Fortune Eddie Murphy brother"}}
+{"qid": "5a8d9e0f554299441c6ba015", "pred": "Vaisakhi List", "gold": "Vaisakhi List", "em": 1.0, "f1": 1.0, "info": {"query": "2016 Punjabi film directed by Smeep Kang starring actor who played Gutthi on Comedy Nights with Kapil"}}
+{"qid": "5a7cb94f554299683c1c6353", "pred": "Como Ama", "gold": "The Hungry", "em": 0.0, "f1": 0.0, "info": {"query": "Joseph Edgar Foreman fifth studio album first two words"}}
+{"qid": "5ac55e835542993e66e82375", "pred": "October 25, 1881", "gold": "October 25, 1881", "em": 1.0, "f1": 1.0, "info": {"query": "When was the gunfight at the O.K. Corral where John Henry Holliday was accused of killing men and defended by Thomas Fitch"}}
+{"qid": "5ab874ba5542990e739ec904", "pred": "General Omar Bradley", "gold": "Joint Chiefs of Staff", "em": 0.0, "f1": 0.0, "info": {"query": "Twelfth United States Army Group commander first chairman of"}}
+{"qid": "5a74a8fa55429929fddd8497", "pred": "Dudman", "gold": "Dudman", "em": 1.0, "f1": 1.0, "info": {"query": "Industrial Chaplain to the Bishop of Lincoln after curacy at Scunthorpe suburb"}}
+{"qid": "5ae3a8985542992f92d82329", "pred": "Rensselaer County", "gold": "Rensselaer County", "em": 1.0, "f1": 1.0, "info": {"query": "Lyman Sherwood birthplace New York county"}}
+{"qid": "5ae27b535542996483e649b6", "pred": "Axl Rose", "gold": "Axl Rose", "em": 1.0, "f1": 1.0, "info": {"query": "lead singer of the band that performed \"November Rain\""}}
+{"qid": "5a7c6c9d554299683c1c6302", "pred": "Freeport, New York", "gold": "Nassau County", "em": 0.0, "f1": 0.0, "info": {"query": "Duffy Jackson birth county"}}
+{"qid": "5ac15de55542991316484afb", "pred": "no", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"query": "Crazy Love and Welcome to Nollywood release year 2008"}}
+{"qid": "5ac39f7b554299218029dbe7", "pred": "William Grove (Bill) Skelly, Chesley Coleman Herndon and Frederick A. Pielsticker", "gold": "Harry F. Sinclair", "em": 0.0, "f1": 0.0, "info": {"query": "Robert Earl Holding oil company original founder"}}
+{"qid": "5a7331de5542994cef4bc4a8", "pred": "Tenerife airport disaster", "gold": "On March 27, 1977, two Boeing 747 passenger jets, KLM Flight 4805 and Pan Am Flight 1736, collided on the runway at Los Rodeos Airport (now Tenerife North Airport)", "em": 0.0, "f1": 0.12903225806451613, "info": {"query": "Charhki Dadri crash vs Tenerife airport disaster which occurred first"}}
+{"qid": "5a8cea40554299441c6b9f76", "pred": "Gasherbrum II", "gold": "Gasherbrum II", "em": 1.0, "f1": 1.0, "info": {"query": "Gasherbrum II vs Langtang Ri height comparison"}}
+{"qid": "5ab5ecd75542992aa134a3e6", "pred": "John de Mol Jr.", "gold": "John de Mol Jr.", "em": 1.0, "f1": 1.0, "info": {"query": "Dutch media tycoon transferred all media activities to Talpa Holding"}}
+{"qid": "5ae6363b55429929b0807af0", "pred": "Ole Einar Bjørndalen", "gold": "27 January 1974", "em": 0.0, "f1": 0.0, "info": {"query": "birth date of 2009–10 Biathlon World Cup – Pursuit Men defending champion"}}
+{"qid": "5a8ce15d554299653c1aa12f", "pred": "no", "gold": "yes", "em": 0.0, "f1": 0.0, "info": {"query": "Robert Wise vs Zoltan Korda award nominations"}}
+{"qid": "5adeacf955429975fa854f66", "pred": "Rachel Maddow", "gold": "Rachel Anne Maddow", "em": 0.0, "f1": 0.8, "info": {"query": "commentator author questioned validity CORE non-profit status"}}
+{"qid": "5a84c5545542991dd0999dee", "pred": "Plymouth Barracuda", "gold": "1974", "em": 0.0, "f1": 0.0, "info": {"query": "Pentastar: In the Style of Demons cover car production end date"}}
+{"qid": "5ab2a186554299295394677b", "pred": "2009", "gold": "2009", "em": 1.0, "f1": 1.0, "info": {"query": "When did the English local newspaper featuring the sculpture and war memorial in Forbury Gardens change its name"}}
+{"qid": "5ade4da055429939a52fe878", "pred": "15 June 1985", "gold": "1985", "em": 0.0, "f1": 0.5, "info": {"query": "Year founded of the Japanese animation studio that produced My Neighbor Totoro"}}
+{"qid": "5a7c634c55429907fabeef79", "pred": "Clement Greenberg", "gold": "Clement Greenberg", "em": 1.0, "f1": 1.0, "info": {"query": "Agatha Christie vs Clement Greenberg death dates"}}
+{"qid": "5ae17cd055429901ffe4aea3", "pred": "Alopecurus", "gold": "Alopecurus", "em": 1.0, "f1": 1.0, "info": {"query": "Pinanga vs Alopecurus genus commonality in temperate regions"}}
+{"qid": "5ae7940c55429952e35ea984", "pred": "A.P. Møller", "gold": "A.P. Møller", "em": 1.0, "f1": 1.0, "info": {"query": "Mærsk Mc-Kinney Møller father name"}}
+{"qid": "5ae13f3c5542997b2ef7d168", "pred": "Battle of Britain and the Battle of Malta", "gold": "Battle of Britain and the Battle of Malta", "em": 1.0, "f1": 1.0, "info": {"query": "Arthur Noss gunner commander two European theatre battles WWII"}}
+{"qid": "5ab78edc5542995dae37e95c", "pred": "Kansas", "gold": "located in Olathe, Kansas", "em": 0.0, "f1": 0.4, "info": {"query": "Tyler Kalinoski school location"}}
+{"qid": "5a7296815542991f9a20c515", "pred": "Samantha Cristoforetti", "gold": "Samantha Cristoforetti", "em": 1.0, "f1": 1.0, "info": {"query": "first espresso coffee in space Patrick Baudry Samantha Cristoforetti"}}
+{"qid": "5ade66e1554299728e26c713", "pred": "1970s and 1980s", "gold": "1970s and 1980s", "em": 1.0, "f1": 1.0, "info": {"query": "Jose Gonzalo Rodriguez Gacha Medellin Cartel leaders operating years Bolivia Colombia Central America Peru United States Canada Europe"}}
+{"qid": "5a89b1de5542992e4fca8378", "pred": "Jędrzejów", "gold": "Keelung", "em": 0.0, "f1": 0.0, "info": {"query": "port city 25 km north of Lingnan Fine Arts Museum"}}
+{"qid": "5ae73acb5542991e8301cc07", "pred": "drifting", "gold": "Drifting", "em": 1.0, "f1": 1.0, "info": {"query": "D1NZ series based on oversteering technique"}}
+{"qid": "5ab2e8ad554299340b525562", "pred": "Park Ye-jin", "gold": "Park Ye-jin", "em": 1.0, "f1": 1.0, "info": {"query": "I Love Lee Tae-ri 2012 cast Kim Ki-bum"}}
+{"qid": "5a8d8e4f5542994ba4e3dca7", "pred": "3 mi", "gold": "approximately 3 mi", "em": 0.0, "f1": 0.8, "info": {"query": "distance in miles from NG postcode area to Gamston Rushcliffe"}}
+{"qid": "5a8257fa55429940e5e1a866", "pred": "Aloha ʻOe", "gold": "Aloha ʻOe", "em": 1.0, "f1": 1.0, "info": {"query": "most famous song of the last monarch of Hawaii"}}
+{"qid": "5a8a07725542992d82986e5b", "pred": "Steve Martin", "gold": "Steve Martin", "em": 1.0, "f1": 1.0, "info": {"query": "singer first three albums recorded at The Boarding House alongside Thomas Alan"}}
+{"qid": "5a81537355429926c1cdad20", "pred": "Orlando Magic and Houston Rockets", "gold": "Eastern Conference champion Orlando Magic against the Western Conference champion Houston Rockets.", "em": 0.0, "f1": 0.5000000000000001, "info": {"query": "first NBA Finals Orlando Magic conference champions"}}
+{"qid": "5a79fac85542996c55b2dcc1", "pred": "10 October 2010", "gold": "10 October 2010", "em": 1.0, "f1": 1.0, "info": {"query": "dissolution of Netherlands Antilles date"}}
+{"qid": "5abe6f8455429965af743f03", "pred": "French", "gold": "French", "em": 1.0, "f1": 1.0, "info": {"query": "country of origin Robert brothers Jacques Charles"}}
+{"qid": "5a721d5a55429971e9dc9283", "pred": "Ballarat Bitter", "gold": "Ballarat Bitter is a 4.9% (abv) Australian beer", "em": 0.0, "f1": 0.4, "info": {"query": "Australian beer British style pale ale label character conceived 1926"}}
+{"qid": "5a7aa2a255429941d65f270e", "pred": "Mikael Stanne", "gold": "Bengt Mikael Stanne", "em": 0.0, "f1": 0.8, "info": {"query": "Chester Bennington vs Mikael Stanne birth date"}}
+{"qid": "5ae7257a554299572ea54731", "pred": "Evey's mother", "gold": "Evey's mother", "em": 1.0, "f1": 1.0, "info": {"query": "Selina Giles character V for Vendetta 2005"}}
+{"qid": "5ac0e0e25542997d64295a6f", "pred": "Frontline", "gold": "The Hindu Group", "em": 0.0, "f1": 0.0, "info": {"query": "Dionne Bunsha most recent magazine employer publisher"}}
+{"qid": "5a72688c5542997f827839b2", "pred": "Turkey", "gold": "Turkey", "em": 1.0, "f1": 1.0, "info": {"query": "Atik Valide Mosque Valens Aqueduct country"}}
+{"qid": "5adea0c5554299728e26c776", "pred": "no", "gold": "no", "em": 1.0, "f1": 1.0, "info": {"query": "Helen Dunmore and M. P. Shiel West Indian descent"}}
+{"qid": "5ac0e064554299012d1db64e", "pred": "almost 3 million people", "gold": "almost 3 million", "em": 0.0, "f1": 0.8571428571428571, "info": {"query": "Albania population 2016"}}
+{"qid": "5ab8372255429919ba4e226b", "pred": "Fleetwood Mac", "gold": "Fleetwood Mac", "em": 1.0, "f1": 1.0, "info": {"query": "band wrote \"Blue Letter\" inducted into Rock and Roll Hall of Fame 1998"}}

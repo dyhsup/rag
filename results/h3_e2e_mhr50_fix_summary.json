@@ -1,0 +1,8 @@
+{
+  "decomp": {
+    "n": 50,
+    "em": 0.54,
+    "f1": 0.6176,
+    "file": "results/h3_e2e_mhr50_fix_decomp.jsonl"
+  }
+}

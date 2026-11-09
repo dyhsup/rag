@@ -1,0 +1,50 @@
+{"qid": "ad4195740bdc11eba7f7acde48001122", "pred": "Sonnac", "gold": "Sonnac", "em": 1.0, "f1": 1.0, "info": {"query": "Birthplace of Octavie Coudreau's husband"}}
+{"qid": "100c512a0bde11eba7f7acde48001122", "pred": "Cork", "gold": "Cork", "em": 1.0, "f1": 1.0, "info": {"query": "burial place of Charles Mathew's father"}}
+{"qid": "abb7ff860bdc11eba7f7acde48001122", "pred": "Max Mack", "gold": "Halberstadt", "em": 0.0, "f1": 0.0, "info": {"query": "birthplace of director of film A Day Of Roses In August"}}
+{"qid": "e183fb620bda11eba7f7acde48001122", "pred": "Goryeo", "gold": "Korea", "em": 0.0, "f1": 0.0, "info": {"query": "place of birth of husband of Queen Jeongsun (Wonjong)"}}
+{"qid": "f4cc9d4908b311ebbd86ac1f6bf848b6", "pred": "Lykkens Musikanter", "gold": "Trader Tom Of The China Seas", "em": 0.0, "f1": 0.0, "info": {"query": "older director of Trader Tom Of The China Seas or Lykkens Musikanter"}}
+{"qid": "feea4eb5086411ebbd5eac1f6bf848b6", "pred": "Heinz In The Moon", "gold": "Heinz In The Moon", "em": 1.0, "f1": 1.0, "info": {"query": "director of Gold For The Caesars vs director of Heinz In The Moon death date"}}
+{"qid": "9068d246089911ebbd77ac1f6bf848b6", "pred": "Sleep, My Love", "gold": "Sleep, My Love", "em": 1.0, "f1": 1.0, "info": {"query": "director of The More The Merrier vs director of Sleep, My Love death date"}}
+{"qid": "834da99c087111ebbd63ac1f6bf848b6", "pred": "Tanjuska And The 7 Devils", "gold": "Tanjuska And The 7 Devils", "em": 1.0, "f1": 1.0, "info": {"query": "director age comparison I Cannot Say \"Farewell\" vs Tanjuska And The 7 Devils"}}
+{"qid": "570bf6f40bdc11eba7f7acde48001122", "pred": "Not mentioned", "gold": "Medford, Massachusetts", "em": 0.0, "f1": 0.0, "info": {"query": "birthplace of director of film Timber Falls"}}
+{"qid": "fde6ecd60bdc11eba7f7acde48001122", "pred": "Dallas, Texas", "gold": "Dallas", "em": 0.0, "f1": 0.6666666666666666, "info": {"query": "birthplace of Usher"}}
+{"qid": "1ad2a7c20bdd11eba7f7acde48001122", "pred": "Laurel Near", "gold": "Missoula, Montana", "em": 0.0, "f1": 0.0, "info": {"query": "birthplace of performer of song In Heaven"}}
+{"qid": "f8aa0d06086311ebbd5eac1f6bf848b6", "pred": "Remember The Day", "gold": "Cast Up By The Sea", "em": 0.0, "f1": 0.0, "info": {"query": "director death date Remember The Day vs Cast Up By The Sea"}}
+{"qid": "6b6abb6808a211ebbd7aac1f6bf848b6", "pred": "Ma And Pa Kettle Go To Town", "gold": "Ma And Pa Kettle Go To Town", "em": 1.0, "f1": 1.0, "info": {"query": "director of Ma And Pa Kettle Go To Town vs director of Malibu Express death date"}}
+{"qid": "ce98e6620bd911eba7f7acde48001122", "pred": "Rome", "gold": "Rome", "em": 1.0, "f1": 1.0, "info": {"query": "place of death of father of Alessandro Ruspoli, 2nd Prince of Cerveteri"}}
+{"qid": "2bd4454c0bda11eba7f7acde48001122", "pred": "Stanford University", "gold": "Tisch", "em": 0.0, "f1": 0.0, "info": {"query": "Where did the composer of the film Before Sunset study"}}
+{"qid": "f62ae4f9096911ebbdafac1f6bf848b6", "pred": "Clownery", "gold": "Clownery", "em": 1.0, "f1": 1.0, "info": {"query": "Brudebuketten vs Clownery release date"}}
+{"qid": "27f6eaa80bb011ebab90acde48001122", "pred": "Charles Howard, 1st Earl of Carlisle", "gold": "Sir William Howard", "em": 0.0, "f1": 0.2222222222222222, "info": {"query": "Edward Howard 2nd Earl of Carlisle paternal grandfather"}}
+{"qid": "8985546c0bdd11eba7f7acde48001122", "pred": "Italian", "gold": "Florentine Republic", "em": 0.0, "f1": 0.0, "info": {"query": "Clarice Orsini husband nationality"}}
+{"qid": "bdfdad5c0bdd11eba7f7acde48001122", "pred": "West German", "gold": "Austria", "em": 0.0, "f1": 0.0, "info": {"query": "nationality of director of film The Sweetest Fruits"}}
+{"qid": "97cee43a0baf11ebab90acde48001122", "pred": "Ebba Brahe", "gold": "Ebba Brahe", "em": 1.0, "f1": 1.0, "info": {"query": "Magnus Julius De La Gardie paternal grandmother"}}
+{"qid": "c0085d54088111ebbd6dac1f6bf848b6", "pred": "High Society Blues", "gold": "Counterblast", "em": 0.0, "f1": 0.0, "info": {"query": "director of High Society Blues vs director of Counterblast death date"}}
+{"qid": "10e63c10087211ebbd64ac1f6bf848b6", "pred": "Now, Voyager", "gold": "Now, Voyager", "em": 1.0, "f1": 1.0, "info": {"query": "director of A Demon For Trouble vs director of Now Voyager born later"}}
+{"qid": "30f417d208e211ebbda3ac1f6bf848b6", "pred": "The Fitzgerald Family Christmas", "gold": "Death For Sale", "em": 0.0, "f1": 0.0, "info": {"query": "older director of Death For Sale or The Fitzgerald Family Christmas"}}
+{"qid": "0b86c27208c611ebbd90ac1f6bf848b6", "pred": "Huma Gun Anmogaldi", "gold": "Huma Gun Anmogaldi", "em": 1.0, "f1": 1.0, "info": {"query": "This Night Is Still Ours vs Huma Gun Anmogaldi release date"}}
+{"qid": "2b871cac0bdc11eba7f7acde48001122", "pred": "Wojciech Jerzy Has", "gold": "Łódź", "em": 0.0, "f1": 0.0, "info": {"query": "place of death of director of film Write And Fight"}}
+{"qid": "7939c1460bd911eba7f7acde48001122", "pred": "April 1, 1580", "gold": "1 March 2012", "em": 0.0, "f1": 0.3333333333333333, "info": {"query": "death date of composer of film The Sparrow's Fluttering"}}
+{"qid": "18cf460a0bde11eba7f7acde48001122", "pred": "Pittsburgh", "gold": "Clinton", "em": 0.0, "f1": 0.0, "info": {"query": "Birthplace of Alexander Pollock Moore's wife"}}
+{"qid": "140bbce00bdc11eba7f7acde48001122", "pred": "National Film Board of Canada", "gold": "Fulbright Scholarship", "em": 0.0, "f1": 0.0, "info": {"query": "award received by director of film Sad Song Of Yellow Skin"}}
+{"qid": "18dadca00bb011ebab90acde48001122", "pred": "Thomas Cochrane, 8th Earl of Dundonald", "gold": "William Cochrane", "em": 0.0, "f1": 0.25, "info": {"query": "paternal grandfather of George Cochrane politician"}}
+{"qid": "4804b7fe08f511ebbdaaac1f6bf848b6", "pred": "Molokai: The Story Of Father Damien", "gold": "Molokai: The Story Of Father Damien", "em": 1.0, "f1": 1.0, "info": {"query": "Molokai: The Story Of Father Damien vs Brahma – The Creator release date"}}
+{"qid": "5f2bb1060bd911eba7f7acde48001122", "pred": "France", "gold": "French", "em": 0.0, "f1": 0.0, "info": {"query": "country of origin of director of film La Yuma"}}
+{"qid": "1cdceb80089111ebbd72ac1f6bf848b6", "pred": "To Be A Lady", "gold": "To Be A Lady", "em": 1.0, "f1": 1.0, "info": {"query": "director of Varakatnam vs director of To Be A Lady death date"}}
+{"qid": "40b044fb088511ebbd6dac1f6bf848b6", "pred": "Yes", "gold": "yes", "em": 1.0, "f1": 1.0, "info": {"query": "Janise Yntema and Bianca Halstead nationality"}}
+{"qid": "e7b05a94088311ebbd6dac1f6bf848b6", "pred": "We're Going to Eat You", "gold": "We'Re Going To Eat You", "em": 1.0, "f1": 1.0, "info": {"query": "older director of Paattinte Palazhy or We'Re Going To Eat You"}}
+{"qid": "0cc584100bb011ebab90acde48001122", "pred": "Scipio Africanus", "gold": "Publius Cornelius Scipio", "em": 0.0, "f1": 0.4, "info": {"query": "father-in-law of Aemilia Tertia"}}
+{"qid": "5256bf800bb011ebab90acde48001122", "pred": "Anthony Ashley- Cooper, 6th Earl of Shaftesbury", "gold": "Cropley Ashley-Cooper, 6th Earl of Shaftesbury", "em": 0.0, "f1": 0.8571428571428571, "info": {"query": "Anthony Ashley-Cooper, 8th Earl of Shaftesbury paternal grandfather"}}
+{"qid": "60736868093d11ebbdaeac1f6bf848b6", "pred": "How To Avoid Everything", "gold": "Thai Mozhi", "em": 0.0, "f1": 0.0, "info": {"query": "How To Avoid Everything vs Thai Mozzi release date"}}
+{"qid": "4c0e9cbe0bde11eba7f7acde48001122", "pred": "Hanthawaddy", "gold": "Martaban", "em": 0.0, "f1": 0.0, "info": {"query": "birthplace of father of Baw Ngan-Mohn"}}
+{"qid": "ce4f63cc0bdc11eba7f7acde48001122", "pred": "Jerzy Skolimowski", "gold": "National Film School in Łódź", "em": 0.0, "f1": 0.0, "info": {"query": "Where did the director of the film Ręce Do Góry study"}}
+{"qid": "bc096c180bdb11eba7f7acde48001122", "pred": "20 June 1634", "gold": "20 June 1634", "em": 1.0, "f1": 1.0, "info": {"query": "Marie Jeanne Baptiste of Savoy-Nemours husband date of birth"}}
+{"qid": "e84d4a04089511ebbd75ac1f6bf848b6", "pred": "Das Mädchen Und Der Staatsanwalt", "gold": "Das Mädchen Und Der Staatsanwalt", "em": 1.0, "f1": 1.0, "info": {"query": "older director Don'T Take Me Home Das Mädchen Und Der Staatsanwalt"}}
+{"qid": "dc619d4808b911ebbd88ac1f6bf848b6", "pred": "Chiang Chung-Ling", "gold": "Chiang Chung-Ling", "em": 1.0, "f1": 1.0, "info": {"query": "Chiang Chung-Ling vs George Andreadis death date"}}
+{"qid": "121ddeae0bdc11eba7f7acde48001122", "pred": "Pontus", "gold": "Kingdom of Pontus", "em": 0.0, "f1": 0.5, "info": {"query": "Hypsicratea husband nationality"}}
+{"qid": "859db3ba0bda11eba7f7acde48001122", "pred": "Juan Luis Buñuel", "gold": "Paris", "em": 0.0, "f1": 0.0, "info": {"query": "birthplace of director of film Léonor"}}
+{"qid": "ded103fe0baf11ebab90acde48001122", "pred": "Olof", "gold": "Olof Skötkonung", "em": 0.0, "f1": 0.5, "info": {"query": "maternal grandfather of Vyacheslav Yaroslavich"}}
+{"qid": "b96df75408a111ebbd79ac1f6bf848b6", "pred": "The Home Song Stories", "gold": "The Home Song Stories", "em": 1.0, "f1": 1.0, "info": {"query": "director of The Home Song Stories vs director of The Sterile Cuckoo born later"}}
+{"qid": "60ce015a08ad11ebbd83ac1f6bf848b6", "pred": "Calling The Tune", "gold": "Calling The Tune", "em": 1.0, "f1": 1.0, "info": {"query": "older director of Anjaan Hai Koi or Calling The Tune"}}
+{"qid": "81dd3a9a08a911ebbd80ac1f6bf848b6", "pred": "The Company'S In Love", "gold": "The Company'S In Love", "em": 1.0, "f1": 1.0, "info": {"query": "director birth date The Company'S In Love Punyakoti"}}
+{"qid": "abaa3fca08e611ebbda5ac1f6bf848b6", "pred": "The Killer Likes Candy", "gold": "Cuando En El Cielo Pasen Lista", "em": 0.0, "f1": 0.0, "info": {"query": "director death date comparison Cuando En El Cielo Pasen Lista The Killer Likes Candy"}}
+{"qid": "79e8f0df08e711ebbda6ac1f6bf848b6", "pred": "An Uncertain Season", "gold": "Un Taxi Pour Tobrouk", "em": 0.0, "f1": 0.0, "info": {"query": "director of Un Taxi Pour Tobrouk vs director of An Uncertain Season death date"}}
