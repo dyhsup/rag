@@ -283,7 +283,7 @@ CovBind 使用 cross-encoder 作为工程组件。本文不把 CE 的结构、�
 | HotpotQA 200 | .540 | — | — | .660 | **.680** | — |
 | MultiHopRAG 200 | — | — | — | .465 | .530 | — |
 
-MuSiQue 上 CovBind 超过 IRCoT；把 CovBind 的 query slot 换回整句问题后 EM 回落到 .170。2Wiki 与 HotpotQA 上接近 IRCoT，MultiHopRAG 只有已有 IRCoT/CovBind 端点结果。Self-Ask 与 HyDE 的完整缓存此前仅覆盖 MuSiQue 200；本轮补跑了 MuSiQue 400、2Wiki、HotpotQA、MultiHopRAG 的 Vanilla/Self-Ask。结果和数据格式限制见 `results/method_completion_report.md`。HyDE 仍只在 MuSiQue 200 纳入比较，因为跨数据集伪文档缓存尚未建立；缺失数据不填入伪造数字。完整协议说明见 `results/method_comparison_report.md`。
+MuSiQue 上 CovBind 超过 IRCoT；把 CovBind 的 query slot 换回整句问题后 EM 回落到 .170。2Wiki 与 HotpotQA 上接近 IRCoT，MultiHopRAG 只有已有 IRCoT/CovBind 端点结果。Self-Ask 与 HyDE 的完整缓存此前仅覆盖 MuSiQue 200；本轮补跑了 MuSiQue 400、2Wiki、HotpotQA、MultiHopRAG 的 Vanilla/Self-Ask。结果和数据格式限制见 `results/method_completion_report.md`。HyDE 仍只在 MuSiQue 200 纳入比较，因为跨数据集伪文档缓存尚未建立；缺失数据不填入伪造数字。完整协议说明见 `results/method_comparison_report.md`。新增 BM25/dense/hybrid 候选可达性方法对照见 `results/additional_methods_report.md`：dense 在低 k 上普遍提高 coverage，但 2Wiki/HotpotQA 在 k=10 饱和，MultiHopRAG 在 k=10 后仍存在不可达证据。
 
 ### 6.7 端到端与跨数据集
 

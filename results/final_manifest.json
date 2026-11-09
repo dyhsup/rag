@@ -86,6 +86,13 @@
     "hyde_scope": "HyDE remains MuSiQue-200 only; cross-dataset pseudo-document caches were not reused across datasets",
     "whole_query_em_scope": "MuSiQue-200/400 only for strict same-reader/same-CE EM counterfactual; cross-dataset coverage-only results are not converted to EM"
   },
+  "additional_methods": {
+    "artifact": "results/additional_methods_report.md",
+    "retriever_artifacts": ["results/retriever_wiki2.json", "results/retriever_hotpot.json", "results/retriever_mhr.json"],
+    "methods": ["BM25", "dense", "hybrid"],
+    "metric_scope": "passage-level candidate coverage, not end-to-end EM",
+    "hyde_scope": "cross-dataset HyDE requires independent pseudo-document caches and remains excluded where absent"
+  },
   "known_caveats": [
     "absolute endpoint numbers differ by reader, retriever, CE and stopping protocol; never mix rows without the protocol fields",
     "the causal query-slot result uses gold-plan/controlled binding conditions as specified by the artifact",
