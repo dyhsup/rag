@@ -11,19 +11,21 @@
 
 ## 统一结果
 
-| 数据集 | Vanilla | Self-Ask | HyDE | IRCoT | CovBind | CovBind-whole-query |
-|---|---:|---:|---:|---:|---:|---:|
-| MuSiQue 200 | .175 | .075 | .205 | .330 | **.440** | .170 |
-| MuSiQue 400 | — | — | — | .255 | **.425** | .170 |
-| 2Wiki 200 | — | — | — | .535 | **.620** | — |
-| HotpotQA 200 | .540 | — | — | .660 | **.680** | — |
-| MultiHopRAG 200 | — | — | — | .465 | .530 | — |
+| 数据集 | Vanilla | Self-Ask | Query Rewrite | HyDE | Decomposition | IRCoT | CovBind | CovBind-whole-query |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| MuSiQue 200 | .155 | .055 | .155 | .220 | .165 | .285 | **.440*** | .170* |
+| MuSiQue 400 | .128 | .060 | 待运行 | 待运行 | 待运行 | .248 | **.425*** | .170* |
+| 2Wiki 200 | .375 | .265 | .395 | .390 | .425 | .510 | **.620** |
+| HotpotQA 200 | .530 | .295 | .525 | .530 | .545 | .650 | **.680** |
+| MultiHopRAG 200 | .480 | .565 | .515 | .540 | .555 | .485 | .530 |
 
 ## 解释
 
 - MuSiQue 上 CovBind 超过 IRCoT，并且 whole-query 反事实回落到 .170，说明增益不能归因于 reader 或单纯多轮调用。
 - 2Wiki/HotpotQA 上 CovBind 与 IRCoT 接近，符合 reachability gap 较小的适用性判据。
 - MultiHopRAG 上只有 IRCoT 与 CovBind 的已有端点结果；该数据集不具备原生逐 hop 绑定标签，因此不构造伪造的 query-slot 因果表。
-- Self-Ask 与 HyDE 仅在 MuSiQue 200 的 zero-shot 配置中有完整缓存结果，不能扩写为所有数据集的缺失结果。
+- MuSiQue-400 的 Query Rewrite/HyDE/Decomposition 仍待运行，不能用 200 题数值替代。
+- `*` 表示 CovBind 与 whole-query 使用旧 domain-CE 协议；其余 200 题 baseline 行使用 H3/Qwen3.8-27B + BM25 + 统一 reader。
+- 失败服务缓存和重复 qid 文件不进入任何主表；完整审计见 `results/audit_results.md`。
 
 原始文件和协议字段见 `results/method_comparison.json`。

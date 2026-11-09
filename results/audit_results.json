@@ -1,0 +1,2062 @@
+[
+  {
+    "file": "results/e4_musique_ours_bm25_auto.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "53da5aa606d661bce668cfb6fef5d50518d89bb093e68123b996a899a125e701",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/h3_hotpot200_ircot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "b9ce6a204285a026f52ab87396667053b82ec393d260d769de0e09fe255a0ea2",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_musique200_selfask.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "d211cc94fdbbbb03cc41ce57283af11b171068386da9f1000964ac173b47e088",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_e2e_wiki250_decomp.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 50,
+    "duplicate_qids": 0,
+    "sha256": "6598fc2c09f296f220a919b083ccf7ce0201e44d33b8a99c11e074d90896962a",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/e2e_musique50_decomp.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 50,
+    "duplicate_qids": 0,
+    "sha256": "a43d152d21a696c1f8e9b3b5330e3eeefb51b27a06dfa152330524d0c1f5d1a4",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/g9g_squad_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "90fceefda4442428180a8476dcc5a39d3a57adb918faac71ab9d8594517542b9",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e14_router_squad_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "babe98bb9f5bcbd1352468b8a3e327642366b032ba82d4aa9fd9e6e7ff7783bf",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g9f_squad_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "ecfac871134aad3aef5c37a8961bc554dcd6c87f059f108c9606698949549768",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3e2e_mhr200_hyde.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "fdbd0dea67cd255fb34b7e45579ec1b9332043a7a85d453d7524649dc429a6dd",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_select_wiki2_200_cot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "bba732938291dd36dbfc2ed5309cd54bb4dd6fcf0cb04df494e15f0c33607d8c",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g5_squad_ircot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "9ac959c5e24848c637cb0aa2a317d4239e4c2f9a76de4de82a82eb302f2ea26e",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g8_hotpot200_ircot_ce.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "2222a5d490ad869bf2288594d8b69610179f0b8e20fed88a5c6faaa165e44b2e",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_select_musique200_rq.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "30a0c64a3c04bc13ac0643b48d477a15c8024826e1a6cfd8f920120b30876364",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g9_trivia_200_vote_ce.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "a7d8e0b21112b0d79fc9c0c457a72917c2b72d8d8817dff19b5272b7381a6dd0",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g10_squad_200_vanilla.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "35e6d924b7e3a97e9ffeb9dffc24376aaefe6fd6f172a1db98ff67416f330e14",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g8_musique400_ircot_ce_zeroshot.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "d3740ae8015856507ce7b4b95a75154066053cb3f44b53a8d467aa065f20da51",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_plans_squad_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "154b98ba6065a4f47d4e057555b82ea7d441d3f82591366debd5c4b8d878aaa5",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g8_musique400_vanilla_ce.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "70b49c6f7b1f96ec079e42e5b8e1ec2ccbb0e0e155d6b0489c360295005ca233",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_hotpot200_selfask.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "99aa27c041f5c37138aa4ee8c52a20c25999f1fcf10b9bbfd39cfac1484e236e",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g10_trivia_200_cot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "1a6a7ad6b8229943d2aef6c38ad50b2b43de0ade714c8af3f1ab4a793b5c2737",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e14_router_musique200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "9c01162639031c6f64b9d8cfbac6b7658b57d9ecde8acde20555a4f32723d34b",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g8_musique200_vanilla_ce_zeroshot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "ed4b6377c3f8216dbe1e22e8e501135ad142b0a081d5814a3ab786383c763874",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e4_hotpot_ours_auto.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "ae0305847d941cc87d0b09a2a3e72f8325da6b3d87f828f4a1b8861be1bd01ea",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e4_musique_ircot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "c80f688a217ac28e79055e8cd1681ddf8564f0aa6f41e0341053724bb9f70422",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e8_mined.jsonl",
+    "n": 26536,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 24119,
+    "sha256": "53d918aa206080e25d53c3f4354c24f9e16b6655bd1c69293001d30bd6ac3f2e",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/h3e2e_musique200_hyde.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "6c732b6d4f5cb23a8aa23434ca80ec710e56568233317ef4535fd3dbfbea3984",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_base.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "9df3c8eaa9b1485a0c128f8cd01b305d7ed303f445e3313bc57107608fe4a776",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e2e_hotpot50_rewrite.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 100,
+    "duplicate_qids": 0,
+    "sha256": "09e7dfe6df1bd5beafe6f6be424c67cd62fd57b825a67fcf3849654aba451a0c",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/h3_musique200_vanilla.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "cf35350c54491d01742cc7b59abfd27aff4ebd4072a5e4ea1ded047ddfa3afbb",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g9d_trivia_200_top1.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "c3068d0fcb25938b92c3394c5bfce466055a01ec917579c1af6a51248350b4f6",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_select_trivia_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "bfbc953dc66db9a607f8a302545a6272a299c30f002af0b1186c097866ffd7bf",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/h3_e2e_musique50_decomp.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 50,
+    "duplicate_qids": 0,
+    "sha256": "cc68b8a5a0d69bcc878b7f8801f492dd75a60c574b3a648bfbc955a443d879aa",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/e13_select_musique400_hybridcot.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "114f22e1391012e413d829645cf2904d8d1fb0ced6a90850b06fbcdd95f11674",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e4_musique_ours_auto.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "b82bd11762f9c664c9da083f2f9870be8b045d9b5eabd4b024adcfa407468a6a",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/h3e2e_hotpot200_decomp.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "0a413c6df5f23a1ccc986d40e9f4d56a86f5e1dd62e9a61dc5f5581945e74958",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e20_wiki2_200_lookahead.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "24dcffcac59c7017588cad42ed2f76a8a27e982a4026f7d6ba891b55bc27414b",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e2e_musique50_hyde.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 100,
+    "duplicate_qids": 0,
+    "sha256": "4e2bd38552291f437ad5c01980e8b411dd2bbb48660efa1514d9002167980d68",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/e13_plans_mhr_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "7fe496531a0c22d3d48b052ac44f4c9be1d0848b0b9f70a7e416bd6b63c47958",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g9d_trivia_200_top3.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "91e8707915bc7306a9ec814f6297b527c01d46baa0907c4ff6a7b0774b1dc5b2",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g8_musique200_ircot_ce.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "978cde8cd9d4d2820e5629aca45bfb64bc6c083e3d6c42024eb1a444ea61987e",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g9_squad_200_vote.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "3f6c756a0356f47db0bdbf39523900c300fd8aa6bfb77feeddbb21407b713803",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_select_musique200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "4b3524854913ed82390bc1488b2a3a6645c7b377e054204f3a88a9f59497b4b8",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e20_wiki2_200_base.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "91b256807532695c9c34baa01b9a28805535dee3177964c5ad1d3a66a5dbc161",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_select_hotpot200_zeroshot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "01b9817aa2d5bc9b987394c44c40d9d2dcd7527924096eb4b45f6e1474f89edd",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e4_musique400_extended_selfask.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 190,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "4bb3bc2eabdb4df0ad2376152c1b7de055533419d97d98b4fe8364ea99c8a8f7",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g9_trivia_200_concat.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "fdfbf796757135429c57a0afc264eedda7c9e0b0c3c72b6773d90f4e0e530c20",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e14_router_squad_200_zeroshot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "a73335f531e5bf2b985969954cd6dc6210c857d323ea1387236a014ea2e158da",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_e2e_hotpot50_decomp.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 50,
+    "duplicate_qids": 0,
+    "sha256": "731a95dad33b224905e0d8f4e498edf44df5dd6ccd7c5a9b3562ad5d3ffc0dd5",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/e5_claim.jsonl",
+    "n": 540,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 340,
+    "sha256": "2a3708648d1d774d246cba2f6d6c66c5b59694aa1a18a9ff7944632b9493209a",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/e20_musique200_base.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "aa3c0a392cbdc3e3f4b44a617015e2e70ff620b01e0180e5381cb47bf1538766",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g9d_trivia_200_cot5.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "ff0b97e237ef88830d2fc9155a4349da83c49acd429a8fe5de76346babd64877",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e8_scored.jsonl",
+    "n": 4017,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 3617,
+    "sha256": "0a57ddaa0cb8858879db12116c45ef7621e786f53b23fcb2ce0785902e6cb8d0",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/judge.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 180,
+    "sha256": "77f6c2d3e46ee96ea53d442c4b4d04a3dea4e8a69707d840e935c20e356977db",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/h3_e2e_wiki250_rewrite.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "950cdca94f62bcaac9bf975a3f8495d1920b361f53ac933a2ffaeed0cd4262f5",
+    "status": "exploratory_valid"
+  },
+  {
+    "file": "results/h3_e2e_musique50_hyde.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "2cca33ed4a0b6e068ba04ff1d62fd3a6b31d2ae7beaa3afd8943ec617b76be78",
+    "status": "exploratory_valid"
+  },
+  {
+    "file": "results/h3e2e_wiki2200_hyde.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "877fb2085690b8a07f685ec58498099a14fa6dd807f2173a1467d35df93853cd",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e4_wiki2_extended_selfask.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 192,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "88c2fbe10f9d5781c3babc4a2321d3ee69745eadf19f97e404c205b40af6c08a",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/h3_mhr200_ircot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 2,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "29da7c5d83602758b41b08ec390b9ddf224013b6a9b3a18289e7ab828b7ca8f9",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g9f_trivia_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "b15c703cea94a1040af795bd370863d4dedd8db05eb6c71b7aab0155af756a52",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_ctxlast_hotpot200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "c9b2206d998cf7100c82997ebb904bb752510de0cd00816468b9418d3b97d4c9",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g9d_squad_200_top1.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "55908ba51119b1d95147ecd5d0f2526ead41fcd487630a253271ef00bd69f365",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_e2e_mhr50_fix_decomp.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "46d3a53aab6592b457a0443593aaa805d83637661583864c91681424dba029ce",
+    "status": "exploratory_valid"
+  },
+  {
+    "file": "results/e13_select_musique400_zeroshot.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "b945b751fba1506bebd0661dd2a938eaf27d08cb9579a95d4b74798c0a9a0d28",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_plans_trivia_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "84803145c0535fdd5112d199d4f654f08ae70f7001fcf2ce96819c0eaa081427",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e2e_wiki250_decomp.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 50,
+    "duplicate_qids": 0,
+    "sha256": "791f1579a01435a4ce44e2692986bf54c5f157de65270bcd84b826a6b1fe6861",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/claims.jsonl",
+    "n": 20,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "1224cdc71e4fba51e5aaea30c047cd522ea75f009620027aafa91963e4482d3a",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3e2e_hotpot200_rewrite.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "63680b41f67cee37ee6f38b97e4bd3f84d7a5a8956df7591f65921ff8a126eca",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e4_musique_vanilla.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "e42842117e10a7991e9d12aeb4dd9f261ab978422c1a2298468c16557a59689b",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e14_plans_squad_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "740501915f8d1e522f9ae651d01e8a2b52697415f801e934e022852566d7b1e9",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e4_mhr_extended_selfask.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 200,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "bfc7b2bc8ae37802a5a2f7e71a29f2445f8dbf788ab3a1f1e4eeff3de93760b8",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/e4_musique400_ircot.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "de20d2bb3e5dcd329daea50af96e6095ff9fcdcbb423922d2be90beacc72aabb",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e12_forced.jsonl",
+    "n": 8546,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 6880,
+    "sha256": "2756a7724734cf64811ab0f22a003a2bc483bb6ed074323ba311083944d6bbde",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/e2e_mhr50_hyde.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 100,
+    "duplicate_qids": 0,
+    "sha256": "289a1b46760b8cb3caf8251a56d1d3b66eba8da04960a8977e053e805a279fe4",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/e13_select_hotpot200_bm25.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "13cc3a74bcddab170a946cb742443e55362ff8db4ffd9365706109fb84ea915d",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/variants.jsonl",
+    "n": 80,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 70,
+    "sha256": "f8cdccd5fe9e42555907cf216d098c1305046ed1c4be9f9bb2bd7b854b2ff56f",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/h3_musique400_ircot.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 1,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "506393fe0b2e8a63e42ede38896690a630f270540707096b7cfe99702fd02e83",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g9_squad_200_concat.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "7044f670bffe29193613a6bba379c6b50564be70b4d0b0cb073d3a56053adf99",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3e2e_hotpot200_hyde.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "095bc447a2b9b82583544775ca4f9975963d859a97d655d783d234e2ffb78efb",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g8_trivia_200_ircot_ce.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "7f528a7072ebc63ffcfad483182c37de6c9ece71755d5ab09c0fa89740017b60",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g8_musique200_ircot_ce_zeroshot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "d83905a32da407cb1c39056079bde448e57cdc5168dcc21f6b7640f41d906625",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e7_pairs.jsonl",
+    "n": 5400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 5200,
+    "sha256": "461dcc086c40407365b7aa12a38490f8f7eddbd9d98cde2f2dcf6e2f92312513",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/e14_plans_wiki2_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "ba8f483d9b06779039ff477bbff0b9b4d14f5dc4bd9d82f17d6b168db7e8d76e",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_rollback.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "58815011ef659c2738664651161bb46f1d68acf0078db10a68cd7fc8bca74804",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e14_router_trivia_200_zeroshot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "cbd8b17647cd0f708c1f016db28ff18b975690b0c89a9082a72fbd93e63916a7",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_select_wiki2_200_hybrid.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "5693fd2040edae0f07a02f1deac622cdb99b2a749b26cc6e82ccbadd3186361e",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e14_plans_trivia_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "4ba7e5168caf2ce4ebcd862772c78969480fd545b224c4a64ac45cb75b3e75e5",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e19_wiki2_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "f568c915d53c47e8fe6c9f3f043b5a9785606d76e083670179d42b34cecab691",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_select_musique400_gpuq.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "ad262b524b14cb63fafadaadbaf0602509e9be9ffa42aecc606036318e33fc3d",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e4_mhr_200_ircot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "1f0f6bb88285282d050ae9acb5786b384c1b2be98ef259722d62af15b9457584",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_consensus.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "1b3b37bf8a3881d6659a03b1464edad8a5ae93dee8eb5765fabd78d83dc8f9ba",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_plans_musique200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "032744f120506c27f9596ba831ec3589411de49a3aeaaba96343c15131b3edce",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e4_musique_ours_nobind_auto.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "d6f1dc1a662e7431889dfd4ee3c245722d64c0b7ebc38e74c870fa2b54fb99da",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_select_musique200_zeroshot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "9884d2538b2f9500b6d1970394112036c4fc57049cae0b0a9713fd510eb42722",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g5_squad_vanilla.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "0d14e5f0cb77ca3e55177bed3197b20fc7347d96c334c4107726d9f909aa13a7",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e2e_wiki250_hyde.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 100,
+    "duplicate_qids": 0,
+    "sha256": "32b8f64e6ce1b0c208cf8559246bbd11b452e8dcafbc6bb67caedc96d28ef19c",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/g8_trivia_200_vanilla_ce_zeroshot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "4024e95a8fdf2ac78c87c4f29d681de5abb50512478d5bc4be07796f1ba25db6",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_musique200_ircot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "5346e7c36a04a3516b485e92670459a1bdd99995178183fa54b8a03574542c3c",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e4_musique400_extended_vanilla.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 345,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "27909153ede1a6f3e807e8eb8b6abce2b730f88e83d09246d140abadf7589299",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_select_musique200_gpuqmodel.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "5b83eddf62cc003519b5e306a8603a865aaa58d6e3147959c7bd60afb52782b2",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e2e_mhr50_rewrite.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 100,
+    "duplicate_qids": 0,
+    "sha256": "df8c2ff3899efedc17c1b6f7d43d694f309b68a548af1af75046d5d338ae8fc0",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/h3_e2e_musique50_fix_decomp.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "52acde6c8b9fcbcadbece54c98de76b56bd02aadc9340f31f670c01d7398ea93",
+    "status": "exploratory_valid"
+  },
+  {
+    "file": "results/g8_squad_200_vanilla_ce.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "951cfff6003b529a97c894200fb9492022f6d8063f748ba68e48ebdd599dc3a4",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e21b_selfcmu.jsonl",
+    "n": 100,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "3b26af30a7184b6091d54e01d5d3416efe4a2520535dd5898b379cb88430679f",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_e2e_hotpot50_rewrite.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "297f4a12d509fdc1443ac60582e6a4dd4e30255a15ad0113290dd1b21175e2b1",
+    "status": "exploratory_valid"
+  },
+  {
+    "file": "results/e14_router_wiki2_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "a7d7d67017e91a02a14a90297316266a0b154f6d737172f29d20202ced54275f",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g5_trivia_200_ircot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "baf74d01b66c9300649c4faf13585fa76b765ee6976d4d7fb1287d32c7cca1a7",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_e2e_wiki250_hyde.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "114e8f099baa21f708aa585ee87a0027f4f47b747340c19f2975554a0f1b52a4",
+    "status": "exploratory_valid"
+  },
+  {
+    "file": "results/h3_e2e_mhr50_hyde.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "f3ca9bc7509be86bbe0bb1a1d6a8089f93e6fba6477f38945c9ec58eab3aebc5",
+    "status": "exploratory_valid"
+  },
+  {
+    "file": "results/e4_musique_selfask.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "45f8dcd855a2e3b1b4e40af71a4c747bda7c39d2343217ed76ac8970a03c2303",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_select_squad_200_zeroshot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "567697fb0b93b58669d798b9370757179ee6a34f7dee243a1c1ebd2b1670c18b",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e18_hotpot200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "b01b0e55135d545bc34365efe59303f98c641c2f4b6ed7b4366c8590740226c9",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g10_trivia_200_vanilla.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "c05ff4d4a89b8fd06fe467f54f7c46e583bbc5311e35c8f679816737e8751b00",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_wiki2200_vanilla.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "97d6256ac184073bfd4c45959b33cb2ebde719b66aa616b98e14dd1011d41bd6",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g9g_trivia_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "67f639749123f731f2d873bf9ce2dcba3e919a33eb14a1257475422512054f05",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_e2e_hotpot50_hyde.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "fed2c44f84ac03d75be2ab1aeadfbd2758a3c8b522b816d9ce7ca4f7ba2251a5",
+    "status": "exploratory_valid"
+  },
+  {
+    "file": "results/hyde_pseudo.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "dcd0dcc24a7a7f7da37b18b2de653d29ef81bcf75f3ab416d5cd45462d8b9cb3",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_musique400_selfask.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "4a0417948d23cfb59c08ad882732e76fa01b99c6b7ca35f39522e07a0364f31a",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g4_hyde.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "ca5a027daa11ea8051e059b689bfcd1d6c16336885264201aceadcfbc859b0e3",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g9d_squad_200_cot5.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "416170754f052b29cad9e0e50ba68d2d6bc696d7bc12ebb9d4664dfcfee5fa25",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g8_musique400_ircot_ce.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "bd3548d45fad2b151764b188fb6aee8cfb4c8aac9bbf99fba27f3d7da3e69e6b",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g8_hotpot200_vanilla_ce.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "0eac5ba52ead0c8242e62877abf09eb62864d6a846c3166e5d8820c48a213095",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_select_musique200_gpuq.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "4b2e5d0d7178c90d53bb4bbbcffafade67fa7740342a0d1412f1bd4ff3f85ce2",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g8_musique400_vanilla_ce_zeroshot.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "e1ded5744fa7e0141856d3650f44edb5ec1b23598de3c203e62d72afb8a15bb1",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3e2e_musique200_decomp.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 1,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "44bd36f0c39c45b7596ab903803577247457f7835e6a681d529e44cb35282c14",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_plans_musique400.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "5e51a537a76473780acb9c5a2f6648947560d557cc4d6919ab5552bfb64d9117",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_select_wiki2_200_hybridcot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "3cef601ad60918103fb8f1f1523af8a035b1501c885b6046dca624cff5eeda25",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e14_plans_musique200.jsonl",
+    "n": 275,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 75,
+    "sha256": "533eb9cd821bfe559885a54e8c855af2594f0ed8a7669b3418f7cba66a5834bf",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/g9_squad_200_vote_ce.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "b58ad6fa3f4239c52fa110aa0ca872c6cb32506012492da98508260f611d46eb",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e14_router_trivia_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "fed9dd1812714eecc1fbfb8ea44462b4045d8ac27d551f24afeacf75b6ae0838",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e8_mined_1000.jsonl",
+    "n": 15610,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 14610,
+    "sha256": "4642a500391508f74eb6184f24cb8f9de9459e07ffc536b86e4e478aee8f1da6",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/h3e2e_mhr200_decomp.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 3,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "e79f8a99281e8a9bf718e0e56eb04ccb9418df9bca76f6ad0856cec6c7cd418a",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e4_mhr_extended_vanilla.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 200,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "4c1c573fe925237fb7e097b0313914e6a8056ec21cee4543a593c0674b920a4d",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/g8_squad_200_ircot_ce.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "493989ebac69268a678b056d75dd3aa3392361531abb15107d8af975b0637828",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e5_paraphrase.jsonl",
+    "n": 540,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 340,
+    "sha256": "b694f531c7d66b4e8a6792390b0ce4419ba3298ee24efa72759dc5a20cc49fae",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/h3e2e_musique200_rewrite.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "4c5e1cd5fbeb31ae3d41178b4b12110fb2545d0ad8c1a8453f3f96a6df243f3c",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_select_musique400.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "9e791f7b787591bb2016b466ea9a17b48d7e8ff15ee58fdd4bb44a28b2faa588",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g5_trivia_200_vanilla.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "a783bbb61c26c110af8d4285666f03772f55ecc9e3bcd938ffc1004e08001bf8",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e2e_hotpot50_decomp.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 50,
+    "duplicate_qids": 0,
+    "sha256": "dec6e31f16e6071ed04e4db24f8c1c33aba86baeb172cbab07c381ad7749179c",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/h3_wiki2200_selfask.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "d67c8e3cfbf27110bf991416efe9799c055dd80d8df8c3b12cca8d05d47ce733",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_select_musique200_gpu.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "616b09aeab136be62001922c141f2db5e485387952acd1d1910d6a595d5fb183",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_select_musique200_hybridcot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "e021980b74cce90797c36e1cf2f6e4207966ef8e8ee07abc1bede9de5dc305ba",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g10_squad_200_ircot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "48d392f68f60fac7be9f038a0c3ead719698a19ea5b1b4d187240ddb5fd7c8d6",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3e2e_wiki2200_rewrite.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "ce46ee2a700320a557015b76712031ca3d70aaa98c426564af38a27c354bf79e",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e4_hotpot_vanilla.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "93d4ee1d53797f316d5de18d9dde07722136ba40a19376b513eec8f7132c9efc",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/h3_musique400_vanilla.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "ae10e7b5126821db1e1e374240d54b6655ad11adbc4bd77a69f47cc46b28362a",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_e2e_hotpot50_fix_decomp.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "6c111de14a03945979e0dcfb948cef67f517cb722243746ac030b004081096ed",
+    "status": "exploratory_valid"
+  },
+  {
+    "file": "results/e13_select_musique200_qslotq.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "917113699f3c124eeaae170ca6c88df1e1ee427ba1337edbc131eb927bd3f0a6",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e2e_hotpot50_hyde.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 100,
+    "duplicate_qids": 0,
+    "sha256": "db6f3c4dbcca118f742406778e97e03ef78ac9abddb4d6f0b7a1915f4bc0b704",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/g9c_trivia_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "7693ad1f173c748dd5cd055fc6544dae636df8b7074a109e1ba89fc394bf9c0e",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g8_trivia_200_vanilla_ce.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "b862bcb0bc9f58da2268eefe42f166e18afc1c60de9757735876a3939aba4932",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e4_musique_ours_gold.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "540ca599d3e1bacc927315149ad60729436ee1b6140edb0ef75ba48dd0865d61",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e2e_mhr50_decomp.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 50,
+    "duplicate_qids": 0,
+    "sha256": "c95c573baf8dc43b08725178bc9600cdd9b8528a3ba094850acfc8654102fb95",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/g8_musique200_vanilla_ce.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "c538df09cb8546891c5c2cc2cd576fa4a7c48386812976c01b61577f18bb89d4",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g10_squad_200_cot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "0f966e4af0264c442453989db836b66fa1b9025fa5f81f907b4da98239141988",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_mhr200_selfask.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "4b93bc1d5f8c0ed68ae579e86df1af4b66b11ebb08322621e1f349ae1bb2cca4",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e21_cmu.jsonl",
+    "n": 100,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "736652cc4f6a2794e61c0fdc1524019b91876f1973ca20cf0e3eed70841a7eda",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g10_trivia_200_ircot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "62ce7ffe4b2cad432ab7592505854ff45e0516088f43a40dee0b36d198c083e6",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_select_mhr_200_zeroshot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "a8c0c8391d89f6916d77660100f023c583145990c1ef37dc26e20238bbf8b9a6",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e4_musique_ours_none_auto.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "c628a0a412ba7bfceb35a18d7032470197ed9601eaba31307d3f099e2a7990d5",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e14_router_musique200_v1.jsonl",
+    "n": 248,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 48,
+    "sha256": "7b6c139eb040ee2cfdd97c76b4b578deeca6127408a265e69f46c39a9aecfafe",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/e8_labeled.jsonl",
+    "n": 39134,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 36717,
+    "sha256": "0ab07c45141f777c450d59180fed6854e0f8067d6fc30573844d0c46bd4370d9",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/e13_select_hotpot200_hybridcot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "35e12a9f476481fce2d7b5252144c7a2a4f666ecedc2d07bc67c836fec36fbba",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g9c_squad_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "587c595d9f13d01733ff816f5d147f31173150387e7a22a3950157ee2cbd6282",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g8_wiki2_200_ircot_ce.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "6681ace4969adf6beaab59d548539bb3b130892e708bbe0f22606732831050ac",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e19_hotpot200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "26bc93183283ce3a941cc33c9bed712634f1e60b9390cbb8d9812ed27f744003",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e2e_musique50_rewrite.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 100,
+    "duplicate_qids": 0,
+    "sha256": "6558b1b3b5721cac115756a0a18af481754161200da321e756efa5a79b87ea99",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/e13_select_wiki2_200_zeroshot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "e914b8dad484772cfccfb48d22a381dbe7e4df3c8f95f83240a2bb361da484ec",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/h3e2e_mhr200_rewrite.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "ec5918319b675400cbfd83260a427bb8b553975a84b8ae1771883530d0f2fdfe",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_mhr200_vanilla.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "53b8cc766bfbbda9105004719440390d630221feaeb6f3a6d60078ebe7720178",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g9_trivia_200_vote.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "08ef475c993ce9d679ecd52a526dd51991e8f5ab28af9a6538a37eeb4c278c90",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g7_quality.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "b61c97b839ab942fde3e02f70035242efcc5b6df080810b9cb5921d2bc9dd2eb",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e20_musique200_lookahead.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "2c6c569cb5d1444738301651a25c82a1cccb2b2477999572d68989a2c3b50097",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e4_wiki2_200_ircot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "ad5f46202764506eb1d737f604d1dd74be8e5f4baf3588cbba65e0ff85233dd7",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/h3_e2e_mhr50_rewrite.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "64956c88dbabcd396f94838278629f9d56ab1ab6dd2588b0a3845fbee7f9568e",
+    "status": "exploratory_valid"
+  },
+  {
+    "file": "results/h3_hotpot200_vanilla.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "82bcdb2ba1bd1b53575494bd41c1ed618475c0425263659de7bbc02582ca61ca",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_ctxlast.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "7e39029e4e96283df88940e0f5b954a38ec24e225c07e6baf653751d58779685",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_select_squad_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "ef7fc70555bab50e2b1b8c006cf457f6b5c6c8a644b72adb3fcbe86905e32d78",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/h3_e2e_wiki250_fix_decomp.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "09527854187220c93263af1987b4bf2129a4ae78fa6cd93d608d7f2227249db6",
+    "status": "exploratory_valid"
+  },
+  {
+    "file": "results/e13_plans.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "800a434550b478be2d22a2ce1aca56b29d47f70cf741373ad1fb06af4ed12d4d",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_gate.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "c2950be363aa4ffc835148f043cbc06de9036f3c7f7efd3f9cb2208c013788c7",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/h3e2e_wiki2200_decomp.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "e136c8a3436c54ffc162c5e303be7919651fa78d94685de3d47cca820368eef0",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e4_hotpot_extended_selfask.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "90447886b8575493b095ff4d799889f10577b1ea452d4884bbf3f98cf620135c",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_plans_hotpot200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "8aebcf47a869a33fa891b7fb4cbcb142b27d89ebf06869a0c11cad3b2b524689",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e18_wiki2_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "ef4963d51b4d0385fab42f3c23b8832bb317ffcb47f3331a4481a0822c45a1c8",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_wiki2200_ircot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "bbe23438e5315bfb393b0009287f5db6f9216c693bc1d8b5d00660928e89ee5b",
+    "status": "candidate"
+  },
+  {
+    "file": "results/h3_e2e_musique50_rewrite.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "6be4d717543ed3d0331b8285232794ed90c49651abd179362dab92f6498ffab3",
+    "status": "exploratory_valid"
+  },
+  {
+    "file": "results/e4_musique_ours_fb_auto.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "c8dee5273cc2c8594a44cbade97617d3359a7e4010f8a94e30adaf62e4fc30b1",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/h3_e2e_mhr50_decomp.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 50,
+    "duplicate_qids": 0,
+    "sha256": "8c7a2439aaf4e91b78af0323efd754bf55b960865e38d9d3a2355ec2cd49dbc1",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/e3_binding.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "06b45d7283e6e1472cd2de3572f9b3d903af29a204f73202ce07b1adfd3243e4",
+    "status": "candidate"
+  },
+  {
+    "file": "results/g9d_squad_200_top3.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "26986dfb28146fa5a856246056fe0e9e0867a9b2781e60edf0d190cb8addb408",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_select_musique400_gpu.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "71515da83632e27f865cd64de6b88e2c3eb75241f2004319b167727a86e27ecf",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e11_pairs.jsonl",
+    "n": 8546,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 6880,
+    "sha256": "63daa48211debc4d60577bb16dae25f0b338f99fab53d03cd6b67854fd3f43e7",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/e4_wiki2_extended_vanilla.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 192,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "24700b8c1bf1e4951cd2976a557b9bbcedf76a761f34c03c861f61c0d6e8d60a",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g8_trivia_200_ircot_ce_zeroshot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "48c2fb987b95eebc6f30f53befa5fc89899b0fcced271de623ce9779e30593b1",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e13_select_musique200_cot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "8d4db3c9c2c1f1c939eabbe9a4b655e22cc6d9d23d617be4aa6d401bf72d2d3f",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_plans_wiki2_200.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "3b40b5ce5983e6b86ec75241eea41858e37cc14758c6baaaaf35c6361bae4fa8",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/g8_wiki2_200_vanilla_ce.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "0a80805a2aad438d433c34b53e97424ffbc4170320a423d0e8ceac603954fe77",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e4_hotpot_ircot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "bbd9ebce7af30d482740e214548e9d4e9f762ace773e7cd2ee971234dd069791",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_ctxread.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "e4dff8a2a725c0582a490866efaa8c124846a3f9446f01a9f4f5bc7fc1963566",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e13_select_hotpot200_cot.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "d8aabfbeb7dde10d4ca0e379480c9ddc38de9b23da8adf522b79945dd0c45323",
+    "status": "legacy_or_main_candidate"
+  },
+  {
+    "file": "results/e2e_wiki250_rewrite.jsonl",
+    "n": 50,
+    "bad_json": 0,
+    "empty_predictions": 50,
+    "errors": 100,
+    "duplicate_qids": 0,
+    "sha256": "3e2013460b392e0d0c6f3db04af7709456eadb84363eeadfaf468924944d5f30",
+    "status": "exclude_service_failure"
+  },
+  {
+    "file": "results/e9_scored.jsonl",
+    "n": 16643,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 15643,
+    "sha256": "ca87f2cecd640abc7e791b0fb34db181cc0495497e8d6ec954025807e8393108",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/e14_router_squad_200_v1.jsonl",
+    "n": 200,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "70a5de819569e175998df6d76fe60118875bd3400b7dec5b118fc4c7e49ffc7f",
+    "status": "candidate"
+  },
+  {
+    "file": "results/e8_mined_400.jsonl",
+    "n": 4017,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 3617,
+    "sha256": "ee9640700835f62f348ee10eb50bbcdb4c5a6da4ca58806af6ae9d44e4bcabf8",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/e10_scored.jsonl",
+    "n": 36929,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 34512,
+    "sha256": "ef755a6468cedeba7bf4975a86907d96fe2d81fd4852c44e3fccb789b1256451",
+    "status": "quarantine_integrity"
+  },
+  {
+    "file": "results/e13_ctxlast_musique400.jsonl",
+    "n": 400,
+    "bad_json": 0,
+    "empty_predictions": 0,
+    "errors": 0,
+    "duplicate_qids": 0,
+    "sha256": "5be3cb4188c05ce46e22f897168287581a45f5af7571c5919837ba4d2e6dc6b8",
+    "status": "legacy_or_main_candidate"
+  }
+]

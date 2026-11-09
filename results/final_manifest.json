@@ -127,6 +127,12 @@
     "paired_vs_h3_ircot": "reported in robustness_metrics.md",
     "remaining_blank": "MuSiQue-400 extra methods and same-model CovBind/whole-query rerun remain explicitly pending"
   },
+  "anti_fabrication_audit": {
+    "artifact": "results/anti_fabrication_audit.md",
+    "machine_audit": "results/audit_results.json",
+    "excluded_classes": ["service_failure", "duplicate_qid_intermediate", "initial_decomposition_prompt_bug"],
+    "main_table_rule": "every retained number maps to per-question JSONL and an explicit protocol"
+  },
   "known_caveats": [
     "absolute endpoint numbers differ by reader, retriever, CE and stopping protocol; never mix rows without the protocol fields",
     "the causal query-slot result uses gold-plan/controlled binding conditions as specified by the artifact",
