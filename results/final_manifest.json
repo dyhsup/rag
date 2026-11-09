@@ -52,6 +52,17 @@
     "results/e26_fact_smoke_v4.json",
     "results/e26_fact_smoke_v5.json"
   ],
+  "extended_evaluation": {
+    "artifacts": ["results/acl_extended_results.json", "results/extended_queryslot_metrics.json", "results/e23_e23_modelq_k2.json"],
+    "hop_stratified_400": {
+      "2": {"n": 198, "whole_em": 0.197, "bound_em": 0.520, "delta": 0.323, "ci": [0.258, 0.394]},
+      "3": {"n": 122, "whole_em": 0.189, "bound_em": 0.377, "delta": 0.189, "ci": [0.107, 0.270]},
+      "4": {"n": 76, "whole_em": 0.079, "bound_em": 0.276, "delta": 0.197, "ci": [0.105, 0.289]}
+    },
+    "query_ce_gold_k2": {"whole_cov": 0.5308, "seq_cov": 0.7125, "global_cov": 0.6808, "cover_cov": 0.7117},
+    "requirement_ce_gold_k2": {"seq_cov": 0.7308},
+    "single_hop_controls": {"squad_cot_em": 0.715, "squad_vanilla_em": 0.665, "trivia_cot_em": 0.755, "trivia_vanilla_em": 0.755}
+  },
   "known_caveats": [
     "absolute endpoint numbers differ by reader, retriever, CE and stopping protocol; never mix rows without the protocol fields",
     "the causal query-slot result uses gold-plan/controlled binding conditions as specified by the artifact",

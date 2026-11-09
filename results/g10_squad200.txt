@@ -1,0 +1,3 @@
+[g10] squad_200 vanilla: 0
+[g10] squad_200 cot: 0
+[g10] squad_200 ircot: 0

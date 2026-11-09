@@ -1,0 +1,3 @@
+[g10] trivia_200 vanilla: 0
+[g10] trivia_200 cot: 0
+[g10] trivia_200 ircot: 0

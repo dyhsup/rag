@@ -1,0 +1,247 @@
+{
+  "endpoint": [
+    {
+      "file": "e13_summary.json",
+      "mode": "ctxlast",
+      "n": 200,
+      "em": 0.425
+    },
+    {
+      "file": "e13_summary_hotpot200.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.675
+    },
+    {
+      "file": "e13_summary_hotpot200_cot.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.68
+    },
+    {
+      "file": "e13_summary_hotpot200_hybridcot.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.665
+    },
+    {
+      "file": "e13_summary_mhr_200.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.53
+    },
+    {
+      "file": "e13_summary_musique200.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.43
+    },
+    {
+      "file": "e13_summary_musique200_cot.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.43
+    },
+    {
+      "file": "e13_summary_musique200_gpu.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.44
+    },
+    {
+      "file": "e13_summary_musique200_gpuq.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.17
+    },
+    {
+      "file": "e13_summary_musique200_hybridcot.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.44
+    },
+    {
+      "file": "e13_summary_musique200_qslotq.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.215
+    },
+    {
+      "file": "e13_summary_musique200_rq.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.45
+    },
+    {
+      "file": "e13_summary_musique400.json",
+      "mode": "select",
+      "n": 400,
+      "em": 0.4275
+    },
+    {
+      "file": "e13_summary_musique400_gpu.json",
+      "mode": "select",
+      "n": 400,
+      "em": 0.425
+    },
+    {
+      "file": "e13_summary_musique400_gpuq.json",
+      "mode": "select",
+      "n": 400,
+      "em": 0.17
+    },
+    {
+      "file": "e13_summary_musique400_hybridcot.json",
+      "mode": "select",
+      "n": 400,
+      "em": 0.435
+    },
+    {
+      "file": "e13_summary_squad_200.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.585
+    },
+    {
+      "file": "e13_summary_trivia_200.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.75
+    },
+    {
+      "file": "e13_summary_wiki2_200.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.595
+    },
+    {
+      "file": "e13_summary_wiki2_200_cot.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.62
+    },
+    {
+      "file": "e13_summary_wiki2_200_hybridcot.json",
+      "mode": "select",
+      "n": 200,
+      "em": 0.59
+    }
+  ],
+  "coverage": [
+    {
+      "file": "e23_aggreg.json",
+      "n": 100,
+      "k": 2,
+      "plan": "gold",
+      "model": "/root/reqce/model_hop",
+      "seq_cov": 0.7375000000000003,
+      "seq_any": 0.99,
+      "global_cov": 0.7366666666666668,
+      "global_any": 1.0,
+      "cover_cov": 0.7425000000000002,
+      "cover_any": 0.99,
+      "maxmin_cov": 0.6458333333333333,
+      "maxmin_any": 0.93,
+      "softmin_cov": 0.7141666666666667,
+      "softmin_any": 0.99
+    },
+    {
+      "file": "e23_hop_gold.json",
+      "n": 100,
+      "k": 2,
+      "plan": "gold",
+      "model": "dist/reqce/model_hop",
+      "whole_cov": 0.4866666666666667,
+      "whole_any": 0.87,
+      "seq_cov": 0.7308333333333334,
+      "seq_any": 0.99,
+      "global_cov": 0.7191666666666667,
+      "global_any": 0.98
+    },
+    {
+      "file": "e23_hop_gold_cover.json",
+      "n": 100,
+      "k": 2,
+      "plan": "gold",
+      "model": "dist/reqce/model_hop",
+      "seq_cov": 0.7308333333333334,
+      "seq_any": 0.99,
+      "cover_cov": 0.7099999999999999,
+      "cover_any": 0.99,
+      "global_cov": 0.7191666666666667,
+      "global_any": 0.98
+    },
+    {
+      "file": "e23_hop_gold_read.json",
+      "n": 100,
+      "k": 2,
+      "plan": "gold",
+      "model": "/root/reqce/model_hop",
+      "whole_cov": 0.5091666666666668,
+      "whole_any": 0.89,
+      "whole_EM": 0.25,
+      "whole_F1": 0.34775793650793646,
+      "seq_cov": 0.7375000000000003,
+      "seq_any": 0.99,
+      "seq_EM": 0.35,
+      "seq_F1": 0.4562975135975136
+    },
+    {
+      "file": "e23_q_gold.json",
+      "n": 100,
+      "k": 2,
+      "plan": "gold",
+      "model": "dist/reqce/model_q",
+      "whole_cov": 0.5308333333333334,
+      "whole_any": 0.92,
+      "seq_cov": 0.7125,
+      "seq_any": 0.99,
+      "global_cov": 0.6808333333333333,
+      "global_any": 0.97
+    },
+    {
+      "file": "e23_q_gold_read.json",
+      "n": 100,
+      "k": 2,
+      "plan": "gold",
+      "model": "/root/reqce/model_q",
+      "whole_cov": 0.6083333333333332,
+      "whole_any": 0.97,
+      "whole_EM": 0.23,
+      "whole_F1": 0.3331533074768368,
+      "seq_cov": 0.6841666666666667,
+      "seq_any": 0.98,
+      "seq_EM": 0.35,
+      "seq_F1": 0.4435882783882784
+    },
+    {
+      "file": "e23_support.json",
+      "n": 100,
+      "k": 2,
+      "plan": "gold",
+      "model": "/root/reqce/model_support",
+      "whole_cov": 0.42833333333333334,
+      "whole_any": 0.82,
+      "whole_EM": 0.22,
+      "whole_F1": 0.33884439416792345,
+      "seq_cov": 0.6633333333333333,
+      "seq_any": 0.99,
+      "seq_EM": 0.31,
+      "seq_F1": 0.3980299145299145
+    }
+  ],
+  "diagnostics": [
+    {
+      "file": "g9e_diag_musique400.txt",
+      "text": "musique400: recall@5=0.865 gold@1=0.325 gold-in-top5-at-1=0.515  selector EM=0.000"
+    },
+    {
+      "file": "g10_squad200.txt",
+      "text": "[g10] squad_200 vanilla: 0\n[g10] squad_200 cot: 0\n[g10] squad_200 ircot: 0"
+    },
+    {
+      "file": "g10_trivia200.txt",
+      "text": "[g10] trivia_200 vanilla: 0\n[g10] trivia_200 cot: 0\n[g10] trivia_200 ircot: 0"
+    }
+  ]
+}
