@@ -1,0 +1,124 @@
+% =====================================================================
+% Figure 1 (TikZ 版) —— CovBind 方法总览: 查询槽单变量反事实
+% 核心结论: 只把检索查询槽从整句问题换成绑定需求, EM 即从 0.170 升至 0.425
+% 数字来源: docs/ACL_PAPER_ZH.md §6.1/6.2 与 results/final_manifest.json
+% 编译: xelatex fig1_method_overview.tex  (需 ctex; 若无 ctex 用 fontspec 方案 B)
+% 说明: 本仓库工作机无 TeX 环境, 本文件为 LaTeX 嵌入用的等价源码;
+%       渲染预览以 fig1_method_overview.png(matplotlib 版)为准, 两者内容一致。
+% =====================================================================
+\documentclass[border=6pt]{standalone}
+\usepackage{ctex}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, bending, positioning, calc, fit, backgrounds}
+\begin{document}
+\begin{tikzpicture}[
+  font=\small,
+  box/.style={draw, rounded corners=2pt, align=center, inner sep=3.5pt, line width=0.7pt},
+  mod/.style={box, fill=#1, line width=0.9pt},
+  arr/.style={-{Stealth[length=5pt, line_width_factor=0.55]}, line width=0.8pt, shorten >=2pt, shorten <=1pt},
+  arrb/.style={arr, line width=1.1pt},
+  lbl/.style={font=\scriptsize, text=#1},
+  stage/.style={font=\scriptsize\bfseries, text=#1},
+]
+
+% ---- 用户 12 色盘(α=C7): 紫罗兰=hero, 长春花蓝=输入, 杏黄=规划, 粉蓝=对照 ----
+\definecolor{acaBlueLine}{HTML}{7895C1}   \definecolor{acaBlueFill}{HTML}{E2EAF5}
+\definecolor{acaGreenLine}{HTML}{8074C8}  \definecolor{acaGreenFill}{HTML}{E6E1F5}
+\definecolor{acaPurpleLine}{HTML}{F0C284} \definecolor{acaPurpleFill}{HTML}{F5EBAE}
+\definecolor{acaGreyLine}{HTML}{A8CBDF}   \definecolor{acaGreyFill}{HTML}{EDF3F7}
+\definecolor{acaRedLine}{HTML}{E3625D}
+\definecolor{chipGrey}{HTML}{EDF3F7}
+
+% ================= 左列: 编译 =================
+\node[mod=acaBlueFill, draw=acaBlueLine, minimum width=34mm] (q) at (0,0)
+  {\textbf{多跳问题 $q$}\\[1pt]\begin{tabular}{@{}c@{}}
+   \emph{Who is the spouse of the actor}\\ \emph{of Ethan in A Dog's Purpose?}\end{tabular}};
+\node[mod=acaPurpleFill, draw=acaPurpleLine, minimum width=34mm, below=5.5mm of q] (plan)
+  {\textbf{规划器(固定)}\\[1pt]{\scriptsize 编译为需求程序 $P=(R,E)$\\ 答案类型 · 依赖位置}};
+\node[box, draw=acaPurpleLine, fill=white, minimum width=34mm, below=5.5mm of plan] (prog)
+  {\textbf{需求程序}\\[1pt]$r_1$: who plays old Ethan\\ \phantom{$r_1$: }in A Dog's Purpose\\
+   $r_2$: \texttt{\#1} spouse\\[1pt]{\scriptsize 依赖边: $r_2$ 引用 $r_1$ 的答案(\texttt{\#1})}};
+
+% ================= 干预区(虚线框) =================
+\coordinate (zoneNW) at ($(prog.east)+(6mm, 34mm)$);
+\node[box, draw=gray!60, dashed, rounded corners=3pt,
+      minimum width=118mm, minimum height=47mm] (zone) at ($(zoneNW)+(59mm, -23.5mm)$) {};
+
+% ---- 上分支: 整句问题(对照) ----
+\node[mod=acaGreyFill, draw=acaGreyLine, anchor=west] (slotA) at ($(zone.west)+(3mm, 13mm)$)
+  {\textbf{查询槽 A(对照)}\\[1pt]\textbf{整句问题 $q$}\\{\scriptsize 查询不含中间实体}};
+\node[box, draw=acaGreyLine, fill=white, right=7mm of slotA] (retA)
+  {\textbf{检索 + 重排}\\[1pt]{\scriptsize top-50 候选 / 跳}};
+\node[box, draw=acaGreyLine, fill=white, right=7mm of retA] (poolA)
+  {\textbf{候选池}\\[1pt]\begin{tikzpicture}[scale=0.62]
+     \foreach \i in {0,1,2,3}{\fill[chipGrey, draw=gray!50] (\i*0.42,0.00) rectangle ++(0.32,0.38);
+                              \fill[chipGrey, draw=gray!50] (\i*0.42,0.50) rectangle ++(0.32,0.38);}
+     \draw[acaRedLine, densely dashed, thick] (1.26,0.00) rectangle ++(0.32,0.38);
+     \node[acaRedLine, font=\tiny\bfseries] at (1.42,0.19) {$\times$};
+   \end{tikzpicture}\\[-2pt]{\scriptsize\color{acaRedLine}$r_2$ 证据不可达}};
+\node[mod=acaGreyFill, draw=acaGreyLine, right=7mm of poolA] (readA)
+  {\textbf{逐需求选证 + reader}\\[1pt]{\scriptsize (全部固定)}};
+\node[anchor=west, right=4mm of readA, align=center] (emA)
+  {{\scriptsize\bfseries EM}\\[-1pt]{\large\bfseries\color{acaGreyLine}0.170}};
+
+% ---- 下分支: 绑定需求(CovBind) ----
+\node[mod=acaGreenFill, draw=acaGreenLine, line width=1.1pt, anchor=west] (slotB) at ($(zone.west)+(3mm, -13mm)$)
+  {\textbf{查询槽 B(CovBind)}\\[1pt]\textbf{绑定 $\beta$ + 替换查询槽}\\{\scriptsize $\hat{r}_2$ = ``Dennis Quaid spouse''}};
+\node[box, draw=acaGreenLine, fill=white, right=7mm of slotB] (retB)
+  {\textbf{检索 + 重排}\\[1pt]{\scriptsize 同一检索器 / 重排器}};
+\node[box, draw=acaGreenLine, fill=white, right=7mm of retB] (poolB)
+  {\textbf{候选池}\\[1pt]\begin{tikzpicture}[scale=0.62]
+     \foreach \i in {0,1,2,3}{\fill[chipGrey, draw=gray!50] (\i*0.42,0.00) rectangle ++(0.32,0.38);
+                              \fill[chipGrey, draw=gray!50] (\i*0.42,0.50) rectangle ++(0.32,0.38);}
+     \fill[acaGreenLine, draw=acaGreenLine!70!black] (1.26,0.00) rectangle ++(0.32,0.38);
+     \node[white, font=\tiny\bfseries] at (1.42,0.19) {$\checkmark$};
+   \end{tikzpicture}\\[-2pt]{\scriptsize\color{acaGreenLine!70!black}$r_2$ 证据进入候选}};
+\node[mod=acaGreenFill, draw=acaGreenLine, right=7mm of poolB] (readB)
+  {\textbf{逐需求选证 + reader}\\[1pt]{\scriptsize 覆盖停止条件}};
+\node[anchor=west, right=4mm of readB, align=center] (emB)
+  {{\scriptsize\bfseries EM}\\[-1pt]{\large\bfseries\color{acaGreenLine!70!black}0.425}};
+
+% ---- 分支间标注 ----
+\node[lbl=gray, anchor=center] (midnote) at ($(poolA.south)!0.5!(poolB.north)+(0,1.5mm)$)
+  {第 2 跳 dense Recall@50: \ 0.615 $\rightarrow$ 0.935};
+
+% ---- 固定协议标注(虚线框上沿) ----
+\node[lbl=gray, anchor=north] at (zone.north) {固定: 语料 · 金标 · 计划 · 检索器 · 重排器 · reader · 每跳预算 $k{=}3$ \quad 干预: 仅查询槽};
+
+% ================= 底部图例 =================
+\node[anchor=north west] (leg) at ($(zone.south west)+(0mm, -4mm)$)
+  {\begin{tikzpicture}[baseline]
+     \fill[chipGrey, draw=gray!50] (0,0) rectangle ++(0.30,0.34);
+     \node[lbl=gray!50!black, anchor=west] at (0.42,0.17) {候选段落};
+     \draw[acaRedLine, densely dashed, thick] (2.6,0) rectangle ++(0.30,0.34);
+     \node[acaRedLine, font=\tiny\bfseries] at (2.75,0.17) {$\times$};
+     \node[lbl=acaRedLine, anchor=west] at (3.02,0.17) {金标证据缺失};
+     \fill[acaGreenLine] (5.6,0) rectangle ++(0.30,0.34);
+     \node[white, font=\tiny\bfseries] at (5.75,0.17) {$\checkmark$};
+     \node[lbl=acaGreenLine!70!black, anchor=west] at (6.02,0.17) {金标证据进入候选};
+   \end{tikzpicture}\\[1pt]
+   {\scriptsize\color{gray}绑定 $\beta$: 将第 1 跳答案 ``Dennis Quaid'' 填入 $r_2$ 的依赖槽 \texttt{\#1},
+    得到绑定需求 $\hat{r}_2$; 检索与重排均使用 $\hat{r}_2$, reader 与停止条件不变}};
+
+% ================= 阶段标签 =================
+\node[stage=gray] at ($(q.north west)!0.5!(q.north east)+(0,2.5mm)$) {\textcircled{1} 编译需求程序};
+\node[stage=acaGreenLine!70!black] at ($(zone.north)+(0,4.5mm)$) {\textcircled{2} 查询槽替换(单变量干预)};
+\node[stage=gray] at ($(poolA.north)+(0,4.5mm)$) {\textcircled{3} 检索与候选池};
+\node[stage=gray] at ($(readA.north)+(0,4.5mm)$) {\textcircled{4} 覆盖选证 · \textcircled{5} 阅读};
+
+% ================= 连线 =================
+\draw[arr=acaPurpleLine] (q) -- (plan);
+\draw[arr=acaPurpleLine] (plan) -- (prog);
+\draw[arr=acaGreyLine] (q.east) -| ($(slotA.west)+(-2mm,0)$) -- (slotA.west);
+\draw[arrb=acaGreenLine] (prog.east) -| ($(slotB.west)+(-2mm,0)$) -- (slotB.west);
+\draw[arr=acaGreyLine] (slotA) -- (retA);
+\draw[arr=acaGreyLine] (retA) -- (poolA);
+\draw[arr=acaGreyLine] (poolA) -- (readA);
+\draw[arr=acaGreyLine] (readA) -- (emA.west);
+\draw[arrb=acaGreenLine] (slotB) -- (retB);
+\draw[arrb=acaGreenLine] (retB) -- (poolB);
+\draw[arrb=acaGreenLine] (poolB) -- (readB);
+\draw[arrb=acaGreenLine] (readB) -- (emB.west);
+
+\end{tikzpicture}
+\end{document}

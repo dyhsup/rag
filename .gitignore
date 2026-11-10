@@ -20,3 +20,6 @@ data/raw/*.parquet
 dist/reqce/model*/
 dist/cmu/model*/
 dist/cmu/*.jsonl
+
+# third-party figure-skill repos (local reference clones)
+figure_skills/

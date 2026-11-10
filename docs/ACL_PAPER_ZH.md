@@ -231,7 +231,7 @@ CovBind 使用 cross-encoder 作为工程组件。本文不把 CE 的结构、�
 
 ![图2：查询槽反事实 EM 与跳数分层](../figures/fig2_queryslot_counterfactual.png)
 
-*图 2：查询槽反事实。(a) MuSiQue 200/400 题上，仅将查询槽从整句问题替换为绑定需求，EM 分别提升 +0.270 与 +0.255（95% CI）；(b) 按跳数分层后收益依然稳定：2/3/4 跳分别 +0.323、+0.189、+0.197。灰点为整句问题，绿点为绑定需求。*
+*图 2：查询槽反事实。(a) MuSiQue 200/400 题上，仅将查询槽从整句问题替换为绑定需求，EM 分别提升 +0.270 与 +0.255（95% CI）；(b) 按跳数分层后收益依然稳定：2/3/4 跳分别 +0.323、+0.189、+0.197。浅蓝点为整句问题，紫色点为绑定需求。*
 
 ### 6.2 绑定恢复后续跳可达性
 
@@ -305,6 +305,10 @@ CovBind 使用 cross-encoder 作为工程组件。本文不把 CE 的结构、�
 
 MuSiQue 上 CovBind 超过 IRCoT；把 CovBind 的 query slot 换回整句问题后 EM 回落到 .170。2Wiki 与 HotpotQA 上接近 IRCoT，MultiHopRAG 只有已有 IRCoT/CovBind 端点结果。Self-Ask 与 HyDE 的完整缓存此前仅覆盖 MuSiQue 200；本轮补跑了 MuSiQue 400、2Wiki、HotpotQA、MultiHopRAG 的 Vanilla/Self-Ask。结果和数据格式限制见 `results/method_completion_report.md`。HyDE 仍只在 MuSiQue 200 纳入比较，因为跨数据集伪文档缓存尚未建立；缺失数据不填入伪造数字。完整协议说明见 `results/method_comparison_report.md`。新增 BM25/dense/hybrid 候选可达性方法对照见 `results/additional_methods_report.md`：dense 在低 k 上普遍提高 coverage，但 2Wiki/HotpotQA 在 k=10 饱和，MultiHopRAG 在 k=10 后仍存在不可达证据。Query Rewrite、HyDE 和 decomposition retrieval 的端到端实现已加入。使用 Qwen3.8-27B 八端点服务完成了四数据集各 50 题探索性运行：MuSiQue 的 rewrite/HyDE/decomp EM 为 .160/.300/.160，2Wiki 为 .420/.360/.460，HotpotQA 为 .580/.640/.620，MultiHopRAG 为 .580/.560/.540。结果、服务配置和协议见 `results/h3_end_to_end_report.md`；由于样本为 50 题，不替代主表的 200/400 题结果。随后使用相同八端点将 Vanilla、IRCoT、Self-Ask 扩展到 200/400 题：MuSiQue-200 为 .155/.285/.055，MuSiQue-400 为 .128/.248/.060，2Wiki 为 .375/.510/.265，HotpotQA 为 .530/.650/.295，MultiHopRAG 为 .480/.485/.565。与旧文件按 qid 配对的差异大多落在 bootstrap CI 内，详见 `results/h3_scale_difference_report.md`。进一步补齐了 H3/Qwen3.8-27B 下四数据集 200 题及 MuSiQue-400 的 Query Rewrite、HyDE 和 decomposition retrieval：MuSiQue-200 为 .155/.220/.165，MuSiQue-400 为 .160/.223/.168，2Wiki 为 .395/.390/.425，HotpotQA 为 .525/.530/.545，MultiHopRAG 为 .515/.540/.555；相对同模型 IRCoT 的配对 CI 和逐题完整性见 `results/robustness_metrics.md` 与 `results/h3e2e_musique400_completion.md`。
 
+![图8：多方法端到端比较（表 6.6）](../figures/fig8_method_comparison_full.png)
+
+*图 8：多方法端到端比较（EM，对应表 6.6）。Vanilla、Self-Ask、HyDE、IRCoT 与 CovBind 逐数据集对照，深红色横线为 CovBind-whole-query 反事实（MuSiQue：.170）。CovBind 列 * 号端点使用 dataset-domain CE，与 zero-shot 基线保留协议差异；严格因果结论以同 matcher 的 whole-query 反事实为准。*
+
 ### 6.7 端到端与跨数据集
 
 | 数据集 | Vanilla+CE | IRCoT+CE | CovBind | 相对 IRCoT |
@@ -319,7 +323,11 @@ MuSiQue 上 CovBind 超过 IRCoT；把 CovBind 的 query slot 换回整句问题
 
 ![图6：跨数据集端到端方法比较](../figures/fig6_end_to_end.png)
 
-*图 6：跨数据集端到端比较（EM）。柱上数字为 CovBind 相对 IRCoT+CE 的增益：MuSiQue 上稳定显著（+0.125/+0.123），2Wiki 与 HotpotQA 基本持平（+0.005/+0.015），MultiHopRAG 为边缘收益（+0.065）。红色横线为将 CovBind 查询槽换回整句问题的反事实（MuSiQue：0.170）；MultiHopRAG 的 Vanilla+CE 无缓存结果，以"—"标示，不填入数字。*
+*图 6：跨数据集端到端比较（EM）。柱上数字为 CovBind 相对 IRCoT+CE 的增益：MuSiQue 上稳定显著（+0.125/+0.123），2Wiki 与 HotpotQA 基本持平（+0.005/+0.015），MultiHopRAG 为边缘收益（+0.065）。深红色横线为将 CovBind 查询槽换回整句问题的反事实（MuSiQue：0.170）；MultiHopRAG 的 Vanilla+CE 无缓存结果，以"—"标示，不填入数字。*
+
+![图9：机制复验与跨数据集可达性](../figures/fig9_mechanism_crossreach.png)
+
+*图 9：(a) 2Wiki 50 题机制复验（top-20 候选、gold-binding 协议）：绑定使需求 coverage .475→.800、逐跳 recall .480→.795、全证据率 .100→.600；(b) whole-query BM25 可达性随预算 k 的变化（实线 any@k，虚线 coverage@k）：2Wiki 与 HotpotQA 在 k=10 饱和至 1.0，MultiHopRAG 的 any@k 在 k=10 仍只有 .860，存在不可达证据，与方法的结构性适用条件一致。*
 
 ### 6.7 查询槽收益的跳数分层
 
@@ -353,6 +361,10 @@ MuSiQue 上 CovBind 超过 IRCoT；把 CovBind 的 query slot 换回整句问题
 
 现有单跳控制结果显示，SQuAD 每题 10 段池中，CoT reader 相对 Vanilla 为 0.715 对 0.665（+0.050）；TriviaQA 为 0.755 对 0.755。多跳 CovBind 的收益不能简单归因于 reader：MuSiQue 中接入 CoT reader 后仍主要由绑定查询槽带来增益，而 2Wiki 的 CoT reader 额外提升约 +0.025。全局 2000 段池上的单跳路由实验会受到错误多跳规划影响，因此不作为主性能表。
 
+![图10：绑定质量与单跳控制](../figures/fig10_binding_quality_singlehop.png)
+
+*图 10：(a) 绑定质量影响收益传播：金标绑定下后续跳 Recall@50 可达 0.89–0.94，预测绑定后第 4 跳可回落至 .359，自动绑定约消耗 65% 的 oracle 绑定收益；(b) 单跳控制（SQuAD/TriviaQA，每题 10 段池）：CoT reader 增益有限（SQuAD +0.050，TriviaQA 持平），多跳收益主要由绑定查询槽带来。*
+
 ### 6.10 负结果
 
 1. 查询改写消除 9.5% 的 gap case；
@@ -360,6 +372,10 @@ MuSiQue 上 CovBind 超过 IRCoT；把 CovBind 的 query slot 换回整句问题
 3. 答案似然首跳有效、第二跳失效，gold 段平均边际为 −0.113，干扰段为 +0.096；
 4. 绑定门控、共识绑定、回滚、前瞻绑定和多种 join 未形成稳定跨数据集收益；
 5. Role-OT/结构事实 grounding 作为工程探索未通过初筛，因此不纳入主方法。
+
+![图11：负结果中的可量化项](../figures/fig11_negative_results.png)
+
+*图 11：负结果中的可量化项。(a) 三路查询改写在测量的 gap case 上仅消除 9.5%；(b) 答案似然边际效用首跳有效、后续跳失效：gold 段平均边际为 −0.113，干扰段为 +0.096。LLM 绝对充分性判断低于 base CE、绑定门控/共识/回滚等未形成稳定收益，因无可比数字不以图呈现。*
 
 ---
 
